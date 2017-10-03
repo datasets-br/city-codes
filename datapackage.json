@@ -1,0 +1,124 @@
+{
+  "name": "br-cities",
+  "title": "Municipalities of Brazil and IBGE codes",
+  "description": "Brazilian city names, official codes (IBGE), and abbreviations throughout the country's history",
+  "repository": {
+    "type": "git",
+    "url": "http://datasets.ok.org.br/city-codes"
+  },
+  "sources": [{
+      "title": "Codes for the representation of names of countries and their subdivisions, Brazil",
+      "name": "ISO",
+      "web": "https://www.iso.org/obp/ui/#iso:code:3166:BR"
+    },
+    {
+      "title": "CONHEÇA CIDADES E ESTADOS DO BRASIL",
+      "name": "IBGE",
+      "web": "https://cidades.ibge.gov.br/v4"
+    },
+    {
+      "title": "Lista de municípios do Brasil -- Wikipedia",
+      "name": "Wikipedia",
+      "web": "https://pt.wikipedia.org/wiki/Lista_de_munic%C3%ADpios_do_Brasil"
+    }
+  ],
+  "keywords": [
+    "geodata",
+    "city",
+    "brazil"
+  ],
+  "license": {
+    "type": "ODC-PDDL",
+    "url": "http://opendatacommons.org/licenses/pddl/1.0/"
+  },
+  "resources": [
+    {
+      "name": "br-cities",
+      "path": "data/br-cities.csv",
+      "url": "https://raw.githubusercontent.com/datasets-br/cities/master/data/br-cities.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "rdfType": "http://schema.org/City",
+      "lang": "en",
+      "schema": {
+        "fields": [
+          {
+            "name": "name",
+            "description": "Official name of the city, in portuguese",
+            "rdfType-prop": "http://schema.org/name",
+            "title-pt":"Nome",
+            "title":"Name",
+            "type": "string"
+          },
+          {
+            "name": "state",
+            "description": "State-name 2-letter abbreviation (in portuguese 'sigla da unidade da federação'), ISO 3166:BR",
+            "rdfType": "https://www.wikidata.org/wiki/Q27798",
+            "type": "string",
+            "title-pt":"Subdivisão (UF)",
+            "title":"Subdivision (Federal Unit)",
+            "regex": "^[A-Z]{2,2}$"
+          },
+          {
+            "name": "wdId",
+            "description": "Wikidata concept (semantic) identifier",
+            "urlTpl": "https://www.wikidata.org/wiki/{value}",
+            "title-pt":"ID Wikidata",
+            "title":"Wikidata ID",
+            "type": "string"
+          },
+          {
+            "name": "idIBGE",
+            "description": "IBGE statdandard identifier",
+            "url": "http://www.ibge.gov.br/home/geociencias/areaterritorial/principal.shtm",
+            "title-pt":"ID IBGE",
+            "title":"ID of IBGE",
+            "type": "string"
+          },
+          {
+            "name": "lexLabel",
+            "description": "Brazilian's LEX URN syntax translation of the official state name. Used in URLs and other contexts",
+            "url": "http://projeto.lexml.gov.br",
+            "title-pt":"Rótulo para URN-LEX",
+            "title":"Label for URN-LEX",
+            "type": "string"
+          },
+          {
+            "name": "creation",
+            "description": "State official creation year",
+            "rdfType-prop": "http://schema.org/startDate",
+            "title-pt":"Ano de criação",
+            "title":"Creation year",
+            "type": "integer"
+          },
+          {
+            "name": "extinction",
+            "description": "State official creation year (null for in use)",
+            "rdfType-prop": "http://schema.org/endDate",
+            "title-pt":"Ano de extinção",
+            "title":"Extinction year",
+            "type": "integer"
+          },
+          {
+            "name": "postalCode_range",
+            "description": "Numeric ranges of postal codes",
+            "rdfType-ref": "https://schema.org/postalCode",
+            "title-pt":"Intervalos de CEP",
+            "title":"Postal-code ranges",
+            "type": "string"
+          },
+          {
+            "name": "notes",
+            "description": "Notes about assegments, dates or changes",
+            "rdfType-prop": "http://schema.org/commentText",
+            "title-pt":"Notas",
+            "title":"Notes",
+            "type": "string"
+          }
+        ]
+      },
+      "primaryKey": ["name","state"]
+    }
+  ],
+  "homepage": "https://github.com/datasets-br/state-codes"
+}
