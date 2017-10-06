@@ -33,9 +33,8 @@
   },
   "resources": [
     {
-      "name": "br-cities",
-      "path": "data/br-cities.csv",
-      "url": "https://raw.githubusercontent.com/datasets-br/cities/master/data/br-cities.csv",
+      "name": "br-city-codes",
+      "path": "data/br-city-codes.csv",
       "format": "csv",
       "mediatype": "text/csv",
       "rdfType": "http://schema.org/City",
@@ -100,7 +99,7 @@
             "type": "integer"
           },
           {
-            "name": "postalCode_range",
+            "name": "postalCode_ranges",
             "description": "Numeric ranges of postal codes",
             "rdfType-ref": "https://schema.org/postalCode",
             "title-pt":"Intervalos de CEP",
@@ -119,6 +118,5 @@
       },
       "primaryKey": ["name","state"]
     }
-  ],
-  "homepage": "https://github.com/datasets-br/state-codes"
+  ]
 }
