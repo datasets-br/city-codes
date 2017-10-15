@@ -33,12 +33,57 @@
   },
   "resources": [
     {
+      "name": "br-city-synonyms.csv",
+      "path": "data/br-city-synonyms.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "rdfType": "https://www.wikidata.org/wiki/Q42106",
+      "lang": "pt",
+      "schema": {
+        "fields": [
+          {
+            "name": "state",
+            "description": "State-name 2-letter abbreviation (in portuguese 'sigla da unidade da federação'), ISO 3166:BR",
+            "rdfType": "https://www.wikidata.org/wiki/Q27798",
+            "type": "string",
+            "title-pt":"Subdivisão (UF)",
+            "title":"Subdivision (Federal Unit)",
+            "regex": "^[A-Z]{2,2}$"
+          },
+          {
+            "name": "lexLabel",
+            "description": "Brazilian's LEX URN syntax translation of the official state name. Used in URLs and other contexts",
+            "url": "http://projeto.lexml.gov.br",
+            "title-pt":"Rótulo para URN-LEX",
+            "title":"Label for URN-LEX",
+            "type": "string"
+          },
+          {
+            "name": "synonym",
+            "description": "Usual synonym of the name of the city, in portuguese",
+            "rdfType-prop": "http://schema.org/name",
+            "title-pt":"Sinônimo",
+            "title":"Synonym",
+            "type": "string"
+          },
+          {
+            "name": "ref",
+            "description": "source of use or reference",
+            "title-pt":"Referência de uso",
+            "title":"Source or reference",
+            "type": "string"
+          }
+        ]
+      },
+      "primaryKey": ["state","lexLabel"]
+    },
+    {
       "name": "br-city-codes",
       "path": "data/br-city-codes.csv",
       "format": "csv",
       "mediatype": "text/csv",
       "rdfType": "http://schema.org/City",
-      "lang": "en",
+      "lang": "pt",
       "schema": {
         "fields": [
           {
@@ -116,7 +161,7 @@
           }
         ]
       },
-      "primaryKey": ["name","state"]
+      "primaryKey": ["state","lexLabel"]
     }
   ]
 }
