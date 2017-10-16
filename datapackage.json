@@ -67,8 +67,15 @@
             "type": "string"
           },
           {
+            "name": "type",
+            "description": "Synonym type",
+            "title-pt":"Tipo",
+            "title":"Type",
+            "type": "string"
+          },
+          {
             "name": "ref",
-            "description": "source of use or reference",
+            "description": "source of use or reference (uri or controlled name)",
             "title-pt":"Referência de uso",
             "title":"Source or reference",
             "type": "string"
