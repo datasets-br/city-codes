@@ -10,9 +10,15 @@ Provided as a Simple Data Format Data Package (see datapackage.json visualizatio
 
 Brazilian city names and official codes of 5570 municipalities.
 
+## Sources
 
-## See also 
+geoftp.ibge.gov.br/organizacao_do_territorio/estrutura_territorial/divisao_territorial
 
-* http://datasets.OK.org.br/state-codes
-* http://frictionLessData.io
-* https://pt.wikipedia.org/wiki/Lista_de_munic%C3%ADpios_do_Brasil
+* IBGE data in bulk of "Organizaçao do Território Brasileiro", [Divisão Territorial](ftp://geoftp.ibge.gov.br/organizacao_do_territorio/estrutura_territorial/divisao_territorial)
+* [List of all municipalities](https://pt.wikipedia.org/wiki/Lista_de_munic%C3%ADpios_do_Brasil) (Wikipedia and source of Wikidata links)
+* CEP
+
+## Other links
+
+* this repo: http://datasets.OK.org.br/state-codes
+* Datapackage standard: http://frictionLessData.io

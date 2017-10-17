@@ -1,6 +1,7 @@
 
 -- -- -- -- -- --
 -- Normalize and convert to integer-ranges, for postalCode_ranges.
+-- See section "Preparation" at README.
 
 CREATE or replace FUNCTION csvranges_to_int4ranges(
   p_range text
