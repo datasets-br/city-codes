@@ -82,3 +82,16 @@ See `CEPS_FAIXA2.csv` as first source.
 ...  See [step4_asserts1.sql](step4_asserts1.sql)...
 
 
+-------
+
+## Other
+
+```sql
+-- exporting
+SELECT i.name, c.state, c.wdid as "wdId", i."idIBGE", oficial.name2lex(i.name) as "lexLabel", 
+       c.creation, c.extinction, c.postalcode_ranges as "postalCode_ranges", c.notes
+FROM tmpcsv_br_city_codes c INNER JOIN tmpvw_ibge_municipios i
+  ON i."idIBGE"=c.idibge
+ORDER BY 5,2
+;
+```
