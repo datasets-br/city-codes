@@ -1,0 +1,14 @@
+# Plase configure your git as Linux to properly handle line endings
+#  git config --global core.autocrlf input
+
+# Set the default behavior, in case people don't have core.autocrlf set.
+* text=auto
+
+# Declare files that will always have LF line endings (Linux mode) on checkout.
+* text eol=lf
+
+# Denote all files that are truly binary and should not be modified.
+*.pdf binary
+*.png binary
+*.jpg binary
+*.zip binary
