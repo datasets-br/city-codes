@@ -1,0 +1,134 @@
+{
+    "pageid": 1717431,
+    "ns": 0,
+    "type": "item",
+    "id": "Q1785819",
+    "claims": {
+        "P625": [
+            {
+                "value": {
+                    "latitude": -13.116666666667,
+                    "longitude": -60.541666666667,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 43235,
+                    "id": "Q43235"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/027drql",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "6316897",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Colorado do Oeste",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "1100064",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+18639",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira de colorado do oeste.svg",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "ColoradodoOeste brasao.jpg",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+460",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Colorado do Oeste - Rondônia.JPG",
+                "type": "string"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.739",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+1451.058",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P402": [
+            {
+                "value": "325860",
+                "type": "string"
+            }
+        ]
+    }
+}

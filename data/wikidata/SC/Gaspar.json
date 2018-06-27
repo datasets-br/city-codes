@@ -1,0 +1,178 @@
+{
+    "pageid": 808313,
+    "ns": 0,
+    "type": "item",
+    "id": "Q856583",
+    "claims": {
+        "P190": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 81107,
+                    "id": "Q81107"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Gaspar",
+                "type": "string"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -26.930833333333,
+                    "longitude": -48.958888888889,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 41115,
+                    "id": "Q41115"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3462535",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 10095401,
+                    "id": "Q10095401"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1281": [
+            {
+                "value": "459547",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "4205902",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+57981",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "SantaCatarina Municip Gaspar.svg",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira-gaspar.PNG",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasaogaspar.jpg",
+                "type": "string"
+            }
+        ],
+        "P3417": [
+            {
+                "value": "Gaspar-Santa-Catarina",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+18",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+386.776",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.765",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155557,
+                    "id": "Q155557"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1799373,
+                    "id": "Q1799373"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "296767",
+                "type": "string"
+            }
+        ]
+    }
+}

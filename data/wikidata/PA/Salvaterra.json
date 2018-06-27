@@ -1,0 +1,152 @@
+{
+    "pageid": 1851749,
+    "ns": 0,
+    "type": "item",
+    "id": "Q1921992",
+    "claims": {
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira salva terra.JPG",
+                "type": "string"
+            }
+        ],
+        "P158": [
+            {
+                "value": "Brasao salva terra.JPG",
+                "type": "string"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -0.75277777777778,
+                    "longitude": -48.516944444444,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 39517,
+                    "id": "Q39517"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/06w3tw1",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3389780",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Salvaterra (Pará)",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+5",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+6",
+                    "lowerBound": "+4"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "1506302",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+20183",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Para Municip Salvaterra.svg",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasao salva terra.JPG",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+1.039",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.608",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1016643,
+                    "id": "Q1016643"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "185583",
+                "type": "string"
+            }
+        ]
+    }
+}

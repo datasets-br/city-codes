@@ -1,0 +1,289 @@
+{
+    "pageid": 157904,
+    "ns": 0,
+    "type": "item",
+    "id": "Q156819",
+    "claims": {
+        "P1585": [
+            {
+                "value": "4209102",
+                "type": "string"
+            }
+        ],
+        "P402": [
+            {
+                "value": "296650",
+                "type": "string"
+            }
+        ],
+        "P190": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 462840,
+                    "id": "Q462840"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Joinville",
+                "type": "string"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira joinville.png",
+                "type": "string"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -26.303888888889,
+                    "longitude": -48.845833333333,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 41115,
+                    "id": "Q41115"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 8567833,
+                    "id": "Q8567833"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/082tg0",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3459712",
+                "type": "string"
+            }
+        ],
+        "P227": [
+            {
+                "value": "4780214-5",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasao joinville.png",
+                "type": "string"
+            }
+        ],
+        "P214": [
+            {
+                "value": "25144898625950290547",
+                "type": "string"
+            }
+        ],
+        "P268": [
+            {
+                "value": "16086136c",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+4",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+5",
+                    "lowerBound": "+3"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.joinville.sc.gov.br",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "01 JoinvilleCentro.jpg",
+                "type": "string"
+            }
+        ],
+        "P935": [
+            {
+                "value": "Joinville",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0034735",
+                "type": "string"
+            }
+        ],
+        "P242": [
+            {
+                "value": "SantaCatarina Municip Joinville.svg",
+                "type": "string"
+            }
+        ],
+        "P1997": [
+            {
+                "value": "106307142738699",
+                "type": "string"
+            }
+        ],
+        "P982": [
+            {
+                "value": "ef474857-d6d7-450c-9b62-19a61c7f4392",
+                "type": "string"
+            }
+        ],
+        "P1281": [
+            {
+                "value": "455873",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+515288",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1792": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 8737842,
+                    "id": "Q8737842"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1464": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 27609587,
+                    "id": "Q27609587"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P281": [
+            {
+                "value": "89200-000",
+                "type": "string"
+            }
+        ],
+        "P473": [
+            {
+                "value": "047",
+                "type": "string"
+            }
+        ],
+        "P3417": [
+            {
+                "value": "Joinville",
+                "type": "string"
+            },
+            {
+                "value": "Joinville-Brazil",
+                "type": "string"
+            }
+        ],
+        "P1705": [
+            {
+                "value": {
+                    "text": "Joinville",
+                    "language": "pt"
+                },
+                "type": "monolingualtext"
+            }
+        ],
+        "P2924": [
+            {
+                "value": "1983394",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+1126.106",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.809",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 607184,
+                    "id": "Q607184"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1417": [
+            {
+                "value": "place/Joinville-Brazil",
+                "type": "string"
+            }
+        ]
+    }
+}

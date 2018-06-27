@@ -1,0 +1,144 @@
+{
+    "pageid": 1742546,
+    "ns": 0,
+    "type": "item",
+    "id": "Q1811382",
+    "claims": {
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -6.5369444444444,
+                    "longitude": -39.496944444444,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40123,
+                    "id": "Q40123"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/09rwvtv",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3402874",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Cariús",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 9589632,
+                    "id": "Q9589632"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "2303303",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+18567",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+1061.825",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+240",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1705": [
+            {
+                "value": {
+                    "text": "Cariús",
+                    "language": "pt"
+                },
+                "type": "monolingualtext"
+            }
+        ],
+        "P1448": [
+            {
+                "value": {
+                    "text": "Cariús",
+                    "language": "pt"
+                },
+                "type": "monolingualtext"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.63",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P402": [
+            {
+                "value": "302638",
+                "type": "string"
+            }
+        ]
+    }
+}

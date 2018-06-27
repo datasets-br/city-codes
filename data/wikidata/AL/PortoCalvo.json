@@ -1,0 +1,156 @@
+{
+    "pageid": 1704682,
+    "ns": 0,
+    "type": "item",
+    "id": "Q1772636",
+    "claims": {
+        "P625": [
+            {
+                "value": {
+                    "latitude": -9.045,
+                    "longitude": -35.397777777778,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40885,
+                    "id": "Q40885"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/0ffgvk",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3391397",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Porto Calvo",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "2707305",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+23951",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+27288",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+25708",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Flag of Porto Calvo.svg",
+                "type": "string"
+            },
+            {
+                "value": "Bandeira Porto Calvo.jpg",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 27588917,
+                    "id": "Q27588917"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+35",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Porto Calvo.png",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+260.158",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.586",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P402": [
+            {
+                "value": "303858",
+                "type": "string"
+            }
+        ]
+    }
+}

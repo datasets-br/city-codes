@@ -1,0 +1,178 @@
+{
+    "pageid": 1777669,
+    "ns": 0,
+    "type": "item",
+    "id": "Q1847056",
+    "claims": {
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -7.5119444444444,
+                    "longitude": -37.640833333333,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 38088,
+                    "id": "Q38088"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/09rv6rg",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3408214",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Água Branca (Paraíba)",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "2500106",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+8377",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+10083",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+9449",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1889": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 578114,
+                    "id": "Q578114"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Paraiba Municip AguaBranca.svg",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Água Branca Flag.PNG",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Centro Da cidade.jpg",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+735",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P421": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 6513,
+                    "id": "Q6513"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.572",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+220.648",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1808550,
+                    "id": "Q1808550"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "301429",
+                "type": "string"
+            }
+        ]
+    }
+}

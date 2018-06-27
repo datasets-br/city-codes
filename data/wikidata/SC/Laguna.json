@@ -1,0 +1,204 @@
+{
+    "pageid": 1549966,
+    "ns": 0,
+    "type": "item",
+    "id": "Q1615291",
+    "claims": {
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira Laguna SantaCatarina Brasil.jpg",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasao Laguna SantaCatarina Brasil.jpg",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Laguna (Santa Catarina)",
+                "type": "string"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -28.482777777778,
+                    "longitude": -48.780833333333,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 41115,
+                    "id": "Q41115"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.laguna.sc.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/03yhrp",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3459094",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "4209409",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+51562",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "SantaCatarina Municip Laguna.svg",
+                "type": "string"
+            }
+        ],
+        "P473": [
+            {
+                "value": "48",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+2",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Casa de Anita de Garibaldi - Laguna - SC 2013-03-05 13.34.51.jpg",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+336.396",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.752",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 986545,
+                    "id": "Q986545"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1764984,
+                    "id": "Q1764984"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1750764,
+                    "id": "Q1750764"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1750765,
+                    "id": "Q1750765"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1815730,
+                    "id": "Q1815730"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "296721",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 32326402,
+                    "id": "Q32326402"
+                },
+                "type": "wikibase-entityid"
+            }
+        ]
+    }
+}

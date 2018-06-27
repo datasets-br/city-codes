@@ -1,0 +1,116 @@
+{
+    "pageid": 1726992,
+    "ns": 0,
+    "type": "item",
+    "id": "Q1795573",
+    "claims": {
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -9.39,
+                    "longitude": -36.76,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40885,
+                    "id": "Q40885"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/026w7xx",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "6317102",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Estrela de Alagoas",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "2702553",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+18435",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+345",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+264.203",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.545",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P402": [
+            {
+                "value": "303765",
+                "type": "string"
+            }
+        ]
+    }
+}

@@ -1,0 +1,187 @@
+{
+    "pageid": 1693607,
+    "ns": 0,
+    "type": "item",
+    "id": "Q1761143",
+    "claims": {
+        "P41": [
+            {
+                "value": "Bandeira Camaragibe.jpg",
+                "type": "string"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -8.0219444444444,
+                    "longitude": -34.980833333333,
+                    "altitude": null,
+                    "precision": null,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40942,
+                    "id": "Q40942"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/01p7f6",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3403741",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Camaragibe",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 9563649,
+                    "id": "Q9563649"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+155054",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+144466",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+55.083",
+                    "unit": "http://www.wikidata.org/entity/Q712226",
+                    "upperBound": "+55.083",
+                    "lowerBound": "+55.083"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+55",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+56",
+                    "lowerBound": "+54"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P421": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 6513,
+                    "id": "Q6513"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1281": [
+            {
+                "value": "455940",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "2603454",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.camaragibe.pe.gov.br",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Praça de Maria Amazonas.jpg",
+                "type": "string"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.692",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P3417": [
+            {
+                "value": "Camaragibe-Brazil",
+                "type": "string"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 48344,
+                    "id": "Q48344"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "303695",
+                "type": "string"
+            }
+        ]
+    }
+}

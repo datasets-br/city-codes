@@ -1,0 +1,138 @@
+{
+    "pageid": 1682704,
+    "ns": 0,
+    "type": "item",
+    "id": "Q1749866",
+    "claims": {
+        "P625": [
+            {
+                "value": {
+                    "latitude": -28.118888888889,
+                    "longitude": -52.782777777778,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40030,
+                    "id": "Q40030"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/03qm9bf",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "6318986",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Coqueiros do Sul",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "4305850",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+2457",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Locator map of Coqueiro do Sul in Rio Grande do Sul.svg",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasão Coqueiros do Sul.jpg",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+601",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.767",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+275.549",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 772910,
+                    "id": "Q772910"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "242563",
+                "type": "string"
+            }
+        ]
+    }
+}

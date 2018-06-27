@@ -1,0 +1,182 @@
+{
+    "pageid": 406529,
+    "ns": 0,
+    "type": "item",
+    "id": "Q430927",
+    "claims": {
+        "P41": [
+            {
+                "value": "Bandeira poco redondo.png",
+                "type": "string"
+            }
+        ],
+        "P158": [
+            {
+                "value": "Brasao pocoredondo se.jpg",
+                "type": "string"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -9.8058333333333,
+                    "longitude": -37.685,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 43783,
+                    "id": "Q43783"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/027kkrd",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3391608",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Poço Redondo",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+188",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+189",
+                    "lowerBound": "+187"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasao pocoredondo se.jpg",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "2805406",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+26022",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+33757",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+30880",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Sergipe Municip PocoRedondo.svg",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+1212.461",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.529",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1807399,
+                    "id": "Q1807399"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 22038204,
+                    "id": "Q22038204"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2014466,
+                    "id": "Q2014466"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "303918",
+                "type": "string"
+            }
+        ]
+    }
+}

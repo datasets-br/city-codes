@@ -1,0 +1,166 @@
+{
+    "pageid": 1716138,
+    "ns": 0,
+    "type": "item",
+    "id": "Q1784491",
+    "claims": {
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira-ouro.png",
+                "type": "string"
+            }
+        ],
+        "P158": [
+            {
+                "value": "Brasao ouro.png",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Ouro (Santa Catarina)",
+                "type": "string"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -27.340833333333,
+                    "longitude": -51.617777777778,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 41115,
+                    "id": "Q41115"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/0n4b7l3",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3455724",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+485",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+486",
+                    "lowerBound": "+484"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.ouro.sc.gov.br",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "4211801",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+7372",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "SantaCatarina Municip Ouro.svg",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasão ouro.jpeg",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+206.229",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.774",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 780452,
+                    "id": "Q780452"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1799404,
+                    "id": "Q1799404"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "296732",
+                "type": "string"
+            }
+        ]
+    }
+}

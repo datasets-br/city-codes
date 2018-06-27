@@ -1,0 +1,192 @@
+{
+    "pageid": 1687259,
+    "ns": 0,
+    "type": "item",
+    "id": "Q1754557",
+    "claims": {
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -27.7,
+                    "longitude": -49.333888888889,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 41115,
+                    "id": "Q41115"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/09ry6m0",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3472585",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Alfredo Wagner",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 9523764,
+                    "id": "Q9523764"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P242": [
+            {
+                "value": "SantaCatarina Municip AlfredoWagner.svg",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira de Alfredo Wagner.png",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasao alfredo wagner.png",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "4200705",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+9410",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.alfredowagner.sc.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "88450-000",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+480",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P421": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 6513,
+                    "id": "Q6513"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+732.768",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.778",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 22063986,
+                    "id": "Q22063986"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1815721,
+                    "id": "Q1815721"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1784522,
+                    "id": "Q1784522"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "296694",
+                "type": "string"
+            }
+        ]
+    }
+}

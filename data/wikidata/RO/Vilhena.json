@@ -1,0 +1,198 @@
+{
+    "pageid": 1682792,
+    "ns": 0,
+    "type": "item",
+    "id": "Q1749958",
+    "claims": {
+        "P41": [
+            {
+                "value": "Flag rondonia vilhena.svg",
+                "type": "string"
+            }
+        ],
+        "P158": [
+            {
+                "value": "Brasao-vilhena-ro.png",
+                "type": "string"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -12.740555555556,
+                    "longitude": -60.145833333333,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 43235,
+                    "id": "Q43235"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/0fd3vl",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3924679",
+                "type": "string"
+            },
+            {
+                "value": "6319248",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Vilhena",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+615",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+616",
+                    "lowerBound": "+614"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+373",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1977-00-00T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 9,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "1100304",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+93745",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://web.archive.org/web/20090218013035/http://pmvilhena.com.br:80/",
+                "type": "string"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Rondonia vilhena.svg",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 25974032,
+                    "id": "Q25974032"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasao-vilhena-ro.png",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Vilhena RO.jpg",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+11518.913",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.731",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 735454,
+                    "id": "Q735454"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "325887",
+                "type": "string"
+            }
+        ]
+    }
+}

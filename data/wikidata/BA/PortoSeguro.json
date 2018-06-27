@@ -1,0 +1,218 @@
+{
+    "pageid": 470260,
+    "ns": 0,
+    "type": "item",
+    "id": "Q499922",
+    "claims": {
+        "P190": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 173699,
+                    "id": "Q173699"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Porto Seguro",
+                "type": "string"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -16.45,
+                    "longitude": -39.065,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40430,
+                    "id": "Q40430"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/02bff9",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3452640",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 13319877,
+                    "id": "Q13319877"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P214": [
+            {
+                "value": "126477033",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+4",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+5",
+                    "lowerBound": "+3"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Vista área de Porto Seguro 01.jpg",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.portoseguro.ba.gov.br",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "2925303",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+95721",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+145431",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+126929",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Bahia Municip PortoSeguro.svg",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "BandeiraPortoSeguro.jpg",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "45810-000",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+2408.327",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.676",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P3417": [
+            {
+                "value": "Pôrto-Seguro-Bahia-Brazil",
+                "type": "string"
+            }
+        ],
+        "P948": [
+            {
+                "value": "Porto Seguro - Bahia banner.jpg",
+                "type": "string"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 993466,
+                    "id": "Q993466"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1796277,
+                    "id": "Q1796277"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "362341",
+                "type": "string"
+            }
+        ]
+    }
+}

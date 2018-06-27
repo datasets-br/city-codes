@@ -1,0 +1,142 @@
+{
+    "pageid": 2005297,
+    "ns": 0,
+    "type": "item",
+    "id": "Q2078233",
+    "claims": {
+        "P625": [
+            {
+                "value": {
+                    "latitude": -7.4477777777778,
+                    "longitude": -35.243888888889,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40942,
+                    "id": "Q40942"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/076ytvd",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3399625",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Ferreiros",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "2605509",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+11430",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Mapa de Ferreiros (2).png",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+96",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1889": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1407820,
+                    "id": "Q1407820"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.622",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+92.103",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 929867,
+                    "id": "Q929867"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "303720",
+                "type": "string"
+            }
+        ]
+    }
+}

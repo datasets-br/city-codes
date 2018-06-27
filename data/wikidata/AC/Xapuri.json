@@ -1,0 +1,213 @@
+{
+    "pageid": 961968,
+    "ns": 0,
+    "type": "item",
+    "id": "Q1012531",
+    "claims": {
+        "P1585": [
+            {
+                "value": "1200708",
+                "type": "string"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira-xapuri.jpg",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasao-xapuri.jpg",
+                "type": "string"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -10.651944444444,
+                    "longitude": -68.503888888889,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Xapuri",
+                "type": "string"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40780,
+                    "id": "Q40780"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/026bffh",
+                "type": "string"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Acre Municip Xapuri.svg",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3924674",
+                "type": "string"
+            },
+            {
+                "value": "6319292",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 14765629,
+                    "id": "Q14765629"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P214": [
+            {
+                "value": "125840126",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "IgrejadeSãoSebastião.jpg",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.xapuri.ac.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+150",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+213",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+18174",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+5250.931",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.599",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P281": [
+            {
+                "value": "69930-000",
+                "type": "string"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1755395,
+                    "id": "Q1755395"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 899406,
+                    "id": "Q899406"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 171612,
+                    "id": "Q171612"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1800737,
+                    "id": "Q1800737"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "326260",
+                "type": "string"
+            }
+        ]
+    }
+}

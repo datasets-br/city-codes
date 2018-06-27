@@ -1,0 +1,135 @@
+{
+    "pageid": 1939745,
+    "ns": 0,
+    "type": "item",
+    "id": "Q2011531",
+    "claims": {
+        "P625": [
+            {
+                "value": {
+                    "latitude": -8.76,
+                    "longitude": -35.105,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40942,
+                    "id": "Q40942"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/0cbqrk",
+                "type": "string"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Tamandaré",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "2614857",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+20715",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Mapa de Tamandaré (2).png",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Fishermen - Tamandaré - Brasil pan.jpg",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+8",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+25",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+214.307",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.593",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "6320603",
+                "type": "string"
+            }
+        ],
+        "P402": [
+            {
+                "value": "303657",
+                "type": "string"
+            }
+        ]
+    }
+}

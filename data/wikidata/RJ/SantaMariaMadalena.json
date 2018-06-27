@@ -1,0 +1,162 @@
+{
+    "pageid": 1941297,
+    "ns": 0,
+    "type": "item",
+    "id": "Q2013108",
+    "claims": {
+        "P625": [
+            {
+                "value": {
+                    "latitude": -21.955,
+                    "longitude": -42.007777777778,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 41428,
+                    "id": "Q41428"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/027m94c",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3450055",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Santa Maria Madalena (Rio de Janeiro)",
+                "type": "string"
+            }
+        ],
+        "P1281": [
+            {
+                "value": "448659",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "3304607",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+10321",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "RiodeJaneiro Municip SantaMariaMadalena.svg",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira de Santa Maria Madalena (Rio de Janeiro).jpg",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasao-santamariamadalena.jpg",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Panorama g.jpg",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+615",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+815.591",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.669",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.pmsmm.rj.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 689868,
+                    "id": "Q689868"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "2215556",
+                "type": "string"
+            }
+        ]
+    }
+}

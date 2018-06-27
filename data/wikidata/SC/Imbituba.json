@@ -1,0 +1,223 @@
+{
+    "pageid": 936199,
+    "ns": 0,
+    "type": "item",
+    "id": "Q986545",
+    "claims": {
+        "P373": [
+            {
+                "value": "Imbituba",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira Imbituba SantaCatarina Brasil.jpg",
+                "type": "string"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -28.24,
+                    "longitude": -48.67,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            },
+            {
+                "value": {
+                    "latitude": -28.1909,
+                    "longitude": -48.70446,
+                    "altitude": null,
+                    "precision": 1.0e-5,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            },
+            {
+                "value": {
+                    "latitude": -28.24,
+                    "longitude": -48.67028,
+                    "altitude": null,
+                    "precision": 0.10196849879367,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 41115,
+                    "id": "Q41115"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/0cy8tz",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3461370",
+                "type": "string"
+            },
+            {
+                "value": "6323145",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 10219192,
+                    "id": "Q10219192"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1281": [
+            {
+                "value": "456233",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.imbituba.sc.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "4207304",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+40170",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "SantaCatarina Municip Imbituba.svg",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+30",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+28",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasaoimbituba.JPG",
+                "type": "string"
+            }
+        ],
+        "P3417": [
+            {
+                "value": "Imbituba-1",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Porto de imbituba.jpg",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+184.787",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P281": [
+            {
+                "value": "88780-000",
+                "type": "string"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.765",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 612191,
+                    "id": "Q612191"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1615291,
+                    "id": "Q1615291"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "296691",
+                "type": "string"
+            }
+        ]
+    }
+}

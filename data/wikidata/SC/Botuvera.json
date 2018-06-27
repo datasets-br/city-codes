@@ -1,0 +1,170 @@
+{
+    "pageid": 845835,
+    "ns": 0,
+    "type": "item",
+    "id": "Q894929",
+    "claims": {
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Botuverá",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira botuvera.jpg",
+                "type": "string"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -27.198888888889,
+                    "longitude": -49.075,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 41115,
+                    "id": "Q41115"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/09rxrz9",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3469128",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 9559691,
+                    "id": "Q9559691"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.botuvera.sc.gov.br",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasao botuvera.jpg",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "4202701",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+4468",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "SantaCatarina Municip Botuvera.svg",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+85",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+303.023",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.724",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P460": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 22063968,
+                    "id": "Q22063968"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "296619",
+                "type": "string"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 329488,
+                    "id": "Q329488"
+                },
+                "type": "wikibase-entityid"
+            }
+        ]
+    }
+}

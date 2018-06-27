@@ -1,0 +1,165 @@
+{
+    "pageid": 1687245,
+    "ns": 0,
+    "type": "item",
+    "id": "Q1754543",
+    "claims": {
+        "P625": [
+            {
+                "value": {
+                    "latitude": -0.41388888888889,
+                    "longitude": -65.018888888889,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40040,
+                    "id": "Q40040"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/026x2xx",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3662489",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Santa Isabel do Rio Negro",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Pico da Neblina - Amazonas - Brasil.JPG",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasão de Santa Isabel do Rio Negro-AM.svg",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira de Santa Isabel do Rio Negro-AM.svg",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "1303601",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+10561",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+22404",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+18146",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Santa Isabel do Rio Negro.svg",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 25933727,
+                    "id": "Q25933727"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+62846.408",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.479",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 694840,
+                    "id": "Q694840"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "332484",
+                "type": "string"
+            }
+        ]
+    }
+}

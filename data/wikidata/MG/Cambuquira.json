@@ -1,0 +1,219 @@
+{
+    "pageid": 1687634,
+    "ns": 0,
+    "type": "item",
+    "id": "Q1754942",
+    "claims": {
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P158": [
+            {
+                "value": "Brasao Cambuquira mg.jpg",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasao Cambuquira mg.jpg",
+                "type": "string"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -21.858333333333,
+                    "longitude": -45.291111111111,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            },
+            {
+                "value": {
+                    "latitude": -21.85379,
+                    "longitude": -45.2717,
+                    "altitude": null,
+                    "precision": 1.0e-5,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/027cvf_",
+                "type": "string"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 39109,
+                    "id": "Q39109"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3467952",
+                "type": "string"
+            },
+            {
+                "value": "6321211",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Cambuquira",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 9563784,
+                    "id": "Q9563784"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+950",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+951",
+                    "lowerBound": "+949"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+1019",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "3110707",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+12602",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "MinasGerais Municip Cambuquira.svg",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "BandeiraCambuquiraMinasGeraisBrasil.jpg",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.cambuquira.mg.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Cambuquira MG Brasil - Matriz - panoramio.jpg",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+245.792",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.699",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1439211,
+                    "id": "Q1439211"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1780173,
+                    "id": "Q1780173"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1756600,
+                    "id": "Q1756600"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1780214,
+                    "id": "Q1780214"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "314793",
+                "type": "string"
+            }
+        ]
+    }
+}

@@ -1,0 +1,184 @@
+{
+    "pageid": 515439,
+    "ns": 0,
+    "type": "item",
+    "id": "Q547095",
+    "claims": {
+        "P625": [
+            {
+                "value": {
+                    "latitude": -8.6827777777778,
+                    "longitude": -35.591944444444,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40942,
+                    "id": "Q40942"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/02rsr9l",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3393264",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Palmares (Pernambuco)",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 9062804,
+                    "id": "Q9062804"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P214": [
+            {
+                "value": "136063676",
+                "type": "string"
+            }
+        ],
+        "P268": [
+            {
+                "value": "14285681d",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.palmares.pe.gov.br",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "2610004",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+59526",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Mapa de Palmares (2).png",
+                "type": "string"
+            },
+            {
+                "value": "Mapa Palmares.png",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+108",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P281": [
+            {
+                "value": "55540",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Casa de Cultura Palmares.jpg",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+336.838",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.622",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2341964,
+                    "id": "Q2341964"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1111243,
+                    "id": "Q1111243"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "303691",
+                "type": "string"
+            }
+        ]
+    }
+}

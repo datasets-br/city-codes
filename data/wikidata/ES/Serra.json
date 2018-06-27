@@ -1,0 +1,200 @@
+{
+    "pageid": 877911,
+    "ns": 0,
+    "type": "item",
+    "id": "Q927537",
+    "claims": {
+        "P41": [
+            {
+                "value": "Bandeiradaserra.JPG",
+                "type": "string"
+            }
+        ],
+        "P158": [
+            {
+                "value": "Brasaoserra.jpg",
+                "type": "string"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -20.128888888889,
+                    "longitude": -40.307777777778,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 43233,
+                    "id": "Q43233"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/02_223",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "6321992",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Serra (Espírito Santo)",
+                "type": "string"
+            }
+        ],
+        "P214": [
+            {
+                "value": "135082216",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+301",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+302",
+                    "lowerBound": "+300"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P982": [
+            {
+                "value": "28ebfa03-118d-424f-9a9c-3e272de3726a",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Mestre Álvaro.jpg",
+                "type": "string"
+            }
+        ],
+        "P1997": [
+            {
+                "value": "111837995502320",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "3205002",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+321181",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+485376",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+409267",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "EspiritoSanto Municip Serra.svg",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasaoserra.jpg",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 29284101,
+                    "id": "Q29284101"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+553.254",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.739",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 593133,
+                    "id": "Q593133"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "1826737",
+                "type": "string"
+            }
+        ]
+    }
+}

@@ -1,0 +1,358 @@
+{
+    "pageid": 168849,
+    "ns": 0,
+    "type": "item",
+    "id": "Q168376",
+    "claims": {
+        "P1464": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 9228056,
+                    "id": "Q9228056"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P190": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 273059,
+                    "id": "Q273059"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 468557,
+                    "id": "Q468557"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 79875,
+                    "id": "Q79875"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 170322,
+                    "id": "Q170322"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 14440,
+                    "id": "Q14440"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 45797,
+                    "id": "Q45797"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 59095,
+                    "id": "Q59095"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 14318,
+                    "id": "Q14318"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 26339,
+                    "id": "Q26339"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2014359,
+                    "id": "Q2014359"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Vitória (Espírito Santo)",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "BandeiraVitoria.png",
+                "type": "string"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P94": [
+            {
+                "value": "BrasaoVitoria.jpg",
+                "type": "string"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Vitoria in Brazil.png",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "29000-000",
+                "type": "string"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 43233,
+                    "id": "Q43233"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -20.318888888889,
+                    "longitude": -40.337777777778,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/02ydp3",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3444924",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 9168789,
+                    "id": "Q9168789"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1740": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 8458235,
+                    "id": "Q8458235"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P982": [
+            {
+                "value": "7b2185b7-f988-4f50-8fdb-ea595851c82d",
+                "type": "string"
+            }
+        ],
+        "P1376": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 43233,
+                    "id": "Q43233"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P214": [
+            {
+                "value": "144252834",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Vitória ES.jpg",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+4",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+5",
+                    "lowerBound": "+3"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1792": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 9238091,
+                    "id": "Q9238091"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1997": [
+            {
+                "value": "113949485283402",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "3205309",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+355875",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+327801",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.vitoria.es.gov.br",
+                "type": "string"
+            }
+        ],
+        "P473": [
+            {
+                "value": "27",
+                "type": "string"
+            }
+        ],
+        "P1343": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 20078554,
+                    "id": "Q20078554"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+96.536",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.845",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P3417": [
+            {
+                "value": "Vitória-Espírito-Santo-Brazil",
+                "type": "string"
+            }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1551-00-00T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 9,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P1225": [
+            {
+                "value": "10038547",
+                "type": "string"
+            }
+        ],
+        "P1417": [
+            {
+                "value": "place/Vitoria",
+                "type": "string"
+            }
+        ],
+        "P402": [
+            {
+                "value": "1825817",
+                "type": "string"
+            }
+        ]
+    }
+}

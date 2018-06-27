@@ -1,0 +1,180 @@
+{
+    "pageid": 560128,
+    "ns": 0,
+    "type": "item",
+    "id": "Q595222",
+    "claims": {
+        "P625": [
+            {
+                "value": {
+                    "latitude": -20.792777777778,
+                    "longitude": -40.810833333333,
+                    "altitude": null,
+                    "precision": null,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Iconha",
+                "type": "string"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 43233,
+                    "id": "Q43233"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/047rff",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "6321958",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 10175867,
+                    "id": "Q10175867"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P214": [
+            {
+                "value": "240920158",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasao-iconha.jpg",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira-iconha.jpg",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.iconha.es.gov.br",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "3202603",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+12523",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "EspiritoSanto Municip Iconha.svg",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+15",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Vista da igreja principal de Iconha ES.JPG",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+202.920",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.729",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1806645,
+                    "id": "Q1806645"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1994852,
+                    "id": "Q1994852"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "1826741",
+                "type": "string"
+            }
+        ]
+    }
+}

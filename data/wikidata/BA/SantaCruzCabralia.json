@@ -1,0 +1,206 @@
+{
+    "pageid": 943030,
+    "ns": 0,
+    "type": "item",
+    "id": "Q993466",
+    "claims": {
+        "P190": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 986093,
+                    "id": "Q986093"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P41": [
+            {
+                "value": "BandeiraSantaCruzCabralia.svg",
+                "type": "string"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -16.277777777778,
+                    "longitude": -39.025,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40430,
+                    "id": "Q40430"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/09rx5xf",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3450288",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Santa Cruz Cabrália",
+                "type": "string"
+            }
+        ],
+        "P214": [
+            {
+                "value": "135338699",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "BrasaoSantaCruzCabralia.svg",
+                "type": "string"
+            }
+        ],
+        "P1281": [
+            {
+                "value": "456490",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "2927705",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+23888",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+28226",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+26264",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Bahia Municip SantaCruzCabralia.svg",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 25930927,
+                    "id": "Q25930927"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Vista da Praia Coroa Vermelha, Santa Cruz Cabrália BA2.JPG",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+6",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+1550.791",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.654",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 499922,
+                    "id": "Q499922"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P361": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2596732,
+                    "id": "Q2596732"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "362537",
+                "type": "string"
+            }
+        ]
+    }
+}

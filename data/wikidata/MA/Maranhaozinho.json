@@ -1,0 +1,122 @@
+{
+    "pageid": 1777189,
+    "ns": 0,
+    "type": "item",
+    "id": "Q1846576",
+    "claims": {
+        "P625": [
+            {
+                "value": {
+                    "latitude": -2.2408333333333,
+                    "longitude": -45.850833333333,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 42362,
+                    "id": "Q42362"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/0gl0f4",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "6317531",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Maranhãozinho",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "2106375",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+14065",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Maranhao Municip Maranhaozinho.svg",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+45",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+956.064",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.529",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P402": [
+            {
+                "value": "332836",
+                "type": "string"
+            }
+        ]
+    }
+}

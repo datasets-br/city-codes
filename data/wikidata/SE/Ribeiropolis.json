@@ -1,0 +1,148 @@
+{
+    "pageid": 2006796,
+    "ns": 0,
+    "type": "item",
+    "id": "Q2079747",
+    "claims": {
+        "P625": [
+            {
+                "value": {
+                    "latitude": -10.538888888889,
+                    "longitude": -37.416944444444,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 43783,
+                    "id": "Q43783"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/027kl2d",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3451304",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Ribeirópolis",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "2806008",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+17173",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+16479",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira ribeiropolis.svg",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 27589231,
+                    "id": "Q27589231"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+293",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1705": [
+            {
+                "value": {
+                    "text": "Ribeirópolis",
+                    "language": "pt"
+                },
+                "type": "monolingualtext"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+263",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.613",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P402": [
+            {
+                "value": "303927",
+                "type": "string"
+            }
+        ]
+    }
+}

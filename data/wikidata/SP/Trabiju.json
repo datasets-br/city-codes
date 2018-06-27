@@ -1,1 +1,38 @@
-{"entities":{"Q1761480":{"pageid":1693927,"ns":0,"title":"Q1761480","lastrevid":682326208,"modified":"2018-05-21T03:34:09Z","type":"item","id":"Q1761480","labels":{"ceb":{"language":"ceb","value":"Trabiju"},"sv":{"language":"sv","value":"Trabiju"}},"descriptions":{},"aliases":{},"claims":{"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"abaf063bc70d0a5246667a3e79ed9fc1dbb35cdb","datavalue":{"value":{"entity-type":"item","numeric-id":3257686,"id":"Q3257686"},"type":"wikibase-entityid"},"datatype":"wikibase-item"},"type":"statement","id":"Q1761480$EF657635-3C4C-42ED-835E-790EFA016E7A","rank":"normal"}],"P17":[{"mainsnak":{"snaktype":"value","property":"P17","hash":"90114304161d20f1934075ea47b8a33a76e95138","datavalue":{"value":{"entity-type":"item","numeric-id":155,"id":"Q155"},"type":"wikibase-entityid"},"datatype":"wikibase-item"},"type":"statement","id":"Q1761480$D2B81E1E-BB1C-4604-A904-A1A712A89A61","rank":"normal"}],"P131":[{"mainsnak":{"snaktype":"value","property":"P131","hash":"eb3a3747fc63c4ba95040f02885ca5025eb10631","datavalue":{"value":{"entity-type":"item","numeric-id":22064400,"id":"Q22064400"},"type":"wikibase-entityid"},"datatype":"wikibase-item"},"type":"statement","id":"Q1761480$6F218C1C-7B69-40EE-8420-77D7EB91C0E9","rank":"normal","references":[{"hash":"43a0088c51fd85e5a85d1b46412c3a635e6d4edc","snaks":{"P143":[{"snaktype":"value","property":"P143","hash":"d8fbf8671e3c630db61bfac691068cfb6857f243","datavalue":{"value":{"entity-type":"item","numeric-id":837615,"id":"Q837615"},"type":"wikibase-entityid"},"datatype":"wikibase-item"}]},"snaks-order":["P143"]}]}]},"sitelinks":{"cebwiki":{"site":"cebwiki","title":"Trabiju (lungsod)","badges":[]},"svwiki":{"site":"svwiki","title":"Trabiju (ort)","badges":[]}}}},"success":1}
+{
+    "pageid": 1693927,
+    "ns": 0,
+    "type": "item",
+    "id": "Q1761480",
+    "claims": {
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3257686,
+                    "id": "Q3257686"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 22064400,
+                    "id": "Q22064400"
+                },
+                "type": "wikibase-entityid"
+            }
+        ]
+    }
+}

@@ -1,0 +1,198 @@
+{
+    "pageid": 314152,
+    "ns": 0,
+    "type": "item",
+    "id": "Q327210",
+    "claims": {
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Santo Amaro da Imperatriz",
+                "type": "string"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -27.687777777778,
+                    "longitude": -48.778888888889,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 41115,
+                    "id": "Q41115"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/02q50fq",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3449711",
+                "type": "string"
+            }
+        ],
+        "P214": [
+            {
+                "value": "140447057",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+18",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+19",
+                    "lowerBound": "+17"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "SantaCatarina Municip SantoAmarodaImperatriz.svg",
+                "type": "string"
+            }
+        ],
+        "P1281": [
+            {
+                "value": "460986",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "4215703",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+19823",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira Santo Amaro da Imperatriz Santa Catarina Brasil.png",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 25973365,
+                    "id": "Q25973365"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.santoamaro.sc.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Logo pmsantoamaro.png",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "88140-000",
+                "type": "string"
+            }
+        ],
+        "P473": [
+            {
+                "value": "48",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Hospital SFA.JPG",
+                "type": "string"
+            }
+        ],
+        "P3417": [
+            {
+                "value": "Santo-Amaro-Da-Imperatriz",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+344.049",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.781",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1750773,
+                    "id": "Q1750773"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "296642",
+                "type": "string"
+            }
+        ]
+    }
+}

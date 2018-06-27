@@ -1,0 +1,182 @@
+{
+    "pageid": 933492,
+    "ns": 0,
+    "type": "item",
+    "id": "Q983815",
+    "claims": {
+        "P41": [
+            {
+                "value": "Flag ji-paraná.svg",
+                "type": "string"
+            }
+        ],
+        "P158": [
+            {
+                "value": "Brasao JiParana Rondonia Brasil.jpg",
+                "type": "string"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -10.885277777778,
+                    "longitude": -61.951666666667,
+                    "altitude": null,
+                    "precision": null,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 43235,
+                    "id": "Q43235"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/01zhhg",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3925033",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Ji-Paraná",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 10254860,
+                    "id": "Q10254860"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+170",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+171",
+                    "lowerBound": "+169"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Ji-Parana 005.jpg",
+                "type": "string"
+            }
+        ],
+        "P1281": [
+            {
+                "value": "455967",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "1100122",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+131560",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasao JiParana Rondonia Brasil.jpg",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+6896.782",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.714",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1807445,
+                    "id": "Q1807445"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1871362,
+                    "id": "Q1871362"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "325879",
+                "type": "string"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Rondonia ji-paraná.svg",
+                "type": "string"
+            }
+        ]
+    }
+}

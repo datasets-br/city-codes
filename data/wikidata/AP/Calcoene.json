@@ -1,0 +1,190 @@
+{
+    "pageid": 1687137,
+    "ns": 0,
+    "type": "item",
+    "id": "Q1754431",
+    "claims": {
+        "P1585": [
+            {
+                "value": "1600204",
+                "type": "string"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": 2.4977777777778,
+                    "longitude": -50.948888888889,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Calçoene",
+                "type": "string"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40130,
+                    "id": "Q40130"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/09k6j2",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3403899",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 9563610,
+                    "id": "Q9563610"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Calçoene, Cromlech brasileira, Amapá.jpg",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+6730",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+10163",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+9000",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.calcoene.ap.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Amapa MunicipCalcoene.jpg",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira de Calçoene AP.svg",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasão Calçoene.jpg",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+10",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.643",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+14269.258",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1772625,
+                    "id": "Q1772625"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "331472",
+                "type": "string"
+            }
+        ],
+        "P206": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 97,
+                    "id": "Q97"
+                },
+                "type": "wikibase-entityid"
+            }
+        ]
+    }
+}

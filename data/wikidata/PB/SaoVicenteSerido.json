@@ -1,0 +1,148 @@
+{
+    "pageid": 1936623,
+    "ns": 0,
+    "type": "item",
+    "id": "Q2008358",
+    "claims": {
+        "P625": [
+            {
+                "value": {
+                    "latitude": -6.9338888888889,
+                    "longitude": -36.401944444444,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 38088,
+                    "id": "Q38088"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/027tz71",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3387914",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Seridó (Paraíba)",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "2515401",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+9106",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+10900",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+10230",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira de São Vicente do Seridó.JPG",
+                "type": "string"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Paraiba Municip Serido.svg",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasão de São Vicente do Seridó.JPG",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+631",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+276.46",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.575",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P402": [
+            {
+                "value": "301386",
+                "type": "string"
+            }
+        ]
+    }
+}

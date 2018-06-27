@@ -1,0 +1,206 @@
+{
+    "pageid": 876988,
+    "ns": 0,
+    "type": "item",
+    "id": "Q926606",
+    "claims": {
+        "P373": [
+            {
+                "value": "Divinópolis",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira de divinópolis.svg",
+                "type": "string"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -20.138888888889,
+                    "longitude": -44.883888888889,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/05ktcz",
+                "type": "string"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 39109,
+                    "id": "Q39109"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3464688",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 8934635,
+                    "id": "Q8934635"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P214": [
+            {
+                "value": "137086475",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Divinopolis.jpg",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasão de divinopolis.svg",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "3122306",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+213016",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "MinasGerais Municip Divinopolis.svg",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+747",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+708.909",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.764",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.divinopolis.mg.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P1792": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 41799188,
+                    "id": "Q41799188"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1464": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 8052457,
+                    "id": "Q8052457"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1790206,
+                    "id": "Q1790206"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1787492,
+                    "id": "Q1787492"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "315091",
+                "type": "string"
+            }
+        ],
+        "P1417": [
+            {
+                "value": "place/Divinopolis",
+                "type": "string"
+            }
+        ]
+    }
+}

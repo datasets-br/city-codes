@@ -1,0 +1,163 @@
+{
+    "pageid": 1733463,
+    "ns": 0,
+    "type": "item",
+    "id": "Q1802230",
+    "claims": {
+        "P625": [
+            {
+                "value": {
+                    "latitude": -29.715,
+                    "longitude": -52.505833333333,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40030,
+                    "id": "Q40030"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/03qmdfx",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "6318878",
+                "type": "string"
+            },
+            {
+                "value": "6323702",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Vera Cruz (Rio Grande do Sul)",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "4322707",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+23983",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira de Vera Cruz (Rio Grande do Sul).jpg",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasao VeraCruz.png",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+68",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+53",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+309.620",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.791",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 781510,
+                    "id": "Q781510"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1758912,
+                    "id": "Q1758912"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "242600",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Caixa d agua em 2012 - panoramio.jpg",
+                "type": "string"
+            }
+        ]
+    }
+}

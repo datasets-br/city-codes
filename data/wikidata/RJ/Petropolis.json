@@ -1,0 +1,359 @@
+{
+    "pageid": 187622,
+    "ns": 0,
+    "type": "item",
+    "id": "Q189043",
+    "claims": {
+        "P1465": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 16739330,
+                    "id": "Q16739330"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Petrópolis",
+                "type": "string"
+            }
+        ],
+        "P158": [
+            {
+                "value": "Petropolis coat arms.jpg",
+                "type": "string"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira petrópolis.jpg",
+                "type": "string"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -22.505,
+                    "longitude": -43.178888888889,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 41428,
+                    "id": "Q41428"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 8966158,
+                    "id": "Q8966158"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 515,
+                    "id": "Q515"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/02j9pq",
+                "type": "string"
+            }
+        ],
+        "P1464": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 9226412,
+                    "id": "Q9226412"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3454031",
+                "type": "string"
+            },
+            {
+                "value": "6322047",
+                "type": "string"
+            }
+        ],
+        "P190": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 190187,
+                    "id": "Q190187"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1792": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 7924071,
+                    "id": "Q7924071"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P214": [
+            {
+                "value": "123125591",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+838",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+839",
+                    "lowerBound": "+837"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+872",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Museu Imperial Petropolis.jpg",
+                "type": "string"
+            }
+        ],
+        "P935": [
+            {
+                "value": "Petrópolis",
+                "type": "string"
+            }
+        ],
+        "P1997": [
+            {
+                "value": "108164929217905",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "3303906",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+286537",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+298142",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+295917",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+306645",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.petropolis.rj.gov.br",
+                "type": "string"
+            }
+        ],
+        "P242": [
+            {
+                "value": "RiodeJaneiro Municip Petropolis.svg",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasao Petropolis rj.jpg",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "25680-000",
+                "type": "string"
+            }
+        ],
+        "P3417": [
+            {
+                "value": "Petrópolis-RJ-Brazil",
+                "type": "string"
+            }
+        ],
+        "P1705": [
+            {
+                "value": {
+                    "text": "Petrópolis",
+                    "language": "pt"
+                },
+                "type": "monolingualtext"
+            }
+        ],
+        "P1448": [
+            {
+                "value": {
+                    "text": "Petrópolis",
+                    "language": "pt"
+                },
+                "type": "monolingualtext"
+            }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1843-00-00T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 9,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+774.606",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P421": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 6513,
+                    "id": "Q6513"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 6536,
+                    "id": "Q6536"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P948": [
+            {
+                "value": "Petropolis - Museu Imperial - banner.jpg",
+                "type": "string"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.745",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P982": [
+            {
+                "value": "8c205205-9e00-4418-8f99-acbbcca90c03",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0050634",
+                "type": "string"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1761573,
+                    "id": "Q1761573"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 193021,
+                    "id": "Q193021"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "2219094",
+                "type": "string"
+            }
+        ]
+    }
+}

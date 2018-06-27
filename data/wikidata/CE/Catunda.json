@@ -1,0 +1,182 @@
+{
+    "pageid": 24090827,
+    "ns": 0,
+    "redirects": {
+        "from": "Q2027151",
+        "to": "Q22059575"
+    },
+    "type": "item",
+    "id": "Q22059575",
+    "claims": {
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "6320054",
+                "type": "string"
+            },
+            {
+                "value": "3402442",
+                "type": "string"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -4.60469,
+                    "longitude": -40.1863,
+                    "altitude": null,
+                    "precision": 1.0e-5,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            },
+            {
+                "value": {
+                    "latitude": -4.6477777777778,
+                    "longitude": -40.200833333333,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+264",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40123,
+                    "id": "Q40123"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 486972,
+                    "id": "Q486972"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/09rssgn",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Catunda",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 9595237,
+                    "id": "Q9595237"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P18": [
+            {
+                "value": "20091003-Catunda vista aerea.jpg",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "BRASAO DE CATUNDA.jpg",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira Municipal do Município de Catunda.jpg",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "2303659",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+9952",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+790.483",
+                    "unit": "http://www.wikidata.org/entity/Q712226",
+                    "upperBound": "+790.484",
+                    "lowerBound": "+790.482"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.609",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P402": [
+            {
+                "value": "302496",
+                "type": "string"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2068962,
+                    "id": "Q2068962"
+                },
+                "type": "wikibase-entityid"
+            }
+        ]
+    }
+}

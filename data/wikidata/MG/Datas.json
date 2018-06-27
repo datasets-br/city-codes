@@ -1,0 +1,74 @@
+{
+    "pageid": 202198,
+    "ns": 0,
+    "type": "item",
+    "id": "Q205892",
+    "claims": {
+        "P279": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 573,
+                    "id": "Q573"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 6675695,
+                    "id": "Q6675695"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/020_g",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Days",
+                "type": "string"
+            }
+        ],
+        "P4570": [
+            {
+                "value": "https://www.wikidata.org/wiki/Wikidata:WikiProject_Calendar_Dates",
+                "type": "string"
+            }
+        ],
+        "P1963": [
+            {
+                "value": {
+                    "entity-type": "property",
+                    "numeric-id": 585,
+                    "id": "P585"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "property",
+                    "numeric-id": 2894,
+                    "id": "P2894"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1889": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 5227137,
+                    "id": "Q5227137"
+                },
+                "type": "wikibase-entityid"
+            }
+        ]
+    }
+}

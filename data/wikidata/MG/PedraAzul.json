@@ -1,0 +1,186 @@
+{
+    "pageid": 1584721,
+    "ns": 0,
+    "type": "item",
+    "id": "Q1650924",
+    "claims": {
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -16.005,
+                    "longitude": -41.296944444444,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            },
+            {
+                "value": {
+                    "latitude": -15.96404,
+                    "longitude": -41.22145,
+                    "altitude": null,
+                    "precision": 1.0e-5,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 39109,
+                    "id": "Q39109"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/03d4bz_",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3454578",
+                "type": "string"
+            },
+            {
+                "value": "6321648",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Pedra Azul (Minas Gerais)",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "3148707",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+23839",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "MinasGerais Municip PedraAzul.svg",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Centro Histórico de Pedra Azul - MG (35).JPG",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 27589027,
+                    "id": "Q27589027"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1889": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2066328,
+                    "id": "Q2066328"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.627",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+1594.651",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P281": [
+            {
+                "value": "39970-000",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+854",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 22062380,
+                    "id": "Q22062380"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 676007,
+                    "id": "Q676007"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "314829",
+                "type": "string"
+            }
+        ]
+    }
+}

@@ -1,0 +1,172 @@
+{
+    "pageid": 1800799,
+    "ns": 0,
+    "type": "item",
+    "id": "Q1870479",
+    "claims": {
+        "P625": [
+            {
+                "value": {
+                    "latitude": -7.805,
+                    "longitude": -35.24,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40942,
+                    "id": "Q40942"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/076t4j2",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3386200",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Tracunhaém",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Mapa Tracunhaém.png",
+                "type": "string"
+            },
+            {
+                "value": "Tracunhaém.png",
+                "type": "string"
+            }
+        ],
+        "P1281": [
+            {
+                "value": "453922",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "2615508",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+13055",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Mapa de Tracunhaém (2).png",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 27588961,
+                    "id": "Q27588961"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+120",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P3417": [
+            {
+                "value": "Tracunhaém",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+116.659",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.605",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P402": [
+            {
+                "value": "303603",
+                "type": "string"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 674432,
+                    "id": "Q674432"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1993877,
+                    "id": "Q1993877"
+                },
+                "type": "wikibase-entityid"
+            }
+        ]
+    }
+}

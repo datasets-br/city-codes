@@ -1,0 +1,187 @@
+{
+    "pageid": 292994,
+    "ns": 0,
+    "type": "item",
+    "id": "Q304119",
+    "claims": {
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -21.63,
+                    "longitude": -43.02,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            },
+            {
+                "value": {
+                    "latitude": -21.64268,
+                    "longitude": -43.03311,
+                    "altitude": null,
+                    "precision": 1.0e-5,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Rochedo de Minas",
+                "type": "string"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/09rvzx6",
+                "type": "string"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 39109,
+                    "id": "Q39109"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3451001",
+                "type": "string"
+            },
+            {
+                "value": "6321732",
+                "type": "string"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P41": [
+            {
+                "value": "ROCHEDO DE MINAS (BANDEIRA).png",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "ROCHEDO DE MINAS (BRASÃO).png",
+                "type": "string"
+            }
+        ],
+        "P242": [
+            {
+                "value": "MinasGerais Municip RochedodeMinas.svg",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Rochedo de minas centro.JPG",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "3156205",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+2116",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1667": [
+            {
+                "value": "1022727",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 27589634,
+                    "id": "Q27589634"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+480",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+393",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+79.550",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.75",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1792282,
+                    "id": "Q1792282"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "315330",
+                "type": "string"
+            }
+        ]
+    }
+}

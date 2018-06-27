@@ -1,0 +1,174 @@
+{
+    "pageid": 616582,
+    "ns": 0,
+    "type": "item",
+    "id": "Q655097",
+    "claims": {
+        "P625": [
+            {
+                "value": {
+                    "latitude": -2.0172222222222,
+                    "longitude": -60.025,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40040,
+                    "id": "Q40040"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/026x2tt",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3736812",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Presidente Figueiredo",
+                "type": "string"
+            }
+        ],
+        "P214": [
+            {
+                "value": "148078256",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Presidente Figueiredo AM.JPG",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Presidente Figueiredo Flag.svg",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "1303536",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+17394",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+32812",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+27175",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Presidente Figueiredo.svg",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 25973516,
+                    "id": "Q25973516"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+122",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+25422.333",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.647",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1750332,
+                    "id": "Q1750332"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "332498",
+                "type": "string"
+            }
+        ]
+    }
+}

@@ -1,0 +1,178 @@
+{
+    "pageid": 793470,
+    "ns": 0,
+    "type": "item",
+    "id": "Q841222",
+    "claims": {
+        "P41": [
+            {
+                "value": "Bandeira-cariacica.jpg",
+                "type": "string"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -20.263888888889,
+                    "longitude": -40.42,
+                    "altitude": null,
+                    "precision": null,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Cariacica",
+                "type": "string"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 43233,
+                    "id": "Q43233"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/02ymzc",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3466954",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 9589553,
+                    "id": "Q9589553"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P214": [
+            {
+                "value": "156092897",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0015014",
+                "type": "string"
+            }
+        ],
+        "P1997": [
+            {
+                "value": "103075926400033",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasao-Cariacica.jpg",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "3201308",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+348738",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "EspiritoSanto Municip Cariacica.svg",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+241",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+279.975",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.718",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P3417": [
+            {
+                "value": "Cariacica-Brazil",
+                "type": "string"
+            }
+        ],
+        "P402": [
+            {
+                "value": "1825819",
+                "type": "string"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 334197,
+                    "id": "Q334197"
+                },
+                "type": "wikibase-entityid"
+            }
+        ]
+    }
+}

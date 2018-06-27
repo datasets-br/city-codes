@@ -1,0 +1,171 @@
+{
+    "pageid": 1712125,
+    "ns": 0,
+    "type": "item",
+    "id": "Q1780238",
+    "claims": {
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P158": [
+            {
+                "value": "Brasao delfim moreira MG.jpg",
+                "type": "string"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -22.508888888889,
+                    "longitude": -45.28,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/09rsxdc",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "6321326",
+                "type": "string"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Delfim Moreira (Minas Gerais)",
+                "type": "string"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 39109,
+                    "id": "Q39109"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 9633524,
+                    "id": "Q9633524"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+1200",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+1201",
+                    "lowerBound": "+1199"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "3121100",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+7971",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "MinasGerais Municip DelfimMoreira.svg",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasao delfim moreira MG.jpg",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Delfimmoreira.JPG",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "37508-000",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+408.473",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 851253,
+                    "id": "Q851253"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira Delfim Moreira.png",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.delfimmoreira.mg.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P402": [
+            {
+                "value": "314682",
+                "type": "string"
+            }
+        ]
+    }
+}

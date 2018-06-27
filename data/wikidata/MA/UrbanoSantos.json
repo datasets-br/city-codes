@@ -1,0 +1,162 @@
+{
+    "pageid": 1991930,
+    "ns": 0,
+    "type": "item",
+    "id": "Q2064632",
+    "claims": {
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -3.2077777777778,
+                    "longitude": -43.403888888889,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 42362,
+                    "id": "Q42362"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/09rwwbk",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3385726",
+                "type": "string"
+            },
+            {
+                "value": "6319827",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Urbano Santos",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "2112605",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+24573",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P138": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2598211,
+                    "id": "Q2598211"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Maranhao Municip UrbanoSantos.svg",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira município UrbanoSantos MA.jpg",
+                "type": "string"
+            }
+        ],
+        "P1889": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 9091911,
+                    "id": "Q9091911"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+1207.774",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.588",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+86",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P402": [
+            {
+                "value": "332904",
+                "type": "string"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1806571,
+                    "id": "Q1806571"
+                },
+                "type": "wikibase-entityid"
+            }
+        ]
+    }
+}

@@ -1,0 +1,150 @@
+{
+    "pageid": 2004866,
+    "ns": 0,
+    "type": "item",
+    "id": "Q2077794",
+    "claims": {
+        "P625": [
+            {
+                "value": {
+                    "latitude": -23.230833333333,
+                    "longitude": -51.585833333333,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 15499,
+                    "id": "Q15499"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/048d9y",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3453465",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Pitangueiras (Paraná)",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "4119657",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+2814",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Parana Municip Pitangueiras.svg",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.piraidosul.pr.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+660",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Coat of arms of Pitangueiras PR.png",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Praça da Matriz Pitangueiras.jpg",
+                "type": "string"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.754",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+123.230",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2007427,
+                    "id": "Q2007427"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "297763",
+                "type": "string"
+            }
+        ]
+    }
+}

@@ -1,0 +1,243 @@
+{
+    "pageid": 1708722,
+    "ns": 0,
+    "type": "item",
+    "id": "Q1776774",
+    "claims": {
+        "P1464": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 9227689,
+                    "id": "Q9227689"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira Toledo.jpg",
+                "type": "string"
+            }
+        ],
+        "P158": [
+            {
+                "value": "Brasao toledo.jpg",
+                "type": "string"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Toledo (Paraná)",
+                "type": "string"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -24.713888888889,
+                    "longitude": -53.742777777778,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 15499,
+                    "id": "Q15499"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 8854936,
+                    "id": "Q8854936"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/0dj78n",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3446370",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+550",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+551",
+                    "lowerBound": "+549"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1951-00-00T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 9,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Toledo.jpg",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "4127700",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+119313",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.toledo.pr.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasao toledo.jpg",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "85900-001",
+                "type": "string"
+            }
+        ],
+        "P1792": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 9238021,
+                    "id": "Q9238021"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+1197.016",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.768",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1803540,
+                    "id": "Q1803540"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "297636",
+                "type": "string"
+            }
+        ],
+        "P214": [
+            {
+                "value": "129133938",
+                "type": "string"
+            }
+        ],
+        "P3417": [
+            {
+                "value": "Toledo-Parana-Brazil",
+                "type": "string"
+            }
+        ],
+        "P1281": [
+            {
+                "value": "12580710",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0456773",
+                "type": "string"
+            }
+        ],
+        "P949": [
+            {
+                "value": "001026466",
+                "type": "string"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Parana Municip Toledo.svg",
+                "type": "string"
+            }
+        ]
+    }
+}

@@ -1,0 +1,197 @@
+{
+    "pageid": 901579,
+    "ns": 0,
+    "type": "item",
+    "id": "Q951660",
+    "claims": {
+        "P41": [
+            {
+                "value": "Bandeira tijucas.jpeg",
+                "type": "string"
+            }
+        ],
+        "P158": [
+            {
+                "value": "Brasao tijucas.jpeg",
+                "type": "string"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Tijucas",
+                "type": "string"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -27.240833333333,
+                    "longitude": -48.633888888889,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 41115,
+                    "id": "Q41115"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/06g4s0",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3446500",
+                "type": "string"
+            },
+            {
+                "value": "6324361",
+                "type": "string"
+            }
+        ],
+        "P214": [
+            {
+                "value": "152778348",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+2",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+3",
+                    "lowerBound": "+1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+5",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "SantaCatarina Municip Tijucas.svg",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.tijucas.sc.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "4218004",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+30960",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasao tijucas.jpeg",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Santa Catarina Tijucas.JPG",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 25973499,
+                    "id": "Q25973499"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P3417": [
+            {
+                "value": "Tijucas",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+276.622",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.76",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1799285,
+                    "id": "Q1799285"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "296598",
+                "type": "string"
+            }
+        ]
+    }
+}

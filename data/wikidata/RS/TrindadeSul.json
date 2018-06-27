@@ -1,0 +1,238 @@
+{
+    "pageid": 936173,
+    "ns": 0,
+    "type": "item",
+    "id": "Q986519",
+    "claims": {
+        "P625": [
+            {
+                "value": {
+                    "latitude": -27.521944444444,
+                    "longitude": -52.893888888889,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40030,
+                    "id": "Q40030"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/03qmd81",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "6318801",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Trindade do Sul",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "4321956",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+5787",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "RioGrandedoSul Municip TrindadedoSul.svg",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.trindadedosul.rs.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+640",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+641",
+                    "lowerBound": "+639"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1786434,
+                    "id": "Q1786434"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 941207,
+                    "id": "Q941207"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 749754,
+                    "id": "Q749754"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1784434,
+                    "id": "Q1784434"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 531078,
+                    "id": "Q531078"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P281": [
+            {
+                "value": "99615-000",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+268.417",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1549": [
+            {
+                "value": {
+                    "text": "trindadense",
+                    "language": "pt-br"
+                },
+                "type": "monolingualtext"
+            }
+        ],
+        "P421": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 6513,
+                    "id": "Q6513"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1987-12-15T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 11,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P78": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 39889,
+                    "id": "Q39889"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.744",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P361": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2565558,
+                    "id": "Q2565558"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1919506,
+                    "id": "Q1919506"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "242513",
+                "type": "string"
+            }
+        ]
+    }
+}

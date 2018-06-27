@@ -1,0 +1,229 @@
+{
+    "pageid": 933133,
+    "ns": 0,
+    "type": "item",
+    "id": "Q983459",
+    "claims": {
+        "P41": [
+            {
+                "value": "Bandeira Nilopolis.png",
+                "type": "string"
+            }
+        ],
+        "P158": [
+            {
+                "value": "Brasao-nilopolis.png",
+                "type": "string"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasao-nilopolis.png",
+                "type": "string"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -22.807777777778,
+                    "longitude": -43.413888888889,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Nilópolis",
+                "type": "string"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 41428,
+                    "id": "Q41428"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/0gh8nr",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3456290",
+                "type": "string"
+            },
+            {
+                "value": "6322040",
+                "type": "string"
+            }
+        ],
+        "P1667": [
+            {
+                "value": "7017091",
+                "type": "string"
+            }
+        ],
+        "P214": [
+            {
+                "value": "159637815",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+14",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+15",
+                    "lowerBound": "+13"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+25",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Vista de Nilópolis.JPG",
+                "type": "string"
+            }
+        ],
+        "P1281": [
+            {
+                "value": "455890",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.nilopolis.rj.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "3303203",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+157425",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "RiodeJaneiro Municip Nilopolis.svg",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "28000-000",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 27499957,
+                    "id": "Q27499957"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+19.157",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.753",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P3417": [
+            {
+                "value": "Nilópolis-Brazil",
+                "type": "string"
+            }
+        ],
+        "P982": [
+            {
+                "value": "c7f2143e-e73f-44fa-9561-c7b163e19cc5",
+                "type": "string"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 459690,
+                    "id": "Q459690"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 8678,
+                    "id": "Q8678"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "2220788",
+                "type": "string"
+            }
+        ]
+    }
+}

@@ -1,0 +1,241 @@
+{
+    "pageid": 39882,
+    "ns": 0,
+    "type": "item",
+    "id": "Q37378",
+    "claims": {
+        "P373": [
+            {
+                "value": "Arara (Paraíba)",
+                "type": "string"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Flag of Arara.svg",
+                "type": "string"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -6.8277777777778,
+                    "longitude": -35.757777777778,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 38088,
+                    "id": "Q38088"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/02vygbb",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3407297",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 9530651,
+                    "id": "Q9530651"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Igreja Nossa Senhora da Piedade.jpg",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+467",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+468",
+                    "lowerBound": "+466"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P935": [
+            {
+                "value": "Arara (Paraíba)",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.arara.pb.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "2500908",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+11530",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+13355",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+12653",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Paraiba Municip Arara.svg",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasao arara pb.jpg",
+                "type": "string"
+            }
+        ],
+        "P473": [
+            {
+                "value": "083",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "58396-000",
+                "type": "string"
+            }
+        ],
+        "P1151": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 28790355,
+                    "id": "Q28790355"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P421": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 6513,
+                    "id": "Q6513"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+99.112",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.548",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1961-00-00T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 9,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1816283,
+                    "id": "Q1816283"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2064614,
+                    "id": "Q2064614"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "301380",
+                "type": "string"
+            }
+        ]
+    }
+}

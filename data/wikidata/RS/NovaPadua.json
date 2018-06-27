@@ -1,0 +1,160 @@
+{
+    "pageid": 1683095,
+    "ns": 0,
+    "type": "item",
+    "id": "Q1750269",
+    "claims": {
+        "P625": [
+            {
+                "value": {
+                    "latitude": -29.028888888889,
+                    "longitude": -51.306944444444,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40030,
+                    "id": "Q40030"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/03qmbs6",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3456136",
+                "type": "string"
+            }
+        ],
+        "P190": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 34348,
+                    "id": "Q34348"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Nova Pádua",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "4313086",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+2450",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Novapadua.jpg",
+                "type": "string"
+            }
+        ],
+        "P242": [
+            {
+                "value": "RioGrandedoSul Municip NovaPadua.svg",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeiranp.jpg",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 25973900,
+                    "id": "Q25973900"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasaonp.jpg",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+638",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.832",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+103.239",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P402": [
+            {
+                "value": "3622355",
+                "type": "string"
+            }
+        ]
+    }
+}

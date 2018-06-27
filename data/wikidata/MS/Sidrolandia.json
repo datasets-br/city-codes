@@ -1,0 +1,156 @@
+{
+    "pageid": 1723640,
+    "ns": 0,
+    "type": "item",
+    "id": "Q1792185",
+    "claims": {
+        "P625": [
+            {
+                "value": {
+                    "latitude": -20.931944444444,
+                    "longitude": -54.960833333333,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 43319,
+                    "id": "Q43319"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/027d3rd",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3447597",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasão de Sidrolândia.JPG",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Sidrolândia",
+                "type": "string"
+            }
+        ],
+        "P935": [
+            {
+                "value": "Sidrolândia",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "5007901",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+42132",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1667": [
+            {
+                "value": "1023085",
+                "type": "string"
+            }
+        ],
+        "P242": [
+            {
+                "value": "MatoGrossodoSul Municip Sidrolandia.svg",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira de Sidrolândia.gif",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 25937717,
+                    "id": "Q25937717"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+484",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+5286.490",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.686",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P402": [
+            {
+                "value": "334042",
+                "type": "string"
+            }
+        ]
+    }
+}

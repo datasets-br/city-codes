@@ -1,0 +1,192 @@
+{
+    "pageid": 793466,
+    "ns": 0,
+    "type": "item",
+    "id": "Q841218",
+    "claims": {
+        "P373": [
+            {
+                "value": "Magé",
+                "type": "string"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -22.652777777778,
+                    "longitude": -43.040833333333,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 41428,
+                    "id": "Q41428"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/08990y",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3458142",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 9613717,
+                    "id": "Q9613717"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P214": [
+            {
+                "value": "141959117",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+5",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+6",
+                    "lowerBound": "+4"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasão de Magé, RJ.svg",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira de Magé.svg",
+                "type": "string"
+            }
+        ],
+        "P1667": [
+            {
+                "value": "7017089",
+                "type": "string"
+            }
+        ],
+        "P1281": [
+            {
+                "value": "439054",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.mage.rj.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "3302502",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+227322",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "RiodeJaneiro Municip Mage.svg",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Centro de Magé.jpg",
+                "type": "string"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.709",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+385.696",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P3417": [
+            {
+                "value": "Magé-Brazil",
+                "type": "string"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 193021,
+                    "id": "Q193021"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "2220786",
+                "type": "string"
+            }
+        ]
+    }
+}

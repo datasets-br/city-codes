@@ -1,0 +1,174 @@
+{
+    "pageid": 2029301,
+    "ns": 0,
+    "type": "item",
+    "id": "Q2102772",
+    "claims": {
+        "P625": [
+            {
+                "value": {
+                    "latitude": -8.0669444444444,
+                    "longitude": -39.122222222222,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40942,
+                    "id": "Q40942"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/02rvwg",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3389860",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Salgueiro (Pernambuco)",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "2612208",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+56629",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira salgueiro.png",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.salgueiro.pe.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+420",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasaosalgueiro.jpg",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Salgueiro Pernambuco.jpg",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "56000-000",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+1686.815",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.669",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2028236,
+                    "id": "Q2028236"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1811159,
+                    "id": "Q1811159"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "303600",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 30677424,
+                    "id": "Q30677424"
+                },
+                "type": "wikibase-entityid"
+            }
+        ]
+    }
+}

@@ -1,0 +1,142 @@
+{
+    "pageid": 910352,
+    "ns": 0,
+    "type": "item",
+    "id": "Q960563",
+    "claims": {
+        "P625": [
+            {
+                "value": {
+                    "latitude": -29.565833333333,
+                    "longitude": -54.46,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40030,
+                    "id": "Q40030"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/027wn4_",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "6323511",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Mata (Rio Grande do Sul)",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+127",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+128",
+                    "lowerBound": "+126"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Portal de mata.JPG",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "4312104",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+5111",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "RioGrandedoSul Municip Mata.svg",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Mata bandeira site.jpg",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Mata brasao site.jpg",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+212.120",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.752",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P402": [
+            {
+                "value": "242730",
+                "type": "string"
+            }
+        ]
+    }
+}

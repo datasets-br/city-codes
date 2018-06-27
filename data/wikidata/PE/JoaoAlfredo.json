@@ -1,0 +1,173 @@
+{
+    "pageid": 739896,
+    "ns": 0,
+    "type": "item",
+    "id": "Q786899",
+    "claims": {
+        "P625": [
+            {
+                "value": {
+                    "latitude": -7.8558333333333,
+                    "longitude": -35.587777777778,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40942,
+                    "id": "Q40942"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/07k92_y",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3397319",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "João Alfredo",
+                "type": "string"
+            }
+        ],
+        "P214": [
+            {
+                "value": "158386596",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "2608107",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+30743",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Mapa de João Alfredo (2).png",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira de João Alfredo.gif",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 27588952,
+                    "id": "Q27588952"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+328",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+133.524",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.576",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P281": [
+            {
+                "value": "55720000",
+                "type": "string"
+            }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1935-00-00T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 9,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2097751,
+                    "id": "Q2097751"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "303625",
+                "type": "string"
+            }
+        ]
+    }
+}

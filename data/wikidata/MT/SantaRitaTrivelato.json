@@ -1,0 +1,125 @@
+{
+    "pageid": 1992665,
+    "ns": 0,
+    "type": "item",
+    "id": "Q2065385",
+    "claims": {
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -13.811944444444,
+                    "longitude": -55.266944444444,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 42824,
+                    "id": "Q42824"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/09rwx3c",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Santa Rita do Trivelato",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "6324163",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "5107768",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+3135",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "MatoGrosso Municip SantaRitadoTrivelato.svg",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "BSRT.jpeg",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Coat of arms of Santa Rita do Trivelato MT.png",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+495",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+4728.204",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P402": [
+            {
+                "value": "333672",
+                "type": "string"
+            }
+        ]
+    }
+}

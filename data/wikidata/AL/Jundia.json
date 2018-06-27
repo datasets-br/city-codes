@@ -1,0 +1,133 @@
+{
+    "pageid": 1949042,
+    "ns": 0,
+    "type": "item",
+    "id": "Q2020978",
+    "claims": {
+        "P625": [
+            {
+                "value": {
+                    "latitude": -8.935,
+                    "longitude": -35.573888888889,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40885,
+                    "id": "Q40885"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/026wcg6",
+                "type": "string"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Jundiá.png",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3397068",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Jundiá (Alagoas)",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "2703908",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+4231",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 29033722,
+                    "id": "Q29033722"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+119.713",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.56",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P402": [
+            {
+                "value": "303774",
+                "type": "string"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1816167,
+                    "id": "Q1816167"
+                },
+                "type": "wikibase-entityid"
+            }
+        ]
+    }
+}

@@ -1,0 +1,139 @@
+{
+    "pageid": 938414,
+    "ns": 0,
+    "type": "item",
+    "id": "Q988800",
+    "claims": {
+        "P625": [
+            {
+                "value": {
+                    "latitude": -9.3927777777778,
+                    "longitude": -37.100833333333,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40885,
+                    "id": "Q40885"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/026w7v4",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3400989",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Dois Riachos",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 9649932,
+                    "id": "Q9649932"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.doisriachos.al.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "2702504",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "2702504",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+11214",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+140.472",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.547",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1808791,
+                    "id": "Q1808791"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "303831",
+                "type": "string"
+            }
+        ]
+    }
+}

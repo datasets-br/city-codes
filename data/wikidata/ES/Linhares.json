@@ -1,0 +1,208 @@
+{
+    "pageid": 1688073,
+    "ns": 0,
+    "type": "item",
+    "id": "Q1755402",
+    "claims": {
+        "P41": [
+            {
+                "value": "Bandeira-linhares.png",
+                "type": "string"
+            }
+        ],
+        "P158": [
+            {
+                "value": "Brasao-linhares-es.jpg",
+                "type": "string"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -19.390833333333,
+                    "longitude": -40.071944444444,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 43233,
+                    "id": "Q43233"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Linhares (Espírito Santo)",
+                "type": "string"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/0306yc",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3458498",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+33",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+34",
+                    "lowerBound": "+32"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Regencia, Cidade de Linhares, Espirito Santo 3.jpg",
+                "type": "string"
+            }
+        ],
+        "P1281": [
+            {
+                "value": "456304",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "3203205",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+141306",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.linhares.es.gov.br",
+                "type": "string"
+            }
+        ],
+        "P242": [
+            {
+                "value": "EspiritoSanto Municip Linhares.svg",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasao-linhares-es.jpg",
+                "type": "string"
+            }
+        ],
+        "P1792": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 29838576,
+                    "id": "Q29838576"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+3504.138",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.724",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 27499840,
+                    "id": "Q27499840"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1464": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 41793702,
+                    "id": "Q41793702"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1763574,
+                    "id": "Q1763574"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1806671,
+                    "id": "Q1806671"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "1843541",
+                "type": "string"
+            }
+        ]
+    }
+}

@@ -1,0 +1,206 @@
+{
+    "pageid": 724881,
+    "ns": 0,
+    "type": "item",
+    "id": "Q771575",
+    "claims": {
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira Garanhuns.png",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasao oficial garanhuns.png",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Garanhuns",
+                "type": "string"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -8.8902777777778,
+                    "longitude": -36.492777777778,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40942,
+                    "id": "Q40942"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/08th9x",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3399058",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 8962256,
+                    "id": "Q8962256"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P214": [
+            {
+                "value": "125277036",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+896",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+897",
+                    "lowerBound": "+895"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Montagem Garanhuns.jpg",
+                "type": "string"
+            }
+        ],
+        "P935": [
+            {
+                "value": "Garanhuns",
+                "type": "string"
+            }
+        ],
+        "P1417": [
+            {
+                "value": "place/Garanhuns",
+                "type": "string"
+            }
+        ],
+        "P1281": [
+            {
+                "value": "455950",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.garanhuns.pe.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "2606002",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+117749",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+136949",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+129408",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P3417": [
+            {
+                "value": "Garanhuns",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+458.552",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.664",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P402": [
+            {
+                "value": "303628",
+                "type": "string"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2064935,
+                    "id": "Q2064935"
+                },
+                "type": "wikibase-entityid"
+            }
+        ]
+    }
+}

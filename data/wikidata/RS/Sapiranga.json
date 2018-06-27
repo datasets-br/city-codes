@@ -1,0 +1,215 @@
+{
+    "pageid": 933395,
+    "ns": 0,
+    "type": "item",
+    "id": "Q983717",
+    "claims": {
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -29.637777777778,
+                    "longitude": -51.006944444444,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40030,
+                    "id": "Q40030"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/042s_0",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3448063",
+                "type": "string"
+            },
+            {
+                "value": "6323646",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Sapiranga",
+                "type": "string"
+            }
+        ],
+        "P214": [
+            {
+                "value": "304967524",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "PracaBandeiraSapiranga.jpg",
+                "type": "string"
+            }
+        ],
+        "P1281": [
+            {
+                "value": "456536",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.sapiranga.rs.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "4319901",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+74985",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "RioGrandedoSul Municip Sapiranga.svg",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira de Sapiranga.png",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 25973439,
+                    "id": "Q25973439"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+36",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+63",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Coat of arms of Sapiranga RS.png",
+                "type": "string"
+            }
+        ],
+        "P3417": [
+            {
+                "value": "Sapiranga",
+                "type": "string"
+            }
+        ],
+        "P2427": [
+            {
+                "value": "grid.472946.a",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+137.519",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.806",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P281": [
+            {
+                "value": "93800-000",
+                "type": "string"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 321331,
+                    "id": "Q321331"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 388073,
+                    "id": "Q388073"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "242566",
+                "type": "string"
+            }
+        ]
+    }
+}

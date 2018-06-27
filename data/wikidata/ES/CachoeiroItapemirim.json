@@ -1,0 +1,243 @@
+{
+    "pageid": 1377481,
+    "ns": 0,
+    "type": "item",
+    "id": "Q1439193",
+    "claims": {
+        "P41": [
+            {
+                "value": "BandeiraCachuES.jpg",
+                "type": "string"
+            }
+        ],
+        "P158": [
+            {
+                "value": "BrasaoCachuES.jpg",
+                "type": "string"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P94": [
+            {
+                "value": "BrasaoCachuES.jpg",
+                "type": "string"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -20.848888888889,
+                    "longitude": -41.112777777778,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Cachoeiro de Itapemirim",
+                "type": "string"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 43233,
+                    "id": "Q43233"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3957,
+                    "id": "Q3957"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/02ynhx",
+                "type": "string"
+            }
+        ],
+        "P982": [
+            {
+                "value": "7d63a8b5-98ce-44bd-a195-31be88b3006a",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3468376",
+                "type": "string"
+            }
+        ],
+        "P1464": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 13335535,
+                    "id": "Q13335535"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 9562653,
+                    "id": "Q9562653"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+22",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+23",
+                    "lowerBound": "+21"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Cachoeiro de Itapemirim-ES.jpg",
+                "type": "string"
+            }
+        ],
+        "P1997": [
+            {
+                "value": "114301671919784",
+                "type": "string"
+            }
+        ],
+        "P1281": [
+            {
+                "value": "455847",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "3201209",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+189889",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "EspiritoSanto Municip CachoeirodeItapemirim.svg",
+                "type": "string"
+            }
+        ],
+        "P1792": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 32756751,
+                    "id": "Q32756751"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+876.792",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.746",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1864-00-00T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 9,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1794952,
+                    "id": "Q1794952"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 739272,
+                    "id": "Q739272"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 648890,
+                    "id": "Q648890"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "1828250",
+                "type": "string"
+            }
+        ]
+    }
+}

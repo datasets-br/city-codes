@@ -1,0 +1,204 @@
+{
+    "pageid": 369278,
+    "ns": 0,
+    "type": "item",
+    "id": "Q388073",
+    "claims": {
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -29.678888888889,
+                    "longitude": -51.052777777778,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40030,
+                    "id": "Q40030"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/0b9psk",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3467791",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Campo Bom",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 9567320,
+                    "id": "Q9567320"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P214": [
+            {
+                "value": "125448526",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Coat of arms of Campo Bom RS.png",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+29",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+30",
+                    "lowerBound": "+28"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1281": [
+            {
+                "value": "458976",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "4303905",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+60074",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Locator map of Campo Bom in Rio Grande do Sul.svg",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Largo Irmãos Vetter em Campo Bom.JPG",
+                "type": "string"
+            }
+        ],
+        "P3417": [
+            {
+                "value": "Campo-Bom",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+61.406",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.837",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P281": [
+            {
+                "value": "93700-000",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira de Campo Bom.png",
+                "type": "string"
+            }
+        ],
+        "P1464": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 25936715,
+                    "id": "Q25936715"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 983717,
+                    "id": "Q983717"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 783009,
+                    "id": "Q783009"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "242613",
+                "type": "string"
+            }
+        ]
+    }
+}

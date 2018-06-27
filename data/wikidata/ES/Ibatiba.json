@@ -1,0 +1,143 @@
+{
+    "pageid": 1726619,
+    "ns": 0,
+    "type": "item",
+    "id": "Q1795195",
+    "claims": {
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -20.236388888889,
+                    "longitude": -41.509166666667,
+                    "altitude": null,
+                    "precision": null,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 43233,
+                    "id": "Q43233"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/047rdd",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3461624",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Ibatiba",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "3202454",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+22366",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "EspiritoSanto Municip Ibatiba.svg",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Vista parcial de Ibatiba ES a partir da BR-262.JPG",
+                "type": "string"
+            }
+        ],
+        "P3417": [
+            {
+                "value": "Ibatiba",
+                "type": "string"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.647",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+241.490",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 641281,
+                    "id": "Q641281"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1797483,
+                    "id": "Q1797483"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "1830501",
+                "type": "string"
+            }
+        ]
+    }
+}

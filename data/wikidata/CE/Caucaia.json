@@ -1,0 +1,252 @@
+{
+    "pageid": 770102,
+    "ns": 0,
+    "type": "item",
+    "id": "Q817233",
+    "claims": {
+        "P41": [
+            {
+                "value": "Bandeira caucaia ce.png",
+                "type": "string"
+            }
+        ],
+        "P158": [
+            {
+                "value": "Brasao caucaia ce.png",
+                "type": "string"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Ceara Municip Caucaia.svg",
+                "type": "string"
+            }
+        ],
+        "P421": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 6513,
+                    "id": "Q6513"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -3.7327777777778,
+                    "longitude": -38.655833333333,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40123,
+                    "id": "Q40123"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/0ggtdb",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3402429",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Caucaia",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 9595294,
+                    "id": "Q9595294"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P214": [
+            {
+                "value": "123219433",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+29",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+30",
+                    "lowerBound": "+28"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1667": [
+            {
+                "value": "1021142",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Kitecumbuco2.jpg",
+                "type": "string"
+            }
+        ],
+        "P1997": [
+            {
+                "value": "109524805739434",
+                "type": "string"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 43463,
+                    "id": "Q43463"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1281": [
+            {
+                "value": "457013",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.caucaia.ce.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "2303709",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+325441",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+316906",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasao caucaia ce.png",
+                "type": "string"
+            }
+        ],
+        "P1705": [
+            {
+                "value": {
+                    "text": "Caucaia",
+                    "language": "pt"
+                },
+                "type": "monolingualtext"
+            }
+        ],
+        "P1448": [
+            {
+                "value": {
+                    "text": "Caucaia",
+                    "language": "pt"
+                },
+                "type": "monolingualtext"
+            }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1759-00-00T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 9,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+1227.895",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.682",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P3417": [
+            {
+                "value": "Caucaia-Ceara-Brazil",
+                "type": "string"
+            }
+        ],
+        "P402": [
+            {
+                "value": "302624",
+                "type": "string"
+            }
+        ]
+    }
+}

@@ -1,0 +1,186 @@
+{
+    "pageid": 923204,
+    "ns": 0,
+    "type": "item",
+    "id": "Q973513",
+    "claims": {
+        "P41": [
+            {
+                "value": "Bandeira Palhoça.png",
+                "type": "string"
+            }
+        ],
+        "P158": [
+            {
+                "value": "Brasao Palhoça.png",
+                "type": "string"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -27.644444444444,
+                    "longitude": -48.667777777778,
+                    "altitude": null,
+                    "precision": null,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 41115,
+                    "id": "Q41115"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/04qmnq",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3455478",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Palhoça",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+3",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+4",
+                    "lowerBound": "+2"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Guarda do embau.jpg",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.palhoca.sc.gov.br",
+                "type": "string"
+            }
+        ],
+        "P242": [
+            {
+                "value": "SantaCatarina Municip Palhoca.svg",
+                "type": "string"
+            }
+        ],
+        "P1281": [
+            {
+                "value": "460341",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "4211900",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+137334",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 25973479,
+                    "id": "Q25973479"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasao Palhoça.png",
+                "type": "string"
+            }
+        ],
+        "P473": [
+            {
+                "value": "048",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+394.662",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.757",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 173849,
+                    "id": "Q173849"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "296582",
+                "type": "string"
+            }
+        ]
+    }
+}

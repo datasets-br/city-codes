@@ -1,0 +1,196 @@
+{
+    "pageid": 1690750,
+    "ns": 0,
+    "type": "item",
+    "id": "Q1758146",
+    "claims": {
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira-Nova Prata.jpg",
+                "type": "string"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -28.783888888889,
+                    "longitude": -51.61,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40030,
+                    "id": "Q40030"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/0271rxr",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3456125",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+820",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+821",
+                    "lowerBound": "+819"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1281": [
+            {
+                "value": "457680",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "4313300",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+22830",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "RioGrandedoSul Municip NovaPrata.svg",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 25973442,
+                    "id": "Q25973442"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasao-Nova Prata.JPG",
+                "type": "string"
+            }
+        ],
+        "P3417": [
+            {
+                "value": "Nova-Prata",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Prefeitura municipal de Nova Prata.JPG",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+258.752",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.839",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P281": [
+            {
+                "value": "95320-000",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Nova Prata",
+                "type": "string"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 523535,
+                    "id": "Q523535"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1754318,
+                    "id": "Q1754318"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1757450,
+                    "id": "Q1757450"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "242661",
+                "type": "string"
+            }
+        ]
+    }
+}

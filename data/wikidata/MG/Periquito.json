@@ -1,0 +1,64 @@
+{
+    "pageid": 9625,
+    "ns": 0,
+    "type": "item",
+    "id": "Q8329",
+    "claims": {
+        "P646": [
+            {
+                "value": "/m/02p0w7s",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Wellensittich02.jpg",
+                "type": "string"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 502895,
+                    "id": "Q502895"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P935": [
+            {
+                "value": "Budgerigars",
+                "type": "string"
+            }
+        ],
+        "P3417": [
+            {
+                "value": "Parakeets",
+                "type": "string"
+            }
+        ],
+        "P3827": [
+            {
+                "value": "parakeets",
+                "type": "string"
+            }
+        ],
+        "P51": [
+            {
+                "value": "Domesticated budgerigars birdsong 01.ogg",
+                "type": "string"
+            }
+        ],
+        "P279": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 622852,
+                    "id": "Q622852"
+                },
+                "type": "wikibase-entityid"
+            }
+        ]
+    }
+}

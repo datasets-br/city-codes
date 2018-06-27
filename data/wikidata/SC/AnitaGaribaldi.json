@@ -1,0 +1,195 @@
+{
+    "pageid": 581799,
+    "ns": 0,
+    "type": "item",
+    "id": "Q617657",
+    "claims": {
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Anita Garibaldi (Santa Catarina)",
+                "type": "string"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -27.688888888889,
+                    "longitude": -51.13,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            },
+            {
+                "value": {
+                    "latitude": -27.72616,
+                    "longitude": -51.05838,
+                    "altitude": null,
+                    "precision": 1.0e-5,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 41115,
+                    "id": "Q41115"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/080mj5d",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3472129",
+                "type": "string"
+            },
+            {
+                "value": "6323051",
+                "type": "string"
+            }
+        ],
+        "P214": [
+            {
+                "value": "142068975",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+885",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+886",
+                    "lowerBound": "+884"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+964",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.anitagaribaldi.sc.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "4201000",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+8623",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "SantaCatarina Municip AnitaGaribaldi.svg",
+                "type": "string"
+            }
+        ],
+        "P473": [
+            {
+                "value": "049",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "88590-000",
+                "type": "string"
+            }
+        ],
+        "P3417": [
+            {
+                "value": "Anita-Garibaldi-Santa-Catarina",
+                "type": "string"
+            }
+        ],
+        "P421": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 6513,
+                    "id": "Q6513"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.75",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+588.612",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P402": [
+            {
+                "value": "296645",
+                "type": "string"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1637414,
+                    "id": "Q1637414"
+                },
+                "type": "wikibase-entityid"
+            }
+        ]
+    }
+}

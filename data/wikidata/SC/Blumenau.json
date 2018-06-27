@@ -1,0 +1,362 @@
+{
+    "pageid": 156733,
+    "ns": 0,
+    "type": "item",
+    "id": "Q155557",
+    "claims": {
+        "P1585": [
+            {
+                "value": "4202404",
+                "type": "string"
+            }
+        ],
+        "P402": [
+            {
+                "value": "296522",
+                "type": "string"
+            }
+        ],
+        "P190": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 964130,
+                    "id": "Q964130"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Blumenau",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Flag of Blumenau.svg",
+                "type": "string"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Coat of arms of Blumenau.svg",
+                "type": "string"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -26.918888888889,
+                    "longitude": -49.065833333333,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 41115,
+                    "id": "Q41115"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1549591,
+                    "id": "Q1549591"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 8303436,
+                    "id": "Q8303436"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/02yghz",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3469968",
+                "type": "string"
+            }
+        ],
+        "P227": [
+            {
+                "value": "4007236-8",
+                "type": "string"
+            }
+        ],
+        "P1464": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 9223586,
+                    "id": "Q9223586"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1465": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 17634298,
+                    "id": "Q17634298"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P214": [
+            {
+                "value": "153611830",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+21",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+22",
+                    "lowerBound": "+20"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Blumenau center from Itajai-Acu river.JPG",
+                "type": "string"
+            }
+        ],
+        "P935": [
+            {
+                "value": "Blumenau",
+                "type": "string"
+            }
+        ],
+        "P242": [
+            {
+                "value": "SantaCatarina Municip Blumenau.svg",
+                "type": "string"
+            }
+        ],
+        "P1997": [
+            {
+                "value": "106081109431806",
+                "type": "string"
+            }
+        ],
+        "P1281": [
+            {
+                "value": "455846",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+309011",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+292972",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.blumenau.sc.gov.br",
+                "type": "string"
+            }
+        ],
+        "P1417": [
+            {
+                "value": "place/Blumenau",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "89000-000",
+                "type": "string"
+            }
+        ],
+        "P473": [
+            {
+                "value": "047",
+                "type": "string"
+            }
+        ],
+        "P3417": [
+            {
+                "value": "Blumenau",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0010567",
+                "type": "string"
+            }
+        ],
+        "P1705": [
+            {
+                "value": {
+                    "text": "Blumenau",
+                    "language": "pt"
+                },
+                "type": "monolingualtext"
+            }
+        ],
+        "P1448": [
+            {
+                "value": {
+                    "text": "Blumenau",
+                    "language": "pt"
+                },
+                "type": "monolingualtext"
+            }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1850-00-00T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 9,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+519.837",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1792": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 8728317,
+                    "id": "Q8728317"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.806",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P982": [
+            {
+                "value": "9f816185-e0b6-49ac-98db-65b209c8737b",
+                "type": "string"
+            }
+        ],
+        "P1343": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 602358,
+                    "id": "Q602358"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 980131,
+                    "id": "Q980131"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 326651,
+                    "id": "Q326651"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 849584,
+                    "id": "Q849584"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 856583,
+                    "id": "Q856583"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1758034,
+                    "id": "Q1758034"
+                },
+                "type": "wikibase-entityid"
+            }
+        ]
+    }
+}

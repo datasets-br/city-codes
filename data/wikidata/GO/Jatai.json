@@ -1,0 +1,204 @@
+{
+    "pageid": 912950,
+    "ns": 0,
+    "type": "item",
+    "id": "Q963195",
+    "claims": {
+        "P373": [
+            {
+                "value": "Jataí (Goiás)",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira do município de Jataí.jpg",
+                "type": "string"
+            }
+        ],
+        "P158": [
+            {
+                "value": "Jatahi.jpg",
+                "type": "string"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Jatahi.jpg",
+                "type": "string"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -17.880833333333,
+                    "longitude": -51.713888888889,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 41587,
+                    "id": "Q41587"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/07p7vz",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "6324005",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 8978589,
+                    "id": "Q8978589"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+708",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+709",
+                    "lowerBound": "+707"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Jataí.jpg",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "5211909",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+88006",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Goias Municip Jatai.svg",
+                "type": "string"
+            }
+        ],
+        "P3417": [
+            {
+                "value": "Jatai-Goiás-Brazil",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+7174.217",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.757",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1417": [
+            {
+                "value": "place/Jatai",
+                "type": "string"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1761543,
+                    "id": "Q1761543"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1805807,
+                    "id": "Q1805807"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1795244,
+                    "id": "Q1795244"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1805725,
+                    "id": "Q1805725"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "334435",
+                "type": "string"
+            }
+        ]
+    }
+}

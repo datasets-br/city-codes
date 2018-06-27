@@ -1,0 +1,44 @@
+{
+    "pageid": 1571744,
+    "ns": 0,
+    "type": "item",
+    "id": "Q1637454",
+    "claims": {
+        "P1417": [
+            {
+                "value": "place/Tres-Lagoas",
+                "type": "string"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3257686,
+                    "id": "Q3257686"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 22067368,
+                    "id": "Q22067368"
+                },
+                "type": "wikibase-entityid"
+            }
+        ]
+    }
+}

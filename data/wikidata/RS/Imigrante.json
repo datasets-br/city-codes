@@ -1,0 +1,170 @@
+{
+    "pageid": 692786,
+    "ns": 0,
+    "type": "item",
+    "id": "Q736649",
+    "claims": {
+        "P158": [
+            {
+                "value": "Brasaoimigranters.png",
+                "type": "string"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -29.355,
+                    "longitude": -51.776944444444,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40030,
+                    "id": "Q40030"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/0frnjs",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "6319208",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Imigrante",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 10219392,
+                    "id": "Q10219392"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+100",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+101",
+                    "lowerBound": "+99"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "4310363",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+3023",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "RioGrandedoSul Municip Imigrante.svg",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasaoimigranters.png",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Bairroesperança.JPG",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+73.355",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.828",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 785702,
+                    "id": "Q785702"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1803215,
+                    "id": "Q1803215"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "242744",
+                "type": "string"
+            }
+        ]
+    }
+}

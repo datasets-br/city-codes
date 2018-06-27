@@ -1,0 +1,200 @@
+{
+    "pageid": 560665,
+    "ns": 0,
+    "type": "item",
+    "id": "Q595804",
+    "claims": {
+        "P373": [
+            {
+                "value": "Campo Belo (Minas Gerais)",
+                "type": "string"
+            }
+        ],
+        "P158": [
+            {
+                "value": "Brasao cb.jpg",
+                "type": "string"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -20.896944444444,
+                    "longitude": -45.276944444444,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/027w2hm",
+                "type": "string"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 39109,
+                    "id": "Q39109"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3467796",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 9567315,
+                    "id": "Q9567315"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P214": [
+            {
+                "value": "131556036",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Corredor de arvores.jpg",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "3111200",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+51544",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "MinasGerais Municip CampoBelo.svg",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Campo Belo - Flag.png",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Campo Belo - Coat of Arms.png",
+                "type": "string"
+            }
+        ],
+        "P3417": [
+            {
+                "value": "Campo-Belo",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+945",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+526.753",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.776",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P281": [
+            {
+                "value": "37270-000",
+                "type": "string"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 691275,
+                    "id": "Q691275"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 583832,
+                    "id": "Q583832"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 678998,
+                    "id": "Q678998"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "315324",
+                "type": "string"
+            }
+        ]
+    }
+}

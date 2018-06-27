@@ -1,0 +1,227 @@
+{
+    "pageid": 613553,
+    "ns": 0,
+    "type": "item",
+    "id": "Q651906",
+    "claims": {
+        "P373": [
+            {
+                "value": "Montes Claros",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira MontesClaros MinasGerais Brasil.svg",
+                "type": "string"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -16.732222222222,
+                    "longitude": -43.863611111111,
+                    "altitude": null,
+                    "precision": null,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            },
+            {
+                "value": {
+                    "latitude": -16.58789,
+                    "longitude": -43.89995,
+                    "altitude": null,
+                    "precision": 1.0e-5,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 39109,
+                    "id": "Q39109"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3456814",
+                "type": "string"
+            },
+            {
+                "value": "6321583",
+                "type": "string"
+            }
+        ],
+        "P227": [
+            {
+                "value": "7651834-6",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 9026912,
+                    "id": "Q9026912"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P214": [
+            {
+                "value": "239676415",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+678",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+679",
+                    "lowerBound": "+677"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+895",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1997": [
+            {
+                "value": "103996099635518",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "3143302",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+361915",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "MinasGerais Municip MontesClaros.svg",
+                "type": "string"
+            }
+        ],
+        "P1464": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 9629093,
+                    "id": "Q9629093"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasão Montes Claros.jpg",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Vista parcial de Montes Claros MG.JPG",
+                "type": "string"
+            }
+        ],
+        "P3417": [
+            {
+                "value": "Montes-Claros-Brazil",
+                "type": "string"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.770",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+3582.034",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1756943,
+                    "id": "Q1756943"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1790146,
+                    "id": "Q1790146"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1791860,
+                    "id": "Q1791860"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "314620",
+                "type": "string"
+            }
+        ]
+    }
+}

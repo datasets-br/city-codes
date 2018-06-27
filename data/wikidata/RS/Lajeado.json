@@ -1,0 +1,212 @@
+{
+    "pageid": 961987,
+    "ns": 0,
+    "type": "item",
+    "id": "Q1012550",
+    "claims": {
+        "P41": [
+            {
+                "value": "Bandeira-lajeadors.jpg",
+                "type": "string"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -29.466944444444,
+                    "longitude": -51.960833333333,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40030,
+                    "id": "Q40030"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/02vqx9k",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3459035",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Lajeado (Rio Grande do Sul)",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 20056507,
+                    "id": "Q20056507"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P214": [
+            {
+                "value": "160106878",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+32",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+33",
+                    "lowerBound": "+31"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "4311403",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+71445",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.lajeado.rs.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasao lajeado rs br.png",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Prefeituramunicipal lajeado rs br.jpg",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+91.16",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P281": [
+            {
+                "value": "95900-001 até 95914-999",
+                "type": "string"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.778",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 601869,
+                    "id": "Q601869"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 985567,
+                    "id": "Q985567"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1889": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2085548,
+                    "id": "Q2085548"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "242487",
+                "type": "string"
+            }
+        ],
+        "P1792": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 49921516,
+                    "id": "Q49921516"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1464": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 32332121,
+                    "id": "Q32332121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ]
+    }
+}

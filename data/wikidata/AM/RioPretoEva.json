@@ -1,0 +1,143 @@
+{
+    "pageid": 1724991,
+    "ns": 0,
+    "type": "item",
+    "id": "Q1793560",
+    "claims": {
+        "P625": [
+            {
+                "value": {
+                    "latitude": -2.6988888888889,
+                    "longitude": -59.7,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40040,
+                    "id": "Q40040"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/026x2wj",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "6318165",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Rio Preto da Eva",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Cristo Redentor em Rio Preto da Eva.jpg",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "1303569",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+17582",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+30530",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+25719",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira de Rio Preto da Eva.gif",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 25974058,
+                    "id": "Q25974058"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+5813.225",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.611",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P402": [
+            {
+                "value": "332500",
+                "type": "string"
+            }
+        ]
+    }
+}

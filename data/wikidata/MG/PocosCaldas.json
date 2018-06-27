@@ -1,0 +1,259 @@
+{
+    "pageid": 770085,
+    "ns": 0,
+    "type": "item",
+    "id": "Q817216",
+    "claims": {
+        "P41": [
+            {
+                "value": "Bandeirapocos.png",
+                "type": "string"
+            }
+        ],
+        "P158": [
+            {
+                "value": "Brasao Pocos de Caldas.JPG",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Poços de Caldas",
+                "type": "string"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasao Pocos de Caldas.JPG",
+                "type": "string"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -21.787777777778,
+                    "longitude": -46.560833333333,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            },
+            {
+                "value": {
+                    "latitude": -21.7934,
+                    "longitude": -46.53571,
+                    "altitude": null,
+                    "precision": 1.0e-5,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            },
+            {
+                "value": {
+                    "latitude": -21.78778,
+                    "longitude": -46.56139,
+                    "altitude": null,
+                    "precision": 0.096742314610303,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/05kfjs",
+                "type": "string"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 39109,
+                    "id": "Q39109"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 486972,
+                    "id": "Q486972"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3453303",
+                "type": "string"
+            },
+            {
+                "value": "6321685",
+                "type": "string"
+            }
+        ],
+        "P214": [
+            {
+                "value": "145442105",
+                "type": "string"
+            }
+        ],
+        "P268": [
+            {
+                "value": "15623707c",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+1196",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+1197",
+                    "lowerBound": "+1195"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+1273",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1281": [
+            {
+                "value": "455984",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "3151800",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+152435",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "MinasGerais Municip PocosdeCaldas.svg",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Poços de caldas1.JPG",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 27500236,
+                    "id": "Q27500236"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+547.059",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.779",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P281": [
+            {
+                "value": "37700-001 a 37719-999",
+                "type": "string"
+            }
+        ],
+        "P3417": [
+            {
+                "value": "Poços-De-Caldas",
+                "type": "string"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1647805,
+                    "id": "Q1647805"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1756203,
+                    "id": "Q1756203"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1754887,
+                    "id": "Q1754887"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.pocosdecaldas.mg.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P402": [
+            {
+                "value": "315315",
+                "type": "string"
+            }
+        ]
+    }
+}

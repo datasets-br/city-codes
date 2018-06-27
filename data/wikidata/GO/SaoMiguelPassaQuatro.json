@@ -1,0 +1,144 @@
+{
+    "pageid": 938372,
+    "ns": 0,
+    "type": "item",
+    "id": "Q988757",
+    "claims": {
+        "P625": [
+            {
+                "value": {
+                    "latitude": -17.058888888889,
+                    "longitude": -48.662777777778,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 41587,
+                    "id": "Q41587"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/0bcplj",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "6318557",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "São Miguel do Passa Quatro",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "5220264",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+3757",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Goias Municip SaoMigueldoPassaQuatro.svg",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira de São Miguel do Passa-Quatro.jpg",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Smpq2.JPG",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+801",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.767",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+537.781",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P402": [
+            {
+                "value": "334391",
+                "type": "string"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 519154,
+                    "id": "Q519154"
+                },
+                "type": "wikibase-entityid"
+            }
+        ]
+    }
+}

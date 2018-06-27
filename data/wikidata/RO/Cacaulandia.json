@@ -1,0 +1,146 @@
+{
+    "pageid": 1683006,
+    "ns": 0,
+    "type": "item",
+    "id": "Q1750177",
+    "claims": {
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Cacaulandia bandeira.jpg",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Cacaulandia brasao.jpg",
+                "type": "string"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -10.339166666667,
+                    "longitude": -62.895277777778,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 43235,
+                    "id": "Q43235"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/027dr07",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Cacaulândia",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+6414",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+1961.75",
+                    "unit": "http://www.wikidata.org/entity/Q712226",
+                    "upperBound": "+1961.76",
+                    "lowerBound": "+1961.74"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "1100601",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "6319255",
+                "type": "string"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Rondonia Municip Cacaulandia.svg",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+205",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.646",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1646975,
+                    "id": "Q1646975"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "325847",
+                "type": "string"
+            }
+        ]
+    }
+}

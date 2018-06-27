@@ -1,0 +1,216 @@
+{
+    "pageid": 794355,
+    "ns": 0,
+    "type": "item",
+    "id": "Q842143",
+    "claims": {
+        "P41": [
+            {
+                "value": "Bandeira petrolina.svg",
+                "type": "string"
+            }
+        ],
+        "P158": [
+            {
+                "value": "Brasaopetro.PNG",
+                "type": "string"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -9.3927777777778,
+                    "longitude": -40.507777777778,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40942,
+                    "id": "Q40942"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Petrolina",
+                "type": "string"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/08fpjw",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3392242",
+                "type": "string"
+            }
+        ],
+        "P214": [
+            {
+                "value": "133767227",
+                "type": "string"
+            }
+        ],
+        "P268": [
+            {
+                "value": "12209588k",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+376",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+377",
+                    "lowerBound": "+375"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Montagem Petrolina(3).jpg",
+                "type": "string"
+            }
+        ],
+        "P1997": [
+            {
+                "value": "112503348760834",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.petrolina.pe.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "2611101",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+218538",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+337683",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+293962",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasaopetro.PNG",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 27499764,
+                    "id": "Q27499764"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+4561.872",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.702",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P3417": [
+            {
+                "value": "Petrolina-PE-Brazil",
+                "type": "string"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 753044,
+                    "id": "Q753044"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P361": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40942,
+                    "id": "Q40942"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "303629",
+                "type": "string"
+            }
+        ]
+    }
+}

@@ -1,0 +1,178 @@
+{
+    "pageid": 2006733,
+    "ns": 0,
+    "type": "item",
+    "id": "Q2079682",
+    "claims": {
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -8.11,
+                    "longitude": -42.943888888889,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 42722,
+                    "id": "Q42722"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/09rxmyz",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3403251",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Canto do Buriti",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 9569097,
+                    "id": "Q9569097"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1667": [
+            {
+                "value": "1021054",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "2202307",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+20020",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Piaui Municip CantodoBuriti.svg",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Canto do Buriti bandeira.PNG",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Canto do Buriti.PNG",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+269",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.616",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+4409.804",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P460": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 22059762,
+                    "id": "Q22059762"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "302822",
+                "type": "string"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1937384,
+                    "id": "Q1937384"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2064194,
+                    "id": "Q2064194"
+                },
+                "type": "wikibase-entityid"
+            }
+        ]
+    }
+}

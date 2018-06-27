@@ -1,0 +1,174 @@
+{
+    "pageid": 905879,
+    "ns": 0,
+    "type": "item",
+    "id": "Q956017",
+    "claims": {
+        "P373": [
+            {
+                "value": "Luziânia",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeiraluziania.png",
+                "type": "string"
+            }
+        ],
+        "P158": [
+            {
+                "value": "Brasaoluziania.png",
+                "type": "string"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -16.252777777778,
+                    "longitude": -47.95,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 41587,
+                    "id": "Q41587"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/09qdll",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3458329",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasaoluziania.png",
+                "type": "string"
+            }
+        ],
+        "P214": [
+            {
+                "value": "157118413",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+930",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+931",
+                    "lowerBound": "+929"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "5212501",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+174531",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Goias Municip Luziania.svg",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 25998620,
+                    "id": "Q25998620"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Foto panorâmica de Luziânia Goiás.jpg",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+3961.099",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.701",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 955680,
+                    "id": "Q955680"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "334525",
+                "type": "string"
+            }
+        ]
+    }
+}

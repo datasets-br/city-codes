@@ -1,0 +1,143 @@
+{
+    "pageid": 2015804,
+    "ns": 0,
+    "type": "item",
+    "id": "Q2088917",
+    "claims": {
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira de Ouro Branco, Rio Grande do Norte, Brasil.png",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasão de Ouro Branco, Rio Grande do Norte, Brasil.png",
+                "type": "string"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -6.7008333333333,
+                    "longitude": -36.945833333333,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 43255,
+                    "id": "Q43255"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/09rtt64",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3393428",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Ouro Branco (Rio Grande do Norte)",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "2408508",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+4699",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "RioGrandedoNorte Municip OuroBranco.svg",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+253.300",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.645",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1751350,
+                    "id": "Q1751350"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1786789,
+                    "id": "Q1786789"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "301138",
+                "type": "string"
+            }
+        ]
+    }
+}

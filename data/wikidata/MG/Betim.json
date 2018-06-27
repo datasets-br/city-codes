@@ -1,0 +1,222 @@
+{
+    "pageid": 693748,
+    "ns": 0,
+    "type": "item",
+    "id": "Q737644",
+    "claims": {
+        "P373": [
+            {
+                "value": "Betim",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira Betim.png",
+                "type": "string"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -19.967777777778,
+                    "longitude": -44.197777777778,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 39109,
+                    "id": "Q39109"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/0f92v4",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3470044",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 9554058,
+                    "id": "Q9554058"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P214": [
+            {
+                "value": "157096433",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+817",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+818",
+                    "lowerBound": "+816"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasão Betim.png",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Vista parcial de Betim MG.JPG",
+                "type": "string"
+            }
+        ],
+        "P1997": [
+            {
+                "value": "108393699180845",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.betim.mg.gov.br",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "3106705",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+378089",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "MinasGerais Municip Betim.svg",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "32500-000",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+346",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.749",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P3417": [
+            {
+                "value": "Betim-Brazil",
+                "type": "string"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 271333,
+                    "id": "Q271333"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 936682,
+                    "id": "Q936682"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1789187,
+                    "id": "Q1789187"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1791724,
+                    "id": "Q1791724"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "368812",
+                "type": "string"
+            }
+        ],
+        "P227": [
+            {
+                "value": "1065777973",
+                "type": "string"
+            }
+        ]
+    }
+}

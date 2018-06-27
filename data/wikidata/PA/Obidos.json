@@ -1,0 +1,172 @@
+{
+    "pageid": 542841,
+    "ns": 0,
+    "type": "item",
+    "id": "Q577167",
+    "claims": {
+        "P41": [
+            {
+                "value": "Band obidos br.jpg",
+                "type": "string"
+            }
+        ],
+        "P158": [
+            {
+                "value": "Brasao obidos.jpg",
+                "type": "string"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasao obidos.jpg",
+                "type": "string"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -1.9177777777778,
+                    "longitude": -55.517777777778,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 39517,
+                    "id": "Q39517"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/0bqxpf",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "6319435",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Óbidos (Pará)",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 15489795,
+                    "id": "Q15489795"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P268": [
+            {
+                "value": "119366864",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "1505106",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+49333",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+28021.287",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.594",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1697-00-00T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 9,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2011919,
+                    "id": "Q2011919"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 22067014,
+                    "id": "Q22067014"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "185569",
+                "type": "string"
+            }
+        ]
+    }
+}

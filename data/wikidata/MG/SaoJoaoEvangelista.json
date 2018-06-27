@@ -1,0 +1,169 @@
+{
+    "pageid": 24096064,
+    "ns": 0,
+    "redirects": {
+        "from": "Q1805400",
+        "to": "Q22065095"
+    },
+    "type": "item",
+    "id": "Q22065095",
+    "claims": {
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 39109,
+                    "id": "Q39109"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "6321811",
+                "type": "string"
+            },
+            {
+                "value": "3448850",
+                "type": "string"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+674",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+689",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -18.547777777778,
+                    "longitude": -42.762777777778,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/09rwq1r",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "São João Evangelista (Minas Gerais)",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.sje.mg.gov.br",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "3162807",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+15553",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "MinasGerais Municip SaoJoaoEvangelista.svg",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "39705-000",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 29016243,
+                    "id": "Q29016243"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+478.820",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.683",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1788487,
+                    "id": "Q1788487"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "315253",
+                "type": "string"
+            }
+        ]
+    }
+}

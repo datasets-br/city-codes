@@ -1,0 +1,701 @@
+{
+    "pageid": 39544,
+    "ns": 0,
+    "type": "item",
+    "id": "Q36947",
+    "claims": {
+        "P691": [
+            {
+                "value": "ge192240",
+                "type": "string"
+            }
+        ],
+        "P190": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2044,
+                    "id": "Q2044"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 193677,
+                    "id": "Q193677"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 44401,
+                    "id": "Q44401"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 273059,
+                    "id": "Q273059"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 597,
+                    "id": "Q597"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 65,
+                    "id": "Q65"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1345,
+                    "id": "Q1345"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 33986,
+                    "id": "Q33986"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 131620,
+                    "id": "Q131620"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 333928,
+                    "id": "Q333928"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40430,
+                    "id": "Q40430"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira de Salvador.svg",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasão de Salvador.jpg",
+                "type": "string"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 515,
+                    "id": "Q515"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Salvador, Bahia",
+                "type": "string"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -12.970833333333,
+                    "longitude": -38.510833333333,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Largodopelo.jpg",
+                "type": "string"
+            },
+            {
+                "value": "SalvadorDaBahiaPalacioRioBranco.jpg",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 6370875,
+                    "id": "Q6370875"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P948": [
+            {
+                "value": "Bannersalvador.jpg",
+                "type": "string"
+            }
+        ],
+        "P982": [
+            {
+                "value": "ded88b07-192f-4265-95a6-5085ee12f4ca",
+                "type": "string"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/09wwlj",
+                "type": "string"
+            }
+        ],
+        "P1464": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 8055865,
+                    "id": "Q8055865"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3450554",
+                "type": "string"
+            }
+        ],
+        "P227": [
+            {
+                "value": "4076978-1",
+                "type": "string"
+            }
+        ],
+        "P1465": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 9219801,
+                    "id": "Q9219801"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1740": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 8458200,
+                    "id": "Q8458200"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1792": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 17313020,
+                    "id": "Q17313020"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P214": [
+            {
+                "value": "125438036",
+                "type": "string"
+            }
+        ],
+        "P361": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2316052,
+                    "id": "Q2316052"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2292820,
+                    "id": "Q2292820"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1376": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40430,
+                    "id": "Q40430"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2088324,
+                    "id": "Q2088324"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 11876909,
+                    "id": "Q11876909"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n79043524",
+                "type": "string"
+            }
+        ],
+        "P268": [
+            {
+                "value": "11947810w",
+                "type": "string"
+            }
+        ],
+        "P269": [
+            {
+                "value": "14693847X",
+                "type": "string"
+            }
+        ],
+        "P935": [
+            {
+                "value": "Salvador",
+                "type": "string"
+            }
+        ],
+        "P1343": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2657718,
+                    "id": "Q2657718"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1997": [
+            {
+                "value": "111386048885164",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.salvador.ba.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "2927408",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+2443107",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+2921087",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+2902927",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+2675656",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Bahia Municip Salvador.svg",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+693000000",
+                    "unit": "http://www.wikidata.org/entity/Q25343"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2959": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 20515326,
+                    "id": "Q20515326"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P281": [
+            {
+                "value": "40000-000",
+                "type": "string"
+            }
+        ],
+        "P473": [
+            {
+                "value": "071",
+                "type": "string"
+            }
+        ],
+        "P3417": [
+            {
+                "value": "Salvador-Brazil",
+                "type": "string"
+            }
+        ],
+        "P1705": [
+            {
+                "value": {
+                    "text": "Salvador",
+                    "language": "pt"
+                },
+                "type": "monolingualtext"
+            }
+        ],
+        "P1448": [
+            {
+                "value": {
+                    "text": "Salvador",
+                    "language": "pt"
+                },
+                "type": "monolingualtext"
+            }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1549-00-00T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 9,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+                },
+                "type": "time"
+            }
+        ],
+        "P421": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 6513,
+                    "id": "Q6513"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 6536,
+                    "id": "Q6536"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.759",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1225": [
+            {
+                "value": "10044724",
+                "type": "string"
+            }
+        ],
+        "P2924": [
+            {
+                "value": "3528888",
+                "type": "string"
+            }
+        ],
+        "P4672": [
+            {
+                "value": "30bfcd51-0c77-4218-aa7b-ed19d7fd0336",
+                "type": "string"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 905164,
+                    "id": "Q905164"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1645080,
+                    "id": "Q1645080"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1793933,
+                    "id": "Q1793933"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1762379,
+                    "id": "Q1762379"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1365": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 16494026,
+                    "id": "Q16494026"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P138": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 302,
+                    "id": "Q302"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1549": [
+            {
+                "value": {
+                    "text": "soteropolitano",
+                    "language": "pt"
+                },
+                "type": "monolingualtext"
+            },
+            {
+                "value": {
+                    "text": "soteropolitana",
+                    "language": "pt"
+                },
+                "type": "monolingualtext"
+            }
+        ],
+        "P85": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 10295687,
+                    "id": "Q10295687"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2596": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 10262305,
+                    "id": "Q10262305"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1313": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 27306390,
+                    "id": "Q27306390"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P6": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 9621234,
+                    "id": "Q9621234"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P194": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 53934981,
+                    "id": "Q53934981"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P237": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 17197940,
+                    "id": "Q17197940"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P3722": [
+            {
+                "value": "Maps of Salvador, Bahia",
+                "type": "string"
+            }
+        ],
+        "P2184": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 7639066,
+                    "id": "Q7639066"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1813": [
+            {
+                "value": {
+                    "text": "SSA",
+                    "language": "pt"
+                },
+                "type": "monolingualtext"
+            }
+        ],
+        "P1451": [
+            {
+                "value": {
+                    "text": "Sic illa ad arcam reversa est",
+                    "language": "la"
+                },
+                "type": "monolingualtext"
+            }
+        ],
+        "P1424": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 25804312,
+                    "id": "Q25804312"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "362362",
+                "type": "string"
+            }
+        ],
+        "P5008": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 54439832,
+                    "id": "Q54439832"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1417": [
+            {
+                "value": "place/Salvador-Brazil",
+                "type": "string"
+            }
+        ]
+    }
+}

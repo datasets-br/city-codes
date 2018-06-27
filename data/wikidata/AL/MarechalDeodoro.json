@@ -1,0 +1,194 @@
+{
+    "pageid": 934926,
+    "ns": 0,
+    "type": "item",
+    "id": "Q985275",
+    "claims": {
+        "P1566": [
+            {
+                "value": "3395395",
+                "type": "string"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -9.71,
+                    "longitude": -35.895,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40885,
+                    "id": "Q40885"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/071vj5",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Marechal Deodoro",
+                "type": "string"
+            }
+        ],
+        "P214": [
+            {
+                "value": "131502790",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasão de Marechal Deodoro.png",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Municipio Marechal Deodoro.png",
+                "type": "string"
+            }
+        ],
+        "P1281": [
+            {
+                "value": "457548",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "2704708",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+35866",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+51132",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+45977",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+51175",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+52260",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Museu de arte sacra do convento de Santa Maria (Marechal Deodoro, AL).jpg",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+5",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 29033719,
+                    "id": "Q29033719"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.642",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+333.548",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P402": [
+            {
+                "value": "303857",
+                "type": "string"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2027348,
+                    "id": "Q2027348"
+                },
+                "type": "wikibase-entityid"
+            }
+        ]
+    }
+}

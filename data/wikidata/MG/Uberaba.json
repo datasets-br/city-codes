@@ -1,0 +1,249 @@
+{
+    "pageid": 363222,
+    "ns": 0,
+    "type": "item",
+    "id": "Q381733",
+    "claims": {
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 9148520,
+                    "id": "Q9148520"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P41": [
+            {
+                "value": "BandeiraUberaba.jpg",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "BrasaoUberaba.jpg",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Uberaba",
+                "type": "string"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -19.747777777778,
+                    "longitude": -47.931944444444,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/06r7yq",
+                "type": "string"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 515,
+                    "id": "Q515"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 39109,
+                    "id": "Q39109"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P982": [
+            {
+                "value": "52f2aeb4-b222-4bec-b6bf-2770f9ca0e9c",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3445839",
+                "type": "string"
+            },
+            {
+                "value": "6321898",
+                "type": "string"
+            }
+        ],
+        "P1464": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 9227809,
+                    "id": "Q9227809"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P214": [
+            {
+                "value": "124955460",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Montagem Uberaba MG.JPG",
+                "type": "string"
+            }
+        ],
+        "P1997": [
+            {
+                "value": "111939948825320",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.uberaba.mg.gov.br",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "3170107",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+295988",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "MinasGerais Municip Uberaba.svg",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+823",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+969",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P281": [
+            {
+                "value": "38000-000",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+4512.135",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.772",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P3417": [
+            {
+                "value": "Uberaba-Brazil",
+                "type": "string"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1756079,
+                    "id": "Q1756079"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1649852,
+                    "id": "Q1649852"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 22062605,
+                    "id": "Q22062605"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 22062637,
+                    "id": "Q22062637"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "314874",
+                "type": "string"
+            }
+        ]
+    }
+}

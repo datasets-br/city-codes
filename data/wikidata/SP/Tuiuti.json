@@ -1,1 +1,38 @@
-{"entities":{"Q1760934":{"pageid":1693412,"ns":0,"title":"Q1760934","lastrevid":682324836,"modified":"2018-05-21T03:24:36Z","type":"item","id":"Q1760934","labels":{"ceb":{"language":"ceb","value":"Tuiuti"},"sv":{"language":"sv","value":"Tuiuti"}},"descriptions":{},"aliases":{},"claims":{"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"abaf063bc70d0a5246667a3e79ed9fc1dbb35cdb","datavalue":{"value":{"entity-type":"item","numeric-id":3257686,"id":"Q3257686"},"type":"wikibase-entityid"},"datatype":"wikibase-item"},"type":"statement","id":"Q1760934$33496FD1-CA26-4588-8BA8-FBF584EC78CF","rank":"normal"}],"P17":[{"mainsnak":{"snaktype":"value","property":"P17","hash":"90114304161d20f1934075ea47b8a33a76e95138","datavalue":{"value":{"entity-type":"item","numeric-id":155,"id":"Q155"},"type":"wikibase-entityid"},"datatype":"wikibase-item"},"type":"statement","id":"Q1760934$D5E9FD3C-06AC-460A-9F7E-54C96539AC6C","rank":"normal"}],"P131":[{"mainsnak":{"snaktype":"value","property":"P131","hash":"a270a35fd84c96d88552eed01ce95b9910f415da","datavalue":{"value":{"entity-type":"item","numeric-id":22064397,"id":"Q22064397"},"type":"wikibase-entityid"},"datatype":"wikibase-item"},"type":"statement","id":"Q1760934$1987BE91-EA74-4313-96B5-24550CDA57E9","rank":"normal","references":[{"hash":"43a0088c51fd85e5a85d1b46412c3a635e6d4edc","snaks":{"P143":[{"snaktype":"value","property":"P143","hash":"d8fbf8671e3c630db61bfac691068cfb6857f243","datavalue":{"value":{"entity-type":"item","numeric-id":837615,"id":"Q837615"},"type":"wikibase-entityid"},"datatype":"wikibase-item"}]},"snaks-order":["P143"]}]}]},"sitelinks":{"cebwiki":{"site":"cebwiki","title":"Tuiuti (lungsod)","badges":[]},"svwiki":{"site":"svwiki","title":"Tuiuti (ort)","badges":[]}}}},"success":1}
+{
+    "pageid": 1693412,
+    "ns": 0,
+    "type": "item",
+    "id": "Q1760934",
+    "claims": {
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3257686,
+                    "id": "Q3257686"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 22064397,
+                    "id": "Q22064397"
+                },
+                "type": "wikibase-entityid"
+            }
+        ]
+    }
+}

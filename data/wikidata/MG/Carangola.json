@@ -1,0 +1,267 @@
+{
+    "pageid": 1724495,
+    "ns": 0,
+    "type": "item",
+    "id": "Q1793063",
+    "claims": {
+        "P41": [
+            {
+                "value": "Flag of Carangola MG.svg",
+                "type": "string"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -20.732777777778,
+                    "longitude": -42.028888888889,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            },
+            {
+                "value": {
+                    "latitude": -20.70784,
+                    "longitude": -42.10486,
+                    "altitude": null,
+                    "precision": 1.0e-5,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/03hgfr0",
+                "type": "string"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 39109,
+                    "id": "Q39109"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3467012",
+                "type": "string"
+            },
+            {
+                "value": "6321239",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Carangola",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 9588926,
+                    "id": "Q9588926"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P268": [
+            {
+                "value": "12398683x",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+399",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+400",
+                    "lowerBound": "+398"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+796",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Carangola.jpg",
+                "type": "string"
+            }
+        ],
+        "P1667": [
+            {
+                "value": "1021078",
+                "type": "string"
+            }
+        ],
+        "P1281": [
+            {
+                "value": "456123",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "3113305",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+32296",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "MinasGerais Municip Carangola.svg",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasao Carangola.png",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "36800-000",
+                "type": "string"
+            }
+        ],
+        "P473": [
+            {
+                "value": "32",
+                "type": "string"
+            }
+        ],
+        "P3417": [
+            {
+                "value": "Carangola",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+352.510",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.783",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1791846,
+                    "id": "Q1791846"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1791395,
+                    "id": "Q1791395"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1788549,
+                    "id": "Q1788549"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1791201,
+                    "id": "Q1791201"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1792807,
+                    "id": "Q1792807"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1790572,
+                    "id": "Q1790572"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1754934,
+                    "id": "Q1754934"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "315365",
+                "type": "string"
+            }
+        ]
+    }
+}

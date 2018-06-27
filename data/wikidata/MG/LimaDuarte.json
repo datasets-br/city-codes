@@ -1,0 +1,225 @@
+{
+    "pageid": 1687540,
+    "ns": 0,
+    "type": "item",
+    "id": "Q1754844",
+    "claims": {
+        "P373": [
+            {
+                "value": "Lima Duarte (Minas Gerais)",
+                "type": "string"
+            }
+        ],
+        "P158": [
+            {
+                "value": "Brasaolimaduarte.png",
+                "type": "string"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -21.842777777778,
+                    "longitude": -43.792777777778,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            },
+            {
+                "value": {
+                    "latitude": -21.79037,
+                    "longitude": -43.89583,
+                    "altitude": null,
+                    "precision": 1.0e-5,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/05x0ch",
+                "type": "string"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 39109,
+                    "id": "Q39109"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3458591",
+                "type": "string"
+            },
+            {
+                "value": "6321528",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+860",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+861",
+                    "lowerBound": "+859"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+861",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Lima Duarte MG.jpg",
+                "type": "string"
+            }
+        ],
+        "P1281": [
+            {
+                "value": "459946",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "3138609",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+16149",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P214": [
+            {
+                "value": "248706950",
+                "type": "string"
+            }
+        ],
+        "P227": [
+            {
+                "value": "4403780-6",
+                "type": "string"
+            }
+        ],
+        "P242": [
+            {
+                "value": "MinasGerais Municip LimaDuarte.svg",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasaolimaduarte.png",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 28961917,
+                    "id": "Q28961917"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1889": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1791430,
+                    "id": "Q1791430"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+848.089",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P281": [
+            {
+                "value": "36140-000",
+                "type": "string"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.739",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1789450,
+                    "id": "Q1789450"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2077934,
+                    "id": "Q2077934"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "314591",
+                "type": "string"
+            }
+        ]
+    }
+}

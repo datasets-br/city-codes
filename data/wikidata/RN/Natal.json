@@ -1,0 +1,368 @@
+{
+    "pageid": 133465,
+    "ns": 0,
+    "type": "item",
+    "id": "Q131620",
+    "claims": {
+        "P190": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 5776,
+                    "id": "Q5776"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 44210,
+                    "id": "Q44210"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40269,
+                    "id": "Q40269"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 8678,
+                    "id": "Q8678"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 36947,
+                    "id": "Q36947"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira-natal.png",
+                "type": "string"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Natal (Rio Grande do Norte)",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasão de Natal.svg",
+                "type": "string"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -5.795,
+                    "longitude": -35.208888888889,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 43255,
+                    "id": "Q43255"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.natal.rn.gov.br",
+                "type": "string"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 515,
+                    "id": "Q515"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/030crm",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "6320189",
+                "type": "string"
+            }
+        ],
+        "P1464": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 9237684,
+                    "id": "Q9237684"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P982": [
+            {
+                "value": "00659b1f-2330-472e-ae9e-65abc7a28031",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 9035445,
+                    "id": "Q9035445"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P361": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 389368,
+                    "id": "Q389368"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2306915,
+                    "id": "Q2306915"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1376": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 43255,
+                    "id": "Q43255"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P948": [
+            {
+                "value": "WV banner Natal Forte dos Reis Magos.jpg",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Natal-RN.jpg",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+30",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+31",
+                    "lowerBound": "+29"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P935": [
+            {
+                "value": "Natal (Brasil)",
+                "type": "string"
+            }
+        ],
+        "P1792": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 9226070,
+                    "id": "Q9226070"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1997": [
+            {
+                "value": "108194375875452",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "2408102",
+                "type": "string"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Brazil Rio Grande do Norte Natal location map.svg",
+                "type": "string"
+            }
+        ],
+        "P473": [
+            {
+                "value": "84",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "59000-000",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+877662",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P3417": [
+            {
+                "value": "Natal-Brazil",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+167.264",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.763",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1225": [
+            {
+                "value": "10037857",
+                "type": "string"
+            }
+        ],
+        "P138": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 19809,
+                    "id": "Q19809"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2581": [
+            {
+                "value": "03506195n",
+                "type": "string"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2088944,
+                    "id": "Q2088944"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 591577,
+                    "id": "Q591577"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 986261,
+                    "id": "Q986261"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P3219": [
+            {
+                "value": "natal-bresil",
+                "type": "string"
+            }
+        ],
+        "P2924": [
+            {
+                "value": "2251111",
+                "type": "string"
+            }
+        ],
+        "P402": [
+            {
+                "value": "301091",
+                "type": "string"
+            }
+        ],
+        "P206": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 975675,
+                    "id": "Q975675"
+                },
+                "type": "wikibase-entityid"
+            }
+        ]
+    }
+}

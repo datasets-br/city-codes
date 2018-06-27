@@ -1,0 +1,174 @@
+{
+    "pageid": 1730675,
+    "ns": 0,
+    "type": "item",
+    "id": "Q1799377",
+    "claims": {
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Guaramirim",
+                "type": "string"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -26.472777777778,
+                    "longitude": -49.002777777778,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 41115,
+                    "id": "Q41115"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/09rs638",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3461914",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 10135019,
+                    "id": "Q10135019"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P242": [
+            {
+                "value": "SantaCatarina Municip Guaramirim.svg",
+                "type": "string"
+            }
+        ],
+        "P1281": [
+            {
+                "value": "434945",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "4206504",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+35172",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasão guaramirim.png",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira de guaramirim.jpg",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Prefeituradeguaramirim.JPG",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+30",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.751",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+268.119",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 607184,
+                    "id": "Q607184"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 398844,
+                    "id": "Q398844"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "296785",
+                "type": "string"
+            }
+        ]
+    }
+}

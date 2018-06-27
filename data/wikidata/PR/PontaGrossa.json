@@ -1,0 +1,250 @@
+{
+    "pageid": 236123,
+    "ns": 0,
+    "type": "item",
+    "id": "Q242906",
+    "claims": {
+        "P190": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 159273,
+                    "id": "Q159273"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 239580,
+                    "id": "Q239580"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Ponta Grossa",
+                "type": "string"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira ponta grossa.png",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasao ponta grossa.jpg",
+                "type": "string"
+            }
+        ],
+        "P158": [
+            {
+                "value": "Brasao ponta grossa.jpg",
+                "type": "string"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -25.095,
+                    "longitude": -50.161944444444,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 15499,
+                    "id": "Q15499"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 9683658,
+                    "id": "Q9683658"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/07nqyn",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3453186",
+                "type": "string"
+            }
+        ],
+        "P227": [
+            {
+                "value": "4541475-0",
+                "type": "string"
+            }
+        ],
+        "P982": [
+            {
+                "value": "9a8e9902-a2c2-453f-b491-6a47e4d6698a",
+                "type": "string"
+            }
+        ],
+        "P214": [
+            {
+                "value": "125541316",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+975",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+976",
+                    "lowerBound": "+974"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Ponta Grossa, Brazil.jpg",
+                "type": "string"
+            }
+        ],
+        "P1997": [
+            {
+                "value": "106275636069985",
+                "type": "string"
+            }
+        ],
+        "P1417": [
+            {
+                "value": "place/Ponta-Grossa",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "4119905",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+311611",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.pontagrossa.pr.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P473": [
+            {
+                "value": "42",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+2067.545",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.763",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P3417": [
+            {
+                "value": "Ponta-Grossa-PR-Brazil",
+                "type": "string"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1026376,
+                    "id": "Q1026376"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2064845,
+                    "id": "Q2064845"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2004218,
+                    "id": "Q2004218"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "297796",
+                "type": "string"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Parana Municip PontaGrossa.svg",
+                "type": "string"
+            }
+        ]
+    }
+}

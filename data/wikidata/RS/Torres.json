@@ -1,0 +1,199 @@
+{
+    "pageid": 902562,
+    "ns": 0,
+    "type": "item",
+    "id": "Q952674",
+    "claims": {
+        "P158": [
+            {
+                "value": "Torres (RS) - Brasao.png",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Torres (Rio Grande do Sul)",
+                "type": "string"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -29.335,
+                    "longitude": -49.726944444444,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40030,
+                    "id": "Q40030"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/097vjv",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3446295",
+                "type": "string"
+            },
+            {
+                "value": "6323673",
+                "type": "string"
+            }
+        ],
+        "P214": [
+            {
+                "value": "133560482",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+16",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+17",
+                    "lowerBound": "+15"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+3",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Praia da cal1.jpg",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "4321501",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+34656",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "RioGrandedoSul Municip Torres.svg",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Torres bandeira.jpg",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Torres (RS) - Brasao.png",
+                "type": "string"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.821",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+162.128",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1648525,
+                    "id": "Q1648525"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1750064,
+                    "id": "Q1750064"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1749957,
+                    "id": "Q1749957"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1750179,
+                    "id": "Q1750179"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "242436",
+                "type": "string"
+            }
+        ]
+    }
+}

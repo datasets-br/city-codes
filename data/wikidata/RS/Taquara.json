@@ -1,0 +1,178 @@
+{
+    "pageid": 917427,
+    "ns": 0,
+    "type": "item",
+    "id": "Q967715",
+    "claims": {
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira taquara.gif",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasao taquara.gif",
+                "type": "string"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -29.650833333333,
+                    "longitude": -50.780833333333,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40030,
+                    "id": "Q40030"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/03d32fh",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "6323666",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Taquara (Rio Grande do Sul)",
+                "type": "string"
+            }
+        ],
+        "P214": [
+            {
+                "value": "149895993",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+57",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+58",
+                    "lowerBound": "+56"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "4321204",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+54643",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "RioGrandedoSul Municip Taquara.svg",
+                "type": "string"
+            }
+        ],
+        "P3417": [
+            {
+                "value": "Taquara",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Câmara de Vereadores de Taquara.JPG",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+457.130",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.819",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P281": [
+            {
+                "value": "95600-000",
+                "type": "string"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 626331,
+                    "id": "Q626331"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 926647,
+                    "id": "Q926647"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "242539",
+                "type": "string"
+            }
+        ]
+    }
+}

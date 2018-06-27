@@ -1,0 +1,170 @@
+{
+    "pageid": 935896,
+    "ns": 0,
+    "type": "item",
+    "id": "Q986252",
+    "claims": {
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira de Resplendor MG.png",
+                "type": "string"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -19.325833333333,
+                    "longitude": -41.255,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            },
+            {
+                "value": {
+                    "latitude": -19.20265,
+                    "longitude": -41.14336,
+                    "altitude": null,
+                    "precision": 1.0e-5,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/09rsr61",
+                "type": "string"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 39109,
+                    "id": "Q39109"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Coat of arms of Resplendor MG.png",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3451650",
+                "type": "string"
+            },
+            {
+                "value": "6321712",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Resplendor",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Vista parcial de Resplendor MG.jpg",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "3154309",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+17089",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "MinasGerais Municip Resplendor.svg",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 27589268,
+                    "id": "Q27589268"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P3417": [
+            {
+                "value": "Resplendor",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+1081.796",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.670",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+241",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P402": [
+            {
+                "value": "314845",
+                "type": "string"
+            }
+        ]
+    }
+}

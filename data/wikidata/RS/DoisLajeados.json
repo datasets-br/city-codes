@@ -1,0 +1,134 @@
+{
+    "pageid": 553670,
+    "ns": 0,
+    "type": "item",
+    "id": "Q588452",
+    "claims": {
+        "P625": [
+            {
+                "value": {
+                    "latitude": -28.983888888889,
+                    "longitude": -51.835833333333,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40030,
+                    "id": "Q40030"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/03qm9hl",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3464586",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Dois Lajeados",
+                "type": "string"
+            }
+        ],
+        "P214": [
+            {
+                "value": "154924083",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "4306452",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+3278",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Locator map of Dois Lajeados in Rio Grande do Sul.svg",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasão Dois Lageados.jpg",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+450",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.834",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+133.373",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P402": [
+            {
+                "value": "242373",
+                "type": "string"
+            }
+        ]
+    }
+}

@@ -1,0 +1,152 @@
+{
+    "pageid": 1682941,
+    "ns": 0,
+    "type": "item",
+    "id": "Q1750110",
+    "claims": {
+        "P373": [
+            {
+                "value": "Manoel Viana",
+                "type": "string"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -29.588888888889,
+                    "longitude": -55.482777777778,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40030,
+                    "id": "Q40030"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/02q9d2n",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "6323505",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+113",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+114",
+                    "lowerBound": "+112"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "4311759",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+7072",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P245": [
+            {
+                "value": "500084563",
+                "type": "string"
+            }
+        ],
+        "P242": [
+            {
+                "value": "RioGrandedoSul Municip ManoelViana.svg",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasaoprefeituramviana1.jpg",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Praça Central de Manoel Viana.JPG",
+                "type": "string"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.754",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+1390.700",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 851276,
+                    "id": "Q851276"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "242553",
+                "type": "string"
+            }
+        ]
+    }
+}

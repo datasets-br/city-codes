@@ -1,0 +1,216 @@
+{
+    "pageid": 1571811,
+    "ns": 0,
+    "type": "item",
+    "id": "Q1637522",
+    "claims": {
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 515,
+                    "id": "Q515"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira-araguari-mg.jpg",
+                "type": "string"
+            }
+        ],
+        "P158": [
+            {
+                "value": "Brasao Araguari.jpg",
+                "type": "string"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasao Araguari.jpg",
+                "type": "string"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -18.648888888889,
+                    "longitude": -48.186944444444,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/0b0wfc",
+                "type": "string"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 39109,
+                    "id": "Q39109"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3471830",
+                "type": "string"
+            }
+        ],
+        "P982": [
+            {
+                "value": "b9f07a76-ac7f-46e6-a325-b6609d7eb124",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Araguari",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 9530579,
+                    "id": "Q9530579"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+1013",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+1014",
+                    "lowerBound": "+1012"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "3103504",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+116871",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.araguari.mg.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P242": [
+            {
+                "value": "MinasGerais Municip Araguari.svg",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Prefeitura de Araguari.jpg",
+                "type": "string"
+            }
+        ],
+        "P473": [
+            {
+                "value": "034",
+                "type": "string"
+            }
+        ],
+        "P3417": [
+            {
+                "value": "Araguari",
+                "type": "string"
+            }
+        ],
+        "P421": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 6513,
+                    "id": "Q6513"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+1054.3",
+                    "unit": "http://www.wikidata.org/entity/Q232291"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.815",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1790757,
+                    "id": "Q1790757"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "314597",
+                "type": "string"
+            }
+        ],
+        "P1417": [
+            {
+                "value": "place/Araguari",
+                "type": "string"
+            }
+        ]
+    }
+}

@@ -1,0 +1,174 @@
+{
+    "pageid": 702138,
+    "ns": 0,
+    "type": "item",
+    "id": "Q746291",
+    "claims": {
+        "P41": [
+            {
+                "value": "Band. Nova Andradina, Brasil.png",
+                "type": "string"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -22.232777777778,
+                    "longitude": -53.342777777778,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 43319,
+                    "id": "Q43319"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/027d2kk",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "6317707",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Nova Andradina",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+380",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+381",
+                    "lowerBound": "+379"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P935": [
+            {
+                "value": "Nova Andradina",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasão Nova Andradina, Brasil.jpg",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "5006200",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+51764",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "MatoGrossodoSul Municip NovaAndradina.svg",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 25937716,
+                    "id": "Q25937716"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Nova andradina.jpg",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+4776.096",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.721",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P281": [
+            {
+                "value": "79750-000 a 79750-999",
+                "type": "string"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 691658,
+                    "id": "Q691658"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "334054",
+                "type": "string"
+            }
+        ]
+    }
+}

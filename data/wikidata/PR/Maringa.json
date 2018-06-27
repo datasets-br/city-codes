@@ -1,0 +1,286 @@
+{
+    "pageid": 204629,
+    "ns": 0,
+    "type": "item",
+    "id": "Q208669",
+    "claims": {
+        "P190": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 206933,
+                    "id": "Q206933"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 6221,
+                    "id": "Q6221"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Maringá",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira de Maringá.png",
+                "type": "string"
+            }
+        ],
+        "P158": [
+            {
+                "value": "Brasao maringá.jpg",
+                "type": "string"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P421": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 6513,
+                    "id": "Q6513"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Parana Municip Maringa.svg",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "87000-000",
+                "type": "string"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -23.425,
+                    "longitude": -51.938888888889,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 15499,
+                    "id": "Q15499"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 8608517,
+                    "id": "Q8608517"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/01tvzq",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3457671",
+                "type": "string"
+            }
+        ],
+        "P1464": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 9225699,
+                    "id": "Q9225699"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P982": [
+            {
+                "value": "beeb812e-50a8-4047-8b88-d7a295f9e812",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasao maringá.jpg",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Maringa Stadium.JPG",
+                "type": "string"
+            }
+        ],
+        "P214": [
+            {
+                "value": "159468351",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+515",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+516",
+                    "lowerBound": "+514"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1792": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 8741585,
+                    "id": "Q8741585"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1997": [
+            {
+                "value": "108234175870962",
+                "type": "string"
+            }
+        ],
+        "P1465": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 23038438,
+                    "id": "Q23038438"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "4115200",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+403063",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.maringa.pr.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+487.052",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.808",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P3417": [
+            {
+                "value": "Maringá-PR-Brazil",
+                "type": "string"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1205078,
+                    "id": "Q1205078"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2007339,
+                    "id": "Q2007339"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2005187,
+                    "id": "Q2005187"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2351325,
+                    "id": "Q2351325"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "297521",
+                "type": "string"
+            }
+        ]
+    }
+}

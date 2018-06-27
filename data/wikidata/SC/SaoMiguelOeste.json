@@ -1,0 +1,200 @@
+{
+    "pageid": 1690358,
+    "ns": 0,
+    "type": "item",
+    "id": "Q1757748",
+    "claims": {
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira de São Miguel do Oeste.jpg",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasao smo.jpg",
+                "type": "string"
+            }
+        ],
+        "P158": [
+            {
+                "value": "Brasao smo.jpg",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "São Miguel do Oeste",
+                "type": "string"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -26.725,
+                    "longitude": -53.517777777778,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 41115,
+                    "id": "Q41115"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/06w5ftq",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3448454",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+720",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+721",
+                    "lowerBound": "+719"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "4217204",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+36306",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "SantaCatarina Municip SaoMigueldoOeste.svg",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 25973667,
+                    "id": "Q25973667"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.saomiguel.sc.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "89900-000",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Desbravadorsmo.jpg",
+                "type": "string"
+            }
+        ],
+        "P473": [
+            {
+                "value": "49",
+                "type": "string"
+            }
+        ],
+        "P3417": [
+            {
+                "value": "São-Miguel-Do-Oeste",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+234.396",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.801",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1784557,
+                    "id": "Q1784557"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1758986,
+                    "id": "Q1758986"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "296744",
+                "type": "string"
+            }
+        ]
+    }
+}

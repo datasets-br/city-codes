@@ -1,0 +1,151 @@
+{
+    "pageid": 550895,
+    "ns": 0,
+    "type": "item",
+    "id": "Q585538",
+    "claims": {
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira de Macau (RN).png",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasão de Macau (RN).png",
+                "type": "string"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -5.115,
+                    "longitude": -36.633888888889,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 43255,
+                    "id": "Q43255"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/09rtcj5",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Praia de Diogo Lopes.jpg",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3395998",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Macau (Rio Grande do Norte)",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "2407203",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+28954",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "RioGrandedoNorte Municip Macau.svg",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+788.036",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.665",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1786961,
+                    "id": "Q1786961"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P361": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2462949,
+                    "id": "Q2462949"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "301206",
+                "type": "string"
+            }
+        ]
+    }
+}

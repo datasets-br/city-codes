@@ -1,0 +1,38 @@
+{
+    "pageid": 587835,
+    "ns": 0,
+    "type": "item",
+    "id": "Q624997",
+    "claims": {
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3257686,
+                    "id": "Q3257686"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 22067256,
+                    "id": "Q22067256"
+                },
+                "type": "wikibase-entityid"
+            }
+        ]
+    }
+}

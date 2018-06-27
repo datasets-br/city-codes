@@ -1,0 +1,224 @@
+{
+    "pageid": 313350,
+    "ns": 0,
+    "type": "item",
+    "id": "Q326354",
+    "claims": {
+        "P41": [
+            {
+                "value": "Bandeira de guarapuava.jpeg",
+                "type": "string"
+            }
+        ],
+        "P158": [
+            {
+                "value": "Brasao gpva.png",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Guarapuava",
+                "type": "string"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -25.395,
+                    "longitude": -51.457777777778,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 15499,
+                    "id": "Q15499"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 8501681,
+                    "id": "Q8501681"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/07xzyq",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3461879",
+                "type": "string"
+            }
+        ],
+        "P227": [
+            {
+                "value": "4821401-2",
+                "type": "string"
+            }
+        ],
+        "P214": [
+            {
+                "value": "146571805",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+1120",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+1121",
+                    "lowerBound": "+1119"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Guarapuava 10.jpg",
+                "type": "string"
+            }
+        ],
+        "P1281": [
+            {
+                "value": "455866",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "4109401",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+167328",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.guarapuava.pr.gov.br",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasao gpva.png",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+3115.329",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.731",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P3417": [
+            {
+                "value": "Guarapuava-Brazil",
+                "type": "string"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1804781,
+                    "id": "Q1804781"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 594784,
+                    "id": "Q594784"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 935946,
+                    "id": "Q935946"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P190": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 6874,
+                    "id": "Q6874"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "297846",
+                "type": "string"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Parana Municip Guarapuava.svg",
+                "type": "string"
+            }
+        ]
+    }
+}

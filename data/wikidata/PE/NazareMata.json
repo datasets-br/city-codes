@@ -1,0 +1,192 @@
+{
+    "pageid": 1742349,
+    "ns": 0,
+    "type": "item",
+    "id": "Q1811182",
+    "claims": {
+        "P625": [
+            {
+                "value": {
+                    "latitude": -7.7419444444444,
+                    "longitude": -35.227777777778,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40942,
+                    "id": "Q40942"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/06s0gd",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3393972",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Nazaré da Mata",
+                "type": "string"
+            }
+        ],
+        "P268": [
+            {
+                "value": "12357091t",
+                "type": "string"
+            }
+        ],
+        "P1281": [
+            {
+                "value": "457656",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "2609501",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+30796",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Mapa de Nazaré da Mata (2).png",
+                "type": "string"
+            },
+            {
+                "value": "Brazil location map.svg",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira de Nazare da Mata.jpg",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 27588884,
+                    "id": "Q27588884"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+89",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+150.816",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.662",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2010570,
+                    "id": "Q2010570"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "303587",
+                "type": "string"
+            }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1833-05-17T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 11,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P1549": [
+            {
+                "value": {
+                    "text": "nazareno",
+                    "language": "pt-br"
+                },
+                "type": "monolingualtext"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasao de nazare da mata.png",
+                "type": "string"
+            }
+        ]
+    }
+}

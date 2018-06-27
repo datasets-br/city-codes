@@ -1,0 +1,132 @@
+{
+    "pageid": 1730048,
+    "ns": 0,
+    "type": "item",
+    "id": "Q1798727",
+    "claims": {
+        "P625": [
+            {
+                "value": {
+                    "latitude": -17.353888888889,
+                    "longitude": -52.678888888889,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P501": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1795244,
+                    "id": "Q1795244"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 41587,
+                    "id": "Q41587"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/0c0fkp",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "6324066",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Portelândia",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "5218102",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+3839",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Goias Municip Portelandia.svg",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+858",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+556.576",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.78",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P402": [
+            {
+                "value": "334457",
+                "type": "string"
+            }
+        ]
+    }
+}

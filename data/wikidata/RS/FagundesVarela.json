@@ -1,0 +1,194 @@
+{
+    "pageid": 1717980,
+    "ns": 0,
+    "type": "item",
+    "id": "Q1786383",
+    "claims": {
+        "P625": [
+            {
+                "value": {
+                    "latitude": -28.880833333333,
+                    "longitude": -51.697777777778,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40030,
+                    "id": "Q40030"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/03qm9sl",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "6323441",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Fagundes Varela (Rio Grande do Sul)",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 9685288,
+                    "id": "Q9685288"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P214": [
+            {
+                "value": "137545264",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "no2002092301",
+                "type": "string"
+            }
+        ],
+        "P138": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2088965,
+                    "id": "Q2088965"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasão Fagundes Varela.jpg",
+                "type": "string"
+            }
+        ],
+        "P242": [
+            {
+                "value": "RioGrandedoSul Municip FagundesVarela.svg",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "4307864",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+2579",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+610",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1889": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2088965,
+                    "id": "Q2088965"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+134.291",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.812",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P281": [
+            {
+                "value": "95333-000",
+                "type": "string"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 941364,
+                    "id": "Q941364"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1101945,
+                    "id": "Q1101945"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "242634",
+                "type": "string"
+            }
+        ]
+    }
+}

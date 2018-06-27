@@ -1,0 +1,163 @@
+{
+    "pageid": 24068136,
+    "ns": 0,
+    "redirects": {
+        "from": "Q2014476",
+        "to": "Q22036374"
+    },
+    "type": "item",
+    "id": "Q22036374",
+    "claims": {
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3453298",
+                "type": "string"
+            },
+            {
+                "value": "3453300",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+255",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+268",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+269",
+                    "lowerBound": "+267"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 43783,
+                    "id": "Q43783"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 486972,
+                    "id": "Q486972"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -10.707777777778,
+                    "longitude": -38.182777777778,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/027kkss",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Poço Verde",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasao poco redondo.jpg",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "BandeiraPoçoVerde.png",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "2805505",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+21983",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+430.973",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.561",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1848973,
+                    "id": "Q1848973"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "303934",
+                "type": "string"
+            }
+        ]
+    }
+}

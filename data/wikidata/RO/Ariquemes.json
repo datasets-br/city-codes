@@ -1,0 +1,178 @@
+{
+    "pageid": 1580879,
+    "ns": 0,
+    "type": "item",
+    "id": "Q1646975",
+    "claims": {
+        "P41": [
+            {
+                "value": "Ariquemes bandeira.jpg",
+                "type": "string"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasao-ariquemes-ro.jpg",
+                "type": "string"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -9.9161111111111,
+                    "longitude": -63.040833333333,
+                    "altitude": null,
+                    "precision": null,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 43235,
+                    "id": "Q43235"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/01zmm8",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3665199",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Ariquemes, Rondonia, Brasil satelite.jpg",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Ariquemes",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 9531686,
+                    "id": "Q9531686"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+142",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+143",
+                    "lowerBound": "+141"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "1100023",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+105896",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P3417": [
+            {
+                "value": "Ariquemes",
+                "type": "string"
+            }
+        ],
+        "P421": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 5762,
+                    "id": "Q5762"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+4426.558",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.702",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.ariquemes.ro.gov.br",
+                "type": "string"
+            }
+        ],
+        "P402": [
+            {
+                "value": "325888",
+                "type": "string"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1750177,
+                    "id": "Q1750177"
+                },
+                "type": "wikibase-entityid"
+            }
+        ]
+    }
+}

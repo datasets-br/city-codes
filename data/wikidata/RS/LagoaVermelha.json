@@ -1,0 +1,205 @@
+{
+    "pageid": 24071717,
+    "ns": 0,
+    "redirects": {
+        "from": "Q985575",
+        "to": "Q22040124"
+    },
+    "type": "item",
+    "id": "Q22040124",
+    "claims": {
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3459125",
+                "type": "string"
+            },
+            {
+                "value": "3459126",
+                "type": "string"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -28.21995,
+                    "longitude": -51.47225,
+                    "altitude": null,
+                    "precision": 1.0e-5,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            },
+            {
+                "value": {
+                    "latitude": -28.208888888889,
+                    "longitude": -51.525833333333,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+791",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+801",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40030,
+                    "id": "Q40030"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 486972,
+                    "id": "Q486972"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira Lagoa Vermelha.png",
+                "type": "string"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/03qmb9f",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Lagoa Vermelha",
+                "type": "string"
+            }
+        ],
+        "P214": [
+            {
+                "value": "123267365",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasão Lagoa Vermelha.gif",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "4311304",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+27525",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "RioGrandedoSul Municip LagoaVermelha.svg",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 25973928,
+                    "id": "Q25973928"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Lagoa Vermelha.jpeg",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "95300-000",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+1262.225",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.738",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P402": [
+            {
+                "value": "242482",
+                "type": "string"
+            }
+        ],
+        "P1464": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 25936757,
+                    "id": "Q25936757"
+                },
+                "type": "wikibase-entityid"
+            }
+        ]
+    }
+}

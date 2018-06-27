@@ -1,0 +1,146 @@
+{
+    "pageid": 1693888,
+    "ns": 0,
+    "type": "item",
+    "id": "Q1761441",
+    "claims": {
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -4.2627777777778,
+                    "longitude": -38.932777777778,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40123,
+                    "id": "Q40123"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/0bwzcc",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3398563",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Guaramiranga",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 10134954,
+                    "id": "Q10134954"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P948": [
+            {
+                "value": "WV banner Guaramiranga view.jpg",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+865",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+866",
+                    "lowerBound": "+864"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Aula de Campo 048.jpg",
+                "type": "string"
+            }
+        ],
+        "P1281": [
+            {
+                "value": "434944",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "2305100",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+4164",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+59",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.637",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P402": [
+            {
+                "value": "302474",
+                "type": "string"
+            }
+        ]
+    }
+}

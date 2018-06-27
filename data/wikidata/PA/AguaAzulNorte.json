@@ -1,0 +1,141 @@
+{
+    "pageid": 1736102,
+    "ns": 0,
+    "type": "item",
+    "id": "Q1804899",
+    "claims": {
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Flag of Agua Azul du Norte.svg",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasao Agua Azul do Norte.png",
+                "type": "string"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -6.7908333333333,
+                    "longitude": -50.466944444444,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 39517,
+                    "id": "Q39517"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/09rw3yy",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "6316312",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Água Azul do Norte",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "1500347",
+                "type": "string"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Para Municip AguaAzuldoNorte.svg",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Agua Azul do Norte.JPG",
+                "type": "string"
+            }
+        ],
+        "P421": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 6513,
+                    "id": "Q6513"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+26497",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+7576.621",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.564",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P402": [
+            {
+                "value": "185622",
+                "type": "string"
+            }
+        ]
+    }
+}

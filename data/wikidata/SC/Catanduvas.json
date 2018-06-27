@@ -1,0 +1,146 @@
+{
+    "pageid": 2014030,
+    "ns": 0,
+    "type": "item",
+    "id": "Q2087108",
+    "claims": {
+        "P373": [
+            {
+                "value": "Catanduvas (Santa Catarina)",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira Catanduvas SantaCatarina Brasil.jpg",
+                "type": "string"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -27.070833333333,
+                    "longitude": -51.661944444444,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 41115,
+                    "id": "Q41115"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/04143sp",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3466687",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "4204004",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+9555",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "SantaCatarina Municip Catanduvas.svg",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.catanduvas.sc.org.br/",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+945",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasao Catanduvas SantaCatarina Brasil.jpg",
+                "type": "string"
+            }
+        ],
+        "P3417": [
+            {
+                "value": "Catanduvas-Santa-Catarina",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+198.033",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.79",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P402": [
+            {
+                "value": "296521",
+                "type": "string"
+            }
+        ]
+    }
+}

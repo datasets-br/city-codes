@@ -1,0 +1,80 @@
+{
+    "pageid": 618265,
+    "ns": 0,
+    "type": "item",
+    "id": "Q656895",
+    "claims": {
+        "P625": [
+            {
+                "value": {
+                    "latitude": 48.850974,
+                    "longitude": 2.32377,
+                    "altitude": null,
+                    "precision": 2.77777777778e-6,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1509831,
+                    "id": "Q1509831"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 507850,
+                    "id": "Q507850"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Miraculous medal.jpg",
+                "type": "string"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 142,
+                    "id": "Q142"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 90,
+                    "id": "Q90"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Miraculous Medal",
+                "type": "string"
+            }
+        ],
+        "P140": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 9592,
+                    "id": "Q9592"
+                },
+                "type": "wikibase-entityid"
+            }
+        ]
+    }
+}

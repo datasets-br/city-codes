@@ -1,0 +1,216 @@
+{
+    "pageid": 648480,
+    "ns": 0,
+    "type": "item",
+    "id": "Q688275",
+    "claims": {
+        "P373": [
+            {
+                "value": "São Leopoldo",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira Sao Leopoldo.jpg",
+                "type": "string"
+            }
+        ],
+        "P158": [
+            {
+                "value": "Brasao Sao Leopoldo.jpg",
+                "type": "string"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -29.76,
+                    "longitude": -51.146944444444,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40030,
+                    "id": "Q40030"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/04bv4k",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3448622",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 11039831,
+                    "id": "Q11039831"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P214": [
+            {
+                "value": "132540715",
+                "type": "string"
+            }
+        ],
+        "P268": [
+            {
+                "value": "133295482",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+26",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+27",
+                    "lowerBound": "+25"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "4318705",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+214087",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "RioGrandedoSul Municip SaoLeopoldo.svg",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasao Sao Leopoldo.jpg",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Sao leopoldo.jpg",
+                "type": "string"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.747",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+102.313",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P281": [
+            {
+                "value": "93.000-000 a 93.179-999",
+                "type": "string"
+            }
+        ],
+        "P3417": [
+            {
+                "value": "São-Leopoldo-RS-Brazil",
+                "type": "string"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 985499,
+                    "id": "Q985499"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 942122,
+                    "id": "Q942122"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.saoleopoldo.rs.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P138": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 349086,
+                    "id": "Q349086"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "242399",
+                "type": "string"
+            }
+        ]
+    }
+}

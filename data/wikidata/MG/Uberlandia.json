@@ -1,0 +1,249 @@
+{
+    "pageid": 192234,
+    "ns": 0,
+    "type": "item",
+    "id": "Q194328",
+    "claims": {
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 9148528,
+                    "id": "Q9148528"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 515,
+                    "id": "Q515"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Uberlândia",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira Uberlandia MinasGerais Brasil.svg",
+                "type": "string"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -18.918888888889,
+                    "longitude": -48.276944444444,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/02wkdb",
+                "type": "string"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 39109,
+                    "id": "Q39109"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3445831",
+                "type": "string"
+            },
+            {
+                "value": "6321899",
+                "type": "string"
+            }
+        ],
+        "P1464": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 9227811,
+                    "id": "Q9227811"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P982": [
+            {
+                "value": "ee9305bc-5929-4011-946a-029c0ce2c73d",
+                "type": "string"
+            }
+        ],
+        "P214": [
+            {
+                "value": "138993478",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+863",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+864",
+                    "lowerBound": "+862"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+837",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Centraludi.jpg",
+                "type": "string"
+            }
+        ],
+        "P935": [
+            {
+                "value": "Uberlândia",
+                "type": "string"
+            }
+        ],
+        "P1997": [
+            {
+                "value": "104099496292845",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "3170206",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+604013",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "MinasGerais Municip Uberlandia.svg",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www3.uberlandia.mg.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P1792": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 14565428,
+                    "id": "Q14565428"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P281": [
+            {
+                "value": "38400-000",
+                "type": "string"
+            }
+        ],
+        "P473": [
+            {
+                "value": "034",
+                "type": "string"
+            }
+        ],
+        "P3417": [
+            {
+                "value": "Uberlândia",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+4115.206",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.789",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1417": [
+            {
+                "value": "place/Uberlandia",
+                "type": "string"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1789748,
+                    "id": "Q1789748"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "314875",
+                "type": "string"
+            }
+        ]
+    }
+}

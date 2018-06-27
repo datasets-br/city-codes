@@ -1,0 +1,157 @@
+{
+    "pageid": 1682908,
+    "ns": 0,
+    "type": "item",
+    "id": "Q1750076",
+    "claims": {
+        "P625": [
+            {
+                "value": {
+                    "latitude": -30.257777777778,
+                    "longitude": -50.51,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40030,
+                    "id": "Q40030"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/03qmbwn",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3455461",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Palmares do Sul",
+                "type": "string"
+            }
+        ],
+        "P1281": [
+            {
+                "value": "460346",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "4313656",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+10969",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "RioGrandedoSul Municip PalmaresdoSul.svg",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 25973522,
+                    "id": "Q25973522"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasao Palmares do Sul.png",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira Palmares do Sul copy.png",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Praça em Palmares do Sul 001.JPG",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+949.209",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.787",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1648530,
+                    "id": "Q1648530"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "242469",
+                "type": "string"
+            }
+        ]
+    }
+}

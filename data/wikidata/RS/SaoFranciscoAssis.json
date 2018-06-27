@@ -1,0 +1,162 @@
+{
+    "pageid": 1682977,
+    "ns": 0,
+    "type": "item",
+    "id": "Q1750146",
+    "claims": {
+        "P41": [
+            {
+                "value": "Bandeira sitesfassis.jpg",
+                "type": "string"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -29.55,
+                    "longitude": -55.130833333333,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40030,
+                    "id": "Q40030"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/02q9dwr",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Braso Sao Francisco de Assis RS.jpg",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3449124",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "São Francisco de Assis (Rio Grande do Sul)",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+151",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+152",
+                    "lowerBound": "+150"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "4318101",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+19254",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "RioGrandedoSul Municip SaoFranciscodeAssis.svg",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasao sitesfassis.jpg",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+2508.464",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.774",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P138": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 676555,
+                    "id": "Q676555"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 996716,
+                    "id": "Q996716"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "242434",
+                "type": "string"
+            }
+        ]
+    }
+}

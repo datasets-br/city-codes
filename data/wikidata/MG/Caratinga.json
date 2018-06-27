@@ -1,0 +1,227 @@
+{
+    "pageid": 855903,
+    "ns": 0,
+    "type": "item",
+    "id": "Q905175",
+    "claims": {
+        "P373": [
+            {
+                "value": "Caratinga",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira Caratinga.png",
+                "type": "string"
+            }
+        ],
+        "P158": [
+            {
+                "value": "Brasão Caratinga.png",
+                "type": "string"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasão Caratinga.png",
+                "type": "string"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -19.79,
+                    "longitude": -42.138888888889,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            },
+            {
+                "value": {
+                    "latitude": -19.69574,
+                    "longitude": -42.1201,
+                    "altitude": null,
+                    "precision": 1.0e-5,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/0b3ht7",
+                "type": "string"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 39109,
+                    "id": "Q39109"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3466988",
+                "type": "string"
+            },
+            {
+                "value": "6321240",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 8918616,
+                    "id": "Q8918616"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P214": [
+            {
+                "value": "133791094",
+                "type": "string"
+            }
+        ],
+        "P1667": [
+            {
+                "value": "1021083",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+578",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+579",
+                    "lowerBound": "+577"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+562",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Montagem Caratinga MG.JPG",
+                "type": "string"
+            }
+        ],
+        "P1281": [
+            {
+                "value": "456982",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.caratinga.mg.gov.br",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "3113404",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+85239",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "MinasGerais Municip Caratinga.svg",
+                "type": "string"
+            }
+        ],
+        "P3417": [
+            {
+                "value": "Caratinga",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+1258.660",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.706",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1789077,
+                    "id": "Q1789077"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1780206,
+                    "id": "Q1780206"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "315301",
+                "type": "string"
+            }
+        ]
+    }
+}

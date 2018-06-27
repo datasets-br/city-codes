@@ -1,0 +1,147 @@
+{
+    "pageid": 957785,
+    "ns": 0,
+    "type": "item",
+    "id": "Q1008345",
+    "claims": {
+        "P625": [
+            {
+                "value": {
+                    "latitude": -16.525,
+                    "longitude": -50.371944444444,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 41587,
+                    "id": "Q41587"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/04lf0p",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3448558",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "São Luís de Montes Belos",
+                "type": "string"
+            }
+        ],
+        "P214": [
+            {
+                "value": "145819607",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "5220108",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+30034",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Goias Municip SaoLuisdeMontesBelos.svg",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "SLMB.png",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "São Luís M. Belos.jpg",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+825.999",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.731",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P281": [
+            {
+                "value": "76100-000",
+                "type": "string"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 991093,
+                    "id": "Q991093"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "334539",
+                "type": "string"
+            }
+        ]
+    }
+}

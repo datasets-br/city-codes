@@ -1,0 +1,138 @@
+{
+    "pageid": 1739261,
+    "ns": 0,
+    "type": "item",
+    "id": "Q1808087",
+    "claims": {
+        "P625": [
+            {
+                "value": {
+                    "latitude": -9.2544444444444,
+                    "longitude": -35.257777777778,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40885,
+                    "id": "Q40885"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/026w92q",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "6320640",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Japaratinga",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "2703601",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+8453",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P41": [
+            {
+                "value": "BANDEIRA JAPARATINGA.png",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasao Japaratinga.jpg",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+5",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.613",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+85.502",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 971736,
+                    "id": "Q971736"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "303798",
+                "type": "string"
+            }
+        ]
+    }
+}

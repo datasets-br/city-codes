@@ -1,0 +1,187 @@
+{
+    "pageid": 935154,
+    "ns": 0,
+    "type": "item",
+    "id": "Q985508",
+    "claims": {
+        "P625": [
+            {
+                "value": {
+                    "latitude": -19.81,
+                    "longitude": -43.173888888889,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 39109,
+                    "id": "Q39109"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/04q7prr",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3459796",
+                "type": "string"
+            },
+            {
+                "value": "6321498",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "João Monlevade",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "3136207",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+73610",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "MinasGerais Municip JoaoMonlevade.svg",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Flag of João Monlevade MG.png",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Vista parcial João Monlevade MG.jpg",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 27589248,
+                    "id": "Q27589248"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+732",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+1051",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P3417": [
+            {
+                "value": "João-Monlevade",
+                "type": "string"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.758",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+99.283",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1638413,
+                    "id": "Q1638413"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1788395,
+                    "id": "Q1788395"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1793085,
+                    "id": "Q1793085"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "315389",
+                "type": "string"
+            }
+        ]
+    }
+}

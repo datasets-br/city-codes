@@ -1,0 +1,212 @@
+{
+    "pageid": 933392,
+    "ns": 0,
+    "type": "item",
+    "id": "Q983714",
+    "claims": {
+        "P41": [
+            {
+                "value": "Bandeira de Rondonopolis.png",
+                "type": "string"
+            }
+        ],
+        "P158": [
+            {
+                "value": "Brasao de Rondonopolis.png",
+                "type": "string"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasao de Rondonopolis.png",
+                "type": "string"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -16.470833333333,
+                    "longitude": -54.635833333333,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 42824,
+                    "id": "Q42824"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/08f35k",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3450909",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Rondonópolis",
+                "type": "string"
+            }
+        ],
+        "P214": [
+            {
+                "value": "145550895",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+227",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+228",
+                    "lowerBound": "+226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 21262351,
+                    "id": "Q21262351"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Rondonopolis a noite.jpg",
+                "type": "string"
+            }
+        ],
+        "P935": [
+            {
+                "value": "Rondonópolis",
+                "type": "string"
+            }
+        ],
+        "P1281": [
+            {
+                "value": "455907",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.rondonopolis.mt.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "5107602",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+218899",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P281": [
+            {
+                "value": "78740-100",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+4165.232",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.791",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P3417": [
+            {
+                "value": "Rondonópolis-Brazil",
+                "type": "string"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1805629,
+                    "id": "Q1805629"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2020525,
+                    "id": "Q2020525"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "333637",
+                "type": "string"
+            }
+        ],
+        "P242": [
+            {
+                "value": "MatoGrosso Municip Rondonopolis.svg",
+                "type": "string"
+            }
+        ]
+    }
+}

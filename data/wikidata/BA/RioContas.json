@@ -1,0 +1,72 @@
+{
+    "pageid": 5013997,
+    "ns": 0,
+    "type": "item",
+    "id": "Q5244330",
+    "claims": {
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 4022,
+                    "id": "Q4022"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P30": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 18,
+                    "id": "Q18"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P403": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 97,
+                    "id": "Q97"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Rio das Contas em Itacare.jpg",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "De Contas River",
+                "type": "string"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -13.505521,
+                    "longitude": -41.900193,
+                    "altitude": null,
+                    "precision": 0.092386246372105,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ]
+    }
+}

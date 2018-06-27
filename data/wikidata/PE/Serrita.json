@@ -1,0 +1,144 @@
+{
+    "pageid": 1941886,
+    "ns": 0,
+    "type": "item",
+    "id": "Q2013706",
+    "claims": {
+        "P625": [
+            {
+                "value": {
+                    "latitude": -7.9327777777778,
+                    "longitude": -39.295833333333,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40942,
+                    "id": "Q40942"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/07k5cm7",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3387727",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Serrita",
+                "type": "string"
+            }
+        ],
+        "P1667": [
+            {
+                "value": "1023077",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "2614006",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+18331",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Mapa de Serrita (2).png",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Serrita.gif",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 27588975,
+                    "id": "Q27588975"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+419",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+1538.437",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.595",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P402": [
+            {
+                "value": "303633",
+                "type": "string"
+            }
+        ]
+    }
+}

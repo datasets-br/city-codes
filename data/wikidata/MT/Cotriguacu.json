@@ -1,0 +1,24 @@
+{
+    "pageid": 32536165,
+    "ns": 0,
+    "type": "item",
+    "id": "Q30926864",
+    "claims": {
+        "P856": [
+            {
+                "value": "http://www.cotriguacu.com.br",
+                "type": "string"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 4830453,
+                    "id": "Q4830453"
+                },
+                "type": "wikibase-entityid"
+            }
+        ]
+    }
+}

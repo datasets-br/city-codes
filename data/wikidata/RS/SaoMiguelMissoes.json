@@ -1,0 +1,186 @@
+{
+    "pageid": 2034333,
+    "ns": 0,
+    "type": "item",
+    "id": "Q2107884",
+    "claims": {
+        "P373": [
+            {
+                "value": "São Miguel das Missões",
+                "type": "string"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -28.547141,
+                    "longitude": -54.550589,
+                    "altitude": null,
+                    "precision": 1.0e-6,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40030,
+                    "id": "Q40030"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/0d307n",
+                "type": "string"
+            }
+        ],
+        "P948": [
+            {
+                "value": "Sao-miguel-banner.jpg",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3448457",
+                "type": "string"
+            },
+            {
+                "value": "6319181",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Ruinas de Sao Miguel das Missoes.jpg",
+                "type": "string"
+            }
+        ],
+        "P611": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 36380,
+                    "id": "Q36380"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "4319158",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+7421",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "RioGrandedoSul Municip SaoMigueldasMissoes.svg",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 25930904,
+                    "id": "Q25930904"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.saomiguel.rs.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+305",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P281": [
+            {
+                "value": "98865-000",
+                "type": "string"
+            }
+        ],
+        "P473": [
+            {
+                "value": "55",
+                "type": "string"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.763",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+1229.844",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1774423,
+                    "id": "Q1774423"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "242428",
+                "type": "string"
+            }
+        ]
+    }
+}

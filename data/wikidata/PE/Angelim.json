@@ -1,0 +1,154 @@
+{
+    "pageid": 1916486,
+    "ns": 0,
+    "type": "item",
+    "id": "Q1987808",
+    "claims": {
+        "P625": [
+            {
+                "value": {
+                    "latitude": -8.8833333333333,
+                    "longitude": -36.283333333333,
+                    "altitude": null,
+                    "precision": 0.016666666666667,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40942,
+                    "id": "Q40942"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/076v8yp",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3407623",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Angelim",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 19641869,
+                    "id": "Q19641869"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "2601003",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+10202",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Band Angelim PE.png",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+631",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P421": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 6513,
+                    "id": "Q6513"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+118.032",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.572",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.cidade-brasil.com.br/municipio-angelim.html",
+                "type": "string"
+            }
+        ],
+        "P242": [
+            {
+                "value": "PE-mapa-Angelim.png",
+                "type": "string"
+            }
+        ],
+        "P402": [
+            {
+                "value": "303616",
+                "type": "string"
+            }
+        ]
+    }
+}

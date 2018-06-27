@@ -1,0 +1,358 @@
+{
+    "pageid": 169334,
+    "ns": 0,
+    "type": "item",
+    "id": "Q168888",
+    "claims": {
+        "P190": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 13373,
+                    "id": "Q13373"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira de Maceió.svg",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasão de Maceió.svg",
+                "type": "string"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Maceió",
+                "type": "string"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Alagoas Municip Maceio.svg",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Pv2.jpg",
+                "type": "string"
+            },
+            {
+                "value": "Maceió, estado Alagoas.jpg",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "57000-000",
+                "type": "string"
+            }
+        ],
+        "P421": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 6513,
+                    "id": "Q6513"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 6536,
+                    "id": "Q6536"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -9.6658333333333,
+                    "longitude": -35.735,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40885,
+                    "id": "Q40885"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 8592490,
+                    "id": "Q8592490"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 515,
+                    "id": "Q515"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/03dz6h",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3395981",
+                "type": "string"
+            }
+        ],
+        "P1464": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 8062978,
+                    "id": "Q8062978"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1465": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 18663886,
+                    "id": "Q18663886"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1740": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 19359099,
+                    "id": "Q19359099"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P982": [
+            {
+                "value": "632cdfc5-ec3e-491f-a3e1-169f4f7d7e98",
+                "type": "string"
+            }
+        ],
+        "P1376": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40885,
+                    "id": "Q40885"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P214": [
+            {
+                "value": "237012778",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+7",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+8",
+                    "lowerBound": "+6"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.maceio.al.gov.br",
+                "type": "string"
+            }
+        ],
+        "P935": [
+            {
+                "value": "Maceió",
+                "type": "string"
+            }
+        ],
+        "P1997": [
+            {
+                "value": "110377618984181",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "2704302",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+1029129",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1792": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 9225617,
+                    "id": "Q9225617"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+503.072",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.735",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P3417": [
+            {
+                "value": "Maceió-Brazil",
+                "type": "string"
+            }
+        ],
+        "P1448": [
+            {
+                "value": {
+                    "text": "Maceió",
+                    "language": "pt"
+                },
+                "type": "monolingualtext"
+            }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1815-00-00T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 9,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P2924": [
+            {
+                "value": "2189987",
+                "type": "string"
+            }
+        ],
+        "P948": [
+            {
+                "value": "Maceió banner Praia de Lagoa Azeda.jpg",
+                "type": "string"
+            }
+        ],
+        "P3219": [
+            {
+                "value": "maceio",
+                "type": "string"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1795908,
+                    "id": "Q1795908"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1795925,
+                    "id": "Q1795925"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1795979,
+                    "id": "Q1795979"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1816094,
+                    "id": "Q1816094"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "303815",
+                "type": "string"
+            }
+        ]
+    }
+}

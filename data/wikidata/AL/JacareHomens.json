@@ -1,0 +1,116 @@
+{
+    "pageid": 1747285,
+    "ns": 0,
+    "type": "item",
+    "id": "Q1816248",
+    "claims": {
+        "P625": [
+            {
+                "value": {
+                    "latitude": -9.6358333333333,
+                    "longitude": -37.205,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40885,
+                    "id": "Q40885"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/026w8_m",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3397761",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Jacaré dos Homens",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "2703403",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+135",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+142.344",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.571",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+5356",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P402": [
+            {
+                "value": "303780",
+                "type": "string"
+            }
+        ]
+    }
+}

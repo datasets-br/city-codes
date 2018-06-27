@@ -1,0 +1,152 @@
+{
+    "pageid": 1939115,
+    "ns": 0,
+    "type": "item",
+    "id": "Q2010898",
+    "claims": {
+        "P625": [
+            {
+                "value": {
+                    "latitude": -8.8088888888889,
+                    "longitude": -39.825,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40942,
+                    "id": "Q40942"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/06_wp11",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3389462",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Santa Maria da Boa Vista",
+                "type": "string"
+            }
+        ],
+        "P1667": [
+            {
+                "value": "1022972",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "2612604",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+39435",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Mapa de Santa Maria da Boa Vista (2).png",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira santa maria da boa vista PE.png",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+361",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.590",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+3001.168",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2103088,
+                    "id": "Q2103088"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2010863,
+                    "id": "Q2010863"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "303698",
+                "type": "string"
+            }
+        ]
+    }
+}

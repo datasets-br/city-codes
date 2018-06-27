@@ -1,0 +1,147 @@
+{
+    "pageid": 911254,
+    "ns": 0,
+    "type": "item",
+    "id": "Q961485",
+    "claims": {
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40030,
+                    "id": "Q40030"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/0gy1g4y",
+                "type": "string"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -29.4169,
+                    "longitude": -51.765,
+                    "altitude": null,
+                    "precision": 0.1031279162656,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "6319174",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Westfália",
+                "type": "string"
+            }
+        ],
+        "P214": [
+            {
+                "value": "231692651",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "4323770",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+2793",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira de Westfália.jpg",
+                "type": "string"
+            }
+        ],
+        "P242": [
+            {
+                "value": "RioGrandedoSul Municip Westfalia.svg",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+219",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+63.702",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.westfalia.rs.gov.br/site/home",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasao-Wetsfalia.png",
+                "type": "string"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 985568,
+                    "id": "Q985568"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "242453",
+                "type": "string"
+            }
+        ]
+    }
+}

@@ -1,0 +1,232 @@
+{
+    "pageid": 791328,
+    "ns": 0,
+    "type": "item",
+    "id": "Q839003",
+    "claims": {
+        "P373": [
+            {
+                "value": "São Cristóvão (Sergipe)",
+                "type": "string"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -11.015,
+                    "longitude": -37.205833333333,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 43783,
+                    "id": "Q43783"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/06c_wr",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3449310",
+                "type": "string"
+            }
+        ],
+        "P1435": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 9259,
+                    "id": "Q9259"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+47",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+48",
+                    "lowerBound": "+46"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Flickr - Ministério da Cultura - Praça São Francisco - São Cristóvão (SE) (6).jpg",
+                "type": "string"
+            }
+        ],
+        "P2614": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 23038976,
+                    "id": "Q23038976"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 23038978,
+                    "id": "Q23038978"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P214": [
+            {
+                "value": "188146462582627771506",
+                "type": "string"
+            }
+        ],
+        "P227": [
+            {
+                "value": "1100745866",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "no2009063420",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "2806701",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+64647",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+86979",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+78864",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Sergipe Municip SaoCristovao.svg",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira scristovao.svg",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasao sao cristovao.svg",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+436.863",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.662",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P3417": [
+            {
+                "value": "São-Cristóvão",
+                "type": "string"
+            }
+        ],
+        "P402": [
+            {
+                "value": "303896",
+                "type": "string"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 170578,
+                    "id": "Q170578"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1807361,
+                    "id": "Q1807361"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1417": [
+            {
+                "value": "place/Sao-Cristovao",
+                "type": "string"
+            }
+        ]
+    }
+}

@@ -1,0 +1,207 @@
+{
+    "pageid": 1726511,
+    "ns": 0,
+    "type": "item",
+    "id": "Q1795086",
+    "claims": {
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -8.8508333333333,
+                    "longitude": -38.755833333333,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40430,
+                    "id": "Q40430"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/09rs46z",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3390220",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Rodelas",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "2927101",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+6260",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+8887",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+7775",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Bahia Municip Rodelas.svg",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira de Rodelas BA.svg",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasão Rodelas.PNG",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Serrote Rodelas.jpg",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 27612094,
+                    "id": "Q27612094"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P421": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 6760,
+                    "id": "Q6760"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1549": [
+            {
+                "value": {
+                    "text": "rodelense",
+                    "language": "pt-br"
+                },
+                "type": "monolingualtext"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+2723.528",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P37": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 750553,
+                    "id": "Q750553"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1962-12-30T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 11,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.700",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 632744,
+                    "id": "Q632744"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "363122",
+                "type": "string"
+            }
+        ]
+    }
+}

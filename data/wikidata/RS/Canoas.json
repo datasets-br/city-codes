@@ -1,0 +1,207 @@
+{
+    "pageid": 192231,
+    "ns": 0,
+    "type": "item",
+    "id": "Q194325",
+    "claims": {
+        "P373": [
+            {
+                "value": "Canoas",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira canoas.png",
+                "type": "string"
+            }
+        ],
+        "P158": [
+            {
+                "value": "Brasao canoas.png",
+                "type": "string"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -29.92,
+                    "longitude": -51.18,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40030,
+                    "id": "Q40030"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/08wc_p",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3467467",
+                "type": "string"
+            }
+        ],
+        "P227": [
+            {
+                "value": "7704131-8",
+                "type": "string"
+            }
+        ],
+        "P214": [
+            {
+                "value": "143139014",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 9568867,
+                    "id": "Q9568867"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+8",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+9",
+                    "lowerBound": "+7"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Aviao-1-.jpg",
+                "type": "string"
+            }
+        ],
+        "P935": [
+            {
+                "value": "Canoas",
+                "type": "string"
+            }
+        ],
+        "P1997": [
+            {
+                "value": "104074329627892",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "4304606",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+323827",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Locator map of Canoas in Rio Grande do Sul.svg",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.canoas.rs.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasao canoas.png",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "92000-000",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+131.097",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P3417": [
+            {
+                "value": "Canoas-Brazil",
+                "type": "string"
+            }
+        ],
+        "P982": [
+            {
+                "value": "6fa3c97d-078d-4923-bf12-9980ee3cb879",
+                "type": "string"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40269,
+                    "id": "Q40269"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "242574",
+                "type": "string"
+            }
+        ]
+    }
+}

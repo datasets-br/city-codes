@@ -1,0 +1,179 @@
+{
+    "pageid": 1580853,
+    "ns": 0,
+    "type": "item",
+    "id": "Q1646949",
+    "claims": {
+        "P625": [
+            {
+                "value": {
+                    "latitude": -29.8,
+                    "longitude": -51.859722222222,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40030,
+                    "id": "Q40030"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/03qmd5n",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3446783",
+                "type": "string"
+            },
+            {
+                "value": "6323667",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Taquari",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+54",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+55",
+                    "lowerBound": "+53"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+68",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Lagoa Armenia.jpg",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "4321303",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+26092",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "RioGrandedoSul Municip Taquari.svg",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "BandeiraTaquari.jpg",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 25998597,
+                    "id": "Q25998597"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasão de Taquari.svg",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "95860-000",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+349.968",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.794",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1754588,
+                    "id": "Q1754588"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "242591",
+                "type": "string"
+            }
+        ]
+    }
+}

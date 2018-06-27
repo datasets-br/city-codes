@@ -1,0 +1,201 @@
+{
+    "pageid": 1682592,
+    "ns": 0,
+    "type": "item",
+    "id": "Q1749754",
+    "claims": {
+        "P373": [
+            {
+                "value": "Três Pontas",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeiratrespontas.jpg",
+                "type": "string"
+            }
+        ],
+        "P158": [
+            {
+                "value": "Brasaotrespontas.jpg",
+                "type": "string"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -21.366944444444,
+                    "longitude": -45.512777777778,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 8873949,
+                    "id": "Q8873949"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/05r2nf",
+                "type": "string"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 39109,
+                    "id": "Q39109"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3446077",
+                "type": "string"
+            },
+            {
+                "value": "6321890",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+905",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+906",
+                    "lowerBound": "+904"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+1134",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Cidade de Três Pontas e serra.JPG",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "3169406",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+53860",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "MinasGerais Municip TresPontas.svg",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Trespontas.jpg",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "37190-000",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+689.794",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.731",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 983524,
+                    "id": "Q983524"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 939717,
+                    "id": "Q939717"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 22065194,
+                    "id": "Q22065194"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "314959",
+                "type": "string"
+            }
+        ]
+    }
+}

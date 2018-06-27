@@ -1,0 +1,134 @@
+{
+    "pageid": 1734482,
+    "ns": 0,
+    "type": "item",
+    "id": "Q1803256",
+    "claims": {
+        "P625": [
+            {
+                "value": {
+                    "latitude": -31.286944444444,
+                    "longitude": -51.093888888889,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40030,
+                    "id": "Q40030"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/03qmd5_",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "6323669",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Tavares (Rio Grande do Sul)",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "4321352",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+5351",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "RioGrandedoSul Municip Tavares.svg",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Tavares (RD) - Brasao.png",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "TavaresRS.jpg",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+15",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+604.255",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.761",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P402": [
+            {
+                "value": "242454",
+                "type": "string"
+            }
+        ]
+    }
+}

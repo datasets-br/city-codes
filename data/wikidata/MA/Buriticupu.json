@@ -1,0 +1,148 @@
+{
+    "pageid": 1941433,
+    "ns": 0,
+    "type": "item",
+    "id": "Q2013248",
+    "claims": {
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -4.3458333333333,
+                    "longitude": -46.400833333333,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 42362,
+                    "id": "Q42362"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/04n1ykc",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "6316662",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Buriticupu",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+174",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+175",
+                    "lowerBound": "+173"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.buriticupu.ma.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "2102325",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+65237",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira de buriticupu.jpg",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "65393",
+                "type": "string"
+            }
+        ],
+        "P3417": [
+            {
+                "value": "Buriticupu",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Panorama buriticupu.jpg",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+2545.440",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.556",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P402": [
+            {
+                "value": "332852",
+                "type": "string"
+            }
+        ]
+    }
+}

@@ -1,0 +1,184 @@
+{
+    "pageid": 935159,
+    "ns": 0,
+    "type": "item",
+    "id": "Q985513",
+    "claims": {
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -14.277777777778,
+                    "longitude": -38.996944444444,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Itacaré",
+                "type": "string"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40430,
+                    "id": "Q40430"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/06xb45",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3460940",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 10237980,
+                    "id": "Q10237980"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P641": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 159992,
+                    "id": "Q159992"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1997": [
+            {
+                "value": "104050949632882",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Itacaré - flago.jpg",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "2914901",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+18120",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+27619",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+24318",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Bahia Municip Itacare.svg",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Itacare.jpg",
+                "type": "string"
+            }
+        ],
+        "P3417": [
+            {
+                "value": "Itacaré",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+29",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+737.869",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.583",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 22062848,
+                    "id": "Q22062848"
+                },
+                "type": "wikibase-entityid"
+            }
+        ]
+    }
+}

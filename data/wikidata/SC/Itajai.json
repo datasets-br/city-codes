@@ -1,0 +1,240 @@
+{
+    "pageid": 794912,
+    "ns": 0,
+    "type": "item",
+    "id": "Q842713",
+    "claims": {
+        "P41": [
+            {
+                "value": "Bandeira Itajai SantaCatarina Brasil.svg",
+                "type": "string"
+            }
+        ],
+        "P158": [
+            {
+                "value": "Brasao Itajai SantaCatarina Brasil.svg",
+                "type": "string"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Itajaí",
+                "type": "string"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -26.907777777778,
+                    "longitude": -48.661944444444,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 41115,
+                    "id": "Q41115"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/0f70xy",
+                "type": "string"
+            }
+        ],
+        "P190": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 646847,
+                    "id": "Q646847"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 404362,
+                    "id": "Q404362"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3460845",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 10238227,
+                    "id": "Q10238227"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P214": [
+            {
+                "value": "155365566",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+2",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+3",
+                    "lowerBound": "+1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P935": [
+            {
+                "value": "Itajaí",
+                "type": "string"
+            }
+        ],
+        "P242": [
+            {
+                "value": "SantaCatarina Municip Itajai.svg",
+                "type": "string"
+            }
+        ],
+        "P2002": [
+            {
+                "value": "pref_itajai",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.itajai.sc.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "4208203",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+183373",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2013": [
+            {
+                "value": "PrefeituradeItajai",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasao Itajai SantaCatarina Brasil.svg",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "89200-000",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Itajaí 287.jpg",
+                "type": "string"
+            }
+        ],
+        "P473": [
+            {
+                "value": "047",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+289.255",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.795",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P3417": [
+            {
+                "value": "Itajaí-Brazil",
+                "type": "string"
+            }
+        ],
+        "P1417": [
+            {
+                "value": "place/Itajai",
+                "type": "string"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 598016,
+                    "id": "Q598016"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "296666",
+                "type": "string"
+            }
+        ]
+    }
+}

@@ -1,1 +1,178 @@
-{"entities":{"Q658024":{"pageid":619346,"ns":0,"title":"Q658024","lastrevid":681523472,"modified":"2018-05-19T13:45:33Z","type":"item","id":"Q658024","labels":{"it":{"language":"it","value":"\u00d3leo"},"en":{"language":"en","value":"\u00d3leo"},"eo":{"language":"eo","value":"\u00d3leo"},"fr":{"language":"fr","value":"\u00d3leo"},"mg":{"language":"mg","value":"\u00d3leo"},"nl":{"language":"nl","value":"\u00d3leo"},"pl":{"language":"pl","value":"\u00d3leo"},"pt":{"language":"pt","value":"\u00d3leo"},"ro":{"language":"ro","value":"\u00d3leo"},"ru":{"language":"ru","value":"\u041e\u043b\u0435\u0443"},"vi":{"language":"vi","value":"\u00d3leo"},"vo":{"language":"vo","value":"\u00d3leo"},"war":{"language":"war","value":"\u00d3leo"},"bpy":{"language":"bpy","value":"\u0993\u09b2\u09c7\u0993"},"nb":{"language":"nb","value":"\u00d3leo"},"zh":{"language":"zh","value":"\u00d3leo"},"de":{"language":"de","value":"\u00d3leo"},"ceb":{"language":"ceb","value":"\u00d3leo"},"sv":{"language":"sv","value":"\u00d3leo"},"es":{"language":"es","value":"\u00d3leo"},"ca":{"language":"ca","value":"\u00d3leo"},"gl":{"language":"gl","value":"\u00d3leo"},"nan":{"language":"nan","value":"\u00d3leo"},"eu":{"language":"eu","value":"\u00d3leo (S\u00e3o Paulo)"},"kk":{"language":"kk","value":"\u041e\u043b\u0435\u0443"},"hu":{"language":"hu","value":"\u00d3leo"},"pt-br":{"language":"pt-br","value":"\u00d3leo"}},"descriptions":{"it":{"language":"it","value":"comune brasiliano"},"fr":{"language":"fr","value":"municipalit\u00e9 br\u00e9silienne de l'\u00c9tat de S\u00e3o Paulo et la Micror\u00e9gion d'Ourinhos"},"nl":{"language":"nl","value":"gemeente in S\u00e3o Paulo"},"en":{"language":"en","value":"municipality/county in the state of S\u00e3o Paulo in Brazil"},"pt":{"language":"pt","value":"munic\u00edpio brasileiro do estado de S\u00e3o Paulo"},"de":{"language":"de","value":"Gemeinde im Bundesstaat S\u00e3o Paulo, Brasilien"},"es":{"language":"es","value":"S\u00e3o Paulo"},"ca":{"language":"ca","value":"S\u00e3o Paulo"},"gl":{"language":"gl","value":"S\u00e3o Paulo"},"nb":{"language":"nb","value":"kommune i S\u00e3o Paulo, Brasil"},"he":{"language":"he","value":"\u05e2\u05d9\u05e8 \u05d1\u05d1\u05e8\u05d6\u05d9\u05dc"},"hu":{"language":"hu","value":"k\u00f6zs\u00e9g Braz\u00edli\u00e1ban"},"pt-br":{"language":"pt-br","value":"munic\u00edpio do Estado de S\u00e3o Paulo"}},"aliases":{"es":[{"language":"es","value":"Oleo"}],"en":[{"language":"en","value":"Oleo"}]},"claims":{"P94":[{"mainsnak":{"snaktype":"value","property":"P94","hash":"ecc0a96ef31787360655a2fb75a1d2c5b3a9db88","datavalue":{"value":"Bras\u00e3o de \u00d3leo.jpg","type":"string"},"datatype":"commonsMedia"},"type":"statement","id":"q658024$9023858c-4046-5598-45fc-58606123979b","rank":"normal"}],"P625":[{"mainsnak":{"snaktype":"value","property":"P625","hash":"9719b0e125af4f37a850e99defa7e403049635e5","datavalue":{"value":{"latitude":-22.941388888889,"longitude":-49.341944444444,"altitude":null,"precision":null,"globe":"http://www.wikidata.org/entity/Q2"},"type":"globecoordinate"},"datatype":"globe-coordinate"},"type":"statement","id":"q658024$8BBDCCD2-6678-485E-9975-F8AE2096ABDF","rank":"normal"}],"P17":[{"mainsnak":{"snaktype":"value","property":"P17","hash":"90114304161d20f1934075ea47b8a33a76e95138","datavalue":{"value":{"entity-type":"item","numeric-id":155,"id":"Q155"},"type":"wikibase-entityid"},"datatype":"wikibase-item"},"type":"statement","id":"q658024$09AFE180-A667-4F1D-940F-41C36E8711D5","rank":"normal","references":[{"hash":"288ab581e7d2d02995a26dfa8b091d96e78457fc","snaks":{"P143":[{"snaktype":"value","property":"P143","hash":"6a164248fc96bfa583bbb495cb63ae6401ec203c","datavalue":{"value":{"entity-type":"item","numeric-id":206855,"id":"Q206855"},"type":"wikibase-entityid"},"datatype":"wikibase-item"}]},"snaks-order":["P143"]}]}],"P373":[{"mainsnak":{"snaktype":"value","property":"P373","hash":"ac581a49d0e15bb337be52c69839c141a432305e","datavalue":{"value":"\u00d3leo (S\u00e3o Paulo)","type":"string"},"datatype":"string"},"type":"statement","id":"q658024$FEB5A960-D553-43CA-B0C9-87DA30B98C73","rank":"normal"}],"P646":[{"mainsnak":{"snaktype":"value","property":"P646","hash":"db6c80af97af6d282d4eae0d0dc2e4af565edb6c","datavalue":{"value":"/m/043f0f","type":"string"},"datatype":"external-id"},"type":"statement","id":"Q658024$01A76EA9-FB43-4EFE-B413-8489F9D112FE","rank":"normal","references":[{"hash":"2b00cb481cddcac7623114367489b5c194901c4a","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"a94b740202b097dd33355e0e6c00e54b9395e5e0","datavalue":{"value":{"entity-type":"item","numeric-id":15241312,"id":"Q15241312"},"type":"wikibase-entityid"},"datatype":"wikibase-item"}],"P577":[{"snaktype":"value","property":"P577","hash":"fde79ecb015112d2f29229ccc1ec514ed3e71fa2","datavalue":{"value":{"time":"+2013-10-28T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http://www.wikidata.org/entity/Q1985727"},"type":"time"},"datatype":"time"}]},"snaks-order":["P248","P577"]}]}],"P131":[{"mainsnak":{"snaktype":"value","property":"P131","hash":"366d92f4d577645388ac0fa2be5042857215737a","datavalue":{"value":{"entity-type":"item","numeric-id":175,"id":"Q175"},"type":"wikibase-entityid"},"datatype":"wikibase-item"},"type":"statement","id":"Q658024$616D21E5-F00E-4E16-8C16-0837E778DD4C","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"1d2d976b06b7bb208fadcff54975cc04295b93c0","datavalue":{"value":{"entity-type":"item","numeric-id":515,"id":"Q515"},"type":"wikibase-entityid"},"datatype":"wikibase-item"},"type":"statement","id":"Q658024$9EF569A9-48D0-4E87-899B-89159795DDD0","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P31","hash":"64451778649ababeb1433bba2b9dbc5079680041","datavalue":{"value":{"entity-type":"item","numeric-id":3184121,"id":"Q3184121"},"type":"wikibase-entityid"},"datatype":"wikibase-item"},"type":"statement","id":"Q658024$DF56F5FD-CA3A-4EBF-9823-6FF349A268A3","rank":"normal"}],"P1566":[{"mainsnak":{"snaktype":"value","property":"P1566","hash":"585ff71156d7f495cb0231791b1ff0e5ea3a2530","datavalue":{"value":"6322420","type":"string"},"datatype":"external-id"},"type":"statement","id":"Q658024$5DA39EDC-51A3-47AC-8094-F7D311693E93","rank":"normal","references":[{"hash":"64133510dcdf15e7943de41e4835c673fc5d6fe4","snaks":{"P143":[{"snaktype":"value","property":"P143","hash":"3439bea208036ec33ec3fba8245410df3efb8044","datavalue":{"value":{"entity-type":"item","numeric-id":830106,"id":"Q830106"},"type":"wikibase-entityid"},"datatype":"wikibase-item"}]},"snaks-order":["P143"]}]}],"P214":[{"mainsnak":{"snaktype":"value","property":"P214","hash":"87a77eff7467c5d84b86b17c3bafb0c32e43864d","datavalue":{"value":"132837353","type":"string"},"datatype":"external-id"},"type":"statement","id":"Q658024$0E827CC7-43F7-4CC5-9DB1-98AEF70D5DD5","rank":"normal","references":[{"hash":"e55f87380bd6fcc15e0f245b531c7817bba8d3e1","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"6b7d4330c4aac4caec4ede9de0311ce273f88ecd","datavalue":{"value":{"entity-type":"item","numeric-id":54919,"id":"Q54919"},"type":"wikibase-entityid"},"datatype":"wikibase-item"}],"P813":[{"snaktype":"value","property":"P813","hash":"d54eced6b2fe90097aedd380511328c613c91f84","datavalue":{"value":{"time":"+2015-08-04T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http://www.wikidata.org/entity/Q1985727"},"type":"time"},"datatype":"time"}]},"snaks-order":["P248","P813"]}]}],"P1585":[{"mainsnak":{"snaktype":"value","property":"P1585","hash":"bd4efe28ec4206eccd6729b778ad2335415daeff","datavalue":{"value":"3533809","type":"string"},"datatype":"external-id"},"type":"statement","id":"Q658024$4E6A84C7-6C3D-4622-BF56-ED8804EC1D2E","rank":"normal","references":[{"hash":"8f6d2b4a0e3da23aca841c5dfe6b7ed894bd315a","snaks":{"P143":[{"snaktype":"value","property":"P143","hash":"c4cc8cf0417b27e19c135f9b4312453d668ab641","datavalue":{"value":{"entity-type":"item","numeric-id":191769,"id":"Q191769"},"type":"wikibase-entityid"},"datatype":"wikibase-item"}]},"snaks-order":["P143"]}]}],"P1082":[{"mainsnak":{"snaktype":"value","property":"P1082","hash":"45f86883c1feb7753c5aadcfb010d7c82cf963f4","datavalue":{"value":{"amount":"+2994","unit":"1"},"type":"quantity"},"datatype":"quantity"},"type":"statement","qualifiers":{"P585":[{"snaktype":"value","property":"P585","hash":"af2e73803c1d4751904f5933cf592cc3a1247193","datavalue":{"value":{"time":"+2000-08-01T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http://www.wikidata.org/entity/Q1985727"},"type":"time"},"datatype":"time"}],"P459":[{"snaktype":"value","property":"P459","hash":"f34609d440cf44ebaa8a3e704c9369413240618c","datavalue":{"value":{"entity-type":"item","numeric-id":39825,"id":"Q39825"},"type":"wikibase-entityid"},"datatype":"wikibase-item"}]},"qualifiers-order":["P585","P459"],"id":"Q658024$E1549E2A-26E0-4543-BF3A-073893196C67","rank":"normal","references":[{"hash":"75ea867d1143b2bcc0c513aed09d0374b487c364","snaks":{"P813":[{"snaktype":"value","property":"P813","hash":"2161e01a82ec3b867ce0de62fbf2329949929d0e","datavalue":{"value":{"time":"+2016-06-04T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http://www.wikidata.org/entity/Q1985727"},"type":"time"},"datatype":"time"}],"P1476":[{"snaktype":"value","property":"P1476","hash":"cae3e8e20eafea47233a902d1d9162b1cd95b583","datavalue":{"value":{"text":"Population by municipality","language":"en"},"type":"monolingualtext"},"datatype":"monolingualtext"}],"P854":[{"snaktype":"value","property":"P854","hash":"099b4e1abd1057a11065eb89b0e2d13c78719a17","datavalue":{"value":"http://www.ibge.gov.br/english/estatistica/populacao/censo2010/primeiros_resultados/populacao_por_municipio_zip.shtm","type":"string"},"datatype":"url"}]},"snaks-order":["P813","P1476","P854"]}]},{"mainsnak":{"snaktype":"value","property":"P1082","hash":"d1e2bda3023ee949f6408b5e0201a7849bd425f0","datavalue":{"value":{"amount":"+2628","unit":"1"},"type":"quantity"},"datatype":"quantity"},"type":"statement","qualifiers":{"P585":[{"snaktype":"value","property":"P585","hash":"a3f90942a5afb60867bda9b4d2ca87c7eca72fef","datavalue":{"value":{"time":"+2015-07-01T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http://www.wikidata.org/entity/Q1985727"},"type":"time"},"datatype":"time"}],"P459":[{"snaktype":"value","property":"P459","hash":"59e16663852542d613c363dbd575ca58fff3b6e7","datavalue":{"value":{"entity-type":"item","numeric-id":791801,"id":"Q791801"},"type":"wikibase-entityid"},"datatype":"wikibase-item"}]},"qualifiers-order":["P585","P459"],"id":"Q658024$7137F1F9-7DD9-449A-AB99-D16604AFE8EA","rank":"preferred","references":[{"hash":"27bcf891f0c568374e303f9ab79eff12390a759a","snaks":{"P813":[{"snaktype":"value","property":"P813","hash":"2161e01a82ec3b867ce0de62fbf2329949929d0e","datavalue":{"value":{"time":"+2016-06-04T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http://www.wikidata.org/entity/Q1985727"},"type":"time"},"datatype":"time"}],"P1476":[{"snaktype":"value","property":"P1476","hash":"6211f7c65c507368966cae57615f2399e03e7fcb","datavalue":{"value":{"text":"Population estimates for July 1st, 2015","language":"en"},"type":"monolingualtext"},"datatype":"monolingualtext"}],"P854":[{"snaktype":"value","property":"P854","hash":"7039b8102e8add31dcee6f7e352617ad6f27cd4c","datavalue":{"value":"http://www.ibge.gov.br/english/estatistica/populacao/estimativa2015/estimativa_tcu.shtm","type":"string"},"datatype":"url"}]},"snaks-order":["P813","P1476","P854"]}]},{"mainsnak":{"snaktype":"value","property":"P1082","hash":"ba784f25e3e4fc8f56194a0a848dc400f0d16028","datavalue":{"value":{"amount":"+2673","unit":"1"},"type":"quantity"},"datatype":"quantity"},"type":"statement","qualifiers":{"P459":[{"snaktype":"value","property":"P459","hash":"f34609d440cf44ebaa8a3e704c9369413240618c","datavalue":{"value":{"entity-type":"item","numeric-id":39825,"id":"Q39825"},"type":"wikibase-entityid"},"datatype":"wikibase-item"}],"P585":[{"snaktype":"value","property":"P585","hash":"f685a3b38f035c344da64e6c1dc211dd86558ae5","datavalue":{"value":{"time":"+2010-01-01T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http://www.wikidata.org/entity/Q1985727"},"type":"time"},"datatype":"time"}]},"qualifiers-order":["P459","P585"],"id":"Q658024$80BFBC65-418B-46EF-B0A6-608D9340B8DD","rank":"normal","references":[{"hash":"d6c455e1541d4d661e8b63a2d2dd7ce73dc60612","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"13063e8f1275e3730a3c967326b8760833635676","datavalue":{"value":{"entity-type":"item","numeric-id":4350750,"id":"Q4350750"},"type":"wikibase-entityid"},"datatype":"wikibase-item"}]},"snaks-order":["P248"]}]}],"P242":[{"mainsnak":{"snaktype":"value","property":"P242","hash":"fbfb665dc8c3d21fa466467c64cbdcc750d5dc83","datavalue":{"value":"SaoPaulo Municip Oleo.svg","type":"string"},"datatype":"commonsMedia"},"type":"statement","id":"Q658024$4459CFAC-E34F-47FD-9A0C-006ECF4A2DDD","rank":"normal","references":[{"hash":"d4bd87b862b12d99d26e86472d44f26858dee639","snaks":{"P143":[{"snaktype":"value","property":"P143","hash":"f30cbd35620c4ea6d0633aaf0210a8916130469b","datavalue":{"value":{"entity-type":"item","numeric-id":8447,"id":"Q8447"},"type":"wikibase-entityid"},"datatype":"wikibase-item"}]},"snaks-order":["P143"]}]}],"P41":[{"mainsnak":{"snaktype":"value","property":"P41","hash":"37692a8fb7a5b0f08dfb1eac06ebff58356cb128","datavalue":{"value":"Bandeira \u00d3leo.png","type":"string"},"datatype":"commonsMedia"},"type":"statement","id":"Q658024$E1EA9596-5F03-48E9-983E-9D68EEE0FA81","rank":"normal","references":[{"hash":"9424852ca7d9d48269148c57acbefacca1899882","snaks":{"P143":[{"snaktype":"value","property":"P143","hash":"b7f8bea3bb10c237323eb448dc4798948923bd5c","datavalue":{"value":{"entity-type":"item","numeric-id":11921,"id":"Q11921"},"type":"wikibase-entityid"},"datatype":"wikibase-item"}]},"snaks-order":["P143"]}]}],"P18":[{"mainsnak":{"snaktype":"value","property":"P18","hash":"7d6760e3444000611ba7865a8a95756c7fb0cc60","datavalue":{"value":"Igreja \u00d3leo 140309 REFON 1.JPG","type":"string"},"datatype":"commonsMedia"},"type":"statement","id":"Q658024$71D9A06A-AC45-481A-95CB-DF33C32BB5BE","rank":"normal","references":[{"hash":"9424852ca7d9d48269148c57acbefacca1899882","snaks":{"P143":[{"snaktype":"value","property":"P143","hash":"b7f8bea3bb10c237323eb448dc4798948923bd5c","datavalue":{"value":{"entity-type":"item","numeric-id":11921,"id":"Q11921"},"type":"wikibase-entityid"},"datatype":"wikibase-item"}]},"snaks-order":["P143"]}]}],"P2044":[{"mainsnak":{"snaktype":"value","property":"P2044","hash":"f7b72882af95a49ac51501c7ea2cf64c311eea17","datavalue":{"value":{"amount":"+682","unit":"http://www.wikidata.org/entity/Q11573"},"type":"quantity"},"datatype":"quantity"},"type":"statement","id":"Q658024$2626B5B6-4A2C-4935-B05C-2D48A406A73E","rank":"normal","references":[{"hash":"d5847b9b6032aa8b13dae3c2dfd9ed5d114d21b3","snaks":{"P143":[{"snaktype":"value","property":"P143","hash":"5a343e7e758a4282a01316d3e959b6e653b767fc","datavalue":{"value":{"entity-type":"item","numeric-id":11920,"id":"Q11920"},"type":"wikibase-entityid"},"datatype":"wikibase-item"}]},"snaks-order":["P143"]}]}],"P2046":[{"mainsnak":{"snaktype":"value","property":"P2046","hash":"cc2a2137d8c30e728f147743e6ebd1ca9b736678","datavalue":{"value":{"amount":"+197.974","unit":"http://www.wikidata.org/entity/Q712226"},"type":"quantity"},"datatype":"quantity"},"type":"statement","id":"Q658024$B36B7D95-F05A-4F68-882B-97498E4A07CF","rank":"normal","references":[{"hash":"9424852ca7d9d48269148c57acbefacca1899882","snaks":{"P143":[{"snaktype":"value","property":"P143","hash":"b7f8bea3bb10c237323eb448dc4798948923bd5c","datavalue":{"value":{"entity-type":"item","numeric-id":11921,"id":"Q11921"},"type":"wikibase-entityid"},"datatype":"wikibase-item"}]},"snaks-order":["P143"]}]}],"P1081":[{"mainsnak":{"snaktype":"value","property":"P1081","hash":"fbf00af382a12af6a2a3da92540de21cf300a1db","datavalue":{"value":{"amount":"+0.761","unit":"1"},"type":"quantity"},"datatype":"quantity"},"type":"statement","id":"Q658024$71DE1518-269A-443C-81F2-0963580867C3","rank":"normal","references":[{"hash":"9424852ca7d9d48269148c57acbefacca1899882","snaks":{"P143":[{"snaktype":"value","property":"P143","hash":"b7f8bea3bb10c237323eb448dc4798948923bd5c","datavalue":{"value":{"entity-type":"item","numeric-id":11921,"id":"Q11921"},"type":"wikibase-entityid"},"datatype":"wikibase-item"}]},"snaks-order":["P143"]}]}],"P47":[{"mainsnak":{"snaktype":"value","property":"P47","hash":"0a7da41e47863ded3a00503d0d8536ca926fc48d","datavalue":{"value":{"entity-type":"item","numeric-id":1646321,"id":"Q1646321"},"type":"wikibase-entityid"},"datatype":"wikibase-item"},"type":"statement","id":"Q658024$F4A1C963-F1BE-4C65-B121-77FA3D83B62C","rank":"normal","references":[{"hash":"9424852ca7d9d48269148c57acbefacca1899882","snaks":{"P143":[{"snaktype":"value","property":"P143","hash":"b7f8bea3bb10c237323eb448dc4798948923bd5c","datavalue":{"value":{"entity-type":"item","numeric-id":11921,"id":"Q11921"},"type":"wikibase-entityid"},"datatype":"wikibase-item"}]},"snaks-order":["P143"]}]}],"P402":[{"mainsnak":{"snaktype":"value","property":"P402","hash":"dba718f4cf5014bf358efabaf8142e9a386ab04f","datavalue":{"value":"297997","type":"string"},"datatype":"external-id"},"type":"statement","id":"Q658024$570B9516-17B4-4246-905F-FD712361D779","rank":"normal"}]},"sitelinks":{"bpywiki":{"site":"bpywiki","title":"\u0993\u09b2\u09c7\u0993","badges":[]},"cebwiki":{"site":"cebwiki","title":"\u00d3leo","badges":[]},"commonswiki":{"site":"commonswiki","title":"Category:\u00d3leo (S\u00e3o Paulo)","badges":[]},"enwiki":{"site":"enwiki","title":"\u00d3leo","badges":[]},"eowiki":{"site":"eowiki","title":"\u00d3leo (S\u00e3o Paulo)","badges":[]},"euwiki":{"site":"euwiki","title":"\u00d3leo (S\u00e3o Paulo)","badges":[]},"frwiki":{"site":"frwiki","title":"\u00d3leo (S\u00e3o Paulo)","badges":[]},"itwiki":{"site":"itwiki","title":"\u00d3leo","badges":[]},"kkwiki":{"site":"kkwiki","title":"\u041e\u043b\u0435\u0443","badges":[]},"mgwiki":{"site":"mgwiki","title":"\u00d3leo","badges":[]},"nlwiki":{"site":"nlwiki","title":"\u00d3leo","badges":[]},"nowiki":{"site":"nowiki","title":"\u00d3leo","badges":[]},"plwiki":{"site":"plwiki","title":"\u00d3leo","badges":[]},"ptwiki":{"site":"ptwiki","title":"\u00d3leo (S\u00e3o Paulo)","badges":[]},"rowiki":{"site":"rowiki","title":"\u00d3leo","badges":[]},"ruwiki":{"site":"ruwiki","title":"\u041e\u043b\u0435\u0443 (\u0421\u0430\u043d-\u041f\u0430\u0443\u043b\u0443)","badges":[]},"svwiki":{"site":"svwiki","title":"\u00d3leo","badges":[]},"viwiki":{"site":"viwiki","title":"\u00d3leo","badges":[]},"vowiki":{"site":"vowiki","title":"\u00d3leo","badges":[]},"warwiki":{"site":"warwiki","title":"\u00d3leo","badges":[]},"zh_min_nanwiki":{"site":"zh_min_nanwiki","title":"\u00d3leo (S\u00e3o Paulo)","badges":[]},"zhwiki":{"site":"zhwiki","title":"\u5965\u83b1\u5965","badges":[]}}}},"success":1}
+{
+    "pageid": 619346,
+    "ns": 0,
+    "type": "item",
+    "id": "Q658024",
+    "claims": {
+        "P94": [
+            {
+                "value": "Brasão de Óleo.jpg",
+                "type": "string"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -22.941388888889,
+                    "longitude": -49.341944444444,
+                    "altitude": null,
+                    "precision": null,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Óleo (São Paulo)",
+                "type": "string"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/043f0f",
+                "type": "string"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 175,
+                    "id": "Q175"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 515,
+                    "id": "Q515"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "6322420",
+                "type": "string"
+            }
+        ],
+        "P214": [
+            {
+                "value": "132837353",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "3533809",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+2994",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+2628",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+2673",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "SaoPaulo Municip Oleo.svg",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira Óleo.png",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Igreja Óleo 140309 REFON 1.JPG",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+682",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+197.974",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.761",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1646321,
+                    "id": "Q1646321"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "297997",
+                "type": "string"
+            }
+        ]
+    }
+}

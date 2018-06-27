@@ -1,0 +1,172 @@
+{
+    "pageid": 899852,
+    "ns": 0,
+    "type": "item",
+    "id": "Q949833",
+    "claims": {
+        "P41": [
+            {
+                "value": "BandeiraPaulistaPE.png",
+                "type": "string"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -7.9408333333333,
+                    "longitude": -34.872777777778,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40942,
+                    "id": "Q40942"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/01m4q4",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3392740",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Paulista (Pernambuco)",
+                "type": "string"
+            }
+        ],
+        "P214": [
+            {
+                "value": "125546909",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+13",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+14",
+                    "lowerBound": "+12"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1997": [
+            {
+                "value": "103106599729513",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "2610707",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+300466",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+93.518",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.732",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P3417": [
+            {
+                "value": "Paulista-PE-Brazil",
+                "type": "string"
+            }
+        ],
+        "P982": [
+            {
+                "value": "cb5ce621-2060-4185-a6ed-49caa5b69721",
+                "type": "string"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 48344,
+                    "id": "Q48344"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 536569,
+                    "id": "Q536569"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Paulista.png",
+                "type": "string"
+            }
+        ],
+        "P402": [
+            {
+                "value": "303755",
+                "type": "string"
+            }
+        ]
+    }
+}

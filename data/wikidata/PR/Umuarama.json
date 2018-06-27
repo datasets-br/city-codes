@@ -1,0 +1,204 @@
+{
+    "pageid": 558940,
+    "ns": 0,
+    "type": "item",
+    "id": "Q593948",
+    "claims": {
+        "P41": [
+            {
+                "value": "Bandeira de Umuarama - PR.svg",
+                "type": "string"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -23.765833333333,
+                    "longitude": -53.325,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Umuarama",
+                "type": "string"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 15499,
+                    "id": "Q15499"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 8857797,
+                    "id": "Q8857797"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/0279ghw",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3445782",
+                "type": "string"
+            }
+        ],
+        "P214": [
+            {
+                "value": "131706465",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+430",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+431",
+                    "lowerBound": "+429"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.umuarama.pr.gov.br",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "4128104",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+100676",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Parana Municip Umuarama.svg",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasão de Umuarama - PR.svg",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "87500-000",
+                "type": "string"
+            }
+        ],
+        "P3417": [
+            {
+                "value": "Umuarama",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+1232.799",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.761",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2003794,
+                    "id": "Q2003794"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2003784,
+                    "id": "Q2003784"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2003811,
+                    "id": "Q2003811"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2004093,
+                    "id": "Q2004093"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "297607",
+                "type": "string"
+            }
+        ]
+    }
+}

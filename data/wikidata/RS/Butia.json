@@ -1,0 +1,184 @@
+{
+    "pageid": 602519,
+    "ns": 0,
+    "type": "item",
+    "id": "Q640384",
+    "claims": {
+        "P625": [
+            {
+                "value": {
+                    "latitude": -30.12,
+                    "longitude": -51.961944444444,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40030,
+                    "id": "Q40030"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/03qm8w9",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3468704",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Butiá (Rio Grande do Sul)",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 9561952,
+                    "id": "Q9561952"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P214": [
+            {
+                "value": "142050593",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasao Butia.jpg",
+                "type": "string"
+            },
+            {
+                "value": "Brasão de Butiá-RS, Brasil.jpg",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira de Butiá-RS, Brasil.jpg",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "4302709",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+20406",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Locator map of Butiá in Rio Grande do Sul.svg",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+71",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+768.889",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.755",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1464": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 32340782,
+                    "id": "Q32340782"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P460": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 22067731,
+                    "id": "Q22067731"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1750029,
+                    "id": "Q1750029"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "242499",
+                "type": "string"
+            }
+        ]
+    }
+}

@@ -1,0 +1,216 @@
+{
+    "pageid": 938485,
+    "ns": 0,
+    "type": "item",
+    "id": "Q988869",
+    "claims": {
+        "P41": [
+            {
+                "value": "Uva flag.png",
+                "type": "string"
+            }
+        ],
+        "P158": [
+            {
+                "value": "Uva coat.png",
+                "type": "string"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -26.23,
+                    "longitude": -51.085833333333,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P373": [
+            {
+                "value": "União da Vitória",
+                "type": "string"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 15499,
+                    "id": "Q15499"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/02vxrkh",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3445746",
+                "type": "string"
+            },
+            {
+                "value": "6323027",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 19827946,
+                    "id": "Q19827946"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P214": [
+            {
+                "value": "140729647",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+752",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+753",
+                    "lowerBound": "+751"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+946",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1890-00-00T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 9,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P1281": [
+            {
+                "value": "454508",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.uniaodavitoria.pr.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "4128203",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+52735",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Uva coat.png",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Vista Aérea de União da Vitória - PR.JPG",
+                "type": "string"
+            }
+        ],
+        "P3417": [
+            {
+                "value": "União-Da-Vitória",
+                "type": "string"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.793",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+720.005",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P473": [
+            {
+                "value": "42",
+                "type": "string"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1803769,
+                    "id": "Q1803769"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "297762",
+                "type": "string"
+            }
+        ]
+    }
+}

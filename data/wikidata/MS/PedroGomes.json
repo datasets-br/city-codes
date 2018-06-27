@@ -1,0 +1,186 @@
+{
+    "pageid": 1736197,
+    "ns": 0,
+    "type": "item",
+    "id": "Q1804993",
+    "claims": {
+        "P41": [
+            {
+                "value": "Bandeira Pedro Gomes MS.png",
+                "type": "string"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -18.100833333333,
+                    "longitude": -54.551944444444,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 43319,
+                    "id": "Q43319"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/027d2y8",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3454363",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Pedro Gomes",
+                "type": "string"
+            }
+        ],
+        "P935": [
+            {
+                "value": "Pedro Gomes",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "5006408",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+7738",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "MatoGrossodoSul Municip PedroGomes.svg",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Pedro Gomes.PNG",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Gomes.jpg",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+282",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1963-00-00T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 9,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+3651.171",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1705": [
+            {
+                "value": {
+                    "text": "Pedro Gomes",
+                    "language": "pt"
+                },
+                "type": "monolingualtext"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.723",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1793013,
+                    "id": "Q1793013"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2012238,
+                    "id": "Q2012238"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "333997",
+                "type": "string"
+            }
+        ]
+    }
+}

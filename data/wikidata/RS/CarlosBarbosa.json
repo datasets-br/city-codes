@@ -1,0 +1,186 @@
+{
+    "pageid": 1690314,
+    "ns": 0,
+    "type": "item",
+    "id": "Q1757704",
+    "claims": {
+        "P625": [
+            {
+                "value": {
+                    "latitude": -29.297777777778,
+                    "longitude": -51.503888888889,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40030,
+                    "id": "Q40030"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/0b3370",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3466933",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Carlos Barbosa",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 9589674,
+                    "id": "Q9589674"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P268": [
+            {
+                "value": "12429126p",
+                "type": "string"
+            }
+        ],
+        "P1281": [
+            {
+                "value": "428564",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "4304804",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+25192",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Locator map of Carlos Barbosa in Rio Grande do Sul.svg",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "BandeiraDeCarlosBarbosa.gif",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "BrasaoDeCarlosBarbosa.gif",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Trem do Vinho.jpg",
+                "type": "string"
+            }
+        ],
+        "P3417": [
+            {
+                "value": "Carlos-Barbosa-4",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+676",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+229.906",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.796",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 385465,
+                    "id": "Q385465"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 680577,
+                    "id": "Q680577"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "242337",
+                "type": "string"
+            }
+        ]
+    }
+}

@@ -1,0 +1,277 @@
+{
+    "pageid": 174919,
+    "ns": 0,
+    "type": "item",
+    "id": "Q175057",
+    "claims": {
+        "P373": [
+            {
+                "value": "Fernando de Noronha",
+                "type": "string"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -3.8538083333333,
+                    "longitude": -32.423786111111,
+                    "altitude": null,
+                    "precision": null,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40942,
+                    "id": "Q40942"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Fernando de Noronha - dois Irmãos - praia do sancho.jpg",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 8446651,
+                    "id": "Q8446651"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P998": [
+            {
+                "value": "Regional/South_America/Brazil/States/Pernambuco/Fernando_de_Noronha/",
+                "type": "string"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 33837,
+                    "id": "Q33837"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 10267322,
+                    "id": "Q10267322"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P361": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 15224654,
+                    "id": "Q15224654"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/01m4t_",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3399637",
+                "type": "string"
+            }
+        ],
+        "P214": [
+            {
+                "value": "125497505",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.noronha.pe.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+2930",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+2051",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+2630",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P935": [
+            {
+                "value": "Fernando de Noronha",
+                "type": "string"
+            }
+        ],
+        "P948": [
+            {
+                "value": "Fernando de Noronha WV banner.jpg",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "2605459",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+0",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P206": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 97,
+                    "id": "Q97"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+26",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2043": [
+            {
+                "value": {
+                    "amount": "+10",
+                    "unit": "http://www.wikidata.org/entity/Q828224"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P3403": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2471056,
+                    "id": "Q2471056"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P3417": [
+            {
+                "value": "Fernando-De-Noronha-2",
+                "type": "string"
+            }
+        ],
+        "P421": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 6536,
+                    "id": "Q6536"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P366": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40357,
+                    "id": "Q40357"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 49389,
+                    "id": "Q49389"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.788",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1225": [
+            {
+                "value": "10036712",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira de Fernando de Noronha.png",
+                "type": "string"
+            }
+        ],
+        "P402": [
+            {
+                "value": "303650",
+                "type": "string"
+            }
+        ]
+    }
+}

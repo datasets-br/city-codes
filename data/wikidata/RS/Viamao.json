@@ -1,0 +1,205 @@
+{
+    "pageid": 689148,
+    "ns": 0,
+    "type": "item",
+    "id": "Q732905",
+    "claims": {
+        "P41": [
+            {
+                "value": "Bandeira-viamão.png",
+                "type": "string"
+            }
+        ],
+        "P158": [
+            {
+                "value": "Brasao Viamao.jpg",
+                "type": "string"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Viamão",
+                "type": "string"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -30.080833333333,
+                    "longitude": -51.022777777778,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40030,
+                    "id": "Q40030"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 8221447,
+                    "id": "Q8221447"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/0f9cvv",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3445156",
+                "type": "string"
+            },
+            {
+                "value": "6323706",
+                "type": "string"
+            }
+        ],
+        "P214": [
+            {
+                "value": "127906807",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+9",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+10",
+                    "lowerBound": "+8"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+106",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1281": [
+            {
+                "value": "456596",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "4323002",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+239384",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "RioGrandedoSul Municip Viamao.svg",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasao Viamao.jpg",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Viamão-igreja-da-conceição1.jpg",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+1494.263",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.808",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P3417": [
+            {
+                "value": "Viamão-Brazil",
+                "type": "string"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40269,
+                    "id": "Q40269"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 985511,
+                    "id": "Q985511"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "242581",
+                "type": "string"
+            }
+        ]
+    }
+}

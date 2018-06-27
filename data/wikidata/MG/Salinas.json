@@ -1,0 +1,92 @@
+{
+    "pageid": 237400,
+    "ns": 0,
+    "type": "item",
+    "id": "Q244326",
+    "claims": {
+        "P1282": [
+            {
+                "value": "Tag:landuse=salt_pond",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Salt evaporation ponds",
+                "type": "string"
+            }
+        ],
+        "P349": [
+            {
+                "value": "00561929",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 9109737,
+                    "id": "Q9109737"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/04wff6",
+                "type": "string"
+            }
+        ],
+        "P279": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3215290,
+                    "id": "Q3215290"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P935": [
+            {
+                "value": "Salt evaporation pond",
+                "type": "string"
+            }
+        ],
+        "P227": [
+            {
+                "value": "4051370-1",
+                "type": "string"
+            }
+        ],
+        "P2452": [
+            {
+                "value": "H.MFGN",
+                "type": "string"
+            }
+        ],
+        "P1056": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 11254,
+                    "id": "Q11254"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Marakkanam Salt Pans.JPG",
+                "type": "string"
+            }
+        ],
+        "P1709": [
+            {
+                "value": "http://purl.obolibrary.org/obo/ENVO_00000055",
+                "type": "string"
+            }
+        ]
+    }
+}

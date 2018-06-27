@@ -1,0 +1,165 @@
+{
+    "pageid": 2211907,
+    "ns": 0,
+    "type": "item",
+    "id": "Q2289863",
+    "claims": {
+        "P625": [
+            {
+                "value": {
+                    "latitude": -18.679444444444,
+                    "longitude": -53.638333333333,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 43319,
+                    "id": "Q43319"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/027d41d",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "8463414",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Figueirão",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.figueirao.ms.gov.br",
+                "type": "string"
+            }
+        ],
+        "P935": [
+            {
+                "value": "Figueirão",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "5003900",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+3020",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "MatoGrossodoSul MesoMicroMunicip.svg",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasaofigueirao.JPG",
+                "type": "string"
+            }
+        ],
+        "P473": [
+            {
+                "value": "67",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Pedra bonita figueirao.jpg",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "79428-000",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+396",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+4882.879",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira de Figueirão.jpg",
+                "type": "string"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2012238,
+                    "id": "Q2012238"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "334015",
+                "type": "string"
+            }
+        ]
+    }
+}

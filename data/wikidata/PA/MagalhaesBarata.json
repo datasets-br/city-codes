@@ -1,0 +1,126 @@
+{
+    "pageid": 11612176,
+    "ns": 0,
+    "type": "item",
+    "id": "Q10307483",
+    "claims": {
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 5,
+                    "id": "Q5"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P27": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P21": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 6581097,
+                    "id": "Q6581097"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P735": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 18115086,
+                    "id": "Q18115086"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P106": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 82955,
+                    "id": "Q82955"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P39": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 18964326,
+                    "id": "Q18964326"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P570": [
+            {
+                "value": {
+                    "time": "+1959-05-29T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 11,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P1412": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 5146,
+                    "id": "Q5146"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P937": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2844,
+                    "id": "Q2844"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P569": [
+            {
+                "value": {
+                    "time": "+1888-06-02T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 11,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Magalhães Barata, Coronel, Interventor do Pará.tif",
+                "type": "string"
+            }
+        ],
+        "P213": [
+            {
+                "value": "0000 0001 1234 9152",
+                "type": "string"
+            }
+        ]
+    }
+}

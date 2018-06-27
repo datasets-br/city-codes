@@ -1,0 +1,164 @@
+{
+    "pageid": 1745347,
+    "ns": 0,
+    "type": "item",
+    "id": "Q1814259",
+    "claims": {
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -9.9577777777778,
+                    "longitude": -36.791944444444,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40885,
+                    "id": "Q40885"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/026w744",
+                "type": "string"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Alagoas Municip Campo Grande.svg",
+                "type": "string"
+            },
+            {
+                "value": "Campo Grande Alagoas.png",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "6316738",
+                "type": "string"
+            },
+            {
+                "value": "6324307",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Campo Grande (Alagoas)",
+                "type": "string"
+            }
+        ],
+        "P1997": [
+            {
+                "value": "104059909630532",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "2701506",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+9692",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+166.321",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.547",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P3417": [
+            {
+                "value": "Campo-Grande-Alagoas-Brazil",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+167",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P402": [
+            {
+                "value": "6186248",
+                "type": "string"
+            },
+            {
+                "value": "303836",
+                "type": "string"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 520936,
+                    "id": "Q520936"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 768122,
+                    "id": "Q768122"
+                },
+                "type": "wikibase-entityid"
+            }
+        ]
+    }
+}

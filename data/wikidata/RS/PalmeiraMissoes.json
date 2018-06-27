@@ -1,0 +1,202 @@
+{
+    "pageid": 1683068,
+    "ns": 0,
+    "type": "item",
+    "id": "Q1750240",
+    "claims": {
+        "P625": [
+            {
+                "value": {
+                    "latitude": -27.898888888889,
+                    "longitude": -53.313888888889,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40030,
+                    "id": "Q40030"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/03qmbw_",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3455416",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Palmeira das Missões",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.palmeiradasmissoes.rs.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P1281": [
+            {
+                "value": "442496",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "4313706",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+34328",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "RioGrandedoSul Municip PalmeiradasMissoes.svg",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira Palmeira das Missões.jpg",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 25973447,
+                    "id": "Q25973447"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Coat of arms of Palmeira das Missões RS.png",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Igrejapalmeira.jpg",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+639",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+1415.703",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.784",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P281": [
+            {
+                "value": "98300-000",
+                "type": "string"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1784275,
+                    "id": "Q1784275"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 430538,
+                    "id": "Q430538"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1802212,
+                    "id": "Q1802212"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1758280,
+                    "id": "Q1758280"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "242604",
+                "type": "string"
+            }
+        ]
+    }
+}

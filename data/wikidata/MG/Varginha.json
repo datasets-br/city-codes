@@ -1,0 +1,206 @@
+{
+    "pageid": 933198,
+    "ns": 0,
+    "type": "item",
+    "id": "Q983524",
+    "claims": {
+        "P1464": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 15139133,
+                    "id": "Q15139133"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 15139132,
+                    "id": "Q15139132"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P158": [
+            {
+                "value": "Brasão de Varginha (Minas Gerais).gif",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Varginha",
+                "type": "string"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -21.550833333333,
+                    "longitude": -45.43,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/041_27",
+                "type": "string"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 39109,
+                    "id": "Q39109"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3445487",
+                "type": "string"
+            }
+        ],
+        "P268": [
+            {
+                "value": "14607007v",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+980",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+981",
+                    "lowerBound": "+979"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasão de Varginha (Minas Gerais).gif",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.varginha.mg.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "3170701",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+123081",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "MinasGerais Municip Varginha.svg",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Plantação de café em Varginha.jpg",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira de Varginha (Minas Gerais).jpg",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+395.396",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.778",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1439211,
+                    "id": "Q1439211"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1793236,
+                    "id": "Q1793236"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1749754,
+                    "id": "Q1749754"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "315111",
+                "type": "string"
+            }
+        ]
+    }
+}

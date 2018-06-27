@@ -1,0 +1,203 @@
+{
+    "pageid": 936191,
+    "ns": 0,
+    "type": "item",
+    "id": "Q986536",
+    "claims": {
+        "P373": [
+            {
+                "value": "São Francisco do Sul",
+                "type": "string"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -26.242777777778,
+                    "longitude": -48.637777777778,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 41115,
+                    "id": "Q41115"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/0722_l",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Sfs farol.jpg",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3449112",
+                "type": "string"
+            }
+        ],
+        "P214": [
+            {
+                "value": "134908220",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.saofranciscodosul.sc.gov.br",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "4216206",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+42520",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "SantaCatarina Municip SaoFranciscodoSul.svg",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira de São Francisco do Sul.png",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 25930869,
+                    "id": "Q25930869"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+1",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasão de São Francisco do Sul.jpg",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "89240-000",
+                "type": "string"
+            }
+        ],
+        "P473": [
+            {
+                "value": "47",
+                "type": "string"
+            }
+        ],
+        "P3417": [
+            {
+                "value": "São-Francisco-Do-Sul",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+540.800",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.762",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1658-00-00T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 9,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 607184,
+                    "id": "Q607184"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "296696",
+                "type": "string"
+            }
+        ]
+    }
+}

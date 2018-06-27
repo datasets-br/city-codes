@@ -1,0 +1,188 @@
+{
+    "pageid": 1746777,
+    "ns": 0,
+    "type": "item",
+    "id": "Q1815730",
+    "claims": {
+        "P41": [
+            {
+                "value": "Bandeira.tubarão.jpg",
+                "type": "string"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -28.466944444444,
+                    "longitude": -49.006944444444,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 515,
+                    "id": "Q515"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 41115,
+                    "id": "Q41115"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/02qykd1",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3445993",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Tubarão (Santa Catarina)",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 10112137,
+                    "id": "Q10112137"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+9",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+10",
+                    "lowerBound": "+8"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasão de Tubarão seal.jpg",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "4218707",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+97235",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "SantaCatarina Municip Tubarao.svg",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.tubarao.sc.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "88700-000",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Crepusculo tubarão.jpg",
+                "type": "string"
+            }
+        ],
+        "P473": [
+            {
+                "value": "048",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+301.755",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.796",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1615291,
+                    "id": "Q1615291"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "296517",
+                "type": "string"
+            }
+        ]
+    }
+}

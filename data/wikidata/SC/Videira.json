@@ -1,0 +1,178 @@
+{
+    "pageid": 1730698,
+    "ns": 0,
+    "type": "item",
+    "id": "Q1799400",
+    "claims": {
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P158": [
+            {
+                "value": "Brasao videira.png",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Videira (Santa Catarina)",
+                "type": "string"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -27.007777777778,
+                    "longitude": -51.151944444444,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 41115,
+                    "id": "Q41115"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/03gr4rm",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "6323312",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+750",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+751",
+                    "lowerBound": "+749"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1281": [
+            {
+                "value": "456599",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "4219309",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+47188",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.videira.sc.gov.br",
+                "type": "string"
+            }
+        ],
+        "P242": [
+            {
+                "value": "SantaCatarina Municip Videira.svg",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira videira.jpg",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasao videira.png",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Parte do centro de Videira SC.JPG",
+                "type": "string"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.764",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+377.852",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 986540,
+                    "id": "Q986540"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 543046,
+                    "id": "Q543046"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "296682",
+                "type": "string"
+            }
+        ]
+    }
+}

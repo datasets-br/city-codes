@@ -1,0 +1,160 @@
+{
+    "pageid": 1955527,
+    "ns": 0,
+    "type": "item",
+    "id": "Q2027609",
+    "claims": {
+        "P41": [
+            {
+                "value": "Bandeira de Santa Quitéria.png",
+                "type": "string"
+            }
+        ],
+        "P158": [
+            {
+                "value": "Brasao-santa-quiteria.png",
+                "type": "string"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -4.3319444444444,
+                    "longitude": -40.156944444444,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40123,
+                    "id": "Q40123"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/027bc6j",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3389361",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Santa Quitéria",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "2312205",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+42763",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Ceara Municip SantaQuiteria.svg",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasao-santa-quiteria.png",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+4260.681",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1549": [
+            {
+                "value": {
+                    "text": "quiteriense",
+                    "language": "pt"
+                },
+                "type": "monolingualtext"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 29240728,
+                    "id": "Q29240728"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.718",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2347636,
+                    "id": "Q2347636"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "302634",
+                "type": "string"
+            }
+        ]
+    }
+}

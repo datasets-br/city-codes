@@ -1,0 +1,183 @@
+{
+    "pageid": 2005385,
+    "ns": 0,
+    "type": "item",
+    "id": "Q2078322",
+    "claims": {
+        "P625": [
+            {
+                "value": {
+                    "latitude": -7.5908333333333,
+                    "longitude": -37.539444444444,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40942,
+                    "id": "Q40942"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/076x_h0",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3387082",
+                "type": "string"
+            },
+            {
+                "value": "6320600",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Tabira (Pernambuco)",
+                "type": "string"
+            }
+        ],
+        "P268": [
+            {
+                "value": "12220546w",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "2614600",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+26427",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Mapa de Tabira (2).png",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Tabira PE.jpg",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 27589624,
+                    "id": "Q27589624"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+558",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+596",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1889": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3512766,
+                    "id": "Q3512766"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.605",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+393.6",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P402": [
+            {
+                "value": "303610",
+                "type": "string"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2010935,
+                    "id": "Q2010935"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2456298,
+                    "id": "Q2456298"
+                },
+                "type": "wikibase-entityid"
+            }
+        ]
+    }
+}

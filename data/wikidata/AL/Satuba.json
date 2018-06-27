@@ -1,0 +1,185 @@
+{
+    "pageid": 1727343,
+    "ns": 0,
+    "type": "item",
+    "id": "Q1795925",
+    "claims": {
+        "P625": [
+            {
+                "value": {
+                    "latitude": -9.5627777777778,
+                    "longitude": -35.823888888889,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40885,
+                    "id": "Q40885"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/026wwjq",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3387987",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Bandeira satuba.jpg",
+                "type": "string"
+            },
+            {
+                "value": "Brasaosatuba.jpg",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeirasatuba.jpg",
+                "type": "string"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Satuba.png",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Satuba",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "2708907",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+12555",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+13381",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+14603",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 27589403,
+                    "id": "Q27589403"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+42.559",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.66",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P281": [
+            {
+                "value": "57120000",
+                "type": "string"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 168888,
+                    "id": "Q168888"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 530211,
+                    "id": "Q530211"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1816274,
+                    "id": "Q1816274"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "303787",
+                "type": "string"
+            }
+        ]
+    }
+}

@@ -1,0 +1,350 @@
+{
+    "pageid": 166009,
+    "ns": 0,
+    "type": "item",
+    "id": "Q165341",
+    "claims": {
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "6320025",
+                "type": "string"
+            },
+            {
+                "value": "3386496",
+                "type": "string"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+101",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+87",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+88",
+                    "lowerBound": "+86"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 42722,
+                    "id": "Q42722"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Teresina",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Teresina.PNG",
+                "type": "string"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -5.0949,
+                    "longitude": -42.8042,
+                    "altitude": null,
+                    "precision": null,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            },
+            {
+                "value": {
+                    "latitude": -5.08917,
+                    "longitude": -42.80194,
+                    "altitude": null,
+                    "precision": 0.090187059296878,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P948": [
+            {
+                "value": "Teresina banner.jpg",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.teresina.pi.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/02b0__",
+                "type": "string"
+            }
+        ],
+        "P1464": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 8075287,
+                    "id": "Q8075287"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 9138615,
+                    "id": "Q9138615"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1376": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 42722,
+                    "id": "Q42722"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P214": [
+            {
+                "value": "141920498",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Teresina Rio Poti.JPG",
+                "type": "string"
+            }
+        ],
+        "P982": [
+            {
+                "value": "72fefb8f-2c96-40eb-88ec-2b718d1d29ac",
+                "type": "string"
+            }
+        ],
+        "P935": [
+            {
+                "value": "Teresina",
+                "type": "string"
+            }
+        ],
+        "P1997": [
+            {
+                "value": "106288536069661",
+                "type": "string"
+            }
+        ],
+        "P1281": [
+            {
+                "value": "455835",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "2211001",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+847430",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Piaui Municip Teresina.svg",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira de Teresina.jpg",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "64000-000",
+                "type": "string"
+            }
+        ],
+        "P1417": [
+            {
+                "value": "place/Teresina",
+                "type": "string"
+            }
+        ],
+        "P473": [
+            {
+                "value": "086",
+                "type": "string"
+            }
+        ],
+        "P1792": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 28427682,
+                    "id": "Q28427682"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.751",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+1381.981",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P3417": [
+            {
+                "value": "Teresina-Brazil",
+                "type": "string"
+            }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1852-00-00T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 9,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2101441,
+                    "id": "Q2101441"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1017101,
+                    "id": "Q1017101"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1851653,
+                    "id": "Q1851653"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1871203,
+                    "id": "Q1871203"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1938883,
+                    "id": "Q1938883"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2078167,
+                    "id": "Q2078167"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 10335889,
+                    "id": "Q10335889"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P190": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 101423,
+                    "id": "Q101423"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "302749",
+                "type": "string"
+            }
+        ]
+    }
+}

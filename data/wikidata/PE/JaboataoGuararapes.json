@@ -1,0 +1,199 @@
+{
+    "pageid": 262649,
+    "ns": 0,
+    "type": "item",
+    "id": "Q271393",
+    "claims": {
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira JaboataodosGuararapes Pernambuco Brasil.svg",
+                "type": "string"
+            }
+        ],
+        "P158": [
+            {
+                "value": "Brasao JaboataodosGuararapes Pernambuco Brasil.svg",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Jaboatão dos Guararapes",
+                "type": "string"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -8.1127777777778,
+                    "longitude": -35.015,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40942,
+                    "id": "Q40942"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 486972,
+                    "id": "Q486972"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/0f93hn",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "6317344",
+                "type": "string"
+            },
+            {
+                "value": "6320527",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 10150275,
+                    "id": "Q10150275"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Igreja Nossa Senhora dos Prazeres.jpg",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+10",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+11",
+                    "lowerBound": "+9"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+5",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1997": [
+            {
+                "value": "107967325902659",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "2607901",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+644620",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasao JaboataodosGuararapes Pernambuco Brasil.svg",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "54000-000",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+256.073",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.717",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P3417": [
+            {
+                "value": "Jaboatão-Dos-Guararapes-PE-Brazil",
+                "type": "string"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 48344,
+                    "id": "Q48344"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "303709",
+                "type": "string"
+            }
+        ]
+    }
+}

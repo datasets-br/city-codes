@@ -1,0 +1,190 @@
+{
+    "pageid": 1690211,
+    "ns": 0,
+    "type": "item",
+    "id": "Q1757597",
+    "claims": {
+        "P625": [
+            {
+                "value": {
+                    "latitude": -29.028888888889,
+                    "longitude": -51.181944444444,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40030,
+                    "id": "Q40030"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/03qm9v9",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3463271",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Flores da Cunha",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 10016889,
+                    "id": "Q10016889"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+756",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+757",
+                    "lowerBound": "+755"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Flores da Cunha-Panoramica.JPG",
+                "type": "string"
+            }
+        ],
+        "P1281": [
+            {
+                "value": "459474",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "4308201",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+27126",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Locator map of Flores da Cunha in Rio Grande do Sul.svg",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira-floresdacunha.jpg",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasao-floresdacunha.JPG",
+                "type": "string"
+            }
+        ],
+        "P3417": [
+            {
+                "value": "Flores-Da-Cunha",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "95270-000",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+272.662",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.839",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 33949,
+                    "id": "Q33949"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P190": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40798,
+                    "id": "Q40798"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "242551",
+                "type": "string"
+            }
+        ]
+    }
+}

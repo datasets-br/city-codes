@@ -1,0 +1,192 @@
+{
+    "pageid": 855520,
+    "ns": 0,
+    "type": "item",
+    "id": "Q904782",
+    "claims": {
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira-saojoaquimsc.PNG",
+                "type": "string"
+            }
+        ],
+        "P158": [
+            {
+                "value": "Brasao-saojoaquimsc.PNG",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "São Joaquim",
+                "type": "string"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -28.293888888889,
+                    "longitude": -49.931944444444,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 41115,
+                    "id": "Q41115"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/05f8rbh",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3448828",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+1360",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+1361",
+                    "lowerBound": "+1359"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P18": [
+            {
+                "value": "1988b.jpg",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.saojoaquim.sc.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "4216503",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+24812",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "SantaCatarina Municip SaoJoaquim.svg",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasao-saojoaquimsc.PNG",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "88600-000",
+                "type": "string"
+            }
+        ],
+        "P473": [
+            {
+                "value": "49",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+1885.608",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.687",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 762009,
+                    "id": "Q762009"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 891720,
+                    "id": "Q891720"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1765034,
+                    "id": "Q1765034"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "296551",
+                "type": "string"
+            }
+        ]
+    }
+}

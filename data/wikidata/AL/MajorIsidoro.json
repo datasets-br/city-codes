@@ -1,0 +1,137 @@
+{
+    "pageid": 1739445,
+    "ns": 0,
+    "type": "item",
+    "id": "Q1808271",
+    "claims": {
+        "P625": [
+            {
+                "value": {
+                    "latitude": -9.5319444444444,
+                    "longitude": -36.985,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40885,
+                    "id": "Q40885"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/026wctk",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3395880",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Major Isidoro",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Major Isidoro.png",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "2704401",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+20200",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1667": [
+            {
+                "value": "1022006",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+448.849",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.566",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1808791,
+                    "id": "Q1808791"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1815918,
+                    "id": "Q1815918"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "303794",
+                "type": "string"
+            }
+        ]
+    }
+}

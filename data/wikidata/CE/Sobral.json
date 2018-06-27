@@ -1,0 +1,186 @@
+{
+    "pageid": 1746939,
+    "ns": 0,
+    "type": "item",
+    "id": "Q1815899",
+    "claims": {
+        "P41": [
+            {
+                "value": "Bandeira sobral.PNG",
+                "type": "string"
+            }
+        ],
+        "P158": [
+            {
+                "value": "Brasao sobral.jpg",
+                "type": "string"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -3.6738888888889,
+                    "longitude": -40.238888888889,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40123,
+                    "id": "Q40123"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 515,
+                    "id": "Q515"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/08p0_f",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Sobral (Ceará)",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3387295",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+70",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+71",
+                    "lowerBound": "+69"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P18": [
+            {
+                "value": "MARGEM ESQUERDA.jpg",
+                "type": "string"
+            }
+        ],
+        "P935": [
+            {
+                "value": "Sobral",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "2312908",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+188233",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.sobral.ce.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+2122.989",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.714",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P3417": [
+            {
+                "value": "Sobral-Brazil",
+                "type": "string"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2027361,
+                    "id": "Q2027361"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2027670,
+                    "id": "Q2027670"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1417": [
+            {
+                "value": "place/Sobral",
+                "type": "string"
+            }
+        ],
+        "P402": [
+            {
+                "value": "302610",
+                "type": "string"
+            }
+        ]
+    }
+}

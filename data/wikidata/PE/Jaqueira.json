@@ -1,0 +1,148 @@
+{
+    "pageid": 1939420,
+    "ns": 0,
+    "type": "item",
+    "id": "Q2011203",
+    "claims": {
+        "P41": [
+            {
+                "value": "Bandeira jaqueira.png",
+                "type": "string"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -8.7269444444444,
+                    "longitude": -35.792777777778,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40942,
+                    "id": "Q40942"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/07k5bz8",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "6320528",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Jaqueira",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "2607950",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+11501",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Jaqueirapernambuco.png",
+                "type": "string"
+            },
+            {
+                "value": "Mapa de Jaqueira (2).png",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasao jaqueira.png",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+239",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.575",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+89.096",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P402": [
+            {
+                "value": "303653",
+                "type": "string"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2011013,
+                    "id": "Q2011013"
+                },
+                "type": "wikibase-entityid"
+            }
+        ]
+    }
+}

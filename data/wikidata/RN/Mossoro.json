@@ -1,0 +1,246 @@
+{
+    "pageid": 654505,
+    "ns": 0,
+    "type": "item",
+    "id": "Q694845",
+    "claims": {
+        "P373": [
+            {
+                "value": "Mossoró",
+                "type": "string"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -5.1877777777778,
+                    "longitude": -37.343888888889,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 43255,
+                    "id": "Q43255"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/09bf28",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3394682",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 9028420,
+                    "id": "Q9028420"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P214": [
+            {
+                "value": "126315936",
+                "type": "string"
+            }
+        ],
+        "P268": [
+            {
+                "value": "119425147",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+20",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+21",
+                    "lowerBound": "+19"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P935": [
+            {
+                "value": "Mossoró",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "2408003",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+259815",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Centro, Mossoró (RN).jpg",
+                "type": "string"
+            }
+        ],
+        "P3417": [
+            {
+                "value": "Mossoró-Brazil",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+2099.360",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.720",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P417": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 183240,
+                    "id": "Q183240"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1802343,
+                    "id": "Q1802343"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1786764,
+                    "id": "Q1786764"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1970827,
+                    "id": "Q1970827"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2072691,
+                    "id": "Q2072691"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 679650,
+                    "id": "Q679650"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1788873,
+                    "id": "Q1788873"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1787040,
+                    "id": "Q1787040"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1754397,
+                    "id": "Q1754397"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "301153",
+                "type": "string"
+            }
+        ],
+        "P1417": [
+            {
+                "value": "place/Mossoro",
+                "type": "string"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Brazil Rio Grande do Norte Mossoro location map.svg",
+                "type": "string"
+            }
+        ]
+    }
+}

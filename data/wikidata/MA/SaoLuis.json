@@ -1,0 +1,336 @@
+{
+    "pageid": 31806,
+    "ns": 0,
+    "type": "item",
+    "id": "Q28441",
+    "claims": {
+        "P190": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 38022,
+                    "id": "Q38022"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira de São Luís.svg",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasão de São Luís.svg",
+                "type": "string"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -2.53,
+                    "longitude": -44.302777777778,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P373": [
+            {
+                "value": "São Luís (Maranhão)",
+                "type": "string"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 42362,
+                    "id": "Q42362"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P18": [
+            {
+                "value": "SaoLuis-Street2.jpg",
+                "type": "string"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 515,
+                    "id": "Q515"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/01zpkp",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3388368",
+                "type": "string"
+            }
+        ],
+        "P227": [
+            {
+                "value": "4394684-7",
+                "type": "string"
+            }
+        ],
+        "P1464": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 9237994,
+                    "id": "Q9237994"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 9253599,
+                    "id": "Q9253599"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P6": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 10270410,
+                    "id": "Q10270410"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1376": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 42362,
+                    "id": "Q42362"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P214": [
+            {
+                "value": "147761653",
+                "type": "string"
+            }
+        ],
+        "P268": [
+            {
+                "value": "11973901v",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+4",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+5",
+                    "lowerBound": "+3"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P935": [
+            {
+                "value": "São Luís",
+                "type": "string"
+            }
+        ],
+        "P1997": [
+            {
+                "value": "114738491875907",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "2111300",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+870028",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+1073893",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+1014837",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.saoluis.ma.gov.br",
+                "type": "string"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Maranhao Municip SaoLuis.svg",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "65000-000",
+                "type": "string"
+            }
+        ],
+        "P3417": [
+            {
+                "value": "São-Luis-Brazil",
+                "type": "string"
+            }
+        ],
+        "P1792": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 9227576,
+                    "id": "Q9227576"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+827.141",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.768",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P982": [
+            {
+                "value": "19e8cc31-3bc9-490f-a7ac-b4467701fdc9",
+                "type": "string"
+            }
+        ],
+        "P1225": [
+            {
+                "value": "10037858",
+                "type": "string"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 628172,
+                    "id": "Q628172"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 640733,
+                    "id": "Q640733"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1006367,
+                    "id": "Q1006367"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P3219": [
+            {
+                "value": "sao-luis",
+                "type": "string"
+            }
+        ],
+        "P402": [
+            {
+                "value": "332923",
+                "type": "string"
+            }
+        ],
+        "P1313": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 53926065,
+                    "id": "Q53926065"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P194": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 53934979,
+                    "id": "Q53934979"
+                },
+                "type": "wikibase-entityid"
+            }
+        ]
+    }
+}

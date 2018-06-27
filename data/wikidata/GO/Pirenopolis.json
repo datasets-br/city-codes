@@ -1,0 +1,222 @@
+{
+    "pageid": 938411,
+    "ns": 0,
+    "type": "item",
+    "id": "Q988797",
+    "claims": {
+        "P41": [
+            {
+                "value": "Bandeira pirenopolis.jpg",
+                "type": "string"
+            }
+        ],
+        "P158": [
+            {
+                "value": "Brasao pirenopolis.jpg",
+                "type": "string"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasao pirenopolis.jpg",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Pirenópolis",
+                "type": "string"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -15.851944444444,
+                    "longitude": -48.958888888889,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 41587,
+                    "id": "Q41587"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/04kr_8",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3453512",
+                "type": "string"
+            }
+        ],
+        "P214": [
+            {
+                "value": "152458786",
+                "type": "string"
+            }
+        ],
+        "P268": [
+            {
+                "value": "119985094",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+770",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+771",
+                    "lowerBound": "+769"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Matriz pirenopolis.jpg",
+                "type": "string"
+            }
+        ],
+        "P1997": [
+            {
+                "value": "112720868743249",
+                "type": "string"
+            }
+        ],
+        "P1281": [
+            {
+                "value": "457825",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "5217302",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+23006",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Goias Municip Pirenopolis.svg",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 25930894,
+                    "id": "Q25930894"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P281": [
+            {
+                "value": "72980-000",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+2227.793",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.693",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 991134,
+                    "id": "Q991134"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 223422,
+                    "id": "Q223422"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 985975,
+                    "id": "Q985975"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1022458,
+                    "id": "Q1022458"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "334551",
+                "type": "string"
+            }
+        ]
+    }
+}

@@ -1,0 +1,188 @@
+{
+    "pageid": 1691560,
+    "ns": 0,
+    "type": "item",
+    "id": "Q1759010",
+    "claims": {
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira sideropolis.png",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Siderópolis",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasaodesideropolis.png",
+                "type": "string"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -28.597777777778,
+                    "longitude": -49.423888888889,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 41115,
+                    "id": "Q41115"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/09rvmdf",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3447598",
+                "type": "string"
+            }
+        ],
+        "P1281": [
+            {
+                "value": "461264",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "4217600",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+12998",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.sidera.com.br",
+                "type": "string"
+            }
+        ],
+        "P242": [
+            {
+                "value": "SantaCatarina Municip Sideropolis.svg",
+                "type": "string"
+            },
+            {
+                "value": "Trajeto.png",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 25973578,
+                    "id": "Q25973578"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1667": [
+            {
+                "value": "1023084",
+                "type": "string"
+            }
+        ],
+        "P473": [
+            {
+                "value": "48",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+147",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.774",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+262.700",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P281": [
+            {
+                "value": "88860-000",
+                "type": "string"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1439157,
+                    "id": "Q1439157"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "296544",
+                "type": "string"
+            }
+        ]
+    }
+}

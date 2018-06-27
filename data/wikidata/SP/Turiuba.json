@@ -1,1 +1,38 @@
-{"entities":{"Q1761124":{"pageid":1693592,"ns":0,"title":"Q1761124","lastrevid":682325303,"modified":"2018-05-21T03:27:29Z","type":"item","id":"Q1761124","labels":{"ceb":{"language":"ceb","value":"Turi\u00faba"},"sv":{"language":"sv","value":"Turi\u00faba"}},"descriptions":{},"aliases":{},"claims":{"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"abaf063bc70d0a5246667a3e79ed9fc1dbb35cdb","datavalue":{"value":{"entity-type":"item","numeric-id":3257686,"id":"Q3257686"},"type":"wikibase-entityid"},"datatype":"wikibase-item"},"type":"statement","id":"Q1761124$236E68C0-389A-4D04-A1D1-358F94F45A6C","rank":"normal"}],"P17":[{"mainsnak":{"snaktype":"value","property":"P17","hash":"90114304161d20f1934075ea47b8a33a76e95138","datavalue":{"value":{"entity-type":"item","numeric-id":155,"id":"Q155"},"type":"wikibase-entityid"},"datatype":"wikibase-item"},"type":"statement","id":"Q1761124$B652AC1B-92D5-489F-99D1-9FEA1750FC7F","rank":"normal"}],"P131":[{"mainsnak":{"snaktype":"value","property":"P131","hash":"5556e1472575e40177f1208ae31a7c7a137f8283","datavalue":{"value":{"entity-type":"item","numeric-id":22064394,"id":"Q22064394"},"type":"wikibase-entityid"},"datatype":"wikibase-item"},"type":"statement","id":"Q1761124$4B08A9E1-4DFA-42AF-A0AA-5D5B347AB5EC","rank":"normal","references":[{"hash":"43a0088c51fd85e5a85d1b46412c3a635e6d4edc","snaks":{"P143":[{"snaktype":"value","property":"P143","hash":"d8fbf8671e3c630db61bfac691068cfb6857f243","datavalue":{"value":{"entity-type":"item","numeric-id":837615,"id":"Q837615"},"type":"wikibase-entityid"},"datatype":"wikibase-item"}]},"snaks-order":["P143"]}]}]},"sitelinks":{"cebwiki":{"site":"cebwiki","title":"Turi\u00faba (lungsod)","badges":[]},"svwiki":{"site":"svwiki","title":"Turi\u00faba (ort)","badges":[]}}}},"success":1}
+{
+    "pageid": 1693592,
+    "ns": 0,
+    "type": "item",
+    "id": "Q1761124",
+    "claims": {
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3257686,
+                    "id": "Q3257686"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 22064394,
+                    "id": "Q22064394"
+                },
+                "type": "wikibase-entityid"
+            }
+        ]
+    }
+}

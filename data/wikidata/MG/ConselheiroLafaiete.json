@@ -1,0 +1,200 @@
+{
+    "pageid": 536491,
+    "ns": 0,
+    "type": "item",
+    "id": "Q570312",
+    "claims": {
+        "P625": [
+            {
+                "value": {
+                    "latitude": -20.66,
+                    "longitude": -43.785833333333,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 39109,
+                    "id": "Q39109"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/05x056",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3465644",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Conselheiro Lafaiete",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 9621461,
+                    "id": "Q9621461"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Conselheiro Lafaiete.JPG",
+                "type": "string"
+            }
+        ],
+        "P214": [
+            {
+                "value": "145620144",
+                "type": "string"
+            }
+        ],
+        "P1281": [
+            {
+                "value": "455946",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "3118304",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+116512",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "MinasGerais Municip ConselheiroLafaiete.svg",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira-conselheirolafaiete.png",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasaolafaiete.png",
+                "type": "string"
+            }
+        ],
+        "P3417": [
+            {
+                "value": "Conselheiro-Lafaiete",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+995",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1417": [
+            {
+                "value": "place/Conselheiro-Lafaiete",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+370.246",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.761",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1789163,
+                    "id": "Q1789163"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1791590,
+                    "id": "Q1791590"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1790319,
+                    "id": "Q1790319"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "315002",
+                "type": "string"
+            }
+        ]
+    }
+}

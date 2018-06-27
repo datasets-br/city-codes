@@ -1,0 +1,542 @@
+{
+    "pageid": 45662,
+    "ns": 0,
+    "type": "item",
+    "id": "Q43463",
+    "claims": {
+        "P856": [
+            {
+                "value": "http://www.fortaleza.ce.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P190": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 201516,
+                    "id": "Q201516"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40340,
+                    "id": "Q40340"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 515,
+                    "id": "Q515"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Fortaleza",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira de Fortaleza.svg",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasao Fortaleza Ceara Brasil new.svg",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Praia do Mucuripe.jpg",
+                "type": "string"
+            },
+            {
+                "value": "Meireles001.jpg",
+                "type": "string"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Ceara Municip Fortaleza.svg",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "60000-000",
+                "type": "string"
+            }
+        ],
+        "P421": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 6513,
+                    "id": "Q6513"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P473": [
+            {
+                "value": "85",
+                "type": "string"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -3.7813888888889,
+                    "longitude": -38.588888888889,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40123,
+                    "id": "Q40123"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P948": [
+            {
+                "value": "Fortaleza banner Beira Mar.jpg",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 6368653,
+                    "id": "Q6368653"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P982": [
+            {
+                "value": "e5af1ee4-9e18-49ba-9af8-a78ea9de821d",
+                "type": "string"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/02_9n",
+                "type": "string"
+            }
+        ],
+        "P935": [
+            {
+                "value": "Fortaleza",
+                "type": "string"
+            }
+        ],
+        "P1464": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 9224733,
+                    "id": "Q9224733"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3399415",
+                "type": "string"
+            }
+        ],
+        "P227": [
+            {
+                "value": "4372772-4",
+                "type": "string"
+            }
+        ],
+        "P1740": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 8458096,
+                    "id": "Q8458096"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1792": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 7221341,
+                    "id": "Q7221341"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1376": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40123,
+                    "id": "Q40123"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1465": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 20826510,
+                    "id": "Q20826510"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+2591188",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+1768637",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+1954656",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+2141402",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+2431415",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+2452185",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1794121,
+                    "id": "Q1794121"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2027112,
+                    "id": "Q2027112"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2013483,
+                    "id": "Q2013483"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2026817,
+                    "id": "Q2026817"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1794732,
+                    "id": "Q1794732"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 817233,
+                    "id": "Q817233"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1726-04-13T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 11,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+21",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+22",
+                    "lowerBound": "+20"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P150": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 20059453,
+                    "id": "Q20059453"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 10369212,
+                    "id": "Q10369212"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 10369213,
+                    "id": "Q10369213"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 10369214,
+                    "id": "Q10369214"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 10369215,
+                    "id": "Q10369215"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 10369217,
+                    "id": "Q10369217"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 10369218,
+                    "id": "Q10369218"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+314.930",
+                    "unit": "http://www.wikidata.org/entity/Q712226",
+                    "upperBound": "+314.931",
+                    "lowerBound": "+314.929"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.754",
+                    "unit": "1",
+                    "upperBound": "+0.755",
+                    "lowerBound": "+0.753"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2132": [
+            {
+                "value": {
+                    "amount": "+17359.53",
+                    "unit": "http://www.wikidata.org/entity/Q173117",
+                    "upperBound": "+17359.54",
+                    "lowerBound": "+17359.52"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P138": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2914125,
+                    "id": "Q2914125"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P214": [
+            {
+                "value": "139555655",
+                "type": "string"
+            }
+        ],
+        "P1997": [
+            {
+                "value": "114535871892330",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "2304400",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n80117179",
+                "type": "string"
+            }
+        ],
+        "P2163": [
+            {
+                "value": "1210074",
+                "type": "string"
+            }
+        ],
+        "P3417": [
+            {
+                "value": "Fortaleza-Brazil",
+                "type": "string"
+            }
+        ],
+        "P1225": [
+            {
+                "value": "10037291",
+                "type": "string"
+            }
+        ],
+        "P3219": [
+            {
+                "value": "fortaleza",
+                "type": "string"
+            }
+        ],
+        "P1549": [
+            {
+                "value": {
+                    "text": "Fortalezense",
+                    "language": "pt"
+                },
+                "type": "monolingualtext"
+            }
+        ],
+        "P1417": [
+            {
+                "value": "place/Fortaleza",
+                "type": "string"
+            }
+        ],
+        "P402": [
+            {
+                "value": "302588",
+                "type": "string"
+            }
+        ],
+        "P1313": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 53926033,
+                    "id": "Q53926033"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P194": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 53934998,
+                    "id": "Q53934998"
+                },
+                "type": "wikibase-entityid"
+            }
+        ]
+    }
+}

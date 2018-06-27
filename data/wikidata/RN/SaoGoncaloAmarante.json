@@ -1,0 +1,188 @@
+{
+    "pageid": 2015831,
+    "ns": 0,
+    "type": "item",
+    "id": "Q2088944",
+    "claims": {
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira de São Gonçalo do Amarante (RN).png",
+                "type": "string"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -5.7927777777778,
+                    "longitude": -35.328888888889,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 43255,
+                    "id": "Q43255"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/09rxrkm",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "6320227",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "São Gonçalo do Amarante (Rio Grande do Norte)",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasão de São Gonçalo do Amarante (RN).png",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Capela dos Martires de Cunhaú e Uruaçu..jpg",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "2412005",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+87668",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+77",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+249.124",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.661",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P417": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3776432,
+                    "id": "Q3776432"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 131620,
+                    "id": "Q131620"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 591577,
+                    "id": "Q591577"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1786943,
+                    "id": "Q1786943"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 649314,
+                    "id": "Q649314"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "301213",
+                "type": "string"
+            }
+        ],
+        "P138": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3776432,
+                    "id": "Q3776432"
+                },
+                "type": "wikibase-entityid"
+            }
+        ]
+    }
+}

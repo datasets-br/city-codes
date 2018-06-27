@@ -1,0 +1,200 @@
+{
+    "pageid": 1728447,
+    "ns": 0,
+    "type": "item",
+    "id": "Q1797061",
+    "claims": {
+        "P41": [
+            {
+                "value": "Bandeira de Goiatuba.JPG",
+                "type": "string"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -18.012777777778,
+                    "longitude": -49.356944444444,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Goiatuba",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasão Goiatuba.jpg",
+                "type": "string"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 41587,
+                    "id": "Q41587"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/0bpwb6",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Graficogoiatuba.png",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3462371",
+                "type": "string"
+            }
+        ],
+        "P1464": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 9224908,
+                    "id": "Q9224908"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 9175827,
+                    "id": "Q9175827"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+720",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+721",
+                    "lowerBound": "+719"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "5209101",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+32492",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Goias Municip Goiatuba.svg",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "75600-000",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+2475.107",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.725",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P982": [
+            {
+                "value": "40154d12-9178-41a9-86f9-65937b8dc842",
+                "type": "string"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 301383,
+                    "id": "Q301383"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 779122,
+                    "id": "Q779122"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1025767,
+                    "id": "Q1025767"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "334619",
+                "type": "string"
+            }
+        ]
+    }
+}

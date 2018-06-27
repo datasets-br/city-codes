@@ -1,0 +1,149 @@
+{
+    "pageid": 1690563,
+    "ns": 0,
+    "type": "item",
+    "id": "Q1757955",
+    "claims": {
+        "P625": [
+            {
+                "value": {
+                    "latitude": -1.8261111111111,
+                    "longitude": -66.598888888889,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40040,
+                    "id": "Q40040"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/026x1jk",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3663817",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Japurá (Amazonas)",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "1302108",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+10285",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+5125",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+7326",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Amazonas Municip Japura.jpg",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Japurá - bandeira.jpg",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Japurá - brasão.jpg",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+55791.837",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.522",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1763270,
+                    "id": "Q1763270"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "332494",
+                "type": "string"
+            }
+        ]
+    }
+}

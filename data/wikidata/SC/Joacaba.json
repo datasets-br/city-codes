@@ -1,0 +1,214 @@
+{
+    "pageid": 1691054,
+    "ns": 0,
+    "type": "item",
+    "id": "Q1758467",
+    "claims": {
+        "P41": [
+            {
+                "value": "Bandeira joacaba.jpg",
+                "type": "string"
+            }
+        ],
+        "P158": [
+            {
+                "value": "Brasao joacaba.jpg",
+                "type": "string"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Joaçaba",
+                "type": "string"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -27.177777777778,
+                    "longitude": -51.505,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 41115,
+                    "id": "Q41115"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/0c91dw",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3459869",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 10255356,
+                    "id": "Q10255356"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+522",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+523",
+                    "lowerBound": "+521"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Joacaba.JPG",
+                "type": "string"
+            }
+        ],
+        "P1281": [
+            {
+                "value": "457424",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "4209003",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+27020",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "SantaCatarina Municip Joacaba.svg",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.joacaba.sc.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasao joacaba.jpg",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "89600-000",
+                "type": "string"
+            }
+        ],
+        "P473": [
+            {
+                "value": "49",
+                "type": "string"
+            }
+        ],
+        "P3417": [
+            {
+                "value": "Joaçaba",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+232.354",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.827",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1750762,
+                    "id": "Q1750762"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1784481,
+                    "id": "Q1784481"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1758351,
+                    "id": "Q1758351"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "296753",
+                "type": "string"
+            }
+        ]
+    }
+}

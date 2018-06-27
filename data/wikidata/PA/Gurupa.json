@@ -1,0 +1,171 @@
+{
+    "pageid": 1940122,
+    "ns": 0,
+    "type": "item",
+    "id": "Q2011913",
+    "claims": {
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -1.405,
+                    "longitude": -51.64,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 39517,
+                    "id": "Q39517"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 486972,
+                    "id": "Q486972"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/043krtz",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3398480",
+                "type": "string"
+            },
+            {
+                "value": "6319408",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Gurupá",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 10141364,
+                    "id": "Q10141364"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+20",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+21",
+                    "lowerBound": "+19"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+16",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P154": [
+            {
+                "value": "Bandgurupa.JPG",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "1503101",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+32049",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Para Municip Gurupa.svg",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandgurupa.JPG",
+                "type": "string"
+            }
+        ],
+        "P1667": [
+            {
+                "value": "1021559",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+8540.032",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.509",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P402": [
+            {
+                "value": "185621",
+                "type": "string"
+            }
+        ]
+    }
+}

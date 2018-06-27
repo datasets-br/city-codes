@@ -1,0 +1,258 @@
+{
+    "pageid": 192247,
+    "ns": 0,
+    "type": "item",
+    "id": "Q194343",
+    "claims": {
+        "P373": [
+            {
+                "value": "Feira de Santana",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Br-ba-fs.jpg",
+                "type": "string"
+            }
+        ],
+        "P158": [
+            {
+                "value": "Brasao feira.jpg",
+                "type": "string"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -12.266944444444,
+                    "longitude": -38.966944444444,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40430,
+                    "id": "Q40430"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/050x65",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3463478",
+                "type": "string"
+            }
+        ],
+        "P1464": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 9237384,
+                    "id": "Q9237384"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 8952489,
+                    "id": "Q8952489"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P982": [
+            {
+                "value": "bc6478e8-3c5a-4c23-b633-740a201ee27e",
+                "type": "string"
+            }
+        ],
+        "P214": [
+            {
+                "value": "150648695",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+286",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+287",
+                    "lowerBound": "+285"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Feiradesantanamosaico.png",
+                "type": "string"
+            }
+        ],
+        "P935": [
+            {
+                "value": "Feira de Santana",
+                "type": "string"
+            }
+        ],
+        "P1997": [
+            {
+                "value": "104066829630683",
+                "type": "string"
+            }
+        ],
+        "P1281": [
+            {
+                "value": "455860",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "2910800",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+480949",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+617528",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+556642",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.feiradesantana.ba.gov.br",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasao feira.jpg",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "44000-000",
+                "type": "string"
+            }
+        ],
+        "P3417": [
+            {
+                "value": "Feira-de-Santana",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+1337.993",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.712",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2027840,
+                    "id": "Q2027840"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1762086,
+                    "id": "Q1762086"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1793663,
+                    "id": "Q1793663"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1795202,
+                    "id": "Q1795202"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "362294",
+                "type": "string"
+            }
+        ]
+    }
+}

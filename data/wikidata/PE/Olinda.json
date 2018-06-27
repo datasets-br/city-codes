@@ -1,0 +1,315 @@
+{
+    "pageid": 31676,
+    "ns": 0,
+    "type": "item",
+    "id": "Q28301",
+    "claims": {
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 9047916,
+                    "id": "Q9047916"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P190": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 116592,
+                    "id": "Q116592"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 926713,
+                    "id": "Q926713"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 917313,
+                    "id": "Q917313"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Olinda",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira de Olinda.png",
+                "type": "string"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Where is Recife Brasil.PNG",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "53100-xxx",
+                "type": "string"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40942,
+                    "id": "Q40942"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -8.0088888888889,
+                    "longitude": -34.855,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Montagem Olinda.jpg",
+                "type": "string"
+            }
+        ],
+        "P948": [
+            {
+                "value": "Olinda banner.jpg",
+                "type": "string"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/01m4pr",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3393536",
+                "type": "string"
+            }
+        ],
+        "P227": [
+            {
+                "value": "4400518-0",
+                "type": "string"
+            }
+        ],
+        "P1464": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 37335878,
+                    "id": "Q37335878"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1465": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 9219344,
+                    "id": "Q9219344"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1740": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 16816809,
+                    "id": "Q16816809"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P214": [
+            {
+                "value": "137194593",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+388821",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+367902",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+389494",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+377779",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+16",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+17",
+                    "lowerBound": "+15"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P982": [
+            {
+                "value": "434f1fd7-eec7-49d4-829c-ede23ef78c7a",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasão de Olinda PE.png",
+                "type": "string"
+            }
+        ],
+        "P1792": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 9226222,
+                    "id": "Q9226222"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1997": [
+            {
+                "value": "106352142733188",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "2609600",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.olinda.pe.gov.br",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+41.681",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.735",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P3417": [
+            {
+                "value": "Olinda-Pernambuco-Brazil",
+                "type": "string"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 48344,
+                    "id": "Q48344"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2924": [
+            {
+                "value": "2685336",
+                "type": "string"
+            }
+        ],
+        "P473": [
+            {
+                "value": "081",
+                "type": "string"
+            }
+        ],
+        "P402": [
+            {
+                "value": "2185940",
+                "type": "string"
+            }
+        ],
+        "P1417": [
+            {
+                "value": "place/Olinda",
+                "type": "string"
+            }
+        ]
+    }
+}

@@ -1,0 +1,164 @@
+{
+    "pageid": 1695547,
+    "ns": 0,
+    "type": "item",
+    "id": "Q1763254",
+    "claims": {
+        "P625": [
+            {
+                "value": {
+                    "latitude": 3.36,
+                    "longitude": -59.832777777778,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 42508,
+                    "id": "Q42508"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/026cdk5",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "6316619",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Bonfim, Roraima",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+92",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+93",
+                    "lowerBound": "+91"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "1400159",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+11843",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Roraima Municip Bonfim.svg",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira Bonfim RR.jpg",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.bonfim.rr.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasao Bonfim RR.jpg",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Vgm Guiana 049.JPG",
+                "type": "string"
+            }
+        ],
+        "P473": [
+            {
+                "value": "95",
+                "type": "string"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.626",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+8095.319",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P460": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 22060333,
+                    "id": "Q22060333"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "326289",
+                "type": "string"
+            }
+        ]
+    }
+}

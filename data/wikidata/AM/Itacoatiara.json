@@ -1,0 +1,194 @@
+{
+    "pageid": 1683248,
+    "ns": 0,
+    "type": "item",
+    "id": "Q1750426",
+    "claims": {
+        "P41": [
+            {
+                "value": "Bandeira de Itacoatiara am.jpg",
+                "type": "string"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -3.1427777777778,
+                    "longitude": -58.443888888889,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40040,
+                    "id": "Q40040"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/026x19b",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasão de Itacoatiara am.jpg",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "6319320",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Itacoatiara",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 10237988,
+                    "id": "Q10237988"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+40",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+41",
+                    "lowerBound": "+39"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1997": [
+            {
+                "value": "109573929061931",
+                "type": "string"
+            }
+        ],
+        "P1417": [
+            {
+                "value": "place/Itacoatiara",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "1301902",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+72105",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+97122",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+86839",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Amazonas Municip Itacoatiara.svg",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.itacoatiara.com",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+8892.038",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.644",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P3417": [
+            {
+                "value": "Itacoatiara-Amazonas",
+                "type": "string"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1808448,
+                    "id": "Q1808448"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "332524",
+                "type": "string"
+            }
+        ]
+    }
+}

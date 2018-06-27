@@ -1,0 +1,50 @@
+{
+    "pageid": 26236763,
+    "ns": 0,
+    "type": "item",
+    "id": "Q24263545",
+    "claims": {
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 39109,
+                    "id": "Q39109"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -19,
+                    "longitude": -41,
+                    "altitude": null,
+                    "precision": 1,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 46831,
+                    "id": "Q46831"
+                },
+                "type": "wikibase-entityid"
+            }
+        ]
+    }
+}

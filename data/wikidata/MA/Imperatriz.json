@@ -1,0 +1,186 @@
+{
+    "pageid": 474676,
+    "ns": 0,
+    "type": "item",
+    "id": "Q504755",
+    "claims": {
+        "P41": [
+            {
+                "value": "Bandeira imperatriz.jpg",
+                "type": "string"
+            }
+        ],
+        "P158": [
+            {
+                "value": "Brasao imperatriz.jpg",
+                "type": "string"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -5.5258333333333,
+                    "longitude": -47.475833333333,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 42362,
+                    "id": "Q42362"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/08slcb",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Imperatriz 1.jpg",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasao imperatriz.jpg",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3398269",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Imperatriz",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 8977081,
+                    "id": "Q8977081"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P214": [
+            {
+                "value": "28145424521186831401",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+95",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+96",
+                    "lowerBound": "+94"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.imperatriz.ma.gov.br/imperatriz/",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "2105302",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+247505",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P281": [
+            {
+                "value": "65900-000",
+                "type": "string"
+            }
+        ],
+        "P3417": [
+            {
+                "value": "Imperatriz",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+1368.987",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.731",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P402": [
+            {
+                "value": "332989",
+                "type": "string"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1967899,
+                    "id": "Q1967899"
+                },
+                "type": "wikibase-entityid"
+            }
+        ]
+    }
+}

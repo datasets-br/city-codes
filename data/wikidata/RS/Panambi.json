@@ -1,0 +1,180 @@
+{
+    "pageid": 332992,
+    "ns": 0,
+    "type": "item",
+    "id": "Q348206",
+    "claims": {
+        "P625": [
+            {
+                "value": {
+                    "latitude": -28.292777777778,
+                    "longitude": -53.501944444444,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40030,
+                    "id": "Q40030"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/03qmbxp",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3455281",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Panambi",
+                "type": "string"
+            }
+        ],
+        "P214": [
+            {
+                "value": "316388774",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "4313904",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+38058",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "RioGrandedoSul Municip Panambi.svg",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira Panambi.png",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 25973462,
+                    "id": "Q25973462"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasaop.jpg",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Kaufhaus Panambi.jpg",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+418",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+490.859",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.820",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P982": [
+            {
+                "value": "6f123d65-ccbd-4d8e-add6-15e9e5048313",
+                "type": "string"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 600843,
+                    "id": "Q600843"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 348237,
+                    "id": "Q348237"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "242418",
+                "type": "string"
+            }
+        ]
+    }
+}

@@ -1,0 +1,150 @@
+{
+    "pageid": 620511,
+    "ns": 0,
+    "type": "item",
+    "id": "Q659267",
+    "claims": {
+        "P625": [
+            {
+                "value": {
+                    "latitude": -6.9808333333333,
+                    "longitude": -41.233888888889,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 42722,
+                    "id": "Q42722"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/02769z_",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "VistaSantoAntonioNova.JPG",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Santo Antônio de Lisboa (Piauí)",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 19846821,
+                    "id": "Q19846821"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P214": [
+            {
+                "value": "144404961",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "2209401",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+6007",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Piaui Municip SantoAntoniodeLisboa.svg",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+237",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "6319994",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+395.799",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.584",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P281": [
+            {
+                "value": "64640000",
+                "type": "string"
+            }
+        ],
+        "P402": [
+            {
+                "value": "302760",
+                "type": "string"
+            }
+        ]
+    }
+}

@@ -1,0 +1,162 @@
+{
+    "pageid": 480273,
+    "ns": 0,
+    "type": "item",
+    "id": "Q510698",
+    "claims": {
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -31.442777777778,
+                    "longitude": -52.421944444444,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P501": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 109188,
+                    "id": "Q109188"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40030,
+                    "id": "Q40030"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/0bmbvwk",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "6324117",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Arroio do Padre",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+290",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+291",
+                    "lowerBound": "+289"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Arroio do Padre.JPG",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.pmarroiodopadre.com.br",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "4301073",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+2730",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Locator map of Arroio do Padre in Rio Grande do Sul.svg",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasão Arroio do Padre.jpg",
+                "type": "string"
+            }
+        ],
+        "P421": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 6513,
+                    "id": "Q6513"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+124.317",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.669",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P402": [
+            {
+                "value": "242336",
+                "type": "string"
+            }
+        ]
+    }
+}

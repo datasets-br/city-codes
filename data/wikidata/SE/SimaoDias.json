@@ -1,0 +1,184 @@
+{
+    "pageid": 1779524,
+    "ns": 0,
+    "type": "item",
+    "id": "Q1848973",
+    "claims": {
+        "P625": [
+            {
+                "value": {
+                    "latitude": -10.737777777778,
+                    "longitude": -37.810833333333,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 43783,
+                    "id": "Q43783"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/027kx9f",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3447561",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Simão Dias",
+                "type": "string"
+            }
+        ],
+        "P1667": [
+            {
+                "value": "1023090",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "2807105",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+38702",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira de Simão Dias.png",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasão sdias.PNG",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Igreja SimaoDias-SE-Brazil.jpg",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 27588913,
+                    "id": "Q27588913"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+263",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+559.615",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.604",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1761881,
+                    "id": "Q1761881"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 22036374,
+                    "id": "Q22036374"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2171696,
+                    "id": "Q2171696"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2288052,
+                    "id": "Q2288052"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "303885",
+                "type": "string"
+            }
+        ]
+    }
+}

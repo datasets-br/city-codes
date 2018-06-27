@@ -1,0 +1,181 @@
+{
+    "pageid": 1949138,
+    "ns": 0,
+    "type": "item",
+    "id": "Q2021075",
+    "claims": {
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira vicosa do ceara.jpg",
+                "type": "string"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -3.5619444444444,
+                    "longitude": -41.091944444444,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            },
+            {
+                "value": {
+                    "latitude": -3.56222,
+                    "longitude": -41.09222,
+                    "altitude": null,
+                    "precision": 1.0e-6,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40123,
+                    "id": "Q40123"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 22015111,
+                    "id": "Q22015111"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/09rt_f0",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3385106",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Viçosa do Ceará",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasao vicosa do ceara - CE.JPG",
+                "type": "string"
+            }
+        ],
+        "P1281": [
+            {
+                "value": "461578",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "2314102",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+54955",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 25930932,
+                    "id": "Q25930932"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+1311.628",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.vicosa.ce.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "05 12 2015 Vicosa CE (146 1).JPG",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+740",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+719",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.571",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P402": [
+            {
+                "value": "302637",
+                "type": "string"
+            }
+        ]
+    }
+}

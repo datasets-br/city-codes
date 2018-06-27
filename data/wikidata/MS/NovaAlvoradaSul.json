@@ -1,0 +1,159 @@
+{
+    "pageid": 1737528,
+    "ns": 0,
+    "type": "item",
+    "id": "Q1806336",
+    "claims": {
+        "P625": [
+            {
+                "value": {
+                    "latitude": -21.465833333333,
+                    "longitude": -54.383888888889,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 43319,
+                    "id": "Q43319"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/027d27y",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "6317704",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Nova Alvorada do Sul",
+                "type": "string"
+            }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1991-00-00T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 9,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P935": [
+            {
+                "value": "Nova Alvorada do Sul",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "5006002",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+20217",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "MatoGrossodoSul Municip NovaAlvoradadoSul.svg",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "BandNAS.png",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "BR-267.jpg",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+407",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.694",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+4019.209",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P281": [
+            {
+                "value": "79.140-000",
+                "type": "string"
+            }
+        ],
+        "P402": [
+            {
+                "value": "334001",
+                "type": "string"
+            }
+        ]
+    }
+}

@@ -1,0 +1,195 @@
+{
+    "pageid": 969785,
+    "ns": 0,
+    "type": "item",
+    "id": "Q1020414",
+    "claims": {
+        "P41": [
+            {
+                "value": "Bandeira mafra.jpg",
+                "type": "string"
+            }
+        ],
+        "P158": [
+            {
+                "value": "Mafra brasao.jpg",
+                "type": "string"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Mafra (Santa Catarina)",
+                "type": "string"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -26.110833333333,
+                    "longitude": -49.805,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 41115,
+                    "id": "Q41115"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/06yj99",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3458147",
+                "type": "string"
+            }
+        ],
+        "P214": [
+            null
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+793",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+794",
+                    "lowerBound": "+792"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1281": [
+            {
+                "value": "457502",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "4210100",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+52912",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "SantaCatarina Municip Mafra.svg",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.mafra.sc.gov.br",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Mafra brasao.jpg",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "89300-000",
+                "type": "string"
+            }
+        ],
+        "P473": [
+            {
+                "value": "47",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "CasaMafra.jpg",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+1404.034",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.777",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1809601,
+                    "id": "Q1809601"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1889": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 986419,
+                    "id": "Q986419"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "296713",
+                "type": "string"
+            }
+        ]
+    }
+}

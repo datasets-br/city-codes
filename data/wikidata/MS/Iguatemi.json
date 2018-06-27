@@ -1,0 +1,184 @@
+{
+    "pageid": 407303,
+    "ns": 0,
+    "type": "item",
+    "id": "Q431778",
+    "claims": {
+        "P41": [
+            {
+                "value": "1176674401bandeira iguatemi-1-.jpg",
+                "type": "string"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -23.68,
+                    "longitude": -54.560833333333,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            },
+            {
+                "value": {
+                    "latitude": -23.42596,
+                    "longitude": -54.55844,
+                    "altitude": null,
+                    "precision": 1.0e-5,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 43319,
+                    "id": "Q43319"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 486972,
+                    "id": "Q486972"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/027cgzn",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3461455",
+                "type": "string"
+            },
+            {
+                "value": "6323753",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Iguatemi (Mato Grosso do Sul)",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 19641737,
+                    "id": "Q19641737"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P214": [
+            {
+                "value": "244761000",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.iguatemi.ms.gov.br",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "5004304",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+15738",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "MatoGrossodoSul Municip Iguatemi.svg",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "1176674394brasao iguatemi-1-.jpg",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+342",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+2946.677",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.731",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P935": [
+            {
+                "value": "Iguatemi (Brazil)",
+                "type": "string"
+            }
+        ],
+        "P402": [
+            {
+                "value": "333983",
+                "type": "string"
+            }
+        ]
+    }
+}

@@ -1,0 +1,198 @@
+{
+    "pageid": 1682707,
+    "ns": 0,
+    "type": "item",
+    "id": "Q1749869",
+    "claims": {
+        "P158": [
+            {
+                "value": "Brasao Cacapava do Sul.jpg",
+                "type": "string"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -30.511944444444,
+                    "longitude": -53.490833333333,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40030,
+                    "id": "Q40030"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/02qzb_y",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3468560",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Caçapava do Sul",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 9595837,
+                    "id": "Q9595837"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+444",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+445",
+                    "lowerBound": "+443"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1281": [
+            {
+                "value": "456893",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "4302808",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+33690",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Locator map of Caçapava do Sul in Rio Grande do Sul.svg",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira Caçapava.PNG",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasao Cacapava do Sul.jpg",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Guaritas Caçapava do Sul Brasil.jpg",
+                "type": "string"
+            }
+        ],
+        "P3417": [
+            {
+                "value": "Caçapava-Do-Sul",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+3047.120",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.768",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1464": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 25936707,
+                    "id": "Q25936707"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1757144,
+                    "id": "Q1757144"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1749815,
+                    "id": "Q1749815"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "242698",
+                "type": "string"
+            }
+        ]
+    }
+}

@@ -1,0 +1,123 @@
+{
+    "pageid": 1745589,
+    "ns": 0,
+    "type": "item",
+    "id": "Q1814508",
+    "claims": {
+        "P625": [
+            {
+                "value": {
+                    "latitude": -9.2358333333333,
+                    "longitude": -37.35,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40885,
+                    "id": "Q40885"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/026wcz0",
+                "type": "string"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Maravilha.png",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3395426",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Maravilha (Alagoas)",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "2704609",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+9418",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 29033720,
+                    "id": "Q29033720"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+279.462",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.563",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P402": [
+            {
+                "value": "303790",
+                "type": "string"
+            }
+        ]
+    }
+}

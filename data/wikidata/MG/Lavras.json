@@ -1,0 +1,249 @@
+{
+    "pageid": 1572675,
+    "ns": 0,
+    "type": "item",
+    "id": "Q1638425",
+    "claims": {
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 13420077,
+                    "id": "Q13420077"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira-lavras.jpg",
+                "type": "string"
+            }
+        ],
+        "P158": [
+            {
+                "value": "Brasao do Município de Lavras MG.png",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Lavras",
+                "type": "string"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -21.245,
+                    "longitude": -45,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            },
+            {
+                "value": {
+                    "latitude": -21.26738,
+                    "longitude": -45.0419,
+                    "altitude": null,
+                    "precision": 1.0e-5,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 39109,
+                    "id": "Q39109"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/0b02n9",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3458696",
+                "type": "string"
+            },
+            {
+                "value": "6321523",
+                "type": "string"
+            }
+        ],
+        "P1464": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 13420076,
+                    "id": "Q13420076"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+919",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+920",
+                    "lowerBound": "+918"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+912",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Vista Parcial Região central.JPG",
+                "type": "string"
+            }
+        ],
+        "P935": [
+            {
+                "value": "Lavras",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "3138203",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+92200",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "MinasGerais Municip Lavras.svg",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasao do Município de Lavras MG.png",
+                "type": "string"
+            }
+        ],
+        "P1792": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 32756220,
+                    "id": "Q32756220"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+564.744",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.782",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P281": [
+            {
+                "value": "37200-000",
+                "type": "string"
+            }
+        ],
+        "P3417": [
+            {
+                "value": "Lavras-Minas-Gerais-Brazil",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.lavras.mg.gov.br",
+                "type": "string"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1793236,
+                    "id": "Q1793236"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1754727,
+                    "id": "Q1754727"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1790591,
+                    "id": "Q1790591"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "315378",
+                "type": "string"
+            }
+        ]
+    }
+}

@@ -1,0 +1,138 @@
+{
+    "pageid": 1737728,
+    "ns": 0,
+    "type": "item",
+    "id": "Q1806537",
+    "claims": {
+        "P625": [
+            {
+                "value": {
+                    "latitude": -21.302777777778,
+                    "longitude": -52.830833333333,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 43319,
+                    "id": "Q43319"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/027d3fs",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "6318291",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Santa Rita do Pardo",
+                "type": "string"
+            }
+        ],
+        "P935": [
+            {
+                "value": "Santa Rita do Pardo",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "5007554",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+7682",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "MatoGrossodoSul Municip SantaRitadoPardo.svg",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+360",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+6141.615",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.722",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1805829,
+                    "id": "Q1805829"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "334035",
+                "type": "string"
+            }
+        ]
+    }
+}

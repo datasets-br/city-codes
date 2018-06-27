@@ -1,0 +1,164 @@
+{
+    "pageid": 555402,
+    "ns": 0,
+    "type": "item",
+    "id": "Q590279",
+    "claims": {
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira Pinheiro Machado RS.png",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasao Pinheiro Machado.gif",
+                "type": "string"
+            }
+        ],
+        "P158": [
+            {
+                "value": "Brasao Pinheiro Machado RS.png",
+                "type": "string"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -31.577777777778,
+                    "longitude": -53.380833333333,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40030,
+                    "id": "Q40030"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/03qmc3x",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3453741",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Pinheiro Machado",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+436",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+437",
+                    "lowerBound": "+435"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P935": [
+            {
+                "value": "Pinheiro Machado",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Pinheiro Machado.JPG",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "4314506",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+12780",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "RioGrandedoSul Municip PinheiroMachado.svg",
+                "type": "string"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.752",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+2227.897",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1638441,
+                    "id": "Q1638441"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "242479",
+                "type": "string"
+            }
+        ]
+    }
+}

@@ -1,0 +1,144 @@
+{
+    "pageid": 1737700,
+    "ns": 0,
+    "type": "item",
+    "id": "Q1806509",
+    "claims": {
+        "P625": [
+            {
+                "value": {
+                    "latitude": -20.366944444444,
+                    "longitude": -51.418888888889,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 43319,
+                    "id": "Q43319"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/027d3ll",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "6318649",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Selvíria",
+                "type": "string"
+            }
+        ],
+        "P935": [
+            {
+                "value": "Selvíria",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "5007802",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+6469",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "MatoGrossodoSul Municip Selviria.svg",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Band Selviria.png",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+357",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+3258.653",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.736",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1649828,
+                    "id": "Q1649828"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "333995",
+                "type": "string"
+            }
+        ]
+    }
+}

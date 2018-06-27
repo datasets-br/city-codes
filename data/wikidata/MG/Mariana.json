@@ -1,0 +1,235 @@
+{
+    "pageid": 934239,
+    "ns": 0,
+    "type": "item",
+    "id": "Q984567",
+    "claims": {
+        "P158": [
+            {
+                "value": "Brasao Mariana.png",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Mariana (Minas Gerais)",
+                "type": "string"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -20.378347222222,
+                    "longitude": -43.416472222222,
+                    "altitude": null,
+                    "precision": null,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            },
+            {
+                "value": {
+                    "latitude": -20.32403,
+                    "longitude": -43.30662,
+                    "altitude": null,
+                    "precision": 1.0e-5,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 39109,
+                    "id": "Q39109"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/04ns7p",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3457736",
+                "type": "string"
+            },
+            {
+                "value": "6357468",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 9013095,
+                    "id": "Q9013095"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P214": [
+            {
+                "value": "147768346",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+899",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+900",
+                    "lowerBound": "+898"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+725",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Conjunto arquitetonico mariana.jpg",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "3140001",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+46710",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+58802",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+54219",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.mariana.mg.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P242": [
+            {
+                "value": "MinasGerais Municip Mariana.svg",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Mariana (Bandeira).jpg",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasao Mariana.png",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "35420-000",
+                "type": "string"
+            }
+        ],
+        "P3417": [
+            {
+                "value": "Mariana-Minas-Gerais",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+1194.208",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.742",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 370048,
+                    "id": "Q370048"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2296402,
+                    "id": "Q2296402"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "315051",
+                "type": "string"
+            }
+        ]
+    }
+}

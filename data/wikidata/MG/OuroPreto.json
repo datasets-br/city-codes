@@ -1,0 +1,287 @@
+{
+    "pageid": 187501,
+    "ns": 0,
+    "type": "item",
+    "id": "Q188905",
+    "claims": {
+        "P190": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 286004,
+                    "id": "Q286004"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Ouro Preto",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Flag ouro preto.svg",
+                "type": "string"
+            }
+        ],
+        "P158": [
+            {
+                "value": "Brasao ouro preto.png",
+                "type": "string"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -20.385277777778,
+                    "longitude": -43.503611111111,
+                    "altitude": null,
+                    "precision": null,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            },
+            {
+                "value": {
+                    "latitude": -20.39304,
+                    "longitude": -43.64191,
+                    "altitude": null,
+                    "precision": 1.0e-5,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 39109,
+                    "id": "Q39109"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/01tldy",
+                "type": "string"
+            }
+        ],
+        "P948": [
+            {
+                "value": "Ouro Preto banner.jpg",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3455671",
+                "type": "string"
+            },
+            {
+                "value": "6321620",
+                "type": "string"
+            }
+        ],
+        "P1465": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 18666718,
+                    "id": "Q18666718"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1740": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 8458180,
+                    "id": "Q8458180"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1792": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 7923119,
+                    "id": "Q7923119"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 9654806,
+                    "id": "Q9654806"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P214": [
+            {
+                "value": "150105093",
+                "type": "string"
+            }
+        ],
+        "P268": [
+            {
+                "value": "12725248t",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Ouro Preto November 2009-7.jpg",
+                "type": "string"
+            }
+        ],
+        "P935": [
+            {
+                "value": "Ouro Preto",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "3146107",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+66277",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+74036",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+70281",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "MinasGerais Municip OuroPreto.svg",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.ouropreto.mg.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+1179",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+1216",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasao ouro preto.png",
+                "type": "string"
+            }
+        ],
+        "P1464": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 9654814,
+                    "id": "Q9654814"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+1245.865",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.787",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1756538,
+                    "id": "Q1756538"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "314853",
+                "type": "string"
+            }
+        ],
+        "P2924": [
+            {
+                "value": "2695284",
+                "type": "string"
+            }
+        ]
+    }
+}

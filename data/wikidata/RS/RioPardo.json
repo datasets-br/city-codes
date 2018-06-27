@@ -1,0 +1,196 @@
+{
+    "pageid": 483669,
+    "ns": 0,
+    "type": "item",
+    "id": "Q514256",
+    "claims": {
+        "P41": [
+            {
+                "value": "Bandeira-rio pardo.png",
+                "type": "string"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -29.99,
+                    "longitude": -52.377777777778,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40030,
+                    "id": "Q40030"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/041g82",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3451102",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Rio Pardo",
+                "type": "string"
+            }
+        ],
+        "P214": [
+            {
+                "value": "247361123",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+41",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+42",
+                    "lowerBound": "+40"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "4315701",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+37591",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "RioGrandedoSul Municip RioPardo.svg",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 25973430,
+                    "id": "Q25973430"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasãoriopardo.jpeg",
+                "type": "string"
+            }
+        ],
+        "P3417": [
+            {
+                "value": "Rio-Pardo",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Igreja Matriz Nossa Senhora do Rosário 10.JPG",
+                "type": "string"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.754",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+2050.65",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P281": [
+            {
+                "value": "96640-000",
+                "type": "string"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 781510,
+                    "id": "Q781510"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 600808,
+                    "id": "Q600808"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 677252,
+                    "id": "Q677252"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "242626",
+                "type": "string"
+            }
+        ]
+    }
+}

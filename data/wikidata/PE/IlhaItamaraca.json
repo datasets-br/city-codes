@@ -1,0 +1,158 @@
+{
+    "pageid": 552409,
+    "ns": 0,
+    "type": "item",
+    "id": "Q587114",
+    "claims": {
+        "P625": [
+            {
+                "value": {
+                    "latitude": -7.7477777777778,
+                    "longitude": -34.825833333333,
+                    "altitude": null,
+                    "precision": null,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40942,
+                    "id": "Q40942"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/01m0vr",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3397963",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Itamaracá",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 10181573,
+                    "id": "Q10181573"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P214": [
+            {
+                "value": "315527439",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Forte Orange - Ilha de Itamaracá, Pernambuco, Brasil.jpg",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "2607604",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+21884",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P206": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 97,
+                    "id": "Q97"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+3",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.653",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+67",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1767210,
+                    "id": "Q1767210"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "303716",
+                "type": "string"
+            }
+        ]
+    }
+}

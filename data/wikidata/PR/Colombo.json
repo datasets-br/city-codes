@@ -1,0 +1,194 @@
+{
+    "pageid": 877069,
+    "ns": 0,
+    "type": "item",
+    "id": "Q926688",
+    "claims": {
+        "P41": [
+            {
+                "value": "Bandeira colombense.png",
+                "type": "string"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Colombo (Paraná)",
+                "type": "string"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -25.291944444444,
+                    "longitude": -49.223888888889,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 15499,
+                    "id": "Q15499"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/0ggtg1",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3465927",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 9611558,
+                    "id": "Q9611558"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P214": [
+            {
+                "value": "129009368",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+950",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+951",
+                    "lowerBound": "+949"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P18": [
+            {
+                "value": "IgrejaColomboParana.JPG",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasão de Armas do Município de Colombo.png",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.colombo.pr.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "4105805",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n80161725",
+                "type": "string"
+            }
+        ],
+        "P227": [
+            {
+                "value": "16090177-7",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+212967",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.733",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+198",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2004402,
+                    "id": "Q2004402"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1805304,
+                    "id": "Q1805304"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "297809",
+                "type": "string"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Parana Municip Colombo.svg",
+                "type": "string"
+            }
+        ]
+    }
+}

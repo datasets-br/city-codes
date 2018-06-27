@@ -42,8 +42,24 @@
       "schema": {
         "fields": [
           {
-            "name": "state",
-            "description": "State-name 2-letter abbreviation (in portuguese 'sigla da unidade da federação'), ISO 3166:BR",
+            "name": "synonym",
+            "description": "Usual synonym of the name of the city, in portuguese",
+            "rdfType-prop": "http://schema.org/name",
+            "title-pt":"Sinônimo",
+            "title":"Synonym",
+            "type": "string"
+          },
+          {
+            "name": "wdId",
+            "description": "Wikidata concept (semantic) identifier",
+            "urlTpl": "https://www.wikidata.org/wiki/{value}",
+            "title-pt":"ID Wikidata",
+            "title":"Wikidata ID",
+            "type": "string"
+          },
+          {
+            "name": "cur_state",
+            "description": "Current state-name, 2-letter abbreviation (in portuguese 'sigla da unidade da federação'), ISO 3166:BR",
             "rdfType": "https://www.wikidata.org/wiki/Q27798",
             "type": "string",
             "title-pt":"Subdivisão (UF)",
@@ -51,19 +67,11 @@
             "regex": "^[A-Z]{2,2}$"
           },
           {
-            "name": "lexLabel",
-            "description": "Brazilian's LEX URN syntax translation of the official state name. Used in URLs and other contexts",
+            "name": "cur_lexLabel",
+            "description": "Current Brazilian's LEX URN syntax translation of the official state name. Used in URLs and other contexts",
             "url": "http://projeto.lexml.gov.br",
             "title-pt":"Rótulo para URN-LEX",
             "title":"Label for URN-LEX",
-            "type": "string"
-          },
-          {
-            "name": "synonym",
-            "description": "Usual synonym of the name of the city, in portuguese",
-            "rdfType-prop": "http://schema.org/name",
-            "title-pt":"Sinônimo",
-            "title":"Synonym",
             "type": "string"
           },
           {
@@ -79,10 +87,18 @@
             "title-pt":"Referência de uso",
             "title":"Source or reference",
             "type": "string"
+          },
+          {
+            "name": "notes",
+            "description": "Notes about assegments, dates or changes",
+            "rdfType-prop": "http://schema.org/commentText",
+            "title-pt":"Notas",
+            "title":"Notes",
+            "type": "string"
           }
         ]
       },
-      "primaryKey": ["state","lexLabel","synonym"]
+      "primaryKey": ["wdId","synonym"]
     },
     {
       "name": "br-city-codes",

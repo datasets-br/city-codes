@@ -1,27 +1,29 @@
-state,lexLabel,synonym,type,ref
-BA,jiquirica,Jequiriça,alt orto,Wikipedia-pt
-BA,jiquirica,Jequirissa,err,Teste
-BA,santa.teresinha,Santa Terezinha,alt orto,Wikipedia-pt
-CE,itapaje,Itapagé,alt,Wikipedia-pt
-GO,bom.jesus.goias,Bom Jesus,alt reduz,Wikipedia-pt
-MA,governador.edison.lobao,Governador Edson Lobão,alt orto,Wikipedia-pt
-MA,santo.amaro.maranhao,Santo Amaro,alt reduz,CEP
-MA,senador.la.rocque,Senador La Roque,alt orto,Wikipedia-pt
-MG,brazopolis,Brasópolis,alt orto moderna,Wikipedia-pt
-MG,dona.eusebia,Dona Euzébia,alt orto arcaica,Wikipedia-pt
-MT,poxoreu,Poxoréo,alt,Wikipedia-pt
-PA,santa.izabel.para,Santa Isabel do Pará,alt,Wikipedia-pt
-PB,joca.claudino,Santarém,alt canonico,1994-04-29..2010-12-27
-PB,sao.vicente.serido,Seridó,alt reduz,LexML
-PB,tacima,Campo de Santana,alt canonico,1996..2009-12-22
-PE,iguaracy,Iguaraci,alt,Wikipedia-pt
-RJ,paraty,Parati,alt,Wikipedia-pt
-RJ,trajano.moraes,Trajano de Morais,alt,Wikipedia-pt
-RN,ares,Arez,alt,Wikipedia-pt
-RN,boa.saude,Januário Cicco,alt canonico,1953..1991-02-01
-RN,serra.caiada,Presidente Juscelino,alt canonico,1963..1963
-RN,serra.caiada,Presidente Kubitschek,alt canonico,1964-01-23..2013-01-13
-RS,porto.alegre,POA,abrev,http://www.cidades.registro.nic.br
-SP,mogi.mirim,Moji Mirim,alt,Wikipedia-pt
-SP,sao.paulo,Sampa,abrev,http://www.cidades.registro.nic.br
-TO,sao.valerio.natividade,São Valério,alt oficial,IBGE (reduzido)
+synonym,wdId,cur_state,cur_lexLabel,type,ref,notes
+Arez,,RN,ares,alt,Wikipedia-pt,
+Januário Cicco,,RN,boa.saude,alt canonico,1953..1991-02-01,
+Bom Jesus,,GO,bom.jesus.goias,alt reduz,Wikipedia-pt,
+Brasópolis,,MG,brazopolis,alt orto moderna,Wikipedia-pt,
+Augusto Severo,Q1802671,RN,campo.grande,alt canonico,1903..1991,"Em 28 de agosto de 1903, a Lei nº 192 mudou o nome do município para Augusto Severo"
+Triunfo,Q1802671,RN,campo.grande,alt canonico,1870..1902,"A Lei nº 613, de 30 de março de 1870, restaurou o município com a denominação, de Triunfo"
+Dona Euzébia,,MG,dona.eusebia,alt orto arcaica,Wikipedia-pt,
+Governador Edson Lobão,,MA,governador.edison.lobao,alt orto,Wikipedia-pt,
+Iguaraci,,PE,iguaracy,alt,Wikipedia-pt,
+Itapagé,,CE,itapaje,alt,Wikipedia-pt,
+Jequiriça,,BA,jiquirica,alt orto,Wikipedia-pt,
+Jequirissa,,BA,jiquirica,err,Teste,
+Santarém,,PB,joca.claudino,alt canonico,1994-04-29..2010-12-27,
+Moji Mirim,,SP,mogi.mirim,alt,Wikipedia-pt,
+Parati,,RJ,paraty,alt,Wikipedia-pt,
+POA,,RS,porto.alegre,abrev,http://www.cidades.registro.nic.br,
+Poxoréo,,MT,poxoreu,alt,Wikipedia-pt,
+Santa Isabel do Pará,,PA,santa.izabel.para,alt,Wikipedia-pt,
+Santa Terezinha,,BA,santa.teresinha,alt orto,Wikipedia-pt,
+Santo Amaro,,MA,santo.amaro.maranhao,alt reduz,CEP,
+Sampa,,SP,sao.paulo,abrev,http://www.cidades.registro.nic.br,
+São Valério,,TO,sao.valerio.natividade,alt oficial,IBGE (reduzido),
+Seridó,,PB,sao.vicente.serido,alt reduz,LexML,
+Senador La Roque,,MA,senador.la.rocque,alt orto,Wikipedia-pt,
+Presidente Juscelino,,RN,serra.caiada,alt canonico,1963..1963,
+Presidente Kubitschek,,RN,serra.caiada,alt canonico,1964-01-23..2013-01-13,
+Campo de Santana,,PB,tacima,alt canonico,1996..2009-12-22,
+Trajano de Morais,,RJ,trajano.moraes,alt,Wikipedia-pt,

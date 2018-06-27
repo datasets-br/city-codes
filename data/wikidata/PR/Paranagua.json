@@ -1,0 +1,200 @@
+{
+    "pageid": 473856,
+    "ns": 0,
+    "type": "item",
+    "id": "Q503852",
+    "claims": {
+        "P41": [
+            {
+                "value": "Bandeira paranagua.png",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasao paranagua.png",
+                "type": "string"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 15499,
+                    "id": "Q15499"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -25.520833333333,
+                    "longitude": -48.509444444444,
+                    "altitude": null,
+                    "precision": null,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Paranaguá",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 8714780,
+                    "id": "Q8714780"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/04x25n",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3455070",
+                "type": "string"
+            }
+        ],
+        "P214": [
+            {
+                "value": "129032348",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+5",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+6",
+                    "lowerBound": "+4"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Ilha da Cotinga.jpg",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.paranagua.pr.gov.br/site/index.php",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "4118204",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+140469",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Parana Municip Paranagua.svg",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+826.675",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.750",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P3417": [
+            {
+                "value": "Paranaguá-Brazil",
+                "type": "string"
+            }
+        ],
+        "P982": [
+            {
+                "value": "f7967455-aecf-41fb-b6be-8677eb97f7bb",
+                "type": "string"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 599068,
+                    "id": "Q599068"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1803813,
+                    "id": "Q1803813"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1417": [
+            {
+                "value": "place/Paranagua",
+                "type": "string"
+            }
+        ],
+        "P402": [
+            {
+                "value": "297491",
+                "type": "string"
+            }
+        ]
+    }
+}

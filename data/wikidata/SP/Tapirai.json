@@ -1,1 +1,38 @@
-{"entities":{"Q1800743":{"pageid":1732001,"ns":0,"title":"Q1800743","lastrevid":691543448,"modified":"2018-06-06T19:43:26Z","type":"item","id":"Q1800743","labels":{"sv":{"language":"sv","value":"Tapira\u00ed"},"ceb":{"language":"ceb","value":"Tapira\u00ed"}},"descriptions":{},"aliases":{},"claims":{"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"abaf063bc70d0a5246667a3e79ed9fc1dbb35cdb","datavalue":{"value":{"entity-type":"item","numeric-id":3257686,"id":"Q3257686"},"type":"wikibase-entityid"},"datatype":"wikibase-item"},"type":"statement","id":"Q1800743$1CA6C733-2774-4BD8-9B17-0144D10243E6","rank":"normal"}],"P17":[{"mainsnak":{"snaktype":"value","property":"P17","hash":"90114304161d20f1934075ea47b8a33a76e95138","datavalue":{"value":{"entity-type":"item","numeric-id":155,"id":"Q155"},"type":"wikibase-entityid"},"datatype":"wikibase-item"},"type":"statement","id":"Q1800743$6CAC2375-C4FD-4314-8494-501D7E8E8BBA","rank":"normal"}],"P131":[{"mainsnak":{"snaktype":"value","property":"P131","hash":"6b223422f176431f52ae915b4281bd721f1d5453","datavalue":{"value":{"entity-type":"item","numeric-id":22064413,"id":"Q22064413"},"type":"wikibase-entityid"},"datatype":"wikibase-item"},"type":"statement","id":"Q1800743$0F5B46A0-FB07-477C-B3C1-D9C6B34B4081","rank":"normal","references":[{"hash":"43a0088c51fd85e5a85d1b46412c3a635e6d4edc","snaks":{"P143":[{"snaktype":"value","property":"P143","hash":"d8fbf8671e3c630db61bfac691068cfb6857f243","datavalue":{"value":{"entity-type":"item","numeric-id":837615,"id":"Q837615"},"type":"wikibase-entityid"},"datatype":"wikibase-item"}]},"snaks-order":["P143"]}]}]},"sitelinks":{"cebwiki":{"site":"cebwiki","title":"Tapira\u00ed (lungsod sa Brasil, S\u00e3o Paulo, Tapira\u00ed, lat -23,96, long -47,51)","badges":[]},"svwiki":{"site":"svwiki","title":"Tapira\u00ed (ort i Brasilien, S\u00e3o Paulo, Tapira\u00ed, lat -23,96, long -47,51)","badges":[]}}}},"success":1}
+{
+    "pageid": 1732001,
+    "ns": 0,
+    "type": "item",
+    "id": "Q1800743",
+    "claims": {
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3257686,
+                    "id": "Q3257686"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 22064413,
+                    "id": "Q22064413"
+                },
+                "type": "wikibase-entityid"
+            }
+        ]
+    }
+}

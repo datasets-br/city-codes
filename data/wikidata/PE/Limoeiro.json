@@ -1,0 +1,150 @@
+{
+    "pageid": 1992198,
+    "ns": 0,
+    "type": "item",
+    "id": "Q2064902",
+    "claims": {
+        "P41": [
+            {
+                "value": "Bandeira limoeiro pe.jpg",
+                "type": "string"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -7.875,
+                    "longitude": -35.45,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40942,
+                    "id": "Q40942"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/076yxy4",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "6320542",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Limoeiro (Pernambuco)",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Limoeiro.jpg",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "2608909",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+55439",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "PE-mapa-Limoeiro.png",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasao limoeiro pe.PNG",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+138",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.663",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+269.970",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P402": [
+            {
+                "value": "303588",
+                "type": "string"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1869240,
+                    "id": "Q1869240"
+                },
+                "type": "wikibase-entityid"
+            }
+        ]
+    }
+}

@@ -1,0 +1,150 @@
+{
+    "pageid": 1941400,
+    "ns": 0,
+    "type": "item",
+    "id": "Q2013214",
+    "claims": {
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -10.665833333333,
+                    "longitude": -37.540833333333,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 43783,
+                    "id": "Q43783"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/027j_ws",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3458255",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasao macambira.jpg",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Macambira",
+                "type": "string"
+            }
+        ],
+        "P158": [
+            {
+                "value": "Brasao macambira.jpg",
+                "type": "string"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Sergipe municip macambira.png",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Band macambira.png",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "2803708",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+6401",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 27589369,
+                    "id": "Q27589369"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+282",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+137.366",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.583",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P402": [
+            {
+                "value": "303902",
+                "type": "string"
+            }
+        ]
+    }
+}

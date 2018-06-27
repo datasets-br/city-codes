@@ -1,0 +1,202 @@
+{
+    "pageid": 1992000,
+    "ns": 0,
+    "type": "item",
+    "id": "Q2064701",
+    "claims": {
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -7.8319444444444,
+                    "longitude": -35.755833333333,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40942,
+                    "id": "Q40942"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/076vfjq",
+                "type": "string"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Mapa de Surubim (2).png",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3387115",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Surubim",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "BrasãodeSurubimPE.jpg",
+                "type": "string"
+            }
+        ],
+        "P982": [
+            {
+                "value": "3fe62d6d-f2f0-4cc1-a6d6-fe3d2f0cc1c2",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "2614501",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+58515",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://prefeituradesurubim.com.br/",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+220",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 27588967,
+                    "id": "Q27588967"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1889": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 201877,
+                    "id": "Q201877"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+252.845",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.635",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P402": [
+            {
+                "value": "303642",
+                "type": "string"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 923741,
+                    "id": "Q923741"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1964406,
+                    "id": "Q1964406"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2011848,
+                    "id": "Q2011848"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2013655,
+                    "id": "Q2013655"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2089188,
+                    "id": "Q2089188"
+                },
+                "type": "wikibase-entityid"
+            }
+        ]
+    }
+}
