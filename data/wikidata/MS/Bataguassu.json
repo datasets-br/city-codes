@@ -1,3 +1,182 @@
 {
-    "claims": []
+    "pageid": 1736785,
+    "ns": 0,
+    "type": "item",
+    "id": "Q1805582",
+    "claims": {
+        "P41": [
+            {
+                "value": "Bandeira Bataguassu MatoGrossodoSul Brasil.svg",
+                "type": "string"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -21.713888888889,
+                    "longitude": -52.421944444444,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 43319,
+                    "id": "Q43319"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/027c2rr",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3470339",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Bataguassu",
+                "type": "string"
+            }
+        ],
+        "P935": [
+            {
+                "value": "Bataguassu",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "5001904",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+22084",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "MatoGrossodoSul Municip Bataguassu.svg",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 25938670,
+                    "id": "Q25938670"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1667": [
+            {
+                "value": "1020806",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasao Bataguassu MatoGrossodoSul Brasil.svg",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Aterro sobre rio Parana.jpg",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+329",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P421": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 5762,
+                    "id": "Q5762"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.738",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+2.416718",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1806340,
+                    "id": "Q1806340"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "334052",
+                "type": "string"
+            }
+        ]
+    }
 }

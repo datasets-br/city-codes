@@ -1,3 +1,212 @@
 {
-    "claims": []
+    "pageid": 1580824,
+    "ns": 0,
+    "type": "item",
+    "id": "Q1646919",
+    "claims": {
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 14866902,
+                    "id": "Q14866902"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Saoluizdoparaitinga bandeira.png",
+                "type": "string"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -23.221944444444,
+                    "longitude": -45.31,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P373": [
+            {
+                "value": "São Luiz do Paraitinga",
+                "type": "string"
+            }
+        ],
+        "P948": [
+            {
+                "value": "Largo do Teatro, São Luiz do Paraitinga.JPG",
+                "type": "string"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/094_b3",
+                "type": "string"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 175,
+                    "id": "Q175"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 515,
+                    "id": "Q515"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3448556",
+                "type": "string"
+            }
+        ],
+        "P1464": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 8750777,
+                    "id": "Q8750777"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P18": [
+            {
+                "value": "R Monsenhor Ignacio Giolia Sao Luiz do Paraitinga.JPG",
+                "type": "string"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 170540,
+                    "id": "Q170540"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1003456,
+                    "id": "Q1003456"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "3550001",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+10429",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+10731",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+10397",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "SaoPaulo Municip SaoLuizdoParaitinga.svg",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Saoluizdoparaitinga brasao.png",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+741",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.754",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+617.148",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P281": [
+            {
+                "value": "12140-000",
+                "type": "string"
+            }
+        ],
+        "P402": [
+            {
+                "value": "297981",
+                "type": "string"
+            }
+        ]
+    }
 }

@@ -1,28 +1,36 @@
 -- Generating backups of JSON-Wikidata --
 
 <?php
+// usage: php dumpWikidata.php  flagOpcionalQuandoFixErr
+
 // CONFIGS
-$url = 'https://github.com/datasets-br/city-codes/raw/master/data/br-city-codes.csv'; // 0=name,1=state,2=wdId,3=idIBGE,4=lexLabel
 $url_tpl = 'https://www.wikidata.org/w/api.php?action=wbgetentities&format=json&ids=';
-$UF='SP';
+$UF='';
+$localCsv = true;
+$stopAt=0;
+
 $saveFolder = realpath( dirname(__FILE__)."/../../data/wikidata" );
-$fixErr = ($argc>=2);
+$url = $localCsv
+     ? "$saveFolder/../br-city-codes.csv"
+     : 'https://github.com/datasets-br/city-codes/raw/master/data/br-city-codes.csv'
+;
+$fixErr = ($argc>=2)? 'MODO FIX-ERR': '';
+print "\n USANDO $fixErr $url";
+
 
 // LOAD DATA:
 $R = []; // [fname]= wdId
 if (($handle = fopen($url, "r")) !== FALSE) {
-   for($i=0; ($row=fgetcsv($handle)); $i++) 
+   for($i=0; ($row=fgetcsv($handle)) && (!$stopAt || $i<$stopAt); $i++) 
       if ($i && (!$UF ||$row[1]==$UF))  $R["$row[1]-".lex2filename($row[4])]=$row[2];
+       // cols  0=name, 1=state, 2=wdId, 3=idIBGE, 4=lexLabel
 } else
    exit("\nERRO ao abrir planilha das cidades em \n\t$url\n");
 
 if ($fixErr) foreach($R as $fname=>$wdId) {
   $fs = splitFilename($fname,true);
   if ($fs[2]>50) unset($R[$fname]);
-  //var_dump($fs);
 }
-
-var_dump($R); die("\n");
 
 // WGET AND SAVE JSON:
 $i=1;
@@ -60,9 +68,10 @@ function ERRset($fname,$msg) {
 function json_stdWikidata($jstr) {
   if (!trim($jstr)) return '';
   $j = json_decode($jstr,JSON_BIGINT_AS_STRING|JSON_OBJECT_AS_ARRAY);
-  if ( !isset($j['entities']) || !isset($j['entities']['claims']) ) return '';
+  if ( !isset($j['entities']) ) return '';
   $ks=array_keys($j['entities']);
   $j = $j['entities'][$ks[0]];
+  if ( !isset($j['claims']) ) return '';
   foreach(['lastrevid','modified','labels','descriptions','title','aliases','sitelinks'] as $r) unset($j[$r]);
   $a = []; 
   foreach($j['claims'] as $k=>$r) {

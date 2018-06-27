@@ -1,3 +1,186 @@
 {
-    "claims": []
+    "pageid": 1734013,
+    "ns": 0,
+    "type": "item",
+    "id": "Q1802783",
+    "claims": {
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -6.1577777777778,
+                    "longitude": -35.600833333333,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 43255,
+                    "id": "Q43255"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/09rtvyh",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3397635",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Boa Saúde",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "2405306",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+9011",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira de Boa Saúde, RN.png",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.boasaude.rn.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+125",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+187.107",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.574",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P281": [
+            {
+                "value": "59260-000",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasão de Boa Saúde, RN.png",
+                "type": "string"
+            }
+        ],
+        "P242": [
+            {
+                "value": "RioGrandedoNorte Municip BoaSaude.svg",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Pórtico de Boa Saúde.jpg",
+                "type": "string"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 589586,
+                    "id": "Q589586"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1786778,
+                    "id": "Q1786778"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1786943,
+                    "id": "Q1786943"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1802815,
+                    "id": "Q1802815"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "301147",
+                "type": "string"
+            }
+        ]
+    }
 }

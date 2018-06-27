@@ -1,3 +1,726 @@
 {
-    "claims": []
+    "pageid": 3826,
+    "ns": 0,
+    "type": "item",
+    "id": "Q2844",
+    "claims": {
+        "P190": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1486,
+                    "id": "Q1486"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1963,
+                    "id": "Q1963"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 5826,
+                    "id": "Q5826"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 9005,
+                    "id": "Q9005"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 597,
+                    "id": "Q597"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 60,
+                    "id": "Q60"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 61,
+                    "id": "Q61"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 727,
+                    "id": "Q727"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3616,
+                    "id": "Q3616"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3889,
+                    "id": "Q3889"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 657807,
+                    "id": "Q657807"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3787,
+                    "id": "Q3787"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 64,
+                    "id": "Q64"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2841,
+                    "id": "Q2841"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 100,
+                    "id": "Q100"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3114,
+                    "id": "Q3114"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 394701,
+                    "id": "Q394701"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 34028,
+                    "id": "Q34028"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3861,
+                    "id": "Q3861"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 9022,
+                    "id": "Q9022"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2868,
+                    "id": "Q2868"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 130514,
+                    "id": "Q130514"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1335,
+                    "id": "Q1335"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 220,
+                    "id": "Q220"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2887,
+                    "id": "Q2887"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1741,
+                    "id": "Q1741"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Brasília",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira do Distrito Federal (Brasil).svg",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasão do Distrito Federal (Brasil).svg",
+                "type": "string"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -15.793888888889,
+                    "longitude": -47.882777777778,
+                    "altitude": null,
+                    "precision": 0.0166667,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 5119,
+                    "id": "Q5119"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Palacio Alvorada commons.jpg",
+                "type": "string"
+            }
+        ],
+        "P948": [
+            {
+                "value": "Brasília banner.jpg",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 7484924,
+                    "id": "Q7484924"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P998": [
+            {
+                "value": "Regional/South_America/Brazil/States/Distrito_Federal/Brasilia/",
+                "type": "string"
+            }
+        ],
+        "P935": [
+            {
+                "value": "Brasília",
+                "type": "string"
+            }
+        ],
+        "P349": [
+            {
+                "value": "00629142",
+                "type": "string"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 119158,
+                    "id": "Q119158"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/01hy_",
+                "type": "string"
+            }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1960-04-21T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 11,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P421": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 6513,
+                    "id": "Q6513"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P982": [
+            {
+                "value": "4ad93f0f-e371-442c-911f-e00a18b32804",
+                "type": "string"
+            }
+        ],
+        "P1464": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 9229004,
+                    "id": "Q9229004"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1465": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 9686029,
+                    "id": "Q9686029"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3469058",
+                "type": "string"
+            }
+        ],
+        "P227": [
+            {
+                "value": "4080517-7",
+                "type": "string"
+            }
+        ],
+        "P1740": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 13262406,
+                    "id": "Q13262406"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1792": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 7115378,
+                    "id": "Q7115378"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P84": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 134165,
+                    "id": "Q134165"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1376": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 210542,
+                    "id": "Q210542"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P214": [
+            {
+                "value": "142521983",
+                "type": "string"
+            }
+        ],
+        "P268": [
+            {
+                "value": "11883341g",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+1171",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.brasilia.df.gov.br",
+                "type": "string"
+            }
+        ],
+        "P1997": [
+            {
+                "value": "112060958820146",
+                "type": "string"
+            }
+        ],
+        "P2002": [
+            {
+                "value": "gov_df",
+                "type": "string"
+            }
+        ],
+        "P206": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3432578,
+                    "id": "Q3432578"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2627794,
+                    "id": "Q2627794"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+2789761",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+2570160",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+2609997",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+2051146",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "5300108",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "70000–70999",
+                "type": "string"
+            }
+        ],
+        "P1417": [
+            {
+                "value": "place/Brasilia",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+5802000000",
+                    "unit": "http://www.wikidata.org/entity/Q25343"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2013": [
+            {
+                "value": "govdf",
+                "type": "string"
+            }
+        ],
+        "P402": [
+            {
+                "value": "2758138",
+                "type": "string"
+            }
+        ],
+        "P3403": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2781978,
+                    "id": "Q2781978"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1429219,
+                    "id": "Q1429219"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 119158,
+                    "id": "Q119158"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P3569": [
+            {
+                "value": "gebouwd-erfgoed/brazilie-brasilia",
+                "type": "string"
+            }
+        ],
+        "P3417": [
+            {
+                "value": "Brasília-Brazil-1",
+                "type": "string"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.824",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Brazil Distrito Federal location map.svg",
+                "type": "string"
+            }
+        ],
+        "P1705": [
+            {
+                "value": {
+                    "text": "Brasília",
+                    "language": "pt"
+                },
+                "type": "monolingualtext"
+            }
+        ],
+        "P1448": [
+            {
+                "value": {
+                    "text": "Brasília",
+                    "language": "pt"
+                },
+                "type": "monolingualtext"
+            }
+        ],
+        "P1225": [
+            {
+                "value": "10044621",
+                "type": "string"
+            }
+        ],
+        "P4431": [
+            {
+                "value": "brasilias-anniversary",
+                "type": "string"
+            }
+        ],
+        "P3219": [
+            {
+                "value": "brasilia",
+                "type": "string"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 249830,
+                    "id": "Q249830"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2924": [
+            {
+                "value": "3211436",
+                "type": "string"
+            }
+        ],
+        "P138": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P473": [
+            {
+                "value": "061",
+                "type": "string"
+            }
+        ],
+        "P6": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 10363936,
+                    "id": "Q10363936"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P417": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 146183,
+                    "id": "Q146183"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1451": [
+            {
+                "value": {
+                    "text": "Venturis ventis",
+                    "language": "la"
+                },
+                "type": "monolingualtext"
+            }
+        ],
+        "P1549": [
+            {
+                "value": {
+                    "text": "Brasiliense",
+                    "language": "en"
+                },
+                "type": "monolingualtext"
+            }
+        ]
+    }
 }

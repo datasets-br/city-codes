@@ -1,8 +1,8 @@
 {
-    "pageid": 1716010,
+    "pageid": 1733904,
     "ns": 0,
     "type": "item",
-    "id": "Q1784358",
+    "id": "Q1802671",
     "claims": {
         "P17": [
             {
@@ -14,17 +14,17 @@
                 "type": "wikibase-entityid"
             }
         ],
-        "P373": [
+        "P41": [
             {
-                "value": "Luiz Alves",
+                "value": "Bandeira de Campo Grande-RN, Brasil.jpg",
                 "type": "string"
             }
         ],
         "P625": [
             {
                 "value": {
-                    "latitude": -26.720833333333,
-                    "longitude": -48.932777777778,
+                    "latitude": -5.8638888888889,
+                    "longitude": -37.31,
                     "altitude": null,
                     "precision": 0.00027777777777778,
                     "globe": "http://www.wikidata.org/entity/Q2"
@@ -36,8 +36,8 @@
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 41115,
-                    "id": "Q41115"
+                    "numeric-id": 43255,
+                    "id": "Q43255"
                 },
                 "type": "wikibase-entityid"
             }
@@ -54,40 +54,19 @@
         ],
         "P646": [
             {
-                "value": "/m/09rt890",
+                "value": "/m/09rtf84",
                 "type": "string"
             }
         ],
         "P1566": [
             {
-                "value": "3458367",
+                "value": "3406958",
                 "type": "string"
             }
         ],
-        "P1585": [
+        "P373": [
             {
-                "value": "4210001",
-                "type": "string"
-            }
-        ],
-        "P1082": [
-            {
-                "value": {
-                    "amount": "+10438",
-                    "unit": "1"
-                },
-                "type": "quantity"
-            }
-        ],
-        "P242": [
-            {
-                "value": "SantaCatarina Municip LuizAlves.svg",
-                "type": "string"
-            }
-        ],
-        "P41": [
-            {
-                "value": "Bandeira LA.jpg",
+                "value": "Campo Grande (Rio Grande do Norte)",
                 "type": "string"
             }
         ],
@@ -95,22 +74,31 @@
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 25973699,
-                    "id": "Q25973699"
+                    "numeric-id": 9567352,
+                    "id": "Q9567352"
                 },
                 "type": "wikibase-entityid"
             }
         ],
-        "P94": [
+        "P1585": [
             {
-                "value": "Escudo LA.jpg",
+                "value": "2401305",
                 "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+9289",
+                    "unit": "1"
+                },
+                "type": "quantity"
             }
         ],
         "P2044": [
             {
                 "value": {
-                    "amount": "+70",
+                    "amount": "+126",
                     "unit": "http://www.wikidata.org/entity/Q11573"
                 },
                 "type": "quantity"
@@ -119,40 +107,66 @@
         "P2046": [
             {
                 "value": {
-                    "amount": "+260.079",
+                    "amount": "+896.962",
                     "unit": "http://www.wikidata.org/entity/Q712226"
                 },
                 "type": "quantity"
             }
         ],
-        "P281": [
-            {
-                "value": "89115-000",
-                "type": "string"
-            }
-        ],
         "P1081": [
             {
                 "value": {
-                    "amount": "+0.737",
+                    "amount": "+0.611",
                     "unit": "1"
                 },
                 "type": "quantity"
+            }
+        ],
+        "P1448": [
+            {
+                "value": {
+                    "text": "Augusto Severo",
+                    "language": "pt"
+                },
+                "type": "monolingualtext"
+            },
+            {
+                "value": {
+                    "text": "Campo Grande",
+                    "language": "pt"
+                },
+                "type": "monolingualtext"
             }
         ],
         "P47": [
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 808787,
-                    "id": "Q808787"
+                    "numeric-id": 1759342,
+                    "id": "Q1759342"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1802221,
+                    "id": "Q1802221"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 521491,
+                    "id": "Q521491"
                 },
                 "type": "wikibase-entityid"
             }
         ],
         "P402": [
             {
-                "value": "296592",
+                "value": "301088",
                 "type": "string"
             }
         ]

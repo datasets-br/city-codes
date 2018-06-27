@@ -1,3 +1,128 @@
 {
-    "claims": []
+    "pageid": 1736968,
+    "ns": 0,
+    "type": "item",
+    "id": "Q1805766",
+    "claims": {
+        "P625": [
+            {
+                "value": {
+                    "latitude": -14.862777777778,
+                    "longitude": -49.328888888889,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 41587,
+                    "id": "Q41587"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/0c41mq",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "6324090",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "São Luíz do Norte",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.saoluizdonorte.go.gov.br",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "5220157",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+4617",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Goias Municip SaoLuizdoNorte.svg",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+564",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+586.060",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.710",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P402": [
+            {
+                "value": "334542",
+                "type": "string"
+            }
+        ]
+    }
 }

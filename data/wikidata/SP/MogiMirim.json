@@ -1,3 +1,202 @@
 {
-    "claims": []
+    "pageid": 564984,
+    "ns": 0,
+    "type": "item",
+    "id": "Q600310",
+    "claims": {
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasao Moji-Mirim.jpg",
+                "type": "string"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -22.431944444444,
+                    "longitude": -46.957777777778,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/042mdn",
+                "type": "string"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 175,
+                    "id": "Q175"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 515,
+                    "id": "Q515"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3456998",
+                "type": "string"
+            }
+        ],
+        "P1464": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 17273710,
+                    "id": "Q17273710"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Mogi Mirim",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 17273705,
+                    "id": "Q17273705"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+611",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+612",
+                    "lowerBound": "+610"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "3530805",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+81467",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+91483",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+86505",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "SaoPaulo Municip MojiMirim.svg",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Praça São josé2.jpg",
+                "type": "string"
+            }
+        ],
+        "P3417": [
+            {
+                "value": "Mogi-Mirim",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+499",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.784",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 956172,
+                    "id": "Q956172"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1760028,
+                    "id": "Q1760028"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "298036",
+                "type": "string"
+            }
+        ]
+    }
 }

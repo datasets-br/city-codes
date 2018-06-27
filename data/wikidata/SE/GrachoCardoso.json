@@ -1,3 +1,142 @@
 {
-    "claims": []
+    "pageid": 609215,
+    "ns": 0,
+    "type": "item",
+    "id": "Q647366",
+    "claims": {
+        "P625": [
+            {
+                "value": {
+                    "latitude": -10.226944444444,
+                    "longitude": -37.197777777778,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 43783,
+                    "id": "Q43783"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/027jznk",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "6324316",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Graccho Cardoso",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "2802601",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+5645",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Sergipe Municip GrachoCardoso2.JPG",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+242",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.577",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+242.148",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P138": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 10327643,
+                    "id": "Q10327643"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2013098,
+                    "id": "Q2013098"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "303911",
+                "type": "string"
+            }
+        ]
+    }
 }

@@ -1,3 +1,132 @@
 {
-    "claims": []
+    "pageid": 730670,
+    "ns": 0,
+    "type": "item",
+    "id": "Q777635",
+    "claims": {
+        "P625": [
+            {
+                "value": {
+                    "latitude": -8.3258333333333,
+                    "longitude": -36.142777777778,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40942,
+                    "id": "Q40942"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/076tt4b",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3388925",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "São Caitano",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "2613107",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+35274",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+603",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.591",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+382.475",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P281": [
+            {
+                "value": "55130-000",
+                "type": "string"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 622830,
+                    "id": "Q622830"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "303635",
+                "type": "string"
+            }
+        ]
+    }
 }

@@ -1,3 +1,131 @@
 {
-    "claims": []
+    "pageid": 3730616,
+    "ns": 0,
+    "type": "item",
+    "id": "Q3910285",
+    "claims": {
+        "P625": [
+            {
+                "value": {
+                    "latitude": -19.0522,
+                    "longitude": -52.9683,
+                    "altitude": null,
+                    "precision": 0.1,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 43319,
+                    "id": "Q43319"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+2009-00-00T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 9,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://paraisodasaguas.ms.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "5006275",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira de Paraíso das Águas.jpg",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 25938674,
+                    "id": "Q25938674"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+5251",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+5.032469",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Paraíso das Águas",
+                "type": "string"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1796727,
+                    "id": "Q1796727"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "6626705",
+                "type": "string"
+            }
+        ]
+    }
 }
