@@ -6,7 +6,7 @@
 // CONFIGS
 $url_tpl = 'https://www.wikidata.org/w/api.php?action=wbgetentities&format=json&ids=';
 $UF='';
-$localCsv = true;
+$localCsv = false;
 $stopAt=0;
 
 $saveFolder = realpath( dirname(__FILE__)."/../../data/wikidata" );
