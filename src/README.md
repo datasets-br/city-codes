@@ -94,4 +94,12 @@ FROM tmpcsv_br_city_codes c INNER JOIN tmpvw_ibge_municipios i
   ON i."idIBGE"=c.idibge
 ORDER BY 5,2
 ;
+
+--- correct sort
+COPY (
+  SELECT *
+  FROM dataset.vw2_br_city_codes
+  ORDER BY std_collate(name), name, state
+) TO '/tmp/test.csv' CSV HEADER;
 ```
+

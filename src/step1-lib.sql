@@ -1,3 +1,8 @@
+-- See issue #11
+-- ORDER BY std_collate(name), name, state
+CREATE FUNCTION std_collate(text) RETURNS text AS $f$
+    SELECT regexp_replace($1, E'[ \'\-]', '0', 'g')
+$f$ language SQL;
 
 -- -- -- -- -- --
 -- Normalize and convert to integer-ranges, for postalCode_ranges.
