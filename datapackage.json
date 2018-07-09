@@ -175,6 +175,14 @@
             "type": "string"
           },
           {
+            "name": "ddd",
+            "description": "Brazilian telephone's area code (DDD - Discagem Direta a Distância)",
+            "rdfType-ref": "https://www.wikidata.org/wiki/Q11480109",
+            "title-pt":"DDD",
+            "title":"tel. area code",
+            "type": "integer"
+          },
+          {
             "name": "notes",
             "description": "Notes about assegments, dates or changes",
             "rdfType-prop": "http://schema.org/commentText",
