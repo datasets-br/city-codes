@@ -132,7 +132,16 @@ FROM (
 --- contando que por volta de 90 cidades possuem entre um e dois dígitos removidos, todas as ~5400 podem remover 3 dígitos iniciais do cep.
 -- Quanto Aos códigos de rua, a maioria ainda possue pelo menos um zero no final, logo ficamos com 4  díditos descritores de via urbana.
 --- Isso também serve de referência para se criar contadores de vias urbanas, não precisam mais que 4 dígitos.
-```  
+```
+
+### Synonyms standard sort
+```sql
+COPY (
+  SELECT *
+  FROM dataset.vw2_br_city_synonyms
+  ORDER BY std_collate(synonym,type), synonym, cur_state
+) TO '/tmp/br-city-synonyms.csv' CSV HEADER;
+```
 
 ### Synonyms generation for multi-word names
 Nomes compostos precisam de entrada de "sinônimo por redução", por exemplo *Embu das Artes* é "Embu" e *Brasilândia de Minas* é "Brasilândia".
@@ -177,7 +186,7 @@ FROM (
 	) t
 	WHERE array_length(parts,1)>1 -- multi-word (nome composto)
 	GROUP BY 1,2
-	HAVING count(*)<2  -- unique
+	HAVING count(*)<2  -- to be UNIQUE (valid synonym)
 	ORDER BY 3 DESC, 1, 2
 ) tt
 WHERE name_part NOT IN (select name_part from citybr_stop_words)

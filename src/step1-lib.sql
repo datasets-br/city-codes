@@ -1,8 +1,54 @@
+
 -- See issue #11
 -- ORDER BY std_collate(name), name, state
-CREATE FUNCTION std_collate(text) RETURNS text AS $f$
-    SELECT regexp_replace($1, E'[ \'\-]', '0', 'g')
-$f$ language SQL;
+CREATE FUNCTION std_collate(
+  -- ver
+   p_name text, p_syn_type text DEFAULT NULL
+) RETURNS text AS $f$
+    SELECT CASE
+     WHEN $2 IS NULL THEN '0'
+     WHEN $2='alt canonico' OR $2='alt oficial' THEN '1'
+     WHEN substr($2,1,3)='err' THEN '8'
+     ELSE '5'
+   END ||  regexp_replace(p_name, E'[ \'\-]', '0', 'g')
+$f$ language SQL IMMUTABLE;
+
+CREATE FUNCTION cepmask_fromrange(p_x1 text, p_x2 text) RETURNS text AS $f$
+  SELECT CASE
+    WHEN dif='' THEN rpad(pfx, 8, '.') -- 1668 cases
+    WHEN dif='4999' THEN rpad(pfx_h, 7, '.') --  1522 cases
+    WHEN dif='1999' THEN rpad(pfx, 8, '.') -- 706
+    WHEN dif='2999' THEN rpad(pfx, 8, '.') -- 487
+    WHEN dif='19999' THEN rpad(pfx, 8, '.') -- 261
+    WHEN dif='8' THEN rpad(pfx, 8, '.') -- 111
+    WHEN dif='29999' THEN rpad(pfx, 8, '.') -- 86
+  END
+  FROM (
+    SELECT prefix, length(prefix), regexp_replace((p_x2::bigint - p_x1::bigint)::text, '^9+', '', 'g'), prefix||'#'
+    FROM ( SELECT extract_common_prefix(p_x1,p_x2) ) t(prefix)
+  ) t(pfx,pfx_len,dif,pfx_h)
+$f$ language SQL IMMUTABLE;
+
+
+CREATE FUNCTION extract_common_prefix(text,text) RETURNS text AS $f$
+-- usada para capturar prefixos de intervamos de CEP, e outros.
+DECLARE
+  i int;
+  l1 int;
+  l2 int;
+  x text;
+BEGIN
+  l1 :=length($1);
+  l2 :=length($2);
+  FOR i IN REVERSE (CASE WHEN l1>l2 THEN l2 ELSE l1 END)..1
+  LOOP
+    x := substr($1,1,i);
+    IF x=substr($2,1,i) THEN return x; END IF;
+  END LOOP;
+  RETURN '';
+END;
+$f$ LANGUAGE plpgsql;
+
 
 -- -- -- -- -- --
 -- Normalize and convert to integer-ranges, for postalCode_ranges.
@@ -28,30 +74,14 @@ $f$ LANGUAGE SQL IMMUTABLE;
 -- EXTRAS from https://github.com/datasets-br/diariosOficiais/blob/master/src/step1_strut.sql
 
 
-CREATE SCHEMA oficial;
-
-CREATE FUNCTION oficial.normalizeterm(
-	text,
-	boolean DEFAULT true
-) RETURNS text AS $f$
-   SELECT (  tlib.normalizeterm(
-          CASE WHEN $2 THEN substring($1 from '^[^\(\)\/;]+' ) ELSE $1 END,
-	  ' ',
-	  255,
-          ' / '
-   ));
-$f$ LANGUAGE SQL IMMUTABLE;
-
-
-CREATE or replace FUNCTION oficial.name2lex(
+CREATE or replace FUNCTION name2lex(
   p_name text,
-  p_normalize boolean DEFAULT true,
-  p_cut boolean DEFAULT true
+  p_normalize boolean DEFAULT true
 ) RETURNS text AS $f$
    SELECT trim(replace(
 	   regexp_replace(
-	     CASE WHEN p_normalize THEN oficial.normalizeterm($1,p_cut) ELSE $1 END,
-	     E' d[aeo] | d[oa]s | com | para |^d[aeo] | / .+| [aeo]s | [aeo] |[\-\' ]',
+	     CASE WHEN p_normalize THEN unaccent(lower($1)) ELSE $1 END,
+	     E' d[aeo] | d[oa]s | com | para |^d[aeo] | [aeo]s | [aeo] |d\'|[\-\' ]', -- | / .+
 	     '.',
 	     'g'
 	   ),
@@ -67,38 +97,38 @@ $f$ LANGUAGE SQL IMMUTABLE;
  */
 CREATE or replace FUNCTION base36_encode(IN digits bigint, IN min_width int = 0) RETURNS varchar AS $$
 DECLARE
-    chars char[]; 
-    ret varchar; 
-    val bigint; 
+    chars char[];
+    ret varchar;
+    val bigint;
 BEGIN
     chars := array['0','1','2','3','4','5','6','7','8','9',
-      'a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z'  
+      'a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z'
     ];
-    val := digits; 
-    ret := ''; 
-    IF val < 0 THEN 
-        val := val * -1; 
-    END IF; 
-    WHILE val != 0 LOOP 
-        ret := chars[(val % 36)+1] || ret; 
-        val := val / 36; 
+    val := digits;
+    ret := '';
+    IF val < 0 THEN
+        val := val * -1;
+    END IF;
+    WHILE val != 0 LOOP
+        ret := chars[(val % 36)+1] || ret;
+        val := val / 36;
     END LOOP;
 
-    IF min_width > 0 AND char_length(ret) < min_width THEN 
-        ret := lpad(ret, min_width, '0'); 
+    IF min_width > 0 AND char_length(ret) < min_width THEN
+        ret := lpad(ret, min_width, '0');
     END IF;
 
     RETURN ret;
 END;
 $$ LANGUAGE plpgsql IMMUTABLE;
 
-CREATE or replace FUNCTION oficial.br_city_id_gap(text) RETURNS int AS $f$
--- Gap maximo de 10 conforme convenção códigos IBGE. Avaliação de balanço inspirada pela raiz quadrada:
--- SELECT json_build_object(i,s) from (select substr(unaccent(name),1,1) as i, count(*) as n, sqrt(count(*))::int as s 
+CREATE or replace FUNCTION br_city_id_gap(text) RETURNS int AS $f$
+-- Gap maximo de 10 conforme convenção códigos IBGE, e em função do nome da cidade. Avaliação de balanço inspirada pela raiz quadrada:
+-- SELECT json_build_object(i,s) from (select substr(unaccent(name),1,1) as i, count(*) as n, sqrt(count(*))::int as s
 --    from tmpcsv_cities_wiki group by 1 order by 2 desc) t;
 
-	SELECT CASE WHEN jgap->ini IS NULL THEN 3 ELSE (jgap->>ini)::int END 
-	FROM  
+	SELECT CASE WHEN jgap->ini IS NULL THEN 3 ELSE (jgap->>ini)::int END
+	FROM
 	(SELECT upper(substr(unaccent($1),1,1)) as ini) t1,
 	(SELECT '{"S":10,"C":10,"P":9,"A":8,"M":8,"I":8,"B":8,"T":6,"J":6,"R":6,"N":6,"G":6,"L":6,"F":4,"V":4,"D":4,"E":4,"O":4,"U":4}'::JSON as jgap) t2;
 $f$ LANGUAGE SQL IMMUTABLE;
