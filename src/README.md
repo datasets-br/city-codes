@@ -81,6 +81,7 @@ See `CEPS_FAIXA2.csv` as first source.
 ## Prepare for maintenance
 ...  See [step4_asserts1.sql](step4_asserts1.sql)...
 
+
 ### Inport CSV
 ```SQL
 create table citybr (
@@ -96,11 +97,15 @@ UPDATE citybr SET ddd=14 WHERE "idIBGE"='3520905' AND "lexLabel"='ipaussu';  -- 
 UPDATE citybr SET ddd=11 WHERE "idIBGE"='3515004' AND "lexLabel"='embu.artes'; -- embratel grafou só "embu"
 UPDATE citybr SET ddd=67 WHERE "idIBGE"='5003900' AND "lexLabel"='figueirao'; -- nao tinha na tabela anatel
 
+create table citybr_syn (
+ synonym text, "wdId" text, cur_state text, "cur_lexLabel" text,type text, ref text, notes text
+);
+COPY citybr_syn FROM '/tmp/br-city-synonyms.csv' CSV HEADER;
 ```
 
 ### Export SQL2CSV
 ```sql
--- exporting
+-- exporting LIXO
 SELECT i.name, c.state, c.wdid as "wdId", i."idIBGE", oficial.name2lex(i.name) as "lexLabel",
        c.creation, c.extinction, c.postalcode_ranges as "postalCode_ranges", c.notes
 FROM tmpcsv_br_city_codes c INNER JOIN tmpvw_ibge_municipios i
@@ -108,12 +113,20 @@ FROM tmpcsv_br_city_codes c INNER JOIN tmpvw_ibge_municipios i
 ORDER BY 5,2
 ;
 
---- correct sort
+--- correct sort BOM
 COPY (
   SELECT *
   FROM dataset.vw2_br_city_codes
   ORDER BY std_collate(name), name, state
 ) TO '/tmp/test.csv' CSV HEADER;
+
+
+---BOM
+COPY (
+  SELECT *
+  FROM citybr_syn
+  ORDER BY std_collate(synonym,type), synonym, cur_state
+) TO '/tmp/syn_test.csv' CSV HEADER;
 ```
 
 -------
@@ -160,7 +173,7 @@ CREATE VIEW citybr_stop_words AS
    FROM citybr
  ) t
  GROUP BY 1
- having count(*)>4  -- THRESHOLD, popularity of the word
+ having count(*)>2  -- THRESHOLD, popularity of the word
  ORDER BY 1
 ;
 
