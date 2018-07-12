@@ -26,7 +26,8 @@ SELECT * FROM io.prompt_list;
 
 \echo
 \echo '--- 3. Importando... ---'
-SELECT  io.import_export('import');
+\prompt '>> Substituir tabelas pelo CSV novo? (s/n) ' my
+SELECT  io.import_export('import',:'my');
 
 \echo
 \echo '--- 4. Processamento ---'
