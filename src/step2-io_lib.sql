@@ -44,12 +44,12 @@ $f$ LANGUAGE sql;
 ----- VIEWS:
 
 CREATE VIEW io.prompt_list AS
-   SELECT workfolder||'/'||citfile||'.csv' as f,
+   SELECT workfolder||'/'||citfile||'.csv' as f,  citfile as fbase,
           workfolder||'/final_'||citfile||'.csv' as ffinal,
           io.check(citfile) as useit, 'citybr' as tref
    FROM io.prompt
    UNION
-   SELECT workfolder||'/'||synfile||'.csv',
+   SELECT workfolder||'/'||synfile||'.csv', synfile,
           workfolder||'/final_'||synfile||'.csv',
           io.check(synfile), 'citybr_syn'
    FROM io.prompt
@@ -133,10 +133,11 @@ CREATE FUNCTION io.import_export(p_mode text, p_doit text DEFAULT 'y') RETURNS t
           IF p_mode='import' THEN
             EXECUTE format(E'DELETE FROM io.%s', e.tref);
             EXECUTE format(E'COPY io.%s FROM \'%s\' CSV HEADER', e.tref, e.f);
-            RAISE NOTICE 'tabela io.% IMPORTADA com sucesso', e.tref;
+            RAISE NOTICE 'tabela io.% IMPORTADA com sucesso.', e.tref;
           ELSE
             EXECUTE format(E'COPY (SELECT * FROM io.vwexp_%s) TO \'%s\' CSV HEADER', e.tref, e.ffinal);
-            RAISE NOTICE 'tabela io.% EXPORTADA com sucesso para %.', e.tref, e.ffinal;
+            RAISE NOTICE 'tabela io.% EXPORTADA com sucesso para % .', e.tref, e.ffinal;
+            RAISE NOTICE '(check by "diff -w % data/%.csv")', e.ffinal, e.fbase;
           END IF;
         END IF;
       END LOOP;
