@@ -41,7 +41,7 @@ Ver arquivo `anatel-ddd_chave.csv` que permitirá indicar as cidades eleitas com
 
 
 NOVO, usando io_console:
-1. no shel `cp  data/*.csv data/dump_etc/*.csv /tmp`
+1. no shell `cp  data/*.csv data/dump_etc/*.csv /tmp`
 2. no sql `COPY io.anatel263 FROM '/tmp/anatel-res263de2001-pgcn-compilado2017.csv' CSV HEADER;`
 3. idem para anatel-ddd_chave.csv
 
@@ -54,16 +54,15 @@ Resultou em apenas 12 casamentos por sinônimos conhecidos:
 
 ```
 Bom Jesus de Goiás,GO,Q891725,5203500,bom.jesus.goias,,,,64,
-Brazópolis,MG,Q1749826,3108909,brazopolis,,,,35,
-Dona Eusébia,MG,Q1756805,3122900,dona.eusebia,,,,32,
-Iguaracy,PE,Q2010845,2606903,iguaracy,,,,87,
-Itapajé,CE,Q2021022,2306306,itapaje,,,[62600-000 62609-999],85,
-Joca Claudino,PB,Q2098422,2513653,joca.claudino,,,[58928-000 58929-999],83,
-Paraty,RJ,Q926729,3303807,paraty,,,,24,
-Poxoréu,MT,Q1920318,5107008,poxoreu,,,[78800-000 78809-999],66,
-Santa Izabel do Pará,PA,Q2008554,1506500,santa.izabel.para,,,,91,
-São Vicente do Seridó,PB,Q2008358,2515401,sao.vicente.serido,,,[58158-000 58159-999],83,
-Tacima,PB,Q1816133,2516409,tacima,,,[58240-000 58249-999],83,
+...
 Trajano de Moraes,RJ,Q1803189,3305901,trajano.moraes,,,,22,
 ```
 ... falta conferir o restante que ficou sem DDD.
+
+## ASSERTs
+Exemplo de verificação rápida:
+```sql
+select count(*), count(distinct "wdId"), count(distinct "idIBGE"), count(distinct state||"lexLabel")
+from io.citybr;
+```
+todas as contagens precisam ser iguais à primeira, senão é sinal de algo errado.
