@@ -122,23 +122,36 @@ CREATE VIEW io.vw_anatel_ddd AS
 
 CREATE VIEW io.vw_citybr_tojoin_synonyms AS  -- uso geral, independente de ser anatel
   SELECT name, state,"wdId", "idIBGE", "lexLabel",
-        creation, extinction, "postalCode_ranges", notes,
+        creation, extinction, "postalCode_ranges", ddd, notes,
         "lexLabel" as lexlabel_join, true as is_original
   FROM io.citybr --  old dataset.vw2_br_city_codes
   UNION
   SELECT c.name, c.state, c."wdId", c."idIBGE", c."lexLabel",
-       c.creation, c.extinction, c."postalCode_ranges", c.notes,
+       c.creation, c.extinction, c."postalCode_ranges", c.ddd, c.notes,
        name2lex(unaccent(lower(s.synonym))) as lexlabel_join, false
    FROM io.citybr c INNER JOIN io.citybr_syn s -- old dataset.vw2_br_city_synonyms s
      ON c.state=s.cur_state AND c."lexLabel"=s."cur_lexLabel"
 ;
-  -- anatel:
+
+CREATE VIEW io.vw_citybr_tojoin_synonyms_googleit AS
+  SELECT  name,  state,"wdId", "idIBGE", "lexLabel",
+        creation, extinction, "postalCode_ranges", ddd, notes,
+        array_to_string(
+            array_agg('DDD '||replace(lexlabel_join,'.',' ')||'/'||state)
+            ,' | '
+        ) as busca_google
+  FROM io.vw_citybr_tojoin_synonyms
+  WHERE ddd is null or ddd=0
+  GROUP BY 1,2,3,4,5,6,7,8,9,10
+;
+
+-- anatel:
 CREATE VIEW io.vw_anatel_first_get AS
   WITH dd AS (
     SELECT DISTINCT c.name, c.state, ddd.ddd
     FROM io.vw_anatel_ddd as ddd INNER JOIN io.vw_citybr_tojoin_synonyms c
       ON c.state=ddd.uf AND c.lexlabel_join=ddd.namelex AND NOT(c.is_original)
-  )
+  )  -- ?? gerando DDs erados, ex. gerou 35 quando São José da Varginha, MG é 37.
   SELECT name, state, "wdId", "idIBGE", "lexLabel",
        creation, extinction, "postalCode_ranges",
        CASE WHEN ddd IS NULL
@@ -151,8 +164,10 @@ CREATE VIEW io.vw_anatel_first_get AS
             c.extinction, c."postalCode_ranges", ddd.ddd, c.notes
      FROM io.vw_anatel_ddd as ddd RIGHT JOIN io.citybr c
        ON c.state=ddd.uf AND c."lexLabel"=ddd.namelex
-  ) t ORDER BY std_collate(name), name, state, 3
+  ) t
+  ORDER BY std_collate(name), name, state, 3
   ;
+
 
 ----------
 ----- LIB:

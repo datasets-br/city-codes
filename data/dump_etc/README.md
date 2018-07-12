@@ -41,34 +41,14 @@ Ver arquivo `anatel-ddd_chave.csv` que permitirá indicar as cidades eleitas com
 
 
 NOVO, usando io_console:
-1. `cp  data/*.csv data/dump_etc/*.csv /tmp`
-2. `COPY io.anatel263 FROM '/tmp/anatel-res263de2001-pgcn-compilado2017.csv' CSV HEADER;`
+1. no shel `cp  data/*.csv data/dump_etc/*.csv /tmp`
+2. no sql `COPY io.anatel263 FROM '/tmp/anatel-res263de2001-pgcn-compilado2017.csv' CSV HEADER;`
 3. idem para anatel-ddd_chave.csv
 
 Foi gerado por fim o seguinte script de casamento:
 ```sql
 -- SOLUCAO correta:
-COPY (
-  WITH dd AS (
-    SELECT DISTINCT c.name, c.state, ddd.ddd
-    FROM dataset.vw8_anatel_ddd as ddd INNER JOIN dataset.vw2_br_city_codes_tojoin_synonyms c
-      ON c.state=ddd.uf AND c.lexlabel_join=ddd.namelex AND NOT(c.is_original)
-  )
-  SELECT name, state, wdid as "wdId", idibge as "idIBGE",
-       lexlabel as "lexLabel", creation, extinction,
-       postalcode_ranges as "postalCode_ranges",
-       CASE WHEN ddd IS NULL
-            THEN (SELECT ddd FROM dd WHERE dd.name=t.name AND dd.state=t.state)
-            ELSE ddd
-       END,
-       notes
-  FROM (
-     SELECT c.name, c.state, c.wdid, c.idibge, c.lexlabel, c.creation, c.extinction,
-       c.postalcode_ranges, ddd.ddd, c.notes
-     FROM dataset.vw8_anatel_ddd as ddd RIGHT JOIN dataset.vw2_br_city_codes c
-       ON c.state=ddd.uf AND c.lexlabel=ddd.namelex
-  ) t ORDER BY std_collate(name), name, state, 3
-) TO '/tmp/test_good.csv' CSV HEADER;
+COPY (select * from io.vw_anatel_first_get) TO '/tmp/test_good.csv' CSV HEADER;
 ```
 Resultou em apenas 12 casamentos por sinônimos conhecidos:
 
