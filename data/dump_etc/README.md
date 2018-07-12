@@ -1,7 +1,7 @@
 Preparo dos dados Anatel e DDD
 
 ## Carga a partir do PDF Anatel2013
- 
+
 ```sh
 wget http://portal.embratel.com.br/fazum21/pdf/codigos_ddd.pdf
 pdftotext -layout codigos_ddd.pdf # gera codigos_ddd.txt
@@ -11,7 +11,7 @@ grep -P "^..\s+...\s+" codigos_ddd.txt \   # debug correu bem
 wc -l anatel2013.txt  # 4471
 rm codigos_ddd.*
 ```
-Pelo número não contempla todos os municípios, ainda assim é uma 
+Pelo número não contempla todos os municípios, ainda assim é uma
 
 ------
 
@@ -39,36 +39,14 @@ Ver arquivo `anatel-ddd_chave.csv` que permitirá indicar as cidades eleitas com
 6. Limpar resíduos.
 7 Baixar CSV, ver anatel-res263de2001-pgcn-compilado2017.csv
 
+
+NOVO, usando io_console:
+1. `cp  data/*.csv data/dump_etc/*.csv /tmp`
+2. `COPY io.anatel263 FROM '/tmp/anatel-res263de2001-pgcn-compilado2017.csv' CSV HEADER;`
+3. idem para anatel-ddd_chave.csv
+
 Foi gerado por fim o seguinte script de casamento:
 ```sql
-CREATE VIEW dataset.vw2_br_city_codes_tojoin_synonyms AS 
-  SELECT *, lexlabel as lexlabel_join, true as is_original 
-  FROM dataset.vw2_br_city_codes
-  UNION 
-  SELECT c.name, c.state, c.wdid, c.idibge, lexlabel, 
-       c.creation, c.extinction, c.postalcode_ranges, c.notes,
-       name2lex(unaccent(lower(s.synonym))) as lexlabel_join,
-       false as is_original
-   FROM dataset.vw2_br_city_codes c INNER JOIN dataset.vw2_br_city_synonyms s
-     ON c.state=s.cur_state AND c.lexlabel=s.cur_lexlabel
-;
-CREATE VIEW dataset.vw8_anatel_ddd AS
-   SELECT uf, municipio, ddd,
-    name2lex(unaccent(lower(municipio))) AS namelex
-   FROM dataset.vw8_anatel_res263de2001_pgcn_compilado2017
-;
-
--- SOLUCAO RUIM, inclui todos porém sem usar sinônimos:
-COPY (
-  SELECT c.name, c.state, c.wdid as "wdId", c.idibge as "idIBGE", 
-       c.lexlabel as "lexLabel", c.creation, c.extinction, 
-       c.postalcode_ranges as "postalCode_ranges", 
-       ddd.ddd, c.notes
-  FROM dataset.vw8_anatel_ddd as ddd RIGHT JOIN dataset.vw2_br_city_codes c
-     ON c.state=ddd.uf AND c.lexlabel=ddd.namelex
-  ORDER BY std_collate(c.name), c.name, c.state,3
-) TO '/tmp/test_bad.csv' CSV HEADER;
-
 -- SOLUCAO correta:
 COPY (
   WITH dd AS (
@@ -79,9 +57,9 @@ COPY (
   SELECT name, state, wdid as "wdId", idibge as "idIBGE",
        lexlabel as "lexLabel", creation, extinction,
        postalcode_ranges as "postalCode_ranges",
-       CASE WHEN ddd IS NULL 
-            THEN (SELECT ddd FROM dd WHERE dd.name=t.name AND dd.state=t.state) 
-            ELSE ddd 
+       CASE WHEN ddd IS NULL
+            THEN (SELECT ddd FROM dd WHERE dd.name=t.name AND dd.state=t.state)
+            ELSE ddd
        END,
        notes
   FROM (
