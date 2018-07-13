@@ -67,6 +67,13 @@
                     "lowerBound": "+219"
                 },
                 "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+397",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
             }
         ],
         "P94": [
@@ -140,6 +147,12 @@
                     "id": "Q22063766"
                 },
                 "type": "wikibase-entityid"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "6323177",
+                "type": "string"
             }
         ]
     }

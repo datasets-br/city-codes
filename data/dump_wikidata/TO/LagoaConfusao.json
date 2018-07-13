@@ -56,6 +56,10 @@
             {
                 "value": "3479302",
                 "type": "string"
+            },
+            {
+                "value": "6324280",
+                "type": "string"
             }
         ],
         "P373": [
@@ -71,6 +75,13 @@
                     "unit": "http://www.wikidata.org/entity/Q11573",
                     "upperBound": "+201",
                     "lowerBound": "+199"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+185",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
                 },
                 "type": "quantity"
             }

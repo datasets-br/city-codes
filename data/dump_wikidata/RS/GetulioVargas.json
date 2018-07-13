@@ -60,7 +60,7 @@
         ],
         "P1566": [
             {
-                "value": "3462439",
+                "value": "6323456",
                 "type": "string"
             }
         ],
@@ -111,6 +111,13 @@
             {
                 "value": {
                     "amount": "+637",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+636",
                     "unit": "http://www.wikidata.org/entity/Q11573"
                 },
                 "type": "quantity"

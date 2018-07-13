@@ -353,6 +353,32 @@
                 "value": "1825817",
                 "type": "string"
             }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 334197,
+                    "id": "Q334197"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 841222,
+                    "id": "Q841222"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 927537,
+                    "id": "Q927537"
+                },
+                "type": "wikibase-entityid"
+            }
         ]
     }
 }

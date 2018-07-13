@@ -9,7 +9,7 @@ $UF='';
 $localCsv = false;
 $stopAt=0;
 
-$saveFolder = realpath( dirname(__FILE__)."/../../data/wikidata" );
+$saveFolder = realpath( dirname(__FILE__)."/../../data/dump_wikidata" );
 $url = $localCsv
      ? "$saveFolder/../br-city-codes.csv"
      : 'https://github.com/datasets-br/city-codes/raw/master/data/br-city-codes.csv'
@@ -21,7 +21,7 @@ print "\n USANDO $fixErr $url";
 // LOAD DATA:
 $R = []; // [fname]= wdId
 if (($handle = fopen($url, "r")) !== FALSE) {
-   for($i=0; ($row=fgetcsv($handle)) && (!$stopAt || $i<$stopAt); $i++) 
+   for($i=0; ($row=fgetcsv($handle)) && (!$stopAt || $i<$stopAt); $i++)
       if ($i && (!$UF ||$row[1]==$UF))  $R["$row[1]-".lex2filename($row[4])]=$row[2];
        // cols  0=name, 1=state, 2=wdId, 3=idIBGE, 4=lexLabel
 } else
@@ -39,9 +39,9 @@ $ERR=[];
 foreach($R as $fname=>$wdId) {
   print "\n\t($i of $n) $fname: ";
   $json = file_get_contents("$url_tpl$wdId");
-  if ($json) { 
+  if ($json) {
     $fs = splitFilename($fname);
-     if ( !file_exists($fs[1]) )  mkdir($fs[1]); 
+     if ( !file_exists($fs[1]) )  mkdir($fs[1]);
      $out = json_stdWikidata($json);
      if ($out) {
          $savedBytes = file_put_contents(  $fs[0],  $out  );
@@ -73,14 +73,14 @@ function json_stdWikidata($jstr) {
   $j = $j['entities'][$ks[0]];
   if ( !isset($j['claims']) ) return '';
   foreach(['lastrevid','modified','labels','descriptions','title','aliases','sitelinks'] as $r) unset($j[$r]);
-  $a = []; 
+  $a = [];
   foreach($j['claims'] as $k=>$r) {
       $a[$k] = [];
       foreach($j['claims'][$k] as $r2)
           $a[$k][] = $r2['mainsnak']['datavalue'];
   }
   $j['claims'] = $a;
-  return json_encode($j,JSON_PRETTY_PRINT|JSON_UNESCAPED_UNICODE|JSON_UNESCAPED_SLASHES); 
+  return json_encode($j,JSON_PRETTY_PRINT|JSON_UNESCAPED_UNICODE|JSON_UNESCAPED_SLASHES);
 }
 
 function lex2filename($s) {
@@ -101,5 +101,3 @@ function splitFilename($f,$checkSize=false) {
 ?>
 
 ... Check git status and do git add.
-
-

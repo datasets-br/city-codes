@@ -52,14 +52,6 @@
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 515,
-                    "id": "Q515"
-                },
-                "type": "wikibase-entityid"
-            },
-            {
-                "value": {
-                    "entity-type": "item",
                     "numeric-id": 3184121,
                     "id": "Q3184121"
                 },
@@ -156,8 +148,8 @@
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 904130,
-                    "id": "Q904130"
+                    "numeric-id": 405621,
+                    "id": "Q405621"
                 },
                 "type": "wikibase-entityid"
             }
@@ -166,6 +158,16 @@
             {
                 "value": "298134",
                 "type": "string"
+            }
+        ],
+        "P1383": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 22064499,
+                    "id": "Q22064499"
+                },
+                "type": "wikibase-entityid"
             }
         ]
     }

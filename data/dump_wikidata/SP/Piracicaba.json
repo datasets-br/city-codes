@@ -46,6 +46,16 @@
                     "globe": "http://www.wikidata.org/entity/Q2"
                 },
                 "type": "globecoordinate"
+            },
+            {
+                "value": {
+                    "latitude": -22.71579,
+                    "longitude": -47.77297,
+                    "altitude": null,
+                    "precision": 1.0e-5,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
             }
         ],
         "P948": [
@@ -86,11 +96,23 @@
                     "id": "Q3184121"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 486972,
+                    "id": "Q486972"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P1566": [
             {
                 "value": "3453643",
+                "type": "string"
+            },
+            {
+                "value": "6324347",
                 "type": "string"
             }
         ],
@@ -123,6 +145,13 @@
                     "unit": "http://www.wikidata.org/entity/Q11573",
                     "upperBound": "+548",
                     "lowerBound": "+546"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+472",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
                 },
                 "type": "quantity"
             }
@@ -272,6 +301,16 @@
             {
                 "value": "298413",
                 "type": "string"
+            }
+        ],
+        "P237": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 18463562,
+                    "id": "Q18463562"
+                },
+                "type": "wikibase-entityid"
             }
         ]
     }

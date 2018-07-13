@@ -1,35 +1,19 @@
 {
-    "pageid": 1580824,
+    "pageid": 1684135,
     "ns": 0,
     "type": "item",
-    "id": "Q1646919",
+    "id": "Q1751337",
     "claims": {
-        "P910": [
-            {
-                "value": {
-                    "entity-type": "item",
-                    "numeric-id": 14866902,
-                    "id": "Q14866902"
-                },
-                "type": "wikibase-entityid"
-            }
-        ],
         "P41": [
             {
-                "value": "Saoluizdoparaitinga bandeira.png",
+                "value": "Bandeira Sao Luiz.jpg",
                 "type": "string"
             }
         ],
-        "P625": [
+        "P158": [
             {
-                "value": {
-                    "latitude": -23.221944444444,
-                    "longitude": -45.31,
-                    "altitude": null,
-                    "precision": 0.00027777777777778,
-                    "globe": "http://www.wikidata.org/entity/Q2"
-                },
-                "type": "globecoordinate"
+                "value": "Brasao Sao Luiz.jpg",
+                "type": "string"
             }
         ],
         "P17": [
@@ -42,43 +26,35 @@
                 "type": "wikibase-entityid"
             }
         ],
-        "P373": [
+        "P94": [
             {
-                "value": "São Luiz do Paraitinga",
+                "value": "Brasao Sao Luiz.jpg",
                 "type": "string"
             }
         ],
-        "P948": [
+        "P625": [
             {
-                "value": "Largo do Teatro, São Luiz do Paraitinga.JPG",
-                "type": "string"
-            }
-        ],
-        "P646": [
-            {
-                "value": "/m/094_b3",
-                "type": "string"
+                "value": {
+                    "latitude": 1.005,
+                    "longitude": -60.158888888889,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
             }
         ],
         "P131": [
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 175,
-                    "id": "Q175"
+                    "numeric-id": 42508,
+                    "id": "Q42508"
                 },
                 "type": "wikibase-entityid"
             }
         ],
         "P31": [
-            {
-                "value": {
-                    "entity-type": "item",
-                    "numeric-id": 515,
-                    "id": "Q515"
-                },
-                "type": "wikibase-entityid"
-            },
             {
                 "value": {
                     "entity-type": "item",
@@ -88,70 +64,40 @@
                 "type": "wikibase-entityid"
             }
         ],
-        "P1566": [
+        "P646": [
             {
-                "value": "3448556",
+                "value": "/m/026cfb8",
                 "type": "string"
             }
         ],
-        "P1464": [
+        "P1566": [
             {
-                "value": {
-                    "entity-type": "item",
-                    "numeric-id": 8750777,
-                    "id": "Q8750777"
-                },
-                "type": "wikibase-entityid"
+                "value": "6318534",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "São Luiz",
+                "type": "string"
             }
         ],
         "P18": [
             {
-                "value": "R Monsenhor Ignacio Giolia Sao Luiz do Paraitinga.JPG",
+                "value": "Caracaraí, Roraima.JPG",
                 "type": "string"
-            }
-        ],
-        "P47": [
-            {
-                "value": {
-                    "entity-type": "item",
-                    "numeric-id": 170540,
-                    "id": "Q170540"
-                },
-                "type": "wikibase-entityid"
-            },
-            {
-                "value": {
-                    "entity-type": "item",
-                    "numeric-id": 1003456,
-                    "id": "Q1003456"
-                },
-                "type": "wikibase-entityid"
             }
         ],
         "P1585": [
             {
-                "value": "3550001",
+                "value": "1400605",
                 "type": "string"
             }
         ],
         "P1082": [
             {
                 "value": {
-                    "amount": "+10429",
-                    "unit": "1"
-                },
-                "type": "quantity"
-            },
-            {
-                "value": {
-                    "amount": "+10731",
-                    "unit": "1"
-                },
-                "type": "quantity"
-            },
-            {
-                "value": {
-                    "amount": "+10397",
+                    "amount": "+7503",
                     "unit": "1"
                 },
                 "type": "quantity"
@@ -159,21 +105,40 @@
         ],
         "P242": [
             {
-                "value": "SaoPaulo Municip SaoLuizdoParaitinga.svg",
+                "value": "Roraima Municip SaoLuiz.svg",
                 "type": "string"
             }
         ],
-        "P94": [
+        "P473": [
             {
-                "value": "Saoluizdoparaitinga brasao.png",
+                "value": "95",
                 "type": "string"
             }
         ],
         "P2044": [
             {
                 "value": {
-                    "amount": "+741",
+                    "amount": "+52",
                     "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 29561573,
+                    "id": "Q29561573"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+1526.892",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
                 },
                 "type": "quantity"
             }
@@ -181,30 +146,25 @@
         "P1081": [
             {
                 "value": {
-                    "amount": "+0.754",
+                    "amount": "+0.649",
                     "unit": "1"
                 },
                 "type": "quantity"
             }
         ],
-        "P2046": [
+        "P47": [
             {
                 "value": {
-                    "amount": "+617.148",
-                    "unit": "http://www.wikidata.org/entity/Q712226"
+                    "entity-type": "item",
+                    "numeric-id": 772563,
+                    "id": "Q772563"
                 },
-                "type": "quantity"
-            }
-        ],
-        "P281": [
-            {
-                "value": "12140-000",
-                "type": "string"
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
             {
-                "value": "297981",
+                "value": "326295",
                 "type": "string"
             }
         ]
