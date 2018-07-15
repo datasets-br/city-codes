@@ -2,6 +2,7 @@
 
 <?php
 // usage: php dumpWikidata.php  flagOpcionalQuandoFixErr
+// ou php src/dumpWikidata.php chk 
 
 // CONFIGS
 $url_tpl = 'https://www.wikidata.org/w/api.php?action=wbgetentities&format=json&ids=';
@@ -14,24 +15,44 @@ $url = $localCsv
      ? "$saveFolder/../br-city-codes.csv"
      : 'https://github.com/datasets-br/city-codes/raw/master/data/br-city-codes.csv'
 ;
-$fixErr = ($argc>=2)? 'MODO FIX-ERR': '';
+$fixErr = '';
+if ($argc>=2){
+ $fixErr = ($argv[1]=='chk')? 'CHECK WIKIDATA': 'FIX-ERR';
+}
 print "\n USANDO $fixErr $url";
 
 
 // LOAD DATA:
 $R = []; // [fname]= wdId
+$R_ibge=[]; //
 if (($handle = fopen($url, "r")) !== FALSE) {
    for($i=0; ($row=fgetcsv($handle)) && (!$stopAt || $i<$stopAt); $i++)
-      if ($i && (!$UF ||$row[1]==$UF))  $R["$row[1]-".lex2filename($row[4])]=$row[2];
-       // cols  0=name, 1=state, 2=wdId, 3=idIBGE, 4=lexLabel
+      if ($i && (!$UF ||$row[1]==$UF)) {
+        $idx = "$row[1]-".lex2filename($row[4]);
+        $R[$idx]=$row[2];
+        // cols  0=name, 1=state, 2=wdId, 3=idIBGE, 4=lexLabel
+        $R_ibge[$idx] = $row[3];
+      }
 } else
    exit("\nERRO ao abrir planilha das cidades em \n\t$url\n");
 
-if ($fixErr) foreach($R as $fname=>$wdId) {
-  $fs = splitFilename($fname,true);
-  if ($fs[2]>50) unset($R[$fname]);
-}
-
+if ($fixErr) { 
+  foreach($R as $fname=>$wdId) {
+	  $fs = splitFilename($fname,true);
+	  if ($fixErr=='FIX-ERR') {
+		  if ($fs[2]>50) unset($R[$fname]);
+	  } else {  // CHECK WIKIDATA
+		$idIbge = $R_ibge[$fname];
+		if ($idIbge && $fs[2]>50) {
+			if (!preg_grep("/$idIbge/i",file($fs[0]) )) {
+				print "\n -- Não achou ID IBGE ($idIbge) em $wdId: ";
+				print preg_grep("/P1585/i",file($fs[0]) )? 'CÓDIGO ERRADO!': 'não tem P1585.';
+			}
+		} else print "\n -- Falta arquivo $wdId para conferir ID IBGE ($idIbge).";
+	  }// fixErr
+	} // for
+   if ($fixErr=='CHECK WIKIDATA') die("\n --- FIM ----\n");
+} //if fixErr
 // WGET AND SAVE JSON:
 $i=1;
 $n=count($R);
