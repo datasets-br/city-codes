@@ -1,25 +1,9 @@
 {
-    "pageid": 316682,
+    "pageid": 24093973,
     "ns": 0,
     "type": "item",
-    "id": "Q330208",
+    "id": "Q22062839",
     "claims": {
-        "P982": [
-            {
-                "value": "99cb4878-4bd7-4d0b-a696-a01a40f2cc4e",
-                "type": "string"
-            }
-        ],
-        "P31": [
-            {
-                "value": {
-                    "entity-type": "item",
-                    "numeric-id": 3257686,
-                    "id": "Q3257686"
-                },
-                "type": "wikibase-entityid"
-            }
-        ],
         "P17": [
             {
                 "value": {
@@ -30,14 +14,84 @@
                 "type": "wikibase-entityid"
             }
         ],
+        "P1566": [
+            {
+                "value": "6321096",
+                "type": "string"
+            },
+            {
+                "value": "3444914",
+                "type": "string"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+851",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+923",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
         "P131": [
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 22062839,
-                    "id": "Q22062839"
+                    "numeric-id": 40430,
+                    "id": "Q40430"
                 },
                 "type": "wikibase-entityid"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 9168794,
+                    "id": "Q9168794"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Vitória da Conquista",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira Vitoria da Conquista.svg",
+                "type": "string"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -14.865833333333,
+                    "longitude": -40.838888888889,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
             }
         ],
         "P646": [
@@ -54,6 +108,175 @@
                     "id": "Q9228058"
                 },
                 "type": "wikibase-entityid"
+            }
+        ],
+        "P214": [
+            {
+                "value": "138402658",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "VDC parcial.jpg",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasão Vitoria da Conquista.svg",
+                "type": "string"
+            }
+        ],
+        "P1997": [
+            {
+                "value": "106102156088345",
+                "type": "string"
+            }
+        ],
+        "P982": [
+            {
+                "value": "99cb4878-4bd7-4d0b-a696-a01a40f2cc4e",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "2933307",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+262494",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+343230",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+306866",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+308204",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Bahia Municip VitoriadaConquista.svg",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.pmvc.ba.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P473": [
+            {
+                "value": "77",
+                "type": "string"
+            }
+        ],
+        "P3417": [
+            {
+                "value": "Vitória-Da-Conquista",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+3204.257",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.678",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1705": [
+            {
+                "value": {
+                    "text": "Vitória da Conquista",
+                    "language": "pt"
+                },
+                "type": "monolingualtext"
+            }
+        ],
+        "P1448": [
+            {
+                "value": {
+                    "text": "Vitória da Conquista",
+                    "language": "pt"
+                },
+                "type": "monolingualtext"
+            }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1840-00-00T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 9,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1772546,
+                    "id": "Q1772546"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1795353,
+                    "id": "Q1795353"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "362423",
+                "type": "string"
+            }
+        ],
+        "P1417": [
+            {
+                "value": "place/Vitoria-da-Conquista",
+                "type": "string"
             }
         ]
     }

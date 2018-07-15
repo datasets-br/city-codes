@@ -1,128 +1,165 @@
 {
-    "pageid": 56571,
+    "pageid": 290675,
     "ns": 0,
     "type": "item",
-    "id": "Q54050",
+    "id": "Q301700",
     "claims": {
-        "P373": [
-            {
-                "value": "Hills",
-                "type": "string"
-            }
-        ],
-        "P508": [
-            {
-                "value": "12946",
-                "type": "string"
-            }
-        ],
-        "P279": [
+        "P625": [
             {
                 "value": {
-                    "entity-type": "item",
-                    "numeric-id": 271669,
-                    "id": "Q271669"
+                    "latitude": -2.8638888888889,
+                    "longitude": -44.038888888889,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
                 },
-                "type": "wikibase-entityid"
+                "type": "globecoordinate"
+            },
+            {
+                "value": {
+                    "latitude": -2.96159,
+                    "longitude": -43.87725,
+                    "altitude": null,
+                    "precision": 1.0e-5,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
             }
         ],
-        "P910": [
+        "P17": [
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 7214337,
-                    "id": "Q7214337"
+                    "numeric-id": 155,
+                    "id": "Q155"
                 },
                 "type": "wikibase-entityid"
             }
         ],
         "P646": [
             {
-                "value": "/m/04_5sg",
+                "value": "/m/057xnd_",
                 "type": "string"
             }
         ],
-        "P1343": [
+        "P1566": [
+            {
+                "value": "3394380",
+                "type": "string"
+            },
+            {
+                "value": "6319747",
+                "type": "string"
+            }
+        ],
+        "P31": [
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 2657718,
-                    "id": "Q2657718"
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
                 },
                 "type": "wikibase-entityid"
             },
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 1983974,
-                    "id": "Q1983974"
+                    "numeric-id": 486972,
+                    "id": "Q486972"
                 },
                 "type": "wikibase-entityid"
             }
         ],
-        "P460": [
+        "P131": [
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 28792430,
-                    "id": "Q28792430"
+                    "numeric-id": 42362,
+                    "id": "Q42362"
                 },
                 "type": "wikibase-entityid"
             }
         ],
-        "P3827": [
+        "P373": [
             {
-                "value": "hills",
+                "value": "Morros",
                 "type": "string"
             }
         ],
-        "P1014": [
+        "P1585": [
             {
-                "value": "300008777",
+                "value": "2107100",
                 "type": "string"
             }
         ],
-        "P2452": [
+        "P1082": [
             {
-                "value": "T.HLL",
+                "value": {
+                    "amount": "+17783",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Maranhao Municip Morros.svg",
                 "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+39",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
             },
             {
-                "value": "T.HLLS",
-                "type": "string"
-            },
+                "value": {
+                    "amount": "+72",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
             {
-                "value": "U.HLSU",
+                "value": {
+                    "amount": "+0.710",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P281": [
+            {
+                "value": "65160-000",
                 "type": "string"
             }
         ],
-        "P527": [
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+1715.325",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 12057306,
-                    "id": "Q12057306"
-                },
-                "type": "wikibase-entityid"
-            },
-            {
-                "value": {
-                    "entity-type": "item",
-                    "numeric-id": 207326,
-                    "id": "Q207326"
+                    "numeric-id": 630926,
+                    "id": "Q630926"
                 },
                 "type": "wikibase-entityid"
             }
         ],
-        "P2581": [
+        "P402": [
             {
-                "value": "00044141n",
-                "type": "string"
-            }
-        ],
-        "P227": [
-            {
-                "value": "4135744-9",
+                "value": "332874",
                 "type": "string"
             }
         ]

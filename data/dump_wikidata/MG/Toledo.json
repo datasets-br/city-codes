@@ -1,19 +1,9 @@
 {
-    "pageid": 1992034,
+    "pageid": 24095992,
     "ns": 0,
     "type": "item",
-    "id": "Q2064735",
+    "id": "Q22065023",
     "claims": {
-        "P131": [
-            {
-                "value": {
-                    "entity-type": "item",
-                    "numeric-id": 22065023,
-                    "id": "Q22065023"
-                },
-                "type": "wikibase-entityid"
-            }
-        ],
         "P17": [
             {
                 "value": {
@@ -24,14 +14,129 @@
                 "type": "wikibase-entityid"
             }
         ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 39109,
+                    "id": "Q39109"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "6321886",
+                "type": "string"
+            },
+            {
+                "value": "3446371",
+                "type": "string"
+            }
+        ],
         "P31": [
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 3257686,
-                    "id": "Q3257686"
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
                 },
                 "type": "wikibase-entityid"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+1134",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+1128",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -22.742777777778,
+                    "longitude": -46.371944444444,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Toledo (Minas Gerais)",
+                "type": "string"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/09rv8w_",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "3169109",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+5764",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "MinasGerais Municip Toledo.svg",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+136.133",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.661",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1790436,
+                    "id": "Q1790436"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "314600",
+                "type": "string"
             }
         ]
     }

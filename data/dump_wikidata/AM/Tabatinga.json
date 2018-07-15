@@ -1,9 +1,55 @@
 {
-    "pageid": 1682862,
+    "pageid": 24091596,
     "ns": 0,
     "type": "item",
-    "id": "Q1750030",
+    "id": "Q22060342",
     "claims": {
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "6319345",
+                "type": "string"
+            },
+            {
+                "value": "3662075",
+                "type": "string"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+102",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+60",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
         "P131": [
             {
                 "value": {
@@ -14,24 +60,140 @@
                 "type": "wikibase-entityid"
             }
         ],
-        "P31": [
+        "P625": [
+            {
+                "value": {
+                    "latitude": -4.2525,
+                    "longitude": -69.938055555556,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/0610qd",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Tabatinga",
+                "type": "string"
+            }
+        ],
+        "P910": [
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 3257686,
-                    "id": "Q3257686"
+                    "numeric-id": 14536509,
+                    "id": "Q14536509"
                 },
                 "type": "wikibase-entityid"
             }
         ],
-        "P17": [
+        "P18": [
+            {
+                "value": "Photo-Tabatinga-Brazil.png",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "1304062",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+37919",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+61028",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+52272",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira de Tabatinga.png",
+                "type": "string"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Amazonas Municip Tabatinga.jpg",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+3224.875",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.616",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1766-00-00T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 9,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P47": [
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 155,
-                    "id": "Q155"
+                    "numeric-id": 214913,
+                    "id": "Q214913"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1767926,
+                    "id": "Q1767926"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "332466",
+                "type": "string"
             }
         ]
     }

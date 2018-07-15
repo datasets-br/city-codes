@@ -1,79 +1,131 @@
 {
-    "pageid": 618265,
+    "pageid": 2065360,
     "ns": 0,
     "type": "item",
-    "id": "Q656895",
+    "id": "Q2139450",
     "claims": {
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
         "P625": [
             {
                 "value": {
-                    "latitude": 48.850974,
-                    "longitude": 2.32377,
+                    "latitude": -22.913888888889,
+                    "longitude": -51.793888888889,
                     "altitude": null,
-                    "precision": 2.77777777778e-6,
+                    "precision": 0.00027777777777778,
                     "globe": "http://www.wikidata.org/entity/Q2"
                 },
                 "type": "globecoordinate"
             }
         ],
-        "P31": [
+        "P373": [
             {
-                "value": {
-                    "entity-type": "item",
-                    "numeric-id": 1509831,
-                    "id": "Q1509831"
-                },
-                "type": "wikibase-entityid"
-            },
-            {
-                "value": {
-                    "entity-type": "item",
-                    "numeric-id": 507850,
-                    "id": "Q507850"
-                },
-                "type": "wikibase-entityid"
-            }
-        ],
-        "P18": [
-            {
-                "value": "Miraculous medal.jpg",
+                "value": "Nossa Senhora das Graças",
                 "type": "string"
-            }
-        ],
-        "P17": [
-            {
-                "value": {
-                    "entity-type": "item",
-                    "numeric-id": 142,
-                    "id": "Q142"
-                },
-                "type": "wikibase-entityid"
             }
         ],
         "P131": [
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 90,
-                    "id": "Q90"
+                    "numeric-id": 15499,
+                    "id": "Q15499"
                 },
                 "type": "wikibase-entityid"
             }
         ],
-        "P373": [
-            {
-                "value": "Miraculous Medal",
-                "type": "string"
-            }
-        ],
-        "P140": [
+        "P31": [
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 9592,
-                    "id": "Q9592"
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
                 },
                 "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/09rv090",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3456232",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "4116406",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+3836",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Parana Municip NossaSenhoradasGracas.svg",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+489",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+185.716",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.719",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1775771,
+                    "id": "Q1775771"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "297537",
+                "type": "string"
             }
         ]
     }

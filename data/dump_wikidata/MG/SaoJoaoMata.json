@@ -1,66 +1,66 @@
 {
-    "pageid": 443802,
+    "pageid": 1718849,
     "ns": 0,
     "type": "item",
-    "id": "Q470597",
+    "id": "Q1787264",
     "claims": {
-        "P21": [
+        "P17": [
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 6581097,
-                    "id": "Q6581097"
+                    "numeric-id": 155,
+                    "id": "Q155"
                 },
                 "type": "wikibase-entityid"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira São João da Mata, MG.JPG",
+                "type": "string"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -21.93,
+                    "longitude": -45.928888888889,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
             }
         ],
         "P373": [
             {
-                "value": "John of Matha",
+                "value": "São João da Mata",
                 "type": "string"
             }
         ],
-        "P214": [
+        "P646": [
             {
-                "value": "67273570",
+                "value": "/m/09rx4n5",
                 "type": "string"
             }
         ],
-        "P213": [
-            {
-                "value": "0000 0000 6629 0558",
-                "type": "string"
-            }
-        ],
-        "P20": [
+        "P131": [
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 220,
-                    "id": "Q220"
+                    "numeric-id": 39109,
+                    "id": "Q39109"
                 },
                 "type": "wikibase-entityid"
             }
         ],
-        "P27": [
+        "P1566": [
             {
-                "value": {
-                    "entity-type": "item",
-                    "numeric-id": 142,
-                    "id": "Q142"
-                },
-                "type": "wikibase-entityid"
-            }
-        ],
-        "P227": [
-            {
-                "value": "119330105",
+                "value": "3448895",
                 "type": "string"
-            }
-        ],
-        "P244": [
+            },
             {
-                "value": "n85326486",
+                "value": "6321802",
                 "type": "string"
             }
         ],
@@ -68,184 +68,92 @@
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 5,
-                    "id": "Q5"
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
                 },
                 "type": "wikibase-entityid"
             }
         ],
-        "P569": [
+        "P1585": [
             {
-                "value": {
-                    "time": "+1150-06-23T00:00:00Z",
-                    "timezone": 0,
-                    "before": 0,
-                    "after": 0,
-                    "precision": 11,
-                    "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
-                },
-                "type": "time"
+                "value": "3162302",
+                "type": "string"
             }
         ],
-        "P570": [
+        "P1082": [
             {
                 "value": {
-                    "time": "+1213-12-17T00:00:00Z",
-                    "timezone": 0,
-                    "before": 0,
-                    "after": 0,
-                    "precision": 11,
-                    "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+                    "amount": "+2731",
+                    "unit": "1"
                 },
-                "type": "time"
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "MinasGerais Municip SaoJoaodaMata.svg",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasao São João da Mata.JPG",
+                "type": "string"
             }
         ],
         "P18": [
             {
-                "value": "Sv Jan z Malty.jpg",
+                "value": "Vista Parcial São João da Mata MG.JPG",
                 "type": "string"
             }
         ],
-        "P646": [
-            {
-                "value": "/m/0fgnw4",
-                "type": "string"
-            }
-        ],
-        "P411": [
+        "P2044": [
             {
                 "value": {
-                    "entity-type": "item",
-                    "numeric-id": 43115,
-                    "id": "Q43115"
+                    "amount": "+889",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
                 },
-                "type": "wikibase-entityid"
+                "type": "quantity"
             },
             {
                 "value": {
+                    "amount": "+967",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+120.500",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.653",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
                     "entity-type": "item",
-                    "numeric-id": 3464126,
-                    "id": "Q3464126"
+                    "numeric-id": 727483,
+                    "id": "Q727483"
                 },
                 "type": "wikibase-entityid"
             }
         ],
-        "P19": [
+        "P402": [
             {
-                "value": {
-                    "entity-type": "item",
-                    "numeric-id": 1112946,
-                    "id": "Q1112946"
-                },
-                "type": "wikibase-entityid"
-            }
-        ],
-        "P735": [
-            {
-                "value": {
-                    "entity-type": "item",
-                    "numeric-id": 4925477,
-                    "id": "Q4925477"
-                },
-                "type": "wikibase-entityid"
-            }
-        ],
-        "P611": [
-            {
-                "value": {
-                    "entity-type": "item",
-                    "numeric-id": 917518,
-                    "id": "Q917518"
-                },
-                "type": "wikibase-entityid"
-            }
-        ],
-        "P1296": [
-            {
-                "value": "0034658",
-                "type": "string"
-            }
-        ],
-        "P1871": [
-            {
-                "value": "cnp01004927",
-                "type": "string"
-            }
-        ],
-        "P2163": [
-            {
-                "value": "171769",
-                "type": "string"
-            }
-        ],
-        "P106": [
-            {
-                "value": {
-                    "entity-type": "item",
-                    "numeric-id": 250867,
-                    "id": "Q250867"
-                },
-                "type": "wikibase-entityid"
-            }
-        ],
-        "P140": [
-            {
-                "value": {
-                    "entity-type": "item",
-                    "numeric-id": 1841,
-                    "id": "Q1841"
-                },
-                "type": "wikibase-entityid"
-            }
-        ],
-        "P1559": [
-            {
-                "value": {
-                    "text": "Jean de Matha",
-                    "language": "fr"
-                },
-                "type": "monolingualtext"
-            }
-        ],
-        "P1256": [
-            {
-                "value": "11H(JOHN OF MATHA)",
-                "type": "string"
-            }
-        ],
-        "P4286": [
-            {
-                "value": "595/Saint-Jean-de-Matha",
-                "type": "string"
-            }
-        ],
-        "P1017": [
-            {
-                "value": "ADV11794636",
-                "type": "string"
-            }
-        ],
-        "P1273": [
-            {
-                "value": "a10547794",
-                "type": "string"
-            }
-        ],
-        "P1695": [
-            {
-                "value": "A26451773",
-                "type": "string"
-            }
-        ],
-        "P3219": [
-            {
-                "value": "jean-de-matha",
-                "type": "string"
-            }
-        ],
-        "P691": [
-            {
-                "value": "xx0100781",
+                "value": "315395",
                 "type": "string"
             }
         ]

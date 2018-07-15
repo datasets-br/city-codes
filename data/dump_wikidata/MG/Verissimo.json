@@ -1,19 +1,9 @@
 {
-    "pageid": 1736589,
+    "pageid": 24095967,
     "ns": 0,
     "type": "item",
-    "id": "Q1805386",
+    "id": "Q22064998",
     "claims": {
-        "P131": [
-            {
-                "value": {
-                    "entity-type": "item",
-                    "numeric-id": 22064998,
-                    "id": "Q22064998"
-                },
-                "type": "wikibase-entityid"
-            }
-        ],
         "P17": [
             {
                 "value": {
@@ -24,14 +14,139 @@
                 "type": "wikibase-entityid"
             }
         ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 39109,
+                    "id": "Q39109"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "6321916",
+                "type": "string"
+            },
+            {
+                "value": "3445222",
+                "type": "string"
+            }
+        ],
         "P31": [
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 3257686,
-                    "id": "Q3257686"
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
                 },
                 "type": "wikibase-entityid"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+779",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+674",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -19.662777777778,
+                    "longitude": -48.307777777778,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/04gm6yf",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Veríssimo (Minas Gerais)",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "3171105",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+3483",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "MinasGerais Municip Verissimo.svg",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 29016315,
+                    "id": "Q29016315"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+1028.577",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.776",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 745089,
+                    "id": "Q745089"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "315151",
+                "type": "string"
             }
         ]
     }

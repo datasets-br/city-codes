@@ -1,19 +1,9 @@
 {
-    "pageid": 1737027,
+    "pageid": 24098484,
     "ns": 0,
     "type": "item",
-    "id": "Q1805827",
+    "id": "Q22067430",
     "claims": {
-        "P31": [
-            {
-                "value": {
-                    "entity-type": "item",
-                    "numeric-id": 3257686,
-                    "id": "Q3257686"
-                },
-                "type": "wikibase-entityid"
-            }
-        ],
         "P17": [
             {
                 "value": {
@@ -24,12 +14,174 @@
                 "type": "wikibase-entityid"
             }
         ],
+        "P1566": [
+            {
+                "value": "6323723",
+                "type": "string"
+            },
+            {
+                "value": "6316401",
+                "type": "string"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+702",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+681",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
         "P131": [
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 22067430,
-                    "id": "Q22067430"
+                    "numeric-id": 43319,
+                    "id": "Q43319"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -22.190833333333,
+                    "longitude": -55.947777777778,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/027c2dd",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Antônio João",
+                "type": "string"
+            }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1964-00-00T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 9,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P935": [
+            {
+                "value": "Antônio João",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "5000906",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+8744",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "MatoGrossodoSul Municip AntonioJoao.svg",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Band Antonio Joao.png",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "BrasãoAJ.jpg",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Estatua Antonio Joao Ribeiro.JPG",
+                "type": "string"
+            }
+        ],
+        "P421": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 5762,
+                    "id": "Q5762"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.702",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+1143.750",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P402": [
+            {
+                "value": "333994",
+                "type": "string"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1148023,
+                    "id": "Q1148023"
                 },
                 "type": "wikibase-entityid"
             }

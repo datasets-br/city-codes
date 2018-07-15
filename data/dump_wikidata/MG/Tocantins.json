@@ -1,19 +1,9 @@
 {
-    "pageid": 2004941,
+    "pageid": 24095994,
     "ns": 0,
     "type": "item",
-    "id": "Q2077872",
+    "id": "Q22065025",
     "claims": {
-        "P131": [
-            {
-                "value": {
-                    "entity-type": "item",
-                    "numeric-id": 22065025,
-                    "id": "Q22065025"
-                },
-                "type": "wikibase-entityid"
-            }
-        ],
         "P17": [
             {
                 "value": {
@@ -24,14 +14,143 @@
                 "type": "wikibase-entityid"
             }
         ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 39109,
+                    "id": "Q39109"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "6321884",
+                "type": "string"
+            },
+            {
+                "value": "3446392",
+                "type": "string"
+            }
+        ],
         "P31": [
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 3257686,
-                    "id": "Q3257686"
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 515,
+                    "id": "Q515"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+383",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+363",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -21.175,
+                    "longitude": -43.017777777778,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Tocantins (Minas Gerais)",
+                "type": "string"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/03gy10_",
+                "type": "string"
+            }
+        ],
+        "P268": [
+            {
+                "value": "12568463g",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "3169000",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+15823",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "MinasGerais Municip Tocantins.svg",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+173.994",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.762",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 922944,
+                    "id": "Q922944"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "314598",
+                "type": "string"
             }
         ]
     }

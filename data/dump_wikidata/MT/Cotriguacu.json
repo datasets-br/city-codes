@@ -1,23 +1,143 @@
 {
-    "pageid": 32536165,
+    "pageid": 1941221,
     "ns": 0,
     "type": "item",
-    "id": "Q30926864",
+    "id": "Q2013031",
     "claims": {
-        "P856": [
+        "P17": [
             {
-                "value": "http://www.cotriguacu.com.br",
-                "type": "string"
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -9.8577777777778,
+                    "longitude": -58.413888888889,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 42824,
+                    "id": "Q42824"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P31": [
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 4830453,
-                    "id": "Q4830453"
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
                 },
                 "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/09rvgwn",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "6323819",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Cotriguaçu",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 9626447,
+                    "id": "Q9626447"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira Cotriguaçu MT.jpg",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasão do Município de Cotriguaçu.png",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "5103379",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+18209",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "MatoGrosso Municip Cotriguacu.svg",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+200",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.721",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+9123.582",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P402": [
+            {
+                "value": "333625",
+                "type": "string"
             }
         ]
     }

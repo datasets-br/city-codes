@@ -1,19 +1,9 @@
 {
-    "pageid": 418461,
+    "pageid": 24091777,
     "ns": 0,
     "type": "item",
-    "id": "Q443583",
+    "id": "Q22060523",
     "claims": {
-        "P31": [
-            {
-                "value": {
-                    "entity-type": "item",
-                    "numeric-id": 486972,
-                    "id": "Q486972"
-                },
-                "type": "wikibase-entityid"
-            }
-        ],
         "P17": [
             {
                 "value": {
@@ -24,14 +14,187 @@
                 "type": "wikibase-entityid"
             }
         ],
+        "P1566": [
+            {
+                "value": "6319149",
+                "type": "string"
+            },
+            {
+                "value": "3472441",
+                "type": "string"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+1285",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+1300",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
         "P131": [
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 22060523,
-                    "id": "Q22060523"
+                    "numeric-id": 41587,
+                    "id": "Q41587"
                 },
                 "type": "wikibase-entityid"
+            }
+        ],
+        "P948": [
+            {
+                "value": "Alto Paraíso de Goiás WV Banner.jpg",
+                "type": "string"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -14.132777777778,
+                    "longitude": -47.51,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/09wjhw",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Alto Paraíso de Goiás",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 9524414,
+                    "id": "Q9524414"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1281": [
+            {
+                "value": "421580",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "5200605",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+6885",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Goias Municip AltoParaisodeGoias.svg",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira de Alto Paraíso de Goiás.jpg",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasão de Alto Paraíso de Goiás.jpg",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Nuvens 2.jpg",
+                "type": "string"
+            }
+        ],
+        "P421": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 6513,
+                    "id": "Q6513"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.713",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+2593.885",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 988887,
+                    "id": "Q988887"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 989515,
+                    "id": "Q989515"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "334545",
+                "type": "string"
             }
         ]
     }

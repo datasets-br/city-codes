@@ -1,21 +1,43 @@
 {
-    "pageid": 59815,
+    "pageid": 1743960,
     "ns": 0,
     "type": "item",
-    "id": "Q56951",
+    "id": "Q1812846",
     "claims": {
-        "P373": [
-            {
-                "value": "Archangel Raphael",
-                "type": "string"
-            }
-        ],
-        "P21": [
+        "P17": [
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 6581097,
-                    "id": "Q6581097"
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -5.7988888888889,
+                    "longitude": -36.920833333333,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P373": [
+            {
+                "value": "São Rafael (Rio Grande do Norte)",
+                "type": "string"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 43255,
+                    "id": "Q43255"
                 },
                 "type": "wikibase-entityid"
             }
@@ -24,91 +46,75 @@
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 235113,
-                    "id": "Q235113"
-                },
-                "type": "wikibase-entityid"
-            },
-            {
-                "value": {
-                    "entity-type": "item",
-                    "numeric-id": 690175,
-                    "id": "Q690175"
-                },
-                "type": "wikibase-entityid"
-            },
-            {
-                "value": {
-                    "entity-type": "item",
-                    "numeric-id": 21011318,
-                    "id": "Q21011318"
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
                 },
                 "type": "wikibase-entityid"
             }
         ],
         "P646": [
             {
-                "value": "/m/01s712",
+                "value": "/m/09rsw8_",
                 "type": "string"
             }
         ],
-        "P227": [
+        "P1566": [
             {
-                "value": "119520761",
+                "value": "3388167",
                 "type": "string"
             }
         ],
-        "P411": [
+        "P1585": [
+            {
+                "value": "2412807",
+                "type": "string"
+            }
+        ],
+        "P1082": [
             {
                 "value": {
-                    "entity-type": "item",
-                    "numeric-id": 43115,
-                    "id": "Q43115"
+                    "amount": "+8111",
+                    "unit": "1"
                 },
-                "type": "wikibase-entityid"
+                "type": "quantity"
             }
         ],
-        "P1422": [
+        "P242": [
             {
-                "value": "1424",
+                "value": "RioGrandedoNorte Municip SaoRafael.svg",
                 "type": "string"
             }
         ],
-        "P18": [
-            {
-                "value": "Accademia - Archangel Raphael and Tobit by Titian.jpg",
-                "type": "string"
-            }
-        ],
-        "P910": [
+        "P2044": [
             {
                 "value": {
-                    "entity-type": "item",
-                    "numeric-id": 9017741,
-                    "id": "Q9017741"
+                    "amount": "+63",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
                 },
-                "type": "wikibase-entityid"
+                "type": "quantity"
             }
         ],
-        "P361": [
+        "P1081": [
             {
                 "value": {
-                    "entity-type": "item",
-                    "numeric-id": 131737,
-                    "id": "Q131737"
+                    "amount": "+0.638",
+                    "unit": "1"
                 },
-                "type": "wikibase-entityid"
+                "type": "quantity"
             }
         ],
-        "P1256": [
+        "P2046": [
             {
-                "value": "11G185",
-                "type": "string"
+                "value": {
+                    "amount": "+469.096",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
             }
         ],
-        "P1296": [
+        "P402": [
             {
-                "value": "0053912",
+                "value": "301162",
                 "type": "string"
             }
         ]

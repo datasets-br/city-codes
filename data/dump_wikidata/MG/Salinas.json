@@ -1,24 +1,136 @@
 {
-    "pageid": 237400,
+    "pageid": 24096174,
     "ns": 0,
     "type": "item",
-    "id": "Q244326",
+    "id": "Q22065209",
     "claims": {
-        "P1282": [
+        "P17": [
             {
-                "value": "Tag:landuse=salt_pond",
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 39109,
+                    "id": "Q39109"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "6321741",
+                "type": "string"
+            },
+            {
+                "value": "3450671",
+                "type": "string"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -16.11853,
+                    "longitude": -42.17403,
+                    "altitude": null,
+                    "precision": 1.0e-5,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            },
+            {
+                "value": {
+                    "latitude": -15.415833333333,
+                    "longitude": -43.1575,
+                    "altitude": null,
+                    "precision": null,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+543",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+471",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira Salinas.png",
+                "type": "string"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/04fcwf",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasaosalinas.jpg",
                 "type": "string"
             }
         ],
         "P373": [
             {
-                "value": "Salt evaporation ponds",
+                "value": "Salinas (Minas Gerais)",
                 "type": "string"
             }
         ],
-        "P349": [
+        "P1585": [
             {
-                "value": "00561929",
+                "value": "3157005",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+39178",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+37954",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "MinasGerais Municip Salinas.svg",
                 "type": "string"
             }
         ],
@@ -26,65 +138,74 @@
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 9109737,
-                    "id": "Q9109737"
+                    "numeric-id": 27589188,
+                    "id": "Q27589188"
                 },
                 "type": "wikibase-entityid"
             }
         ],
-        "P646": [
+        "P1705": [
             {
-                "value": "/m/04wff6",
-                "type": "string"
+                "value": {
+                    "text": "Salinas",
+                    "language": "pt"
+                },
+                "type": "monolingualtext"
             }
         ],
-        "P279": [
+        "P1448": [
+            {
+                "value": {
+                    "text": "Salinas",
+                    "language": "pt"
+                },
+                "type": "monolingualtext"
+            }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1887-00-00T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 9,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+1891.33",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.699",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 3215290,
-                    "id": "Q3215290"
+                    "numeric-id": 1789409,
+                    "id": "Q1789409"
                 },
                 "type": "wikibase-entityid"
             }
         ],
-        "P935": [
+        "P402": [
             {
-                "value": "Salt evaporation pond",
-                "type": "string"
-            }
-        ],
-        "P227": [
-            {
-                "value": "4051370-1",
-                "type": "string"
-            }
-        ],
-        "P2452": [
-            {
-                "value": "H.MFGN",
-                "type": "string"
-            }
-        ],
-        "P1056": [
-            {
-                "value": {
-                    "entity-type": "item",
-                    "numeric-id": 11254,
-                    "id": "Q11254"
-                },
-                "type": "wikibase-entityid"
-            }
-        ],
-        "P18": [
-            {
-                "value": "Marakkanam Salt Pans.JPG",
-                "type": "string"
-            }
-        ],
-        "P1709": [
-            {
-                "value": "http://purl.obolibrary.org/obo/ENVO_00000055",
+                "value": "315368",
                 "type": "string"
             }
         ]

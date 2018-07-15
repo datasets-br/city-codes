@@ -1,19 +1,9 @@
 {
-    "pageid": 1991264,
+    "pageid": 24096143,
     "ns": 0,
     "type": "item",
-    "id": "Q2063952",
+    "id": "Q22065178",
     "claims": {
-        "P131": [
-            {
-                "value": {
-                    "entity-type": "item",
-                    "numeric-id": 22065178,
-                    "id": "Q22065178"
-                },
-                "type": "wikibase-entityid"
-            }
-        ],
         "P17": [
             {
                 "value": {
@@ -24,14 +14,137 @@
                 "type": "wikibase-entityid"
             }
         ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 39109,
+                    "id": "Q39109"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "6321775",
+                "type": "string"
+            },
+            {
+                "value": "3449749",
+                "type": "string"
+            }
+        ],
         "P31": [
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 3257686,
-                    "id": "Q3257686"
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
                 },
                 "type": "wikibase-entityid"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+497",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+498",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+499",
+                    "lowerBound": "+497"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasaostavitoriamg.png",
+                "type": "string"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -18.838888888889,
+                    "longitude": -50.120833333333,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Santa Vitória (Minas Gerais)",
+                "type": "string"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/047qpgt",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "3159803",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+18138",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "MinasGerais Municip SantaVitoria.svg",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+3021.74",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.710",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1805365,
+                    "id": "Q1805365"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "315182",
+                "type": "string"
             }
         ]
     }

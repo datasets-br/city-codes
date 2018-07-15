@@ -1,63 +1,157 @@
 {
-    "pageid": 9625,
+    "pageid": 1729400,
     "ns": 0,
     "type": "item",
-    "id": "Q8329",
+    "id": "Q1798051",
     "claims": {
-        "P646": [
+        "P17": [
             {
-                "value": "/m/02p0w7s",
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira de Periquito MG.png",
                 "type": "string"
             }
         ],
-        "P18": [
+        "P625": [
             {
-                "value": "Wellensittich02.jpg",
+                "value": {
+                    "latitude": -19.157777777778,
+                    "longitude": -42.233888888889,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/09rxmb1",
                 "type": "string"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 39109,
+                    "id": "Q39109"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P31": [
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 502895,
-                    "id": "Q502895"
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
                 },
                 "type": "wikibase-entityid"
             }
         ],
-        "P935": [
+        "P1566": [
             {
-                "value": "Budgerigars",
+                "value": "3454105",
                 "type": "string"
             }
         ],
-        "P3417": [
+        "P373": [
             {
-                "value": "Parakeets",
+                "value": "Periquito",
                 "type": "string"
             }
         ],
-        "P3827": [
+        "P94": [
             {
-                "value": "parakeets",
+                "value": "Brasão de Periquito MG.png",
                 "type": "string"
             }
         ],
-        "P51": [
+        "P18": [
             {
-                "value": "Domesticated budgerigars birdsong 01.ogg",
+                "value": "Vista Periquito MG.JPG",
                 "type": "string"
             }
         ],
-        "P279": [
+        "P1585": [
+            {
+                "value": "3149952",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+7036",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "MinasGerais Municip Periquito.svg",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+231",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+228.907",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.651",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 622852,
-                    "id": "Q622852"
+                    "numeric-id": 462218,
+                    "id": "Q462218"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1789727,
+                    "id": "Q1789727"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "314952",
+                "type": "string"
             }
         ]
     }

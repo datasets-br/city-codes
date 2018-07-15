@@ -1,19 +1,9 @@
 {
-    "pageid": 1888673,
+    "pageid": 24096001,
     "ns": 0,
     "type": "item",
-    "id": "Q1959484",
+    "id": "Q22065032",
     "claims": {
-        "P131": [
-            {
-                "value": {
-                    "entity-type": "item",
-                    "numeric-id": 22065032,
-                    "id": "Q22065032"
-                },
-                "type": "wikibase-entityid"
-            }
-        ],
         "P17": [
             {
                 "value": {
@@ -24,14 +14,133 @@
                 "type": "wikibase-entityid"
             }
         ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 39109,
+                    "id": "Q39109"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "6321875",
+                "type": "string"
+            },
+            {
+                "value": "3446874",
+                "type": "string"
+            }
+        ],
         "P31": [
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 3257686,
-                    "id": "Q3257686"
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
                 },
                 "type": "wikibase-entityid"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+1152",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+1091",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -19.921944444444,
+                    "longitude": -46.822777777778,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            },
+            {
+                "value": {
+                    "latitude": -19.9219,
+                    "longitude": -46.8228,
+                    "altitude": null,
+                    "precision": 0.095549399795212,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Tapira (Minas Gerais)",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "3168101",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+4112",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "MinasGerais Municip Tapira.svg",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 29016295,
+                    "id": "Q29016295"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.78",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+1180.229",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P402": [
+            {
+                "value": "314639",
+                "type": "string"
             }
         ]
     }

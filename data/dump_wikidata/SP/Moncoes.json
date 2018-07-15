@@ -1,128 +1,170 @@
 {
-    "pageid": 45189,
+    "pageid": 1706471,
     "ns": 0,
     "type": "item",
-    "id": "Q42967",
+    "id": "Q1774484",
     "claims": {
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira do Município de Monções.png",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasão do Município de Monções.png",
+                "type": "string"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -20.850277777778,
+                    "longitude": -50.091666666667,
+                    "altitude": null,
+                    "precision": null,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
         "P373": [
             {
-                "value": "Monsoon",
-                "type": "string"
-            }
-        ],
-        "P508": [
-            {
-                "value": "37214",
-                "type": "string"
-            }
-        ],
-        "P349": [
-            {
-                "value": "00565994",
+                "value": "Monções",
                 "type": "string"
             }
         ],
         "P646": [
             {
-                "value": "/m/0ftfc",
+                "value": "/m/042mkj",
                 "type": "string"
             }
         ],
-        "P910": [
+        "P131": [
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 9026692,
-                    "id": "Q9026692"
+                    "numeric-id": 175,
+                    "id": "Q175"
                 },
                 "type": "wikibase-entityid"
             }
         ],
-        "P1051": [
-            {
-                "value": "4123",
-                "type": "string"
-            }
-        ],
-        "P1014": [
-            {
-                "value": "300054742",
-                "type": "string"
-            }
-        ],
-        "P1542": [
+        "P31": [
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 18375297,
-                    "id": "Q18375297"
+                    "numeric-id": 515,
+                    "id": "Q515"
                 },
                 "type": "wikibase-entityid"
-            }
-        ],
-        "P1343": [
-            {
-                "value": {
-                    "entity-type": "item",
-                    "numeric-id": 2657718,
-                    "id": "Q2657718"
-                },
-                "type": "wikibase-entityid"
-            }
-        ],
-        "P244": [
-            {
-                "value": "sh85086993",
-                "type": "string"
-            }
-        ],
-        "P227": [
-            {
-                "value": "4170491-5",
-                "type": "string"
-            }
-        ],
-        "P279": [
-            {
-                "value": {
-                    "entity-type": "item",
-                    "numeric-id": 8094,
-                    "id": "Q8094"
-                },
-                "type": "wikibase-entityid"
-            }
-        ],
-        "P268": [
-            {
-                "value": "12121034k",
-                "type": "string"
-            }
-        ],
-        "P3417": [
-            {
-                "value": "Monsoons-1",
-                "type": "string"
-            }
-        ],
-        "P3827": [
-            {
-                "value": "monsoons",
-                "type": "string"
-            }
-        ],
-        "P3219": [
-            {
-                "value": "mousson",
-                "type": "string"
             },
             {
-                "value": "mousson-asiatique",
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3456947",
                 "type": "string"
             }
         ],
-        "P3569": [
+        "P1585": [
             {
-                "value": "aarde-weer-en-klimaat/moesson",
+                "value": "3531001",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+2055",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+2235",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+2132",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "SaoPaulo Municip Moncoes.svg",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+406",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+104.2",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.771",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2581": [
+            {
+                "value": "00180499n",
+                "type": "string"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1649650,
+                    "id": "Q1649650"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "298481",
                 "type": "string"
             }
         ]

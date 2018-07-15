@@ -1,19 +1,9 @@
 {
-    "pageid": 1936103,
+    "pageid": 24096175,
     "ns": 0,
     "type": "item",
-    "id": "Q2007808",
+    "id": "Q22065210",
     "claims": {
-        "P131": [
-            {
-                "value": {
-                    "entity-type": "item",
-                    "numeric-id": 22065210,
-                    "id": "Q22065210"
-                },
-                "type": "wikibase-entityid"
-            }
-        ],
         "P17": [
             {
                 "value": {
@@ -24,14 +14,151 @@
                 "type": "wikibase-entityid"
             }
         ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 39109,
+                    "id": "Q39109"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "6321740",
+                "type": "string"
+            },
+            {
+                "value": "3450759",
+                "type": "string"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -19.88039,
+                    "longitude": -47.226,
+                    "altitude": null,
+                    "precision": 1.0e-5,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            },
+            {
+                "value": {
+                    "latitude": -19.865,
+                    "longitude": -47.44,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
         "P31": [
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 3257686,
-                    "id": "Q3257686"
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
                 },
                 "type": "wikibase-entityid"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+1031",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+832",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Sacramento (Minas Gerais)",
+                "type": "string"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/0h7ngk",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "3156908",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+23896",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "MinasGerais Municip Sacramento.svg",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeirasacramento.jpg",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Sacrabrasão.jpg",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 28977365,
+                    "id": "Q28977365"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+3073.268",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.797",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P402": [
+            {
+                "value": "315434",
+                "type": "string"
             }
         ]
     }

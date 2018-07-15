@@ -1,205 +1,172 @@
 {
-    "pageid": 1488652,
+    "pageid": 1746126,
     "ns": 0,
     "type": "item",
-    "id": "Q1552284",
+    "id": "Q1815057",
     "claims": {
-        "P105": [
+        "P910": [
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 7432,
-                    "id": "Q7432"
+                    "numeric-id": 14866905,
+                    "id": "Q14866905"
                 },
                 "type": "wikibase-entityid"
             }
         ],
-        "P225": [
-            {
-                "value": "Spondias tuberosa",
-                "type": "string"
-            }
-        ],
-        "P18": [
-            {
-                "value": "Spondias tuberosa Umbu.jpg",
-                "type": "string"
-            }
-        ],
-        "P373": [
-            {
-                "value": "Spondias tuberosa",
-                "type": "string"
-            }
-        ],
-        "P171": [
+        "P17": [
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 311460,
-                    "id": "Q311460"
+                    "numeric-id": 155,
+                    "id": "Q155"
                 },
                 "type": "wikibase-entityid"
             }
         ],
-        "P815": [
+        "P41": [
             {
-                "value": "506463",
+                "value": "Bandeira umbuzeiro.JPG",
                 "type": "string"
             }
         ],
-        "P1070": [
+        "P94": [
             {
-                "value": "kew-2480663",
+                "value": "Brasao umbuzeiro.jpg",
                 "type": "string"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -7.6958333333333,
+                    "longitude": -35.663888888889,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 38088,
+                    "id": "Q38088"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P31": [
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 16521,
-                    "id": "Q16521"
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
                 },
                 "type": "wikibase-entityid"
             }
         ],
-        "P830": [
+        "P646": [
             {
-                "value": "483495",
+                "value": "/m/09rxlxr",
                 "type": "string"
             }
         ],
-        "P685": [
+        "P1566": [
             {
-                "value": "991123",
+                "value": "3385789",
                 "type": "string"
             }
         ],
-        "P961": [
+        "P373": [
             {
-                "value": "71506-1",
+                "value": "Umbuzeiro, Paraíba",
                 "type": "string"
             }
         ],
-        "P960": [
+        "P1464": [
             {
-                "value": "50246422",
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 14866903,
+                    "id": "Q14866903"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Vista do Centro da Cidade de Umbuzeiro - PB.JPG",
                 "type": "string"
             }
         ],
-        "P1421": [
+        "P1585": [
             {
-                "value": "https://npgsweb.ars-grin.gov/gringlobal/taxonomydetail.aspx?id=35339",
+                "value": "2517001",
                 "type": "string"
             }
         ],
-        "P1772": [
+        "P1082": [
             {
-                "value": "SPTU5",
+                "value": {
+                    "amount": "+9192",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+9889",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+9298",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Paraiba Municip Umbuzeiro.svg",
                 "type": "string"
             }
         ],
-        "P846": [
+        "P2044": [
             {
-                "value": "3190600",
-                "type": "string"
+                "value": {
+                    "amount": "+541",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
             }
         ],
-        "P1843": [
+        "P2046": [
             {
                 "value": {
-                    "text": "imbu",
-                    "language": "en"
+                    "amount": "+181.327",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
                 },
-                "type": "monolingualtext"
-            },
-            {
-                "value": {
-                    "text": "Umbu",
-                    "language": "de"
-                },
-                "type": "monolingualtext"
-            },
-            {
-                "value": {
-                    "text": "Имбу",
-                    "language": "koi"
-                },
-                "type": "monolingualtext"
-            },
-            {
-                "value": {
-                    "text": "Имбу",
-                    "language": "lbe"
-                },
-                "type": "monolingualtext"
-            },
-            {
-                "value": {
-                    "text": "Имбу",
-                    "language": "mrj"
-                },
-                "type": "monolingualtext"
-            },
-            {
-                "value": {
-                    "text": "Śliwiec umbu",
-                    "language": "pl"
-                },
-                "type": "monolingualtext"
-            },
-            {
-                "value": {
-                    "text": "imbuzeiro",
-                    "language": "pt"
-                },
-                "type": "monolingualtext"
-            },
-            {
-                "value": {
-                    "text": "jique",
-                    "language": "pt"
-                },
-                "type": "monolingualtext"
-            },
-            {
-                "value": {
-                    "text": "umbuzeiro",
-                    "language": "pt"
-                },
-                "type": "monolingualtext"
-            },
-            {
-                "value": {
-                    "text": "Имбу",
-                    "language": "ru"
-                },
-                "type": "monolingualtext"
-            },
-            {
-                "value": {
-                    "text": "Имбу",
-                    "language": "udm"
-                },
-                "type": "monolingualtext"
+                "type": "quantity"
             }
         ],
-        "P3031": [
+        "P1081": [
             {
-                "value": "SPXTU",
-                "type": "string"
+                "value": {
+                    "amount": "+0.539",
+                    "unit": "1"
+                },
+                "type": "quantity"
             }
         ],
-        "P5037": [
+        "P402": [
             {
-                "value": "urn:lsid:ipni.org:names:71506-1",
-                "type": "string"
-            }
-        ],
-        "P5055": [
-            {
-                "value": "11227054",
+                "value": "301458",
                 "type": "string"
             }
         ]

@@ -1,19 +1,9 @@
 {
-    "pageid": 1706417,
+    "pageid": 24097940,
     "ns": 0,
     "type": "item",
-    "id": "Q1774430",
+    "id": "Q22066885",
     "claims": {
-        "P31": [
-            {
-                "value": {
-                    "entity-type": "item",
-                    "numeric-id": 3257686,
-                    "id": "Q3257686"
-                },
-                "type": "wikibase-entityid"
-            }
-        ],
         "P17": [
             {
                 "value": {
@@ -24,14 +14,189 @@
                 "type": "wikibase-entityid"
             }
         ],
+        "P1566": [
+            {
+                "value": "6324331",
+                "type": "string"
+            },
+            {
+                "value": "3472159",
+                "type": "string"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -22.34571,
+                    "longitude": -51.42761,
+                    "altitude": null,
+                    "precision": 1.0e-5,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            },
+            {
+                "value": {
+                    "latitude": -22.295555555556,
+                    "longitude": -51.3875,
+                    "altitude": null,
+                    "precision": null,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 515,
+                    "id": "Q515"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+411",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+422",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
         "P131": [
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 22066885,
-                    "id": "Q22066885"
+                    "numeric-id": 175,
+                    "id": "Q175"
                 },
                 "type": "wikibase-entityid"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Anhumas",
+                "type": "string"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/03xssd",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira de Anhumas.png",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasão de Anhumas.png",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "3502408",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+3411",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+3999",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+3738",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "SaoPaulo Municip Anhumas.svg",
+                "type": "string"
+            }
+        ],
+        "P421": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 6513,
+                    "id": "Q6513"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Ig.Matriz de Anhumas.JPG",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+320.926",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.752",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 525618,
+                    "id": "Q525618"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "298190",
+                "type": "string"
             }
         ]
     }

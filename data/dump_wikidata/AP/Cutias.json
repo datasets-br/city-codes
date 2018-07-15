@@ -1,37 +1,43 @@
 {
-    "pageid": 191911,
+    "pageid": 1687128,
     "ns": 0,
     "type": "item",
-    "id": "Q193966",
+    "id": "Q1754422",
     "claims": {
-        "P225": [
+        "P1585": [
             {
-                "value": "Dasyprocta",
+                "value": "1600212",
                 "type": "string"
             }
         ],
-        "P373": [
+        "P625": [
             {
-                "value": "Dasyprocta",
-                "type": "string"
+                "value": {
+                    "latitude": 0.98583333333333,
+                    "longitude": -50.801944444444,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
             }
         ],
-        "P105": [
+        "P17": [
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 34740,
-                    "id": "Q34740"
+                    "numeric-id": 155,
+                    "id": "Q155"
                 },
                 "type": "wikibase-entityid"
             }
         ],
-        "P171": [
+        "P131": [
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 267132,
-                    "id": "Q267132"
+                    "numeric-id": 40130,
+                    "id": "Q40130"
                 },
                 "type": "wikibase-entityid"
             }
@@ -40,117 +46,91 @@
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 16521,
-                    "id": "Q16521"
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
                 },
                 "type": "wikibase-entityid"
-            }
-        ],
-        "P815": [
-            {
-                "value": "584623",
-                "type": "string"
-            }
-        ],
-        "P685": [
-            {
-                "value": "34845",
-                "type": "string"
             }
         ],
         "P646": [
             {
-                "value": "/m/02r_by",
+                "value": "/m/026bzcl",
                 "type": "string"
             }
         ],
-        "P18": [
+        "P1566": [
             {
-                "value": "Aguti.jpg",
+                "value": "6316984",
                 "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Cutias",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+6",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+7",
+                    "lowerBound": "+5"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+3280",
+                    "unit": "1"
+                },
+                "type": "quantity"
             },
             {
-                "value": "Common Agouti.JPG",
-                "type": "string"
-            }
-        ],
-        "P830": [
-            {
-                "value": "14083",
-                "type": "string"
-            }
-        ],
-        "P959": [
-            {
-                "value": "13400224",
-                "type": "string"
-            }
-        ],
-        "P842": [
-            {
-                "value": "105149",
-                "type": "string"
-            }
-        ],
-        "P910": [
+                "value": {
+                    "amount": "+5407",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
             {
                 "value": {
-                    "entity-type": "item",
-                    "numeric-id": 8363807,
-                    "id": "Q8363807"
+                    "amount": "+4696",
+                    "unit": "1"
                 },
-                "type": "wikibase-entityid"
+                "type": "quantity"
             }
         ],
-        "P935": [
+        "P242": [
             {
-                "value": "Dasyprocta",
+                "value": "Amapa MunicipCutias.jpg",
                 "type": "string"
             }
         ],
-        "P846": [
-            {
-                "value": "2437573",
-                "type": "string"
-            }
-        ],
-        "P1343": [
+        "P2046": [
             {
                 "value": {
-                    "entity-type": "item",
-                    "numeric-id": 20078554,
-                    "id": "Q20078554"
+                    "amount": "+2114.732",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
                 },
-                "type": "wikibase-entityid"
+                "type": "quantity"
             }
         ],
-        "P2924": [
+        "P1081": [
             {
-                "value": "1851992",
-                "type": "string"
+                "value": {
+                    "amount": "+0.628",
+                    "unit": "1"
+                },
+                "type": "quantity"
             }
         ],
-        "P4024": [
+        "P402": [
             {
-                "value": "Dasyprocta",
-                "type": "string"
-            }
-        ],
-        "P1417": [
-            {
-                "value": "animal/agouti",
-                "type": "string"
-            }
-        ],
-        "P4728": [
-            {
-                "value": "8327974",
-                "type": "string"
-            }
-        ],
-        "P5055": [
-            {
-                "value": "1032881",
+                "value": "331466",
                 "type": "string"
             }
         ]

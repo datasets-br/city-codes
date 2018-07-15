@@ -1,19 +1,9 @@
 {
-    "pageid": 1693412,
+    "pageid": 24095367,
     "ns": 0,
     "type": "item",
-    "id": "Q1760934",
+    "id": "Q22064397",
     "claims": {
-        "P31": [
-            {
-                "value": {
-                    "entity-type": "item",
-                    "numeric-id": 3257686,
-                    "id": "Q3257686"
-                },
-                "type": "wikibase-entityid"
-            }
-        ],
         "P17": [
             {
                 "value": {
@@ -24,14 +14,173 @@
                 "type": "wikibase-entityid"
             }
         ],
+        "P1566": [
+            {
+                "value": "6322631",
+                "type": "string"
+            },
+            {
+                "value": "3445957",
+                "type": "string"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 515,
+                    "id": "Q515"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+793",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+790",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
         "P131": [
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 22064397,
-                    "id": "Q22064397"
+                    "numeric-id": 175,
+                    "id": "Q175"
                 },
                 "type": "wikibase-entityid"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -22.815833333333,
+                    "longitude": -46.693888888889,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/0g89r5",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasão Tuiuti.jpg",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Tuiuti",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "3554953",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+4956",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+6533",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+5930",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "SaoPaulo Municip Tuiuti.svg",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Flag of Tuiuti - SP.png",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 28914076,
+                    "id": "Q28914076"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+126.465",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.763",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 897232,
+                    "id": "Q897232"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "298299",
+                "type": "string"
             }
         ]
     }

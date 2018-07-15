@@ -1,19 +1,9 @@
 {
-    "pageid": 26236763,
+    "pageid": 511723,
     "ns": 0,
     "type": "item",
-    "id": "Q24263545",
+    "id": "Q543282",
     "claims": {
-        "P131": [
-            {
-                "value": {
-                    "entity-type": "item",
-                    "numeric-id": 39109,
-                    "id": "Q39109"
-                },
-                "type": "wikibase-entityid"
-            }
-        ],
         "P17": [
             {
                 "value": {
@@ -27,13 +17,45 @@
         "P625": [
             {
                 "value": {
-                    "latitude": -19,
-                    "longitude": -41,
+                    "latitude": -17.782777777778,
+                    "longitude": -40.247777777778,
                     "altitude": null,
-                    "precision": 1,
+                    "precision": 0.00027777777777778,
                     "globe": "http://www.wikidata.org/entity/Q2"
                 },
                 "type": "globecoordinate"
+            },
+            {
+                "value": {
+                    "latitude": -17.78277778,
+                    "longitude": -40.24777778,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Serra dos Aimorés (Minas Gerais)",
+                "type": "string"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/09gjz1",
+                "type": "string"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 39109,
+                    "id": "Q39109"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P31": [
@@ -44,6 +66,100 @@
                     "id": "Q46831"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3447731",
+                "type": "string"
+            },
+            {
+                "value": "6321859",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "3166709",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+8412",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "MinasGerais Municip SerradosAimores.svg",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira de Serra dos Aimorés.jpg",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasão Serra dos Aimorés MG.jpg",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+215.150",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.655",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+236",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 83011,
+                    "id": "Q83011"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "314652",
+                "type": "string"
             }
         ]
     }

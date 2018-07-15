@@ -1,331 +1,144 @@
 {
-    "pageid": 9811,
+    "pageid": 517272,
     "ns": 0,
     "type": "item",
-    "id": "Q8502",
+    "id": "Q548971",
     "claims": {
-        "P1151": [
+        "P17": [
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 14614576,
-                    "id": "Q14614576"
+                    "numeric-id": 155,
+                    "id": "Q155"
                 },
                 "type": "wikibase-entityid"
             }
         ],
-        "P487": [
+        "P625": [
             {
-                "value": "⛰",
-                "type": "string"
-            },
-            {
-                "value": "🏔",
-                "type": "string"
+                "value": {
+                    "latitude": -6.4858333333333,
+                    "longitude": -35.287777777778,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
             }
         ],
         "P373": [
             {
-                "value": "Mountains",
+                "value": "Montanhas",
                 "type": "string"
             }
         ],
-        "P18": [
-            {
-                "value": "Pico Gilbo. Agosto 2005 (editada).jpg",
-                "type": "string"
-            }
-        ],
-        "P279": [
+        "P131": [
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 14524493,
-                    "id": "Q14524493"
-                },
-                "type": "wikibase-entityid"
-            },
-            {
-                "value": {
-                    "entity-type": "item",
-                    "numeric-id": 271669,
-                    "id": "Q271669"
-                },
-                "type": "wikibase-entityid"
-            },
-            {
-                "value": {
-                    "entity-type": "item",
-                    "numeric-id": 35145263,
-                    "id": "Q35145263"
+                    "numeric-id": 43255,
+                    "id": "Q43255"
                 },
                 "type": "wikibase-entityid"
             }
         ],
-        "P227": [
+        "P31": [
             {
-                "value": "4144619-7",
-                "type": "string"
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P646": [
             {
-                "value": "/m/09d_r",
+                "value": "/m/09rwsm1",
                 "type": "string"
             }
         ],
-        "P910": [
+        "P1566": [
+            {
+                "value": "3394612",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "2407708",
+                "type": "string"
+            }
+        ],
+        "P1082": [
             {
                 "value": {
-                    "entity-type": "item",
-                    "numeric-id": 5741923,
-                    "id": "Q5741923"
+                    "amount": "+11413",
+                    "unit": "1"
                 },
-                "type": "wikibase-entityid"
+                "type": "quantity"
             }
         ],
-        "P1296": [
+        "P242": [
             {
-                "value": "0125273",
+                "value": "RioGrandedoNorte Municip Montanhas.svg",
                 "type": "string"
             }
         ],
-        "P1709": [
+        "P94": [
             {
-                "value": "http://dbpedia.org/ontology/Mountain",
-                "type": "string"
-            },
-            {
-                "value": "http://schema.org/Mountain",
+                "value": "Brasão de Montanhas 2.JPG",
                 "type": "string"
             }
         ],
-        "P1014": [
-            {
-                "value": "300008795",
-                "type": "string"
-            }
-        ],
-        "P935": [
-            {
-                "value": "Mountains",
-                "type": "string"
-            }
-        ],
-        "P1343": [
+        "P2046": [
             {
                 "value": {
-                    "entity-type": "item",
-                    "numeric-id": 2041543,
-                    "id": "Q2041543"
+                    "amount": "+82.214",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
                 },
-                "type": "wikibase-entityid"
+                "type": "quantity"
             }
         ],
-        "P1256": [
+        "P1081": [
             {
-                "value": "25H11",
-                "type": "string"
+                "value": {
+                    "amount": "+0.557",
+                    "unit": "1"
+                },
+                "type": "quantity"
             }
         ],
-        "P1424": [
+        "P47": [
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 15076798,
-                    "id": "Q15076798"
+                    "numeric-id": 1786891,
+                    "id": "Q1786891"
                 },
                 "type": "wikibase-entityid"
             },
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 5825897,
-                    "id": "Q5825897"
-                },
-                "type": "wikibase-entityid"
-            }
-        ],
-        "P1282": [
-            {
-                "value": "Tag:natural=peak",
-                "type": "string"
-            }
-        ],
-        "P508": [
-            {
-                "value": "9426",
-                "type": "string"
-            }
-        ],
-        "P2579": [
-            {
-                "value": {
-                    "entity-type": "item",
-                    "numeric-id": 52109,
-                    "id": "Q52109"
-                },
-                "type": "wikibase-entityid"
-            }
-        ],
-        "P3827": [
-            {
-                "value": "mountains",
-                "type": "string"
-            }
-        ],
-        "P1417": [
-            {
-                "value": "science/mountain-landform",
-                "type": "string"
-            }
-        ],
-        "P2910": [
-            {
-                "value": "Noun 154483 cc Franco Mateo mountain icon.svg",
-                "type": "string"
-            }
-        ],
-        "P1963": [
-            {
-                "value": {
-                    "entity-type": "property",
-                    "numeric-id": 3907,
-                    "id": "P3907"
-                },
-                "type": "wikibase-entityid"
-            },
-            {
-                "value": {
-                    "entity-type": "property",
-                    "numeric-id": 3109,
-                    "id": "P3109"
-                },
-                "type": "wikibase-entityid"
-            },
-            {
-                "value": {
-                    "entity-type": "property",
-                    "numeric-id": 3309,
-                    "id": "P3309"
-                },
-                "type": "wikibase-entityid"
-            },
-            {
-                "value": {
-                    "entity-type": "property",
-                    "numeric-id": 3513,
-                    "id": "P3513"
-                },
-                "type": "wikibase-entityid"
-            },
-            {
-                "value": {
-                    "entity-type": "property",
-                    "numeric-id": 3770,
-                    "id": "P3770"
-                },
-                "type": "wikibase-entityid"
-            },
-            {
-                "value": {
-                    "entity-type": "property",
-                    "numeric-id": 3507,
-                    "id": "P3507"
-                },
-                "type": "wikibase-entityid"
-            },
-            {
-                "value": {
-                    "entity-type": "property",
-                    "numeric-id": 3514,
-                    "id": "P3514"
-                },
-                "type": "wikibase-entityid"
-            },
-            {
-                "value": {
-                    "entity-type": "property",
-                    "numeric-id": 2660,
-                    "id": "P2660"
-                },
-                "type": "wikibase-entityid"
-            },
-            {
-                "value": {
-                    "entity-type": "property",
-                    "numeric-id": 4552,
-                    "id": "P4552"
-                },
-                "type": "wikibase-entityid"
-            }
-        ],
-        "P2354": [
-            {
-                "value": {
-                    "entity-type": "item",
-                    "numeric-id": 11985041,
-                    "id": "Q11985041"
-                },
-                "type": "wikibase-entityid"
-            }
-        ],
-        "P3916": [
-            {
-                "value": "concept13164",
-                "type": "string"
-            }
-        ],
-        "P1225": [
-            {
-                "value": "10647488",
-                "type": "string"
-            }
-        ],
-        "P2452": [
-            {
-                "value": "T.MT",
-                "type": "string"
-            }
-        ],
-        "P527": [
-            {
-                "value": {
-                    "entity-type": "item",
-                    "numeric-id": 12057306,
-                    "id": "Q12057306"
+                    "numeric-id": 2010372,
+                    "id": "Q2010372"
                 },
                 "type": "wikibase-entityid"
             },
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 207326,
-                    "id": "Q207326"
+                    "numeric-id": 1802859,
+                    "id": "Q1802859"
                 },
                 "type": "wikibase-entityid"
             }
         ],
-        "P2581": [
+        "P402": [
             {
-                "value": "00056068n",
+                "value": "301195",
                 "type": "string"
-            }
-        ],
-        "P3219": [
-            {
-                "value": "montagnes-geomorphologie",
-                "type": "string"
-            }
-        ],
-        "P5008": [
-            {
-                "value": {
-                    "entity-type": "item",
-                    "numeric-id": 5460604,
-                    "id": "Q5460604"
-                },
-                "type": "wikibase-entityid"
             }
         ]
     }

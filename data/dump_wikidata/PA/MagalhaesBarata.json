@@ -1,20 +1,10 @@
 {
-    "pageid": 11612176,
+    "pageid": 1936805,
     "ns": 0,
     "type": "item",
-    "id": "Q10307483",
+    "id": "Q2008546",
     "claims": {
-        "P31": [
-            {
-                "value": {
-                    "entity-type": "item",
-                    "numeric-id": 5,
-                    "id": "Q5"
-                },
-                "type": "wikibase-entityid"
-            }
-        ],
-        "P27": [
+        "P17": [
             {
                 "value": {
                     "entity-type": "item",
@@ -24,101 +14,113 @@
                 "type": "wikibase-entityid"
             }
         ],
-        "P21": [
+        "P625": [
+            {
+                "value": {
+                    "latitude": -0.795,
+                    "longitude": -47.597777777778,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P131": [
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 6581097,
-                    "id": "Q6581097"
+                    "numeric-id": 39517,
+                    "id": "Q39517"
                 },
                 "type": "wikibase-entityid"
             }
         ],
-        "P735": [
+        "P31": [
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 18115086,
-                    "id": "Q18115086"
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
                 },
                 "type": "wikibase-entityid"
             }
         ],
-        "P106": [
+        "P646": [
             {
-                "value": {
-                    "entity-type": "item",
-                    "numeric-id": 82955,
-                    "id": "Q82955"
-                },
-                "type": "wikibase-entityid"
-            }
-        ],
-        "P39": [
-            {
-                "value": {
-                    "entity-type": "item",
-                    "numeric-id": 18964326,
-                    "id": "Q18964326"
-                },
-                "type": "wikibase-entityid"
-            }
-        ],
-        "P570": [
-            {
-                "value": {
-                    "time": "+1959-05-29T00:00:00Z",
-                    "timezone": 0,
-                    "before": 0,
-                    "after": 0,
-                    "precision": 11,
-                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
-                },
-                "type": "time"
-            }
-        ],
-        "P1412": [
-            {
-                "value": {
-                    "entity-type": "item",
-                    "numeric-id": 5146,
-                    "id": "Q5146"
-                },
-                "type": "wikibase-entityid"
-            }
-        ],
-        "P937": [
-            {
-                "value": {
-                    "entity-type": "item",
-                    "numeric-id": 2844,
-                    "id": "Q2844"
-                },
-                "type": "wikibase-entityid"
-            }
-        ],
-        "P569": [
-            {
-                "value": {
-                    "time": "+1888-06-02T00:00:00Z",
-                    "timezone": 0,
-                    "before": 0,
-                    "after": 0,
-                    "precision": 11,
-                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
-                },
-                "type": "time"
-            }
-        ],
-        "P18": [
-            {
-                "value": "Magalhães Barata, Coronel, Interventor do Pará.tif",
+                "value": "/m/09rtqkp",
                 "type": "string"
             }
         ],
-        "P213": [
+        "P1566": [
             {
-                "value": "0000 0001 1234 9152",
+                "value": "6319419",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Magalhães Barata",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "1504109",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+8298",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Para Municip MagalhaesBarata.svg",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+50",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+324.788",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.597",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P281": [
+            {
+                "value": "68722-000",
+                "type": "string"
+            }
+        ],
+        "P402": [
+            {
+                "value": "185592",
                 "type": "string"
             }
         ]

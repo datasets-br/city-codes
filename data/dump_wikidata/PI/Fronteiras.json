@@ -1,168 +1,130 @@
 {
-    "pageid": 135116,
+    "pageid": 1991714,
     "ns": 0,
     "type": "item",
-    "id": "Q133346",
+    "id": "Q2064409",
     "claims": {
-        "P279": [
+        "P17": [
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 216200,
-                    "id": "Q216200"
-                },
-                "type": "wikibase-entityid"
-            },
-            {
-                "value": {
-                    "entity-type": "item",
-                    "numeric-id": 27555163,
-                    "id": "Q27555163"
+                    "numeric-id": 155,
+                    "id": "Q155"
                 },
                 "type": "wikibase-entityid"
             }
         ],
-        "P373": [
+        "P625": [
             {
-                "value": "Borders",
-                "type": "string"
+                "value": {
+                    "latitude": -7.0877777777778,
+                    "longitude": -40.615833333333,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
             }
         ],
-        "P910": [
+        "P131": [
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 8085493,
-                    "id": "Q8085493"
+                    "numeric-id": 42722,
+                    "id": "Q42722"
                 },
                 "type": "wikibase-entityid"
             }
         ],
-        "P349": [
+        "P31": [
             {
-                "value": "00566292",
-                "type": "string"
-            }
-        ],
-        "P227": [
-            {
-                "value": "4130793-8",
-                "type": "string"
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P646": [
             {
-                "value": "/m/01kt48",
+                "value": "/m/09rwly2",
                 "type": "string"
             }
         ],
-        "P1051": [
+        "P1566": [
             {
-                "value": "8518",
+                "value": "3399295",
                 "type": "string"
             }
         ],
-        "P1343": [
+        "P373": [
+            {
+                "value": "Fronteiras",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "2204303",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+11117",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Piaui Municip Fronteiras.svg",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+426",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+789.828",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.613",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 21002838,
-                    "id": "Q21002838"
-                },
-                "type": "wikibase-entityid"
-            },
-            {
-                "value": {
-                    "entity-type": "item",
-                    "numeric-id": 2657718,
-                    "id": "Q2657718"
-                },
-                "type": "wikibase-entityid"
-            },
-            {
-                "value": {
-                    "entity-type": "item",
-                    "numeric-id": 2041543,
-                    "id": "Q2041543"
+                    "numeric-id": 1811948,
+                    "id": "Q1811948"
                 },
                 "type": "wikibase-entityid"
             }
         ],
-        "P1296": [
+        "P402": [
             {
-                "value": "0268262",
-                "type": "string"
-            }
-        ],
-        "P935": [
-            {
-                "value": "Border",
-                "type": "string"
-            }
-        ],
-        "P268": [
-            {
-                "value": "11954113g",
-                "type": "string"
-            }
-        ],
-        "P244": [
-            {
-                "value": "sh85016091",
-                "type": "string"
-            }
-        ],
-        "P3417": [
-            {
-                "value": "Borders-geography",
-                "type": "string"
-            }
-        ],
-        "P508": [
-            {
-                "value": "6492",
-                "type": "string"
-            }
-        ],
-        "P3827": [
-            {
-                "value": "international-borders",
-                "type": "string"
-            }
-        ],
-        "P3612": [
-            {
-                "value": "sujet/frontieres",
-                "type": "string"
-            }
-        ],
-        "P1014": [
-            {
-                "value": "300387343",
-                "type": "string"
-            }
-        ],
-        "P3916": [
-            {
-                "value": "concept4271",
-                "type": "string"
-            }
-        ],
-        "P3219": [
-            {
-                "value": "la-frontiere",
-                "type": "string"
-            }
-        ],
-        "P4527": [
-            {
-                "value": "90368",
-                "type": "string"
-            }
-        ],
-        "P5198": [
-            {
-                "value": "294902384",
+                "value": "302823",
                 "type": "string"
             }
         ]

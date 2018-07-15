@@ -1,17 +1,19 @@
 {
-    "pageid": 5013997,
+    "pageid": 1583319,
     "ns": 0,
     "type": "item",
-    "id": "Q5244330",
+    "id": "Q1649466",
     "claims": {
-        "P31": [
+        "P625": [
             {
                 "value": {
-                    "entity-type": "item",
-                    "numeric-id": 4022,
-                    "id": "Q4022"
+                    "latitude": -13.578888888889,
+                    "longitude": -41.810833333333,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
                 },
-                "type": "wikibase-entityid"
+                "type": "globecoordinate"
             }
         ],
         "P17": [
@@ -24,48 +26,144 @@
                 "type": "wikibase-entityid"
             }
         ],
-        "P30": [
+        "P131": [
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 18,
-                    "id": "Q18"
+                    "numeric-id": 40430,
+                    "id": "Q40430"
                 },
                 "type": "wikibase-entityid"
             }
         ],
-        "P403": [
+        "P31": [
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 97,
-                    "id": "Q97"
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
                 },
                 "type": "wikibase-entityid"
             }
         ],
-        "P18": [
+        "P646": [
             {
-                "value": "Rio das Contas em Itacare.jpg",
+                "value": "/m/0bnr14",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3451192",
                 "type": "string"
             }
         ],
         "P373": [
             {
-                "value": "De Contas River",
+                "value": "Rio de Contas",
                 "type": "string"
             }
         ],
-        "P625": [
+        "P1585": [
+            {
+                "value": "2926707",
+                "type": "string"
+            }
+        ],
+        "P1082": [
             {
                 "value": {
-                    "latitude": -13.505521,
-                    "longitude": -41.900193,
-                    "altitude": null,
-                    "precision": 0.092386246372105,
-                    "globe": "http://www.wikidata.org/entity/Q2"
+                    "amount": "+13935",
+                    "unit": "1"
                 },
-                "type": "globecoordinate"
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+13616",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+13007",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Bahia Municip RiodeContas.svg",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Igsant.jpg",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+1050",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 29192940,
+                    "id": "Q29192940"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+1052.302",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.605",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1645077,
+                    "id": "Q1645077"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1793460,
+                    "id": "Q1793460"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "362406",
+                "type": "string"
             }
         ]
     }

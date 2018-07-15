@@ -7,7 +7,7 @@
 // CONFIGS
 $url_tpl = 'https://www.wikidata.org/w/api.php?action=wbgetentities&format=json&ids=';
 $UF='';
-$localCsv = false;
+$localCsv = true; //false;
 $stopAt=0;
 
 $saveFolder = realpath( dirname(__FILE__)."/../../data/dump_wikidata" );
@@ -16,8 +16,12 @@ $url = $localCsv
      : 'https://github.com/datasets-br/city-codes/raw/master/data/br-city-codes.csv'
 ;
 $fixErr = '';
+$filter_ibge=[];
 if ($argc>=2){
- $fixErr = ($argv[1]=='chk')? 'CHECK WIKIDATA': 'FIX-ERR';
+ if ($argc>3 && $argv[1]=='list-ibge') {
+    foreach($argv as $x) if (preg_match('/^\d+$/',$x))
+     	$filter_ibge[]=$x;
+ } else $fixErr = ($argv[1]=='chk')? 'CHECK WIKIDATA': 'FIX-ERR';
 }
 print "\n USANDO $fixErr $url";
 
@@ -29,12 +33,15 @@ if (($handle = fopen($url, "r")) !== FALSE) {
    for($i=0; ($row=fgetcsv($handle)) && (!$stopAt || $i<$stopAt); $i++)
       if ($i && (!$UF ||$row[1]==$UF)) {
         $idx = "$row[1]-".lex2filename($row[4]);
-        $R[$idx]=$row[2];
-        // cols  0=name, 1=state, 2=wdId, 3=idIBGE, 4=lexLabel
-        $R_ibge[$idx] = $row[3];
+	if ( count($filter_ibge)<2 || in_array($row[3],$filter_ibge) ) {
+		$R[$idx]=$row[2];
+		// cols  0=name, 1=state, 2=wdId, 3=idIBGE, 4=lexLabel
+		$R_ibge[$idx] = $row[3];
+	} // set R
       }
 } else
    exit("\nERRO ao abrir planilha das cidades em \n\t$url\n");
+
 
 if ($fixErr) {
   $err_IBGElst=[];
@@ -70,8 +77,12 @@ if ($fixErr) {
      $ERRs="\n---- ERROS BY TYPE:";
      foreach( array_count_values(array_values($err_IBGElst))  as $errType=>$num )
      	$ERRs .= "\n\tError-type-$errType, {$ERRtype[$errType]}: $num";
+     $lst_graves = [];
+     foreach($err_IBGElst as $ibge=>$err) if ($err>=4) $lst_graves[] = $ibge;
+     $lst_graves = "('".join("','",$lst_graves)."')";
      die("$ERRs\n".
-         "\nItens com falha por respectivo código IBGE=$lst".
+         "\nItens com falha por respectivo código IBGE= $lst".
+         "\n\nItens com falha mais grave = $lst_graves".
          "\n--- FIM ----\n"
      );
    }

@@ -1,146 +1,172 @@
 {
-    "pageid": 834,
+    "pageid": 24091418,
     "ns": 0,
     "type": "item",
-    "id": "Q566",
+    "id": "Q22060165",
     "claims": {
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "6319507",
+                "type": "string"
+            },
+            {
+                "value": "3472552",
+                "type": "string"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -11.43527,
+                    "longitude": -47.23635,
+                    "altitude": null,
+                    "precision": 1.0e-5,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            },
+            {
+                "value": {
+                    "latitude": -11.573888888889,
+                    "longitude": -47.17,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
         "P31": [
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 3249551,
-                    "id": "Q3249551"
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
                 },
                 "type": "wikibase-entityid"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+356",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
             },
             {
                 "value": {
+                    "amount": "+397",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
                     "entity-type": "item",
-                    "numeric-id": 3895768,
-                    "id": "Q3895768"
+                    "numeric-id": 43695,
+                    "id": "Q43695"
                 },
                 "type": "wikibase-entityid"
-            }
-        ],
-        "P373": [
-            {
-                "value": "Purgatory",
-                "type": "string"
-            }
-        ],
-        "P508": [
-            {
-                "value": "27178",
-                "type": "string"
-            }
-        ],
-        "P349": [
-            {
-                "value": "00576036",
-                "type": "string"
             }
         ],
         "P646": [
             {
-                "value": "/m/05whw",
+                "value": "/m/027vfdq",
                 "type": "string"
             }
         ],
-        "P361": [
+        "P373": [
+            {
+                "value": "Almas",
+                "type": "string"
+            }
+        ],
+        "P910": [
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 1084084,
-                    "id": "Q1084084"
+                    "numeric-id": 9524062,
+                    "id": "Q9524062"
                 },
                 "type": "wikibase-entityid"
             }
         ],
-        "P1051": [
+        "P1585": [
             {
-                "value": "7847",
+                "value": "1700400",
                 "type": "string"
             }
         ],
-        "P1014": [
-            {
-                "value": "300379822",
-                "type": "string"
-            }
-        ],
-        "P1417": [
-            {
-                "value": "topic/purgatory-Roman-Catholicism",
-                "type": "string"
-            }
-        ],
-        "P269": [
-            {
-                "value": "027634779",
-                "type": "string"
-            }
-        ],
-        "P227": [
-            {
-                "value": "4135409-6",
-                "type": "string"
-            }
-        ],
-        "P244": [
-            {
-                "value": "sh85109182",
-                "type": "string"
-            }
-        ],
-        "P950": [
-            {
-                "value": "XX526679",
-                "type": "string"
-            }
-        ],
-        "P268": [
-            {
-                "value": "119634018",
-                "type": "string"
-            }
-        ],
-        "P18": [
-            {
-                "value": "Heidelberg cpg 144 Elsässische Legenda Aurea 338r St. Patricks Fegefeuer.jpg",
-                "type": "string"
-            }
-        ],
-        "P3827": [
-            {
-                "value": "purgatory",
-                "type": "string"
-            }
-        ],
-        "P3417": [
-            {
-                "value": "Purgatory-place-between-heaven-and-hell",
-                "type": "string"
-            }
-        ],
-        "P3241": [
-            {
-                "value": "12575a",
-                "type": "string"
-            }
-        ],
-        "P3219": [
-            {
-                "value": "purgatoire",
-                "type": "string"
-            }
-        ],
-        "P1705": [
+        "P1082": [
             {
                 "value": {
-                    "text": "pūrgātōrium",
-                    "language": "la"
+                    "amount": "+7586",
+                    "unit": "1"
                 },
-                "type": "monolingualtext"
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Tocantins Municip Almas.svg",
+                "type": "string"
+            }
+        ],
+        "P421": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 6513,
+                    "id": "Q6513"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.638",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+4021.111",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1889": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 30625170,
+                    "id": "Q30625170"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "336768",
+                "type": "string"
             }
         ]
     }

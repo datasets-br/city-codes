@@ -1,91 +1,49 @@
 {
-    "pageid": 47746,
+    "pageid": 2017744,
     "ns": 0,
     "type": "item",
-    "id": "Q45581",
+    "id": "Q2090942",
     "claims": {
-        "P373": [
-            {
-                "value": "Archangel Michael",
-                "type": "string"
-            }
-        ],
-        "P244": [
-            {
-                "value": "n2001096929",
-                "type": "string"
-            }
-        ],
-        "P214": [
-            {
-                "value": "49524228",
-                "type": "string"
-            }
-        ],
-        "P227": [
-            {
-                "value": "118733591",
-                "type": "string"
-            }
-        ],
-        "P841": [
+        "P17": [
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 2882,
-                    "id": "Q2882"
+                    "numeric-id": 155,
+                    "id": "Q155"
                 },
                 "type": "wikibase-entityid"
             }
         ],
-        "P910": [
+        "P41": [
             {
-                "value": {
-                    "entity-type": "item",
-                    "numeric-id": 7461052,
-                    "id": "Q7461052"
-                },
-                "type": "wikibase-entityid"
-            }
-        ],
-        "P646": [
-            {
-                "value": "/m/01v6bw",
+                "value": "Bandeira de São Miguel (RN).png",
                 "type": "string"
             }
         ],
-        "P460": [
+        "P94": [
             {
-                "value": {
-                    "entity-type": "item",
-                    "numeric-id": 12735581,
-                    "id": "Q12735581"
-                },
-                "type": "wikibase-entityid"
-            }
-        ],
-        "P268": [
-            {
-                "value": "15124791g",
+                "value": "Brasão de São Miguel (RN).png",
                 "type": "string"
             }
         ],
-        "P411": [
+        "P625": [
             {
                 "value": {
-                    "entity-type": "item",
-                    "numeric-id": 43115,
-                    "id": "Q43115"
+                    "latitude": -6.2119444444444,
+                    "longitude": -38.496944444444,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
                 },
-                "type": "wikibase-entityid"
+                "type": "globecoordinate"
             }
         ],
-        "P21": [
+        "P131": [
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 6581097,
-                    "id": "Q6581097"
+                    "numeric-id": 43255,
+                    "id": "Q43255"
                 },
                 "type": "wikibase-entityid"
             }
@@ -94,133 +52,111 @@
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 178342,
-                    "id": "Q178342"
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
                 },
                 "type": "wikibase-entityid"
-            },
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/09rx5fm",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3388301",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "São Miguel (Rio Grande do Norte)",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "2412500",
+                "type": "string"
+            }
+        ],
+        "P1082": [
             {
                 "value": {
-                    "entity-type": "item",
-                    "numeric-id": 690175,
-                    "id": "Q690175"
+                    "amount": "+22157",
+                    "unit": "1"
                 },
-                "type": "wikibase-entityid"
-            },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
             {
-                "value": {
-                    "entity-type": "item",
-                    "numeric-id": 21011318,
-                    "id": "Q21011318"
-                },
-                "type": "wikibase-entityid"
-            },
-            {
-                "value": {
-                    "entity-type": "item",
-                    "numeric-id": 4306757,
-                    "id": "Q4306757"
-                },
-                "type": "wikibase-entityid"
+                "value": "RioGrandedoNorte Municip SaoMiguel.svg",
+                "type": "string"
             }
         ],
         "P18": [
             {
-                "value": "Guido Reni 031.jpg",
+                "value": "São Miguel (RN).JPG",
                 "type": "string"
             }
         ],
-        "P1422": [
+        "P3417": [
             {
-                "value": "1217",
+                "value": "São-Miguel-Rio-Grande-Do-Norte",
                 "type": "string"
             }
         ],
-        "P1006": [
-            {
-                "value": "160767962",
-                "type": "string"
-            }
-        ],
-        "P1441": [
+        "P2044": [
             {
                 "value": {
-                    "entity-type": "item",
-                    "numeric-id": 1845,
-                    "id": "Q1845"
+                    "amount": "+780",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
                 },
-                "type": "wikibase-entityid"
+                "type": "quantity"
             }
         ],
-        "P213": [
+        "P2046": [
             {
-                "value": "0000 0000 7995 0674",
-                "type": "string"
+                "value": {
+                    "amount": "+166.233",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
             }
         ],
-        "P269": [
+        "P1081": [
             {
-                "value": "165119047",
-                "type": "string"
+                "value": {
+                    "amount": "+0.606",
+                    "unit": "1"
+                },
+                "type": "quantity"
             }
         ],
-        "P3241": [
-            {
-                "value": "10275b",
-                "type": "string"
-            }
-        ],
-        "P1343": [
+        "P47": [
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 4173137,
-                    "id": "Q4173137"
+                    "numeric-id": 598179,
+                    "id": "Q598179"
                 },
                 "type": "wikibase-entityid"
             },
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 602358,
-                    "id": "Q602358"
-                },
-                "type": "wikibase-entityid"
-            },
-            {
-                "value": {
-                    "entity-type": "item",
-                    "numeric-id": 4086271,
-                    "id": "Q4086271"
+                    "numeric-id": 1802324,
+                    "id": "Q1802324"
                 },
                 "type": "wikibase-entityid"
             }
         ],
-        "P4553": [
+        "P402": [
             {
-                "value": "20388",
-                "type": "string"
-            }
-        ],
-        "P2959": [
-            {
-                "value": {
-                    "entity-type": "item",
-                    "numeric-id": 31196792,
-                    "id": "Q31196792"
-                },
-                "type": "wikibase-entityid"
-            }
-        ],
-        "P3219": [
-            {
-                "value": "michel",
-                "type": "string"
-            }
-        ],
-        "P1256": [
-            {
-                "value": "11I63(MICHAL)",
+                "value": "301178",
                 "type": "string"
             }
         ]

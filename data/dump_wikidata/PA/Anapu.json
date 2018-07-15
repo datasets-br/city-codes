@@ -1,19 +1,9 @@
 {
-    "pageid": 457610,
+    "pageid": 24091569,
     "ns": 0,
     "type": "item",
-    "id": "Q486142",
+    "id": "Q22060315",
     "claims": {
-        "P31": [
-            {
-                "value": {
-                    "entity-type": "item",
-                    "numeric-id": 3257686,
-                    "id": "Q3257686"
-                },
-                "type": "wikibase-entityid"
-            }
-        ],
         "P17": [
             {
                 "value": {
@@ -24,14 +14,167 @@
                 "type": "wikibase-entityid"
             }
         ],
+        "P1566": [
+            {
+                "value": "6319370",
+                "type": "string"
+            },
+            {
+                "value": "6316389",
+                "type": "string"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -3.88583,
+                    "longitude": -51.33796,
+                    "altitude": null,
+                    "precision": 1.0e-5,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            },
+            {
+                "value": {
+                    "latitude": -3.4719444444444,
+                    "longitude": -51.197777777778,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+154",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+96",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
         "P131": [
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 22060315,
-                    "id": "Q22060315"
+                    "numeric-id": 39517,
+                    "id": "Q39517"
                 },
                 "type": "wikibase-entityid"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira Anapu.png",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasao Anapu.png",
+                "type": "string"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/056pjl",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Anapu",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 9015010,
+                    "id": "Q9015010"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "1500859",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+26271",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Para Municip Anapu.svg",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Cidade Anapu.jpg",
+                "type": "string"
+            }
+        ],
+        "P421": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 6513,
+                    "id": "Q6513"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+11895.212",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.548",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P402": [
+            {
+                "value": "185572",
+                "type": "string"
             }
         ]
     }
