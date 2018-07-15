@@ -1,29 +1,9 @@
 {
-    "pageid": 771127,
+    "pageid": 24081563,
     "ns": 0,
     "type": "item",
-    "id": "Q818261",
+    "id": "Q22050101",
     "claims": {
-        "P460": [
-            {
-                "value": {
-                    "entity-type": "item",
-                    "numeric-id": 22050101,
-                    "id": "Q22050101"
-                },
-                "type": "wikibase-entityid"
-            }
-        ],
-        "P31": [
-            {
-                "value": {
-                    "entity-type": "item",
-                    "numeric-id": 3257686,
-                    "id": "Q3257686"
-                },
-                "type": "wikibase-entityid"
-            }
-        ],
         "P17": [
             {
                 "value": {
@@ -34,14 +14,227 @@
                 "type": "wikibase-entityid"
             }
         ],
+        "P1566": [
+            {
+                "value": "3472764",
+                "type": "string"
+            },
+            {
+                "value": "3472766",
+                "type": "string"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -12.0058,
+                    "longitude": -38.36146,
+                    "altitude": null,
+                    "precision": 1.0e-5,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            },
+            {
+                "value": {
+                    "latitude": -12.135555555556,
+                    "longitude": -38.418888888889,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+254",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+132",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+133",
+                    "lowerBound": "+131"
+                },
+                "type": "quantity"
+            }
+        ],
         "P131": [
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 22050101,
-                    "id": "Q22050101"
+                    "numeric-id": 40430,
+                    "id": "Q40430"
                 },
                 "type": "wikibase-entityid"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira de Alagoinhas.jpg",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasão de Alagoinhas.jpg",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Alagoinhas",
+                "type": "string"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/0fd41k",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 8876383,
+                    "id": "Q8876383"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1997": [
+            {
+                "value": "105575622808651",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.alagoinhas.ba.gov.br",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "2900702",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+130095",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+154495",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+141949",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Bahia Municip Alagoinhas.svg",
+                "type": "string"
+            }
+        ],
+        "P3417": [
+            {
+                "value": "Alagoinhas",
+                "type": "string"
+            }
+        ],
+        "P421": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 6513,
+                    "id": "Q6513"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+718.089",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.683",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 589992,
+                    "id": "Q589992"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1762371,
+                    "id": "Q1762371"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 22062859,
+                    "id": "Q22062859"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "362337",
+                "type": "string"
+            }
+        ],
+        "P1417": [
+            {
+                "value": "place/Alagoinhas",
+                "type": "string"
             }
         ]
     }

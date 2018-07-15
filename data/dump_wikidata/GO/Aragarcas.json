@@ -1,19 +1,9 @@
 {
-    "pageid": 587835,
+    "pageid": 24098311,
     "ns": 0,
     "type": "item",
-    "id": "Q624997",
+    "id": "Q22067256",
     "claims": {
-        "P31": [
-            {
-                "value": {
-                    "entity-type": "item",
-                    "numeric-id": 3257686,
-                    "id": "Q3257686"
-                },
-                "type": "wikibase-entityid"
-            }
-        ],
         "P17": [
             {
                 "value": {
@@ -24,14 +14,139 @@
                 "type": "wikibase-entityid"
             }
         ],
+        "P1566": [
+            {
+                "value": "6323909",
+                "type": "string"
+            },
+            {
+                "value": "3471840",
+                "type": "string"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+319",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+310",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
         "P131": [
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 22067256,
-                    "id": "Q22067256"
+                    "numeric-id": 41587,
+                    "id": "Q41587"
                 },
                 "type": "wikibase-entityid"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -15.897777777778,
+                    "longitude": -52.250833333333,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Aragarças",
+                "type": "string"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/0bfssm",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 9530562,
+                    "id": "Q9530562"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "5201702",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+18305",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Goias Municip Aragarcas.svg",
+                "type": "string"
+            }
+        ],
+        "P421": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 6513,
+                    "id": "Q6513"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+662.901",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.732",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P402": [
+            {
+                "value": "334509",
+                "type": "string"
             }
         ]
     }

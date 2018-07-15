@@ -1,19 +1,9 @@
 {
-    "pageid": 573406,
+    "pageid": 24098313,
     "ns": 0,
     "type": "item",
-    "id": "Q608983",
+    "id": "Q22067258",
     "claims": {
-        "P31": [
-            {
-                "value": {
-                    "entity-type": "item",
-                    "numeric-id": 3257686,
-                    "id": "Q3257686"
-                },
-                "type": "wikibase-entityid"
-            }
-        ],
         "P17": [
             {
                 "value": {
@@ -24,14 +14,153 @@
                 "type": "wikibase-entityid"
             }
         ],
+        "P1566": [
+            {
+                "value": "6323907",
+                "type": "string"
+            },
+            {
+                "value": "3471915",
+                "type": "string"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+724",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+538",
+                    "unit": "http://www.wikidata.org/entity/Q11573",
+                    "upperBound": "+539",
+                    "lowerBound": "+537"
+                },
+                "type": "quantity"
+            }
+        ],
         "P131": [
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 22067258,
-                    "id": "Q22067258"
+                    "numeric-id": 41587,
+                    "id": "Q41587"
                 },
                 "type": "wikibase-entityid"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -18.965,
+                    "longitude": -51.925833333333,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/0bfnyf",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Aporé",
+                "type": "string"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "5201504",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+3803",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Goias Municip Apore.svg",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira de Aporé.jpg",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "75825-000",
+                "type": "string"
+            }
+        ],
+        "P421": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 6513,
+                    "id": "Q6513"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.693",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+2900.344",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1805807,
+                    "id": "Q1805807"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "334549",
+                "type": "string"
             }
         ]
     }

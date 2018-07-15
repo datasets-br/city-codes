@@ -1,12 +1,8 @@
 {
-    "pageid": 24093993,
+    "pageid": 14655706,
     "ns": 0,
-    "redirects": {
-        "from": "Q2027342",
-        "to": "Q22062859"
-    },
     "type": "item",
-    "id": "Q22062859",
+    "id": "Q13109202",
     "claims": {
         "P17": [
             {
@@ -20,11 +16,11 @@
         ],
         "P1566": [
             {
-                "value": "6321075",
+                "value": "6322622",
                 "type": "string"
             },
             {
-                "value": "6318760",
+                "value": "3446625",
                 "type": "string"
             }
         ],
@@ -36,22 +32,28 @@
                     "id": "Q3184121"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 515,
+                    "id": "Q515"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P2044": [
             {
                 "value": {
-                    "amount": "+152",
+                    "amount": "+425",
                     "unit": "http://www.wikidata.org/entity/Q11573"
                 },
                 "type": "quantity"
             },
             {
                 "value": {
-                    "amount": "+121",
-                    "unit": "http://www.wikidata.org/entity/Q11573",
-                    "upperBound": "+122",
-                    "lowerBound": "+120"
+                    "amount": "+321",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
                 },
                 "type": "quantity"
             }
@@ -60,8 +62,8 @@
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 40430,
-                    "id": "Q40430"
+                    "numeric-id": 175,
+                    "id": "Q175"
                 },
                 "type": "wikibase-entityid"
             }
@@ -69,8 +71,8 @@
         "P625": [
             {
                 "value": {
-                    "latitude": -12.302777777778,
-                    "longitude": -38.642777777778,
+                    "latitude": -22.532777777778,
+                    "longitude": -52.167777777778,
                     "altitude": null,
                     "precision": 0.00027777777777778,
                     "globe": "http://www.wikidata.org/entity/Q2"
@@ -78,42 +80,42 @@
                 "type": "globecoordinate"
             }
         ],
-        "P646": [
+        "P373": [
             {
-                "value": "/m/09k7lkt",
+                "value": "Teodoro Sampaio (São Paulo)",
                 "type": "string"
             }
         ],
-        "P373": [
+        "P646": [
             {
-                "value": "Teodoro Sampaio (Bahia)",
+                "value": "/m/0g899c",
                 "type": "string"
             }
         ],
         "P1585": [
             {
-                "value": "2931400",
+                "value": "3554300",
                 "type": "string"
             }
         ],
         "P1082": [
             {
                 "value": {
-                    "amount": "+8884",
+                    "amount": "+20003",
                     "unit": "1"
                 },
                 "type": "quantity"
             },
             {
                 "value": {
-                    "amount": "+8013",
+                    "amount": "+22675",
                     "unit": "1"
                 },
                 "type": "quantity"
             },
             {
                 "value": {
-                    "amount": "+7895",
+                    "amount": "+21386",
                     "unit": "1"
                 },
                 "type": "quantity"
@@ -121,7 +123,19 @@
         ],
         "P242": [
             {
-                "value": "Bahia Municip TeodoroSampaio.svg",
+                "value": "SaoPaulo Municip TeodoroSampaio.svg",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira teodoro.jpg",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasão de Teodoro Sampaio-SP, Brasil.jpg",
                 "type": "string"
             }
         ],
@@ -129,26 +143,26 @@
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 29193564,
-                    "id": "Q29193564"
+                    "numeric-id": 28914078,
+                    "id": "Q28914078"
                 },
                 "type": "wikibase-entityid"
-            }
-        ],
-        "P2046": [
-            {
-                "value": {
-                    "amount": "+277.766",
-                    "unit": "http://www.wikidata.org/entity/Q712226"
-                },
-                "type": "quantity"
             }
         ],
         "P1081": [
             {
                 "value": {
-                    "amount": "+0.594",
+                    "amount": "+0.757",
                     "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+1556.670",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
                 },
                 "type": "quantity"
             }
@@ -157,15 +171,23 @@
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 22050101,
-                    "id": "Q22050101"
+                    "numeric-id": 1806340,
+                    "id": "Q1806340"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1795604,
+                    "id": "Q1795604"
                 },
                 "type": "wikibase-entityid"
             }
         ],
         "P402": [
             {
-                "value": "362330",
+                "value": "298490",
                 "type": "string"
             }
         ]

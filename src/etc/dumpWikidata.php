@@ -36,7 +36,8 @@ if (($handle = fopen($url, "r")) !== FALSE) {
 } else
    exit("\nERRO ao abrir planilha das cidades em \n\t$url\n");
 
-if ($fixErr) { 
+if ($fixErr) {
+  $err_IBGElst=[];
   foreach($R as $fname=>$wdId) {
 	  $fs = splitFilename($fname,true);
 	  if ($fixErr=='FIX-ERR') {
@@ -44,14 +45,36 @@ if ($fixErr) {
 	  } else {  // CHECK WIKIDATA
 		$idIbge = $R_ibge[$fname];
 		if ($idIbge && $fs[2]>50) {
-			if (!preg_grep("/$idIbge/i",file($fs[0]) )) {
-				print "\n -- Não achou ID IBGE ($idIbge) em $wdId: ";
-				print preg_grep("/P1585/i",file($fs[0]) )? 'CÓDIGO ERRADO!': 'não tem P1585.';
+			if ( !preg_grep("/Q155\"/",file($fs[0])) ) { // country (P17) Brazil (Q155)
+				print "\n -- Error-type-4, atribuição $wdId (ao IBGE $idIbge) não é nem sequer BR!";
+				$err_IBGElst[$idIbge]=4;
+			} elseif ( !preg_grep("/Q3184121/",file($fs[0])) ) { // instance of municipality of Brazil
+				print "\n -- Error-type-3, atribuição $wdId (ao IBGE $idIbge) não é município-BR!";
+				$err_IBGElst[$idIbge]=3;
+			} elseif ( !preg_grep("/$idIbge/i",file($fs[0])) ) {
+                                $aux  = preg_grep( "/P1585/i", file($fs[0]) );
+				$errType = 1+$aux;
+				$err_IBGElst[$idIbge]=$errType;
+				print "\n -- Error-type-$errType, não achou ID IBGE ($idIbge) em $wdId: ";
+				print $aux? 'CÓDIGO WD ERRADO!': 'não tem P1585.';
 			}
-		} else print "\n -- Falta arquivo $wdId para conferir ID IBGE ($idIbge).";
+		} else {
+			$err_IBGElst[$idIbge]=5;
+			print "\n -- Error-type-5, falta arquivo $wdId para conferir ID IBGE ($idIbge).";
+		}
 	  }// fixErr
 	} // for
-   if ($fixErr=='CHECK WIKIDATA') die("\n --- FIM ----\n");
+   if ($fixErr=='CHECK WIKIDATA') {
+     $ERRtype=['','códigos WD trocados', 'sem P1585','erros primários de WD','arquivos Wikidata faltando'];
+     $lst = "('".join("','",array_keys($err_IBGElst))."')";
+     $ERRs="\n---- ERROS BY TYPE:";
+     foreach( array_count_values(array_values($err_IBGElst))  as $errType=>$num )
+     	$ERRs .= "\n\tError-type-$errType, {$ERRtype[$errType]}: $num";
+     die("$ERRs\n".
+         "\nItens com falha por respectivo código IBGE=$lst".
+         "\n--- FIM ----\n"
+     );
+   }
 } //if fixErr
 // WGET AND SAVE JSON:
 $i=1;
