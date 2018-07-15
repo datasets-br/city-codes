@@ -65,4 +65,31 @@ Exemplo de verificação rápida:
 select count(*), count(distinct "wdId"), count(distinct "idIBGE"), count(distinct state||"lexLabel")
 from io.citybr;
 ```
-todas as contagens precisam ser iguais à primeira, senão é sinal de algo errado.
+
+Todas as contagens precisam ser iguais à primeira, senão é sinal de algo errado.
+
+### Comparando com outros dados do IBGE
+Nomes e UFs atribuidas podem ser conferidos. As diferenças surgem em alguns nomes, talvez por falta de atualização no IBGE:
+
+```
+SELECT c."idIBGE", c.name nome_suposto, c.state as uf, i.nome nome_ibge,
+   concat('[',"wdId",'](http://wikidata.org/entity/',"wdId",')') as Wikidata
+FROM io.citybr c INNER JOIN ibge i ON i.id::text=c."idIBGE"
+WHERE c.name!=i.nome;
+```
+
+ idIBGE  |       nome_suposto        | uf |        nome_ibge        |                    wikidata                     
+---------|---------------------------|----|-------------------------|-------------------------------------------------
+ 1720499 | São Valério da Natividade | TO | São Valério             | [Q1801542](http://wikidata.org/entity/Q1801542)
+ 2401305 | Campo Grande              | RN | Augusto Severo          | [Q1802671](http://wikidata.org/entity/Q1802671)
+ 2405306 | Boa Saúde                 | RN | Januário Cicco          | [Q1802783](http://wikidata.org/entity/Q1802783)
+ 2408409 | Olho-d'Água do Borges     | RN | Olho d'Água do Borges   | [Q1802421](http://wikidata.org/entity/Q1802421)
+ 2917334 | Iuiú                      | BA | Iuiu                    | [Q1795133](http://wikidata.org/entity/Q1795133)
+ 2922250 | Muquém de São Francisco   | BA | Muquém do São Francisco | [Q1793568](http://wikidata.org/entity/Q1793568)
+ 2928505 | Santa Teresinha           | BA | Santa Terezinha         | [Q1795259](http://wikidata.org/entity/Q1795259)
+ 3147808 | Passa-Vinte               | MG | Passa Vinte             | [Q1791701](http://wikidata.org/entity/Q1791701)
+ 3150539 | Pingo-d'Água              | MG | Pingo d'Água            | [Q1789616](http://wikidata.org/entity/Q1789616)
+ 3506607 | Biritiba-Mirim            | SP | Biritiba Mirim          | [Q518845](http://wikidata.org/entity/Q518845)
+ 3522158 | Itaóca                    | SP | Itaoca                  | [Q1760856](http://wikidata.org/entity/Q1760856)
+
+(11 registros)

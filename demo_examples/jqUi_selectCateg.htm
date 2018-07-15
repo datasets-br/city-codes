@@ -1,0 +1,394 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Datasets-BR city codes / DEMO</title>
+  <link rel="stylesheet" href="http://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+  <style>
+  .ui-autocomplete-category {
+    font-weight: bold;
+    padding: .2em .4em;
+    margin: .8em 0 .2em;
+    line-height: 1.5;
+  }
+  </style>
+  <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+  <script>
+  $( function() {
+
+    var accentMap = { "á":"a", "ã":"a", "á":"a", "ö":"o", "ó":"o" };
+    var normalize = function( term ) {
+      var ret = "";
+      for ( var i = 0; i < term.length; i++ ) {
+        ret += accentMap[ term.charAt(i) ] || term.charAt(i);
+      }
+      return ret;
+    };
+
+    $.widget( "custom.catcomplete", $.ui.autocomplete, {
+      _create: function() {
+        this._super();
+        this.widget().menu( "option", "items", "> :not(.ui-autocomplete-category)" );
+      },
+      _renderMenu: function( ul, items ) {
+        var that = this,
+          currentCategory = "";
+        $.each( items, function( index, item ) {
+          var li;
+          if ( item.category != currentCategory ) {
+            ul.append( "<li class='ui-autocomplete-category'>" + item.category + "</li>" );
+            currentCategory = item.category;
+          }
+          li = that._renderItemData( ul, item );
+          if ( item.category ) {
+            li.attr( "aria-label", item.category + " : " + item.label );
+          }
+        });
+      }
+    });
+    // usar dados de https://docs.google.com/spreadsheets/d/17rMCs5sSQo8wCv1jiicI5H_rZ88MMR6aZHWXZwUnXnU/edit?usp=sharing
+    var data = [
+	{ label: "Rio Branco", category: "AC" },
+	{ label: "Maceió", category: "AL" },
+	{ label: "Arapiraca", category: "AL" },
+	{ label: "Macapá", category: "AP" },
+	{ label: "Santana", category: "AP" },
+	{ label: "Manaus", category: "AM" },
+	{ label: "Parintins", category: "AM" },
+	{ label: "Salvador", category: "BA" },
+	{ label: "Feira de Santana", category: "BA" },
+	{ label: "Vitória da Conquista", category: "BA" },
+	{ label: "Camaçari", category: "BA" },
+	{ label: "Juazeiro", category: "BA" },
+	{ label: "Itabuna", category: "BA" },
+	{ label: "Lauro de Freitas", category: "BA" },
+	{ label: "Ilhéus", category: "BA" },
+	{ label: "Jequié", category: "BA" },
+	{ label: "Teixeira de Freitas", category: "BA" },
+	{ label: "Barreiras", category: "BA" },
+	{ label: "Alagoinhas", category: "BA" },
+	{ label: "Porto Seguro", category: "BA" },
+	{ label: "Simões Filho", category: "BA" },
+	{ label: "Paulo Afonso", category: "BA" },
+	{ label: "Eunápolis", category: "BA" },
+	{ label: "Santo Antônio de Jesus", category: "BA" },
+	{ label: "Fortaleza", category: "CE" },
+	{ label: "Caucaia", category: "CE" },
+	{ label: "Juazeiro do Norte", category: "CE" },
+	{ label: "Maracanaú", category: "CE" },
+	{ label: "Sobral", category: "CE" },
+	{ label: "Crato", category: "CE" },
+	{ label: "Itapipoca", category: "CE" },
+	{ label: "Maranguape", category: "CE" },
+	{ label: "Iguatu", category: "CE" },
+	{ label: "Brasília", category: "DF" },
+	{ label: "Serra", category: "ES" },
+	{ label: "Vila Velha", category: "ES" },
+	{ label: "Cariacica", category: "ES" },
+	{ label: "Vitória", category: "ES" },
+	{ label: "Cachoeiro de Itapemirim", category: "ES" },
+	{ label: "Linhares", category: "ES" },
+	{ label: "São Mateus", category: "ES" },
+	{ label: "Colatina", category: "ES" },
+	{ label: "Guarapari", category: "ES" },
+	{ label: "Goiânia", category: "GO" },
+	{ label: "Aparecida de Goiânia", category: "GO" },
+	{ label: "Anápolis", category: "GO" },
+	{ label: "Rio Verde", category: "GO" },
+	{ label: "Luziânia", category: "GO" },
+	{ label: "Águas Lindas de Goiás", category: "GO" },
+	{ label: "Valparaíso de Goiás", category: "GO" },
+	{ label: "Trindade", category: "GO" },
+	{ label: "Formosa", category: "GO" },
+	{ label: "Novo Gama", category: "GO" },
+	{ label: "Senador Canedo", category: "GO" },
+	{ label: "Itumbiara", category: "GO" },
+	{ label: "Catalão", category: "GO" },
+	{ label: "São Luís", category: "MA" },
+	{ label: "Imperatriz", category: "MA" },
+	{ label: "São José de Ribamar", category: "MA" },
+	{ label: "Timon", category: "MA" },
+	{ label: "Caxias", category: "MA" },
+	{ label: "Paço do Lumiar", category: "MA" },
+	{ label: "Codó", category: "MA" },
+	{ label: "Açailândia", category: "MA" },
+	{ label: "Bacabal", category: "MA" },
+	{ label: "Cuiabá", category: "MT" },
+	{ label: "Várzea Grande", category: "MT" },
+	{ label: "Rondonópolis", category: "MT" },
+	{ label: "Sinop", category: "MT" },
+	{ label: "Campo Grande", category: "MS" },
+	{ label: "Dourados", category: "MS" },
+	{ label: "Três Lagoas", category: "MS" },
+	{ label: "Corumbá", category: "MS" },
+	{ label: "Belo Horizonte", category: "MG" },
+	{ label: "Uberlândia", category: "MG" },
+	{ label: "Contagem", category: "MG" },
+	{ label: "Juiz de Fora", category: "MG" },
+	{ label: "Betim", category: "MG" },
+	{ label: "Montes Claros", category: "MG" },
+	{ label: "Ribeirão das Neves", category: "MG" },
+	{ label: "Uberaba", category: "MG" },
+	{ label: "Governador Valadares", category: "MG" },
+	{ label: "Ipatinga", category: "MG" },
+	{ label: "Sete Lagoas", category: "MG" },
+	{ label: "Divinópolis", category: "MG" },
+	{ label: "Santa Luzia", category: "MG" },
+	{ label: "Ibirité", category: "MG" },
+	{ label: "Poços de Caldas", category: "MG" },
+	{ label: "Patos de Minas", category: "MG" },
+	{ label: "Pouso Alegre", category: "MG" },
+	{ label: "Teófilo Otoni", category: "MG" },
+	{ label: "Barbacena", category: "MG" },
+	{ label: "Sabará", category: "MG" },
+	{ label: "Varginha", category: "MG" },
+	{ label: "Conselheiro Lafaiete", category: "MG" },
+	{ label: "Vespasiano", category: "MG" },
+	{ label: "Itabira", category: "MG" },
+	{ label: "Araguari", category: "MG" },
+	{ label: "Passos", category: "MG" },
+	{ label: "Ubá", category: "MG" },
+	{ label: "Coronel Fabriciano", category: "MG" },
+	{ label: "Muriaé", category: "MG" },
+	{ label: "Ituiutaba", category: "MG" },
+	{ label: "Araxá", category: "MG" },
+	{ label: "Lavras", category: "MG" },
+	{ label: "Curitiba", category: "PR" },
+	{ label: "Londrina", category: "PR" },
+	{ label: "Maringá", category: "PR" },
+	{ label: "Ponta Grossa", category: "PR" },
+	{ label: "Cascavel", category: "PR" },
+	{ label: "São José dos Pinhais", category: "PR" },
+	{ label: "Foz do Iguaçu", category: "PR" },
+	{ label: "Colombo", category: "PR" },
+	{ label: "Guarapuava", category: "PR" },
+	{ label: "Paranaguá", category: "PR" },
+	{ label: "Araucária", category: "PR" },
+	{ label: "Toledo", category: "PR" },
+	{ label: "Apucarana", category: "PR" },
+	{ label: "Pinhais", category: "PR" },
+	{ label: "Campo Largo", category: "PR" },
+	{ label: "Arapongas", category: "PR" },
+	{ label: "Almirante Tamandaré", category: "PR" },
+	{ label: "Umuarama", category: "PR" },
+	{ label: "Piraquara", category: "PR" },
+	{ label: "Cambé", category: "PR" },
+	{ label: "João Pessoa", category: "PB" },
+	{ label: "Campina Grande", category: "PB" },
+	{ label: "Santa Rita", category: "PB" },
+	{ label: "Patos", category: "PB" },
+	{ label: "Belém", category: "PA" },
+	{ label: "Ananindeua", category: "PA" },
+	{ label: "Santarém", category: "PA" },
+	{ label: "Marabá", category: "PA" },
+	{ label: "Parauapebas", category: "PA" },
+	{ label: "Castanhal", category: "PA" },
+	{ label: "Abaetetuba", category: "PA" },
+	{ label: "Cametá", category: "PA" },
+	{ label: "Marituba", category: "PA" },
+	{ label: "São Félix do Xingu", category: "PA" },
+	{ label: "Bragança", category: "PA" },
+	{ label: "Barcarena", category: "PA" },
+	{ label: "Altamira", category: "PA" },
+	{ label: "Tucuruí", category: "PA" },
+	{ label: "Paragominas", category: "PA" },
+	{ label: "Tailândia", category: "PA" },
+	{ label: "Recife", category: "PE" },
+	{ label: "Jaboatão dos Guararapes", category: "PE" },
+	{ label: "Olinda", category: "PE" },
+	{ label: "Caruaru", category: "PE" },
+	{ label: "Petrolina", category: "PE" },
+	{ label: "Paulista", category: "PE" },
+	{ label: "Cabo de Santo Agostinho", category: "PE" },
+	{ label: "Camaragibe", category: "PE" },
+	{ label: "Garanhuns", category: "PE" },
+	{ label: "Vitória de Santo Antão", category: "PE" },
+	{ label: "Igarassu", category: "PE" },
+	{ label: "São Lourenço da Mata", category: "PE" },
+	{ label: "Santa Cruz do Capibaribe", category: "PE" },
+	{ label: "Teresina", category: "PI" },
+	{ label: "Parnaíba", category: "PI" },
+	{ label: "Rio de Janeiro", category: "RJ" },
+	{ label: "São Gonçalo", category: "RJ" },
+	{ label: "Duque de Caxias", category: "RJ" },
+	{ label: "Nova Iguaçu", category: "RJ" },
+	{ label: "Niterói", category: "RJ" },
+	{ label: "Belford Roxo", category: "RJ" },
+	{ label: "Campos dos Goytacazes", category: "RJ" },
+	{ label: "São João de Meriti", category: "RJ" },
+	{ label: "Petrópolis", category: "RJ" },
+	{ label: "Volta Redonda", category: "RJ" },
+	{ label: "Macaé", category: "RJ" },
+	{ label: "Magé", category: "RJ" },
+	{ label: "Itaboraí", category: "RJ" },
+	{ label: "Cabo Frio", category: "RJ" },
+	{ label: "Angra dos Reis", category: "RJ" },
+	{ label: "Nova Friburgo", category: "RJ" },
+	{ label: "Barra Mansa", category: "RJ" },
+	{ label: "Teresópolis", category: "RJ" },
+	{ label: "Mesquita", category: "RJ" },
+	{ label: "Nilópolis", category: "RJ" },
+	{ label: "Maricá", category: "RJ" },
+	{ label: "Queimados", category: "RJ" },
+	{ label: "Rio das Ostras", category: "RJ" },
+	{ label: "Resende", category: "RJ" },
+	{ label: "Araruama", category: "RJ" },
+	{ label: "Itaguaí", category: "RJ" },
+	{ label: "Japeri", category: "RJ" },
+	{ label: "Natal", category: "RN" },
+	{ label: "Mossoró", category: "RN" },
+	{ label: "Parnamirim", category: "RN" },
+	{ label: "São Gonçalo do Amarante", category: "RN" },
+	{ label: "Porto Alegre", category: "RS" },
+	{ label: "Caxias do Sul", category: "RS" },
+	{ label: "Pelotas", category: "RS" },
+	{ label: "Canoas", category: "RS" },
+	{ label: "Santa Maria", category: "RS" },
+	{ label: "Gravataí", category: "RS" },
+	{ label: "Viamão", category: "RS" },
+	{ label: "Novo Hamburgo", category: "RS" },
+	{ label: "São Leopoldo", category: "RS" },
+	{ label: "Rio Grande", category: "RS" },
+	{ label: "Alvorada", category: "RS" },
+	{ label: "Passo Fundo", category: "RS" },
+	{ label: "Sapucaia do Sul", category: "RS" },
+	{ label: "Uruguaiana", category: "RS" },
+	{ label: "Santa Cruz do Sul", category: "RS" },
+	{ label: "Cachoeirinha", category: "RS" },
+	{ label: "Bagé", category: "RS" },
+	{ label: "Bento Gonçalves", category: "RS" },
+	{ label: "Erechim", category: "RS" },
+	{ label: "Porto Velho", category: "RO" },
+	{ label: "Ji-Paraná", category: "RO" },
+	{ label: "Ariquemes", category: "RO" },
+	{ label: "Boa Vista", category: "RR" },
+	{ label: "Joinville", category: "SC" },
+	{ label: "Florianópolis", category: "SC" },
+	{ label: "Blumenau", category: "SC" },
+	{ label: "São José", category: "SC" },
+	{ label: "Chapecó", category: "SC" },
+	{ label: "Itajaí", category: "SC" },
+	{ label: "Criciúma", category: "SC" },
+	{ label: "Jaraguá do Sul", category: "SC" },
+	{ label: "Palhoça", category: "SC" },
+	{ label: "Lages", category: "SC" },
+	{ label: "Balneário Camboriú", category: "SC" },
+	{ label: "Brusque", category: "SC" },
+	{ label: "Tubarão", category: "SC" },
+	{ label: "Aracaju", category: "SE" },
+	{ label: "Nossa Senhora do Socorro", category: "SE" },
+	{ label: "Lagarto", category: "SE" },
+	{ label: "São Paulo", category: "SP" },
+	{ label: "Guarulhos", category: "SP" },
+	{ label: "Campinas", category: "SP" },
+	{ label: "São Bernardo do Campo", category: "SP" },
+	{ label: "Santo André", category: "SP" },
+	{ label: "São José dos Campos", category: "SP" },
+	{ label: "Osasco", category: "SP" },
+	{ label: "Ribeirão Preto", category: "SP" },
+	{ label: "Sorocaba", category: "SP" },
+	{ label: "Mauá", category: "SP" },
+	{ label: "São José do Rio Preto", category: "SP" },
+	{ label: "Santos", category: "SP" },
+	{ label: "Mogi das Cruzes", category: "SP" },
+	{ label: "Diadema", category: "SP" },
+	{ label: "Jundiaí", category: "SP" },
+	{ label: "Piracicaba", category: "SP" },
+	{ label: "Carapicuíba", category: "SP" },
+	{ label: "Bauru", category: "SP" },
+	{ label: "Itaquaquecetuba", category: "SP" },
+	{ label: "São Vicente", category: "SP" },
+	{ label: "Franca", category: "SP" },
+	{ label: "Guarujá", category: "SP" },
+	{ label: "Praia Grande", category: "SP" },
+	{ label: "Taubaté", category: "SP" },
+	{ label: "Limeira", category: "SP" },
+	{ label: "Suzano", category: "SP" },
+	{ label: "Taboão da Serra", category: "SP" },
+	{ label: "Sumaré", category: "SP" },
+	{ label: "Barueri", category: "SP" },
+	{ label: "Embu das Artes", category: "SP" },
+	{ label: "São Carlos", category: "SP" },
+	{ label: "Indaiatuba", category: "SP" },
+	{ label: "Cotia", category: "SP" },
+	{ label: "Marília", category: "SP" },
+	{ label: "Americana", category: "SP" },
+	{ label: "Araraquara", category: "SP" },
+	{ label: "Jacareí", category: "SP" },
+	{ label: "Itapevi", category: "SP" },
+	{ label: "Presidente Prudente", category: "SP" },
+	{ label: "Hortolândia", category: "SP" },
+	{ label: "Rio Claro", category: "SP" },
+	{ label: "Araçatuba", category: "SP" },
+	{ label: "Santa Bárbara do Oeste", category: "SP" },
+	{ label: "Ferraz de Vasconcelos", category: "SP" },
+	{ label: "Francisco Morato", category: "SP" },
+	{ label: "Itapecerica da Serra", category: "SP" },
+	{ label: "Itu", category: "SP" },
+	{ label: "Bragança Paulista", category: "SP" },
+	{ label: "Pindamonhangaba", category: "SP" },
+	{ label: "Itapetininga", category: "SP" },
+	{ label: "São Caetano do Sul", category: "SP" },
+	{ label: "Franco da Rocha", category: "SP" },
+	{ label: "Mogi Guaçu", category: "SP" },
+	{ label: "Jaú", category: "SP" },
+	{ label: "Botucatu", category: "SP" },
+	{ label: "Atibaia", category: "SP" },
+	{ label: "Santana de Parnaíba", category: "SP" },
+	{ label: "Araras", category: "SP" },
+	{ label: "Cubatão", category: "SP" },
+	{ label: "Valinhos", category: "SP" },
+	{ label: "Sertãozinho", category: "SP" },
+	{ label: "Ribeirão Pires", category: "SP" },
+	{ label: "Jandira", category: "SP" },
+	{ label: "Birigui", category: "SP" },
+	{ label: "Catanduva", category: "SP" },
+	{ label: "Barretos", category: "SP" },
+	{ label: "Guaratinguetá", category: "SP" },
+	{ label: "Votorantim", category: "SP" },
+	{ label: "Tatuí", category: "SP" },
+	{ label: "Várzea Paulista", category: "SP" },
+	{ label: "Caraguatatuba", category: "SP" },
+	{ label: "Itatiba", category: "SP" },
+	{ label: "Salto", category: "SP" },
+	{ label: "Poá", category: "SP" },
+	{ label: "Ourinhos", category: "SP" },
+	{ label: "Assis", category: "SP" },
+	{ label: "Paulínia", category: "SP" },
+	{ label: "Leme", category: "SP" },
+	{ label: "Palmas", category: "TO" },
+	{ label: "Araguaína", category: "TO" }
+    ];
+
+    $( "#search" ).catcomplete({
+      delay: 0,
+      // source: data
+      source: function( request, response ) {
+        var matcher = new RegExp( $.ui.autocomplete.escapeRegex( request.term ), "i" );
+        response( $.grep( data, function( value ) {
+          value = value.label || value.value || value;
+          return matcher.test( value ) || matcher.test( normalize( value ) );
+        }) );
+      }
+
+    });
+  } );
+  </script>
+</head>
+<body>
+<p><i>Plug-in</i>: <a href="https://jqueryui.com/autocomplete/#categories">jQuery UI/autocomplete/categories</a> com busca sem acento.</p>
+<p><i>Proposta</i>: permitir a entrada de dados por digitação de iniciais ou partes da palavra, e retornar dados relativos ao item selecionado, que ajudem o usuário a refletir sobre sua escolha.</p>
+
+<h2>Cidades brasileiras com mais de 1 milhão de habitantes</h2>
+<label for="search">Nome da cidade: &nbsp; </label>
+<input id="search">
+ 
+<p>Falta microservice rodando para retornar os dados depois da seleção.</p>
+
+<hr/>
+<p>[<a href="index.htm">VOLTAR</a>]</p>
+
+</body>
+</html>

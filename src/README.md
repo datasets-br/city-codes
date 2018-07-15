@@ -1,5 +1,12 @@
 ## Preparation
 
+Main to redo:
+```sh
+sh src/makeIO.sh
+```
+
+Original (first) preparation:
+
 ```sh
 php src/pack2sql.php
 sh src/cache/makeTmp.sh

@@ -1,19 +1,19 @@
 
 -- See issue #11
 -- ORDER BY std_collate(name), name, state
-CREATE FUNCTION std_collate(
+CREATE or replace FUNCTION std_collate(
   -- ver
    p_name text, p_syn_type text DEFAULT NULL
 ) RETURNS text AS $f$
     SELECT CASE
      WHEN $2 IS NULL THEN '0'
-     WHEN $2='alt canonico' OR $2='alt oficial' THEN '1'
+     WHEN substr($2,1,11)='alt canonic' OR substr($2,1,11)='alt oficial' THEN '1'
      WHEN substr($2,1,3)='err' THEN '8'
      ELSE '5'
    END ||  regexp_replace(p_name, E'[ \'\-]', '0', 'g')
 $f$ language SQL IMMUTABLE;
 
-CREATE FUNCTION cepmask_fromrange(p_x1 text, p_x2 text) RETURNS text AS $f$
+CREATE or replace FUNCTION cepmask_fromrange(p_x1 text, p_x2 text) RETURNS text AS $f$
   SELECT CASE
     WHEN dif='' THEN rpad(pfx, 8, '.') -- 1668 cases
     WHEN dif='4999' THEN rpad(pfx_h, 7, '.') --  1522 cases
@@ -30,7 +30,7 @@ CREATE FUNCTION cepmask_fromrange(p_x1 text, p_x2 text) RETURNS text AS $f$
 $f$ language SQL IMMUTABLE;
 
 
-CREATE FUNCTION extract_common_prefix(text,text) RETURNS text AS $f$
+CREATE or replace FUNCTION extract_common_prefix(text,text) RETURNS text AS $f$
 -- usada para capturar prefixos de intervamos de CEP, e outros.
 DECLARE
   i int;
