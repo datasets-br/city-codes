@@ -52,33 +52,42 @@ if ($fixErr) {
 	  } else {  // CHECK WIKIDATA
 		$idIbge = $R_ibge[$fname];
 		if ($idIbge && $fs[2]>50) {
-			if ( !preg_grep("/Q155\"/",file($fs[0])) ) { // country (P17) Brazil (Q155)
-				print "\n -- Error-type-4, atribuição $wdId (ao IBGE $idIbge) não é nem sequer BR!";
-				$err_IBGElst[$idIbge]=4;
+			if ( !preg_grep("/\"Q155\"/",file($fs[0])) ) { // country (P17) Brazil (Q155)
+				print "\n -- Error-type-8, atribuição $wdId (ao IBGE $idIbge) não é nem sequer BR!";
+				$err_IBGElst[$idIbge]=8;
 			} elseif ( !preg_grep("/Q3184121/",file($fs[0])) ) { // instance of municipality of Brazil
-				print "\n -- Error-type-3, atribuição $wdId (ao IBGE $idIbge) não é município-BR!";
-				$err_IBGElst[$idIbge]=3;
-			} elseif ( !preg_grep("/$idIbge/i",file($fs[0])) ) {
-                                $aux  = preg_grep( "/P1585/i", file($fs[0]) );
+				print "\n -- Error-type-7, atribuição $wdId (ao IBGE $idIbge) não é município-BR!";
+				$err_IBGElst[$idIbge]=7;
+			} elseif ( !preg_grep("/$idIbge/",file($fs[0])) ) {
+                                $aux  = preg_grep( "/\"P1585\"/i", file($fs[0]) );
 				$errType = 1+$aux;
 				$err_IBGElst[$idIbge]=$errType;
 				print "\n -- Error-type-$errType, não achou ID IBGE ($idIbge) em $wdId: ";
 				print $aux? 'CÓDIGO WD ERRADO!': 'não tem P1585.';
+			} elseif ( !preg_grep("/\"P131\"/",file($fs[0])) ) { // vincula cidade com seu estado
+				print "\n -- Error-type-3, sem estado em $wdId (IBGE $idIbge)";
+				$err_IBGElst[$idIbge]=3;
+			} elseif ( !preg_grep("/\"P473\"/",file($fs[0])) ) { // area code (DDD), pre-requisitos são P131 e country (Q155)
+				print "\n -- Error-type-4, sem DDD em $wdId (IBGE $idIbge)";
+				$err_IBGElst[$idIbge]=4;
 			}
 		} else {
-			$err_IBGElst[$idIbge]=5;
-			print "\n -- Error-type-5, falta arquivo $wdId para conferir ID IBGE ($idIbge).";
+			$err_IBGElst[$idIbge]=9;
+			print "\n -- Error-type-9, falta arquivo $wdId para conferir ID IBGE ($idIbge).";
 		}
 	  }// fixErr
 	} // for
    if ($fixErr=='CHECK WIKIDATA') {
-     $ERRtype=['','códigos WD trocados', 'sem P1585','erros primários de WD','arquivos Wikidata faltando'];
+     $ERRtype=[
+	1=>'códigos WD trocados', 2=>'sem P1585',3=>'faltou P131 do estado', 4=>'faltou DDD',
+        7=>'erros primários de WD', 8=>'arquivo Wikidata estranho', 9=>'sem arquivo Wikidata'
+     ];
      $lst = "('".join("','",array_keys($err_IBGElst))."')";
      $ERRs="\n---- ERROS BY TYPE:";
      foreach( array_count_values(array_values($err_IBGElst))  as $errType=>$num )
      	$ERRs .= "\n\tError-type-$errType, {$ERRtype[$errType]}: $num";
      $lst_graves = [];
-     foreach($err_IBGElst as $ibge=>$err) if ($err>=4) $lst_graves[] = $ibge;
+     foreach($err_IBGElst as $ibge=>$err) if ($err>=8) $lst_graves[] = $ibge;
      $lst_graves = "('".join("','",$lst_graves)."')";
      die("$ERRs\n".
          "\nItens com falha por respectivo código IBGE= $lst".
