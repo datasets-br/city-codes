@@ -20,6 +20,14 @@
                     "id": "Q3184121"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 5119,
+                    "id": "Q5119"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P131": [
@@ -887,12 +895,6 @@
                 "type": "wikibase-entityid"
             }
         ],
-        "P213": [
-            {
-                "value": "0000 0001 2195 627X",
-                "type": "string"
-            }
-        ],
         "P18": [
             {
                 "value": "Montagem Rio de Janeiro.jpg",
@@ -1023,10 +1025,6 @@
             }
         ],
         "P402": [
-            {
-                "value": "57963",
-                "type": "string"
-            },
             {
                 "value": "2697338",
                 "type": "string"
@@ -1247,6 +1245,18 @@
         "P473": [
             {
                 "value": "21",
+                "type": "string"
+            }
+        ],
+        "P213": [
+            {
+                "value": "0000 0001 2195 627X",
+                "type": "string"
+            }
+        ],
+        "P5573": [
+            {
+                "value": "95",
                 "type": "string"
             }
         ]

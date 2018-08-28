@@ -106,7 +106,7 @@
         "P1081": [
             {
                 "value": {
-                    "amount": "+0.628",
+                    "amount": "+0.623",
                     "unit": "1"
                 },
                 "type": "quantity"
@@ -131,6 +131,12 @@
         "P473": [
             {
                 "value": "86",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Miguel Leão Brasão.jpg",
                 "type": "string"
             }
         ]

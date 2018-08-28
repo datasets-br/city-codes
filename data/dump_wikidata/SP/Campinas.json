@@ -247,12 +247,6 @@
                 "type": "string"
             }
         ],
-        "P268": [
-            {
-                "value": "119921950",
-                "type": "string"
-            }
-        ],
         "P856": [
             {
                 "value": "http://www.campinas.sp.gov.br",
@@ -394,6 +388,18 @@
         "P473": [
             {
                 "value": "19",
+                "type": "string"
+            }
+        ],
+        "P268": [
+            {
+                "value": "119921950",
+                "type": "string"
+            }
+        ],
+        "P1417": [
+            {
+                "value": "place/Campinas",
                 "type": "string"
             }
         ]

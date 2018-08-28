@@ -22,7 +22,7 @@
         ],
         "P373": [
             {
-                "value": "Piracicaba",
+                "value": "Piracicaba (municipality)",
                 "type": "string"
             }
         ],
@@ -84,24 +84,8 @@
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 515,
-                    "id": "Q515"
-                },
-                "type": "wikibase-entityid"
-            },
-            {
-                "value": {
-                    "entity-type": "item",
                     "numeric-id": 3184121,
                     "id": "Q3184121"
-                },
-                "type": "wikibase-entityid"
-            },
-            {
-                "value": {
-                    "entity-type": "item",
-                    "numeric-id": 486972,
-                    "id": "Q486972"
                 },
                 "type": "wikibase-entityid"
             }

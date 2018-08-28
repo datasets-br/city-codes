@@ -167,6 +167,16 @@
                 "value": "32",
                 "type": "string"
             }
+        ],
+        "P138": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 527112,
+                    "id": "Q527112"
+                },
+                "type": "wikibase-entityid"
+            }
         ]
     }
 }

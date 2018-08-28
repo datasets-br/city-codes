@@ -92,12 +92,6 @@
                 "type": "string"
             }
         ],
-        "P268": [
-            {
-                "value": "133295482",
-                "type": "string"
-            }
-        ],
         "P2044": [
             {
                 "value": {
@@ -216,6 +210,43 @@
             {
                 "value": "51",
                 "type": "string"
+            }
+        ],
+        "P268": [
+            {
+                "value": "133295482",
+                "type": "string"
+            }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1824-00-00T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 9,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P1705": [
+            {
+                "value": {
+                    "text": "São Leopoldo",
+                    "language": "pt"
+                },
+                "type": "monolingualtext"
+            }
+        ],
+        "P1448": [
+            {
+                "value": {
+                    "text": "São Leopoldo",
+                    "language": "pt"
+                },
+                "type": "monolingualtext"
             }
         ]
     }

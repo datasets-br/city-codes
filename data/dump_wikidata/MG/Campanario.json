@@ -138,6 +138,16 @@
                 "value": "314776",
                 "type": "string"
             }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 32397714,
+                    "id": "Q32397714"
+                },
+                "type": "wikibase-entityid"
+            }
         ]
     }
 }

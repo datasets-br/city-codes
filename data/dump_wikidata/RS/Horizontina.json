@@ -4,12 +4,6 @@
     "type": "item",
     "id": "Q785177",
     "claims": {
-        "P158": [
-            {
-                "value": "Brasão de Horizontina.jpg",
-                "type": "string"
-            }
-        ],
         "P17": [
             {
                 "value": {
@@ -179,6 +173,12 @@
         "P473": [
             {
                 "value": "55",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasão de Horizontina.jpg",
                 "type": "string"
             }
         ]

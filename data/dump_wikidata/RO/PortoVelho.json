@@ -283,6 +283,16 @@
                 "value": "69",
                 "type": "string"
             }
+        ],
+        "P421": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 5762,
+                    "id": "Q5762"
+                },
+                "type": "wikibase-entityid"
+            }
         ]
     }
 }

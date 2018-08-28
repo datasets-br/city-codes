@@ -171,6 +171,22 @@
                 "value": "297619",
                 "type": "string"
             }
+        ],
+        "P5573": [
+            {
+                "value": "7368",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 6203075,
+                    "id": "Q6203075"
+                },
+                "type": "wikibase-entityid"
+            }
         ]
     }
 }

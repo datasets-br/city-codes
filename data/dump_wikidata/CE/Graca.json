@@ -56,6 +56,10 @@
             {
                 "value": "3398869",
                 "type": "string"
+            },
+            {
+                "value": "6324291",
+                "type": "string"
             }
         ],
         "P373": [
@@ -107,6 +111,15 @@
             {
                 "value": "88",
                 "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+230",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
             }
         ]
     }

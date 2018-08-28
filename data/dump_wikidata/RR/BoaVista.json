@@ -203,6 +203,14 @@
                     "id": "Q16496723"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 9086139,
+                    "id": "Q9086139"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P910": [
@@ -324,6 +332,26 @@
             {
                 "value": "place/Boa-Vista-Roraima-Brazil",
                 "type": "string"
+            }
+        ],
+        "P1792": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 28427844,
+                    "id": "Q28427844"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1464": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 32331803,
+                    "id": "Q32331803"
+                },
+                "type": "wikibase-entityid"
             }
         ]
     }

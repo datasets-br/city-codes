@@ -1,10 +1,6 @@
 {
     "pageid": 24093989,
     "ns": 0,
-    "redirects": {
-        "from": "Q598704",
-        "to": "Q22062855"
-    },
     "type": "item",
     "id": "Q22062855",
     "claims": {
@@ -173,6 +169,12 @@
         "P402": [
             {
                 "value": "362383",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Caldasdojorro.JPG",
                 "type": "string"
             }
         ]

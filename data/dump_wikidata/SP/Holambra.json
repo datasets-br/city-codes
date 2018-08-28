@@ -100,12 +100,6 @@
                 "type": "wikibase-entityid"
             }
         ],
-        "P268": [
-            {
-                "value": "131636549",
-                "type": "string"
-            }
-        ],
         "P18": [
             {
                 "value": "Portal Holambra.jpg",
@@ -267,6 +261,12 @@
         "P473": [
             {
                 "value": "19",
+                "type": "string"
+            }
+        ],
+        "P268": [
+            {
+                "value": "131636549",
                 "type": "string"
             }
         ]

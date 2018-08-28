@@ -1109,10 +1109,6 @@
         ],
         "P473": [
             {
-                "value": "05511",
-                "type": "string"
-            },
-            {
                 "value": "11",
                 "type": "string"
             }
@@ -1346,6 +1342,12 @@
                     "id": "Q1862264"
                 },
                 "type": "wikibase-entityid"
+            }
+        ],
+        "P5573": [
+            {
+                "value": "97",
+                "type": "string"
             }
         ]
     }

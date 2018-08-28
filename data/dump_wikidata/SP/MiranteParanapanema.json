@@ -157,6 +157,22 @@
                 "value": "18",
                 "type": "string"
             }
+        ],
+        "P18": [
+            {
+                "value": "Igreja - panoramio (6).jpg",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 47212759,
+                    "id": "Q47212759"
+                },
+                "type": "wikibase-entityid"
+            }
         ]
     }
 }

@@ -74,12 +74,6 @@
                 "type": "wikibase-entityid"
             }
         ],
-        "P268": [
-            {
-                "value": "12429126p",
-                "type": "string"
-            }
-        ],
         "P1281": [
             {
                 "value": "428564",
@@ -185,6 +179,12 @@
         "P473": [
             {
                 "value": "54",
+                "type": "string"
+            }
+        ],
+        "P268": [
+            {
+                "value": "12429126p",
                 "type": "string"
             }
         ]

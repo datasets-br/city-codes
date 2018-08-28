@@ -106,6 +106,10 @@
             {
                 "value": "3468551",
                 "type": "string"
+            },
+            {
+                "value": "6319228",
+                "type": "string"
             }
         ],
         "P18": [
@@ -145,6 +149,13 @@
             {
                 "value": {
                     "amount": "+118",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+223",
                     "unit": "http://www.wikidata.org/entity/Q11573"
                 },
                 "type": "quantity"

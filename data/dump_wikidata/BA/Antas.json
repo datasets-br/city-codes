@@ -1,10 +1,6 @@
 {
     "pageid": 24094322,
     "ns": 0,
-    "redirects": {
-        "from": "Q2014732",
-        "to": "Q22063195"
-    },
     "type": "item",
     "id": "Q22063195",
     "claims": {
@@ -180,6 +176,12 @@
         "P402": [
             {
                 "value": "362239",
+                "type": "string"
+            }
+        ],
+        "P473": [
+            {
+                "value": "75",
                 "type": "string"
             }
         ]

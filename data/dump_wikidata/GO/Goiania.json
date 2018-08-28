@@ -256,12 +256,6 @@
                 "type": "string"
             }
         ],
-        "P268": [
-            {
-                "value": "13163655n",
-                "type": "string"
-            }
-        ],
         "P2044": [
             {
                 "value": {
@@ -307,9 +301,7 @@
             {
                 "value": {
                     "amount": "+789000000",
-                    "unit": "http://www.wikidata.org/entity/Q25343",
-                    "upperBound": "+789000000",
-                    "lowerBound": "+789000000"
+                    "unit": "http://www.wikidata.org/entity/Q25343"
                 },
                 "type": "quantity"
             }
@@ -449,6 +441,18 @@
                     "id": "Q53935073"
                 },
                 "type": "wikibase-entityid"
+            }
+        ],
+        "P268": [
+            {
+                "value": "13163655n",
+                "type": "string"
+            }
+        ],
+        "P5573": [
+            {
+                "value": "6488",
+                "type": "string"
             }
         ]
     }

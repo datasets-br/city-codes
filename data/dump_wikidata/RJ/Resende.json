@@ -108,12 +108,6 @@
                 "type": "wikibase-entityid"
             }
         ],
-        "P268": [
-            {
-                "value": "13536584r",
-                "type": "string"
-            }
-        ],
         "P856": [
             {
                 "value": "http://www.resende.rj.gov.br/",
@@ -223,6 +217,12 @@
         "P473": [
             {
                 "value": "24",
+                "type": "string"
+            }
+        ],
+        "P268": [
+            {
+                "value": "13536584r",
                 "type": "string"
             }
         ]

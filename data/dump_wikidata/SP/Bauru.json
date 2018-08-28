@@ -140,12 +140,6 @@
                 "type": "string"
             }
         ],
-        "P268": [
-            {
-                "value": "137519236",
-                "type": "string"
-            }
-        ],
         "P2044": [
             {
                 "value": {
@@ -207,6 +201,10 @@
         "P856": [
             {
                 "value": "http://www.bauru.sp.gov.br/",
+                "type": "string"
+            },
+            {
+                "value": "https://bauru.com.br",
                 "type": "string"
             }
         ],
@@ -320,6 +318,12 @@
         "P402": [
             {
                 "value": "298315",
+                "type": "string"
+            }
+        ],
+        "P268": [
+            {
+                "value": "137519236",
                 "type": "string"
             }
         ]

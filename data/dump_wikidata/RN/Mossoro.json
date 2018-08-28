@@ -80,12 +80,6 @@
                 "type": "string"
             }
         ],
-        "P268": [
-            {
-                "value": "119425147",
-                "type": "string"
-            }
-        ],
         "P2044": [
             {
                 "value": {
@@ -246,6 +240,22 @@
             {
                 "value": "84",
                 "type": "string"
+            }
+        ],
+        "P268": [
+            {
+                "value": "119425147",
+                "type": "string"
+            }
+        ],
+        "P1464": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 32332493,
+                    "id": "Q32332493"
+                },
+                "type": "wikibase-entityid"
             }
         ]
     }

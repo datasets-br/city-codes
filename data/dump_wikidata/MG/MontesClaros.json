@@ -228,6 +228,22 @@
                 "value": "38",
                 "type": "string"
             }
+        ],
+        "P1792": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 32074285,
+                    "id": "Q32074285"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1417": [
+            {
+                "value": "place/Montes-Claros",
+                "type": "string"
+            }
         ]
     }
 }

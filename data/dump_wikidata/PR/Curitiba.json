@@ -451,12 +451,6 @@
                 "type": "wikibase-entityid"
             }
         ],
-        "P268": [
-            {
-                "value": "11863391m",
-                "type": "string"
-            }
-        ],
         "P856": [
             {
                 "value": "http://www.curitiba.pr.gov.br/",
@@ -488,12 +482,6 @@
         "P2002": [
             {
                 "value": "Curitiba_PMC",
-                "type": "string"
-            }
-        ],
-        "P949": [
-            {
-                "value": "000976077",
                 "type": "string"
             }
         ],
@@ -682,6 +670,24 @@
         "P2924": [
             {
                 "value": "2125515",
+                "type": "string"
+            }
+        ],
+        "P268": [
+            {
+                "value": "11863391m",
+                "type": "string"
+            }
+        ],
+        "P5573": [
+            {
+                "value": "5481",
+                "type": "string"
+            }
+        ],
+        "P949": [
+            {
+                "value": "000976077",
                 "type": "string"
             }
         ]
