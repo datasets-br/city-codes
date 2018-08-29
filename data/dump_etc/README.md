@@ -1,4 +1,15 @@
+((REVISAR))
+
 Preparo dos dados Anatel e DDD
+
+```sh
+psql -h remotehost -d remote_mydb -U myuser -c " \
+   COPY (SELECT * FROM dataset.vjmeta_summary) TO STDOUT \
+   " > ./relative_path/file.json
+```
+Revisar se dá para fazer a mesma coisa (STDIN) com  FOREGIN.
+
+----
 
 ## Carga a partir do PDF Anatel2013
 
@@ -93,3 +104,26 @@ WHERE c.name!=i.nome;
  3522158 | Itaóca                    | SP | Itaoca                  | [Q1760856](http://wikidata.org/entity/Q1760856)
 
 (11 registros)
+
+## Carga complementar Anatel
+O autor e mantenedor dos dados é a Gerência de Certificação e Numeração da Anatel (orcn@anatel.gov.br). A última atualização foi em 	19 de Maio de 2017.  Fonte: http://dados.gov.br/dataset/codigos-nacionais-cn
+
+Os dados da fonte foram convertidos para UTF8, CSV padrão (com ",") e cabeçalho normalizado para o singular (
+
+## Análise complementar Éder-Wikidata
+Usando inicialização prévia do [SQL-unifier](https://github.com/datasets-br/sql-unifier) com *database trydatasets* e city-codes original.
+
+```sh
+echo "create table eder (qid text, ibge bigint, osm_relid bigint);" | psql -d trydatasets -U postgres -c 
+psql -d trydatasets -U postgres -c "COPY eder FROM STDIN CSV HEADER" < wikidata-eder.csv
+```
+
+SELECT state,lexlabel,wdid as peter,eder.qid as eder 
+FROM dataset.vw2_br_city_codes c INNER JOIN eder 
+  ON eder.ibge=c.idibge::bigint and wdid!=qid
+;
+SELECT state,lexlabel,wdid as peter,eder.qid as eder, idibge, ibge 
+FROM dataset.vw2_br_city_codes c INNER JOIN eder 
+  ON eder.ibge!=c.idibge::bigint and wdid=qid
+;
+

@@ -183,6 +183,14 @@
             "type": "integer"
           },
           {
+            "name": "abbrev3",
+            "description": "Abbreviations of ANATEL 2013, non-complete and non-official",
+            "rdfType-ref": "https://www.wikidata.org/wiki/Q102786",
+            "title-pt":"Abreviação 3-letras Anatel2013",
+            "title":"Abbreviation-3letter",
+            "type": "string"
+          },
+          {
             "name": "notes",
             "description": "Notes about assegments, dates or changes",
             "rdfType-prop": "http://schema.org/commentText",
