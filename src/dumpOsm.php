@@ -1,6 +1,6 @@
 -- Generating DUMPS --
-
-grep P402 data/wikidata/SP/* | wc -l
+ (conferir  grep P402 data/dump_wikidata/*/* | wc -l )
+ (usar php src/dumpOsm.php geo )
 
 <?php
 // usage: php dumpWikidata.php  [geo][err]
@@ -109,7 +109,8 @@ case 'GEO':
 	  if ($json) {
 	     $out = json_stdOsm($json);
 	     if ($out) {
-	         $savedBytes = file_put_contents(  "$saveFolder/dump_osm/$fname.$ext",  $out  );
+		 $f = uf_folder($fname,'dump_osm').".$ext";
+	         $savedBytes = file_put_contents($f,$out);
 	         print "saved ($savedBytes bytes) with fresh OSM/$osmId";
 	     } else
 	         ERRset($fname,"invalid OSM structure");
@@ -152,7 +153,7 @@ function json_stdWikidata($jstr) {
   $j = $j['entities'][$ks[0]];
   if ( !isset($j['claims']) ) return '';
   foreach(['lastrevid','modified','labels','descriptions','title','aliases','sitelinks'] as $r) unset($j[$r]);
-  $a = []; 
+  $a = [];
   foreach($j['claims'] as $k=>$r) {
       $a[$k] = [];
       foreach($j['claims'][$k] as $r2)
@@ -162,9 +163,21 @@ function json_stdWikidata($jstr) {
   return json_encode($j,JSON_PRETTY_PRINT|JSON_UNESCAPED_UNICODE|JSON_UNESCAPED_SLASHES); 
 }
 
-function getOsmId($fname) {
+function uf_folder($fname,$path2='dump_wikidata') {
   global $saveFolder;
-  $f = "$saveFolder/dump_wikidata/$fname.json";
+  $basePath = "$saveFolder/$path2";
+  if (preg_match('/^([A-Z][A-Z])\-(.+)$/',$fname,$m)) {
+        $uf=$m[1]; $fname=$m[2];
+	if (!file_exists("$basePath/$uf")) mkdir("$basePath/$uf");
+        $f = "$basePath/$uf/$fname";
+  } else
+       $f = "$basePath/$fname";
+  return $f;
+}
+
+
+function getOsmId($fname) {
+  $f = uf_folder($fname,'dump_wikidata').".json";
   $j = json_decode( file_get_contents($f), JSON_BIGINT_AS_STRING|JSON_OBJECT_AS_ARRAY);
   if (isset($j['claims']['P402'][0]['value']) )
 	return $j['claims']['P402'][0]['value'];
