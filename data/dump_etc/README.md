@@ -1,4 +1,9 @@
 ((REVISAR))
+Preparo das abreviações de 3 letras:
+1. Incluir abreiações Anatel
+2. incluir por estado.
+
+Preparo das abreviações de SP trazidas de  https://vdocuments.mx/tabela-distancias.html como DER, ver https://github.com/datasets-br/city-codes/issues/32
 
 Preparo dos dados Anatel e DDD
 

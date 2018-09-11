@@ -3,12 +3,19 @@ CREATE SCHEMA io;
 
 --- tabelas de dados
 CREATE table io.citybr (
- name text,state text,"wdId" text,"idIBGE" text,"lexLabel" text,
- creation integer, extinction integer,"postalCode_ranges" text,
- ddd integer,abbrev3 text,notes text
- ,UNIQUE (name,state)
- ,UNIQUE ("lexLabel",state)
+ name text NOT NULL,
+ state text NOT NULL,
+ "wdId" text, "idIBGE" text, "lexLabel" text,
+ creation integer, extinction integer, "postalCode_ranges" text,
+ ddd integer, abbrev3 text, notes text
+ ,UNIQUE ("idIBGE")
+ ,UNIQUE ("wdId")
+ ,UNIQUE ("postalCode_ranges")
+ ,UNIQUE (state,name)
+ ,UNIQUE (state,"lexLabel")
+ ,UNIQUE (state,abbrev3)
 );
+
 CREATE table io.citybr_syn (
  synonym text, "wdId" text, cur_state text, "cur_lexLabel" text,type text, ref text, notes text,
  UNIQUE (synonym, cur_state)
@@ -63,10 +70,14 @@ CREATE VIEW io.prompt_list AS
 
 -- for EXPORT:
 CREATE VIEW io.vwexp_citybr AS
+-- ordem não podem ser alterada, conforme https://stackoverflow.com/a/285740/287948
+-- portanto não podemos nos arriscar usando "*", precisa listar.
   SELECT * FROM io.citybr -- or dataset.vw2_br_city_codes
   ORDER BY std_collate(name), name, state
 ;
 CREATE VIEW io.vwexp_citybr_syn AS
+  -- ordem não podem ser alterada, conforme https://stackoverflow.com/a/285740/287948
+  -- portanto não podemos nos arriscar usando "*", precisa listar.
   SELECT * FROM io.citybr_syn -- or dataset.vw2_br_city_synonyms
   ORDER BY std_collate(synonym,type), synonym, cur_state
 ;
@@ -196,7 +207,7 @@ CREATE FUNCTION io.import_export(p_mode text, p_doit text DEFAULT 'y') RETURNS t
             EXECUTE format(E'DELETE FROM io.%s', e.tref);
             EXECUTE format(E'COPY io.%s FROM \'%s\' CSV HEADER', e.tref, e.f);
             RAISE NOTICE 'tabela io.% IMPORTADA com sucesso.', e.tref;
-          ELSE
+          ELSE -- EXPORT:
             EXECUTE format(E'COPY (SELECT * FROM io.vwexp_%s) TO \'%s\' CSV HEADER', e.tref, e.ffinal);
             RAISE NOTICE 'tabela io.% EXPORTADA com sucesso para % .', e.tref, e.ffinal;
             RAISE NOTICE '(check by "diff -w % data/%.csv")', e.ffinal, e.fbase;
