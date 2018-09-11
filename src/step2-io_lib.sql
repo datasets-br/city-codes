@@ -5,7 +5,7 @@ CREATE SCHEMA io;
 CREATE table io.citybr (
  name text,state text,"wdId" text,"idIBGE" text,"lexLabel" text,
  creation integer, extinction integer,"postalCode_ranges" text,
- ddd integer,notes text
+ ddd integer,abbrev3 text,notes text
  ,UNIQUE (name,state)
  ,UNIQUE ("lexLabel",state)
 );
