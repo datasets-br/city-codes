@@ -1,3 +1,5 @@
+CREATE EXTENSION IF NOT EXISTS unaccent;
+
 
 -- See issue #11
 -- ORDER BY std_collate(name), name, state
