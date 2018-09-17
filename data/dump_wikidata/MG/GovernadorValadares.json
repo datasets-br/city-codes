@@ -231,6 +231,26 @@
                 "value": "place/Governador-Valadares",
                 "type": "string"
             }
+        ],
+        "P1313": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 56449705,
+                    "id": "Q56449705"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P194": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 56450300,
+                    "id": "Q56450300"
+                },
+                "type": "wikibase-entityid"
+            }
         ]
     }
 }

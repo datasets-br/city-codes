@@ -17,10 +17,10 @@
         "P625": [
             {
                 "value": {
-                    "latitude": -21.633055555556,
-                    "longitude": -47.055555555556,
+                    "latitude": -22.62,
+                    "longitude": -47.06,
                     "altitude": null,
-                    "precision": null,
+                    "precision": 0.01,
                     "globe": "http://www.wikidata.org/entity/Q2"
                 },
                 "type": "globecoordinate"

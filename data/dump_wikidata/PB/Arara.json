@@ -203,11 +203,11 @@
         "P571": [
             {
                 "value": {
-                    "time": "+1961-00-00T00:00:00Z",
+                    "time": "+1961-12-19T00:00:00Z",
                     "timezone": 0,
                     "before": 0,
                     "after": 0,
-                    "precision": 9,
+                    "precision": 11,
                     "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
                 },
                 "type": "time"
@@ -235,6 +235,26 @@
             {
                 "value": "301380",
                 "type": "string"
+            }
+        ],
+        "P832": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2451,
+                    "id": "Q2451"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2564": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 135712,
+                    "id": "Q135712"
+                },
+                "type": "wikibase-entityid"
             }
         ]
     }

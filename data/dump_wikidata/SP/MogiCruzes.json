@@ -22,7 +22,7 @@
         ],
         "P94": [
             {
-                "value": "BrasaoMogi.gif",
+                "value": "Brasão de Mogi das Cruzes (SP).png",
                 "type": "string"
             }
         ],
@@ -288,6 +288,26 @@
                     "entity-type": "item",
                     "numeric-id": 17155468,
                     "id": "Q17155468"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1313": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 56449654,
+                    "id": "Q56449654"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P194": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 56450255,
+                    "id": "Q56450255"
                 },
                 "type": "wikibase-entityid"
             }

@@ -102,12 +102,6 @@
                 "type": "string"
             }
         ],
-        "P18": [
-            {
-                "value": "Santarem.jpg",
-                "type": "string"
-            }
-        ],
         "P856": [
             {
                 "value": "http://www.santarem.pa.gov.br/",
@@ -229,6 +223,32 @@
         "P1417": [
             {
                 "value": "place/Santarem-Brazil",
+                "type": "string"
+            }
+        ],
+        "P1313": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 56449700,
+                    "id": "Q56449700"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P194": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 56450293,
+                    "id": "Q56450293"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Catedral Metropolitana de Santarém, Santarém, Pará, 2007.jpg",
                 "type": "string"
             }
         ]

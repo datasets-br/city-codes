@@ -285,6 +285,26 @@
                 "value": "place/Sao-Jose-do-Rio-Preto",
                 "type": "string"
             }
+        ],
+        "P1313": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 56449652,
+                    "id": "Q56449652"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P194": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 56450254,
+                    "id": "Q56450254"
+                },
+                "type": "wikibase-entityid"
+            }
         ]
     }
 }

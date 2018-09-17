@@ -338,6 +338,26 @@
                 "value": "place/Juiz-de-Fora",
                 "type": "string"
             }
+        ],
+        "P1313": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 56449635,
+                    "id": "Q56449635"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P194": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 18465408,
+                    "id": "Q18465408"
+                },
+                "type": "wikibase-entityid"
+            }
         ]
     }
 }

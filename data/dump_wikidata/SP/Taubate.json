@@ -223,6 +223,26 @@
                 "value": "place/Taubate",
                 "type": "string"
             }
+        ],
+        "P1313": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 56449693,
+                    "id": "Q56449693"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P194": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 56450288,
+                    "id": "Q56450288"
+                },
+                "type": "wikibase-entityid"
+            }
         ]
     }
 }

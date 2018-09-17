@@ -293,6 +293,26 @@
                 "value": "place/Maringa",
                 "type": "string"
             }
+        ],
+        "P1313": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 56449660,
+                    "id": "Q56449660"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P194": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 56450260,
+                    "id": "Q56450260"
+                },
+                "type": "wikibase-entityid"
+            }
         ]
     }
 }

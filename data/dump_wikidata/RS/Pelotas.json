@@ -283,6 +283,36 @@
                 "value": "place/Pelotas",
                 "type": "string"
             }
+        ],
+        "P1313": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 56449681,
+                    "id": "Q56449681"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P194": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 56450276,
+                    "id": "Q56450276"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1465": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 43999367,
+                    "id": "Q43999367"
+                },
+                "type": "wikibase-entityid"
+            }
         ]
     }
 }

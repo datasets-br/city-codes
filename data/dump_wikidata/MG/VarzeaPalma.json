@@ -174,6 +174,37 @@
                 "value": "38",
                 "type": "string"
             }
+        ],
+        "P1705": [
+            {
+                "value": {
+                    "text": "Várzea da Palma",
+                    "language": "pt"
+                },
+                "type": "monolingualtext"
+            }
+        ],
+        "P1448": [
+            {
+                "value": {
+                    "text": "Várzea da Palma",
+                    "language": "pt"
+                },
+                "type": "monolingualtext"
+            }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1953-00-00T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 9,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
         ]
     }
 }

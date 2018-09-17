@@ -4,12 +4,6 @@
     "type": "item",
     "id": "Q1749869",
     "claims": {
-        "P158": [
-            {
-                "value": "Brasao Cacapava do Sul.jpg",
-                "type": "string"
-            }
-        ],
         "P17": [
             {
                 "value": {
@@ -27,6 +21,16 @@
                     "longitude": -53.490833333333,
                     "altitude": null,
                     "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            },
+            {
+                "value": {
+                    "latitude": -30.61002,
+                    "longitude": -53.47227,
+                    "altitude": null,
+                    "precision": 1.0e-5,
                     "globe": "http://www.wikidata.org/entity/Q2"
                 },
                 "type": "globecoordinate"
@@ -50,6 +54,14 @@
                     "id": "Q3184121"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 486972,
+                    "id": "Q486972"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P646": [
@@ -61,6 +73,10 @@
         "P1566": [
             {
                 "value": "3468560",
+                "type": "string"
+            },
+            {
+                "value": "6323361",
                 "type": "string"
             }
         ],
@@ -87,6 +103,13 @@
                     "unit": "http://www.wikidata.org/entity/Q11573",
                     "upperBound": "+445",
                     "lowerBound": "+443"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+270",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
                 },
                 "type": "quantity"
             }

@@ -173,6 +173,29 @@
                 "value": "62",
                 "type": "string"
             }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1995-12-27T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 11,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P832": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2459,
+                    "id": "Q2459"
+                },
+                "type": "wikibase-entityid"
+            }
         ]
     }
 }

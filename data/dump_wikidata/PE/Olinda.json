@@ -310,6 +310,26 @@
                 "value": "place/Olinda",
                 "type": "string"
             }
+        ],
+        "P1313": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 56449666,
+                    "id": "Q56449666"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P194": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 56450266,
+                    "id": "Q56450266"
+                },
+                "type": "wikibase-entityid"
+            }
         ]
     }
 }

@@ -208,6 +208,32 @@
                 "value": "51",
                 "type": "string"
             }
+        ],
+        "P1313": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 56449682,
+                    "id": "Q56449682"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P194": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 56450277,
+                    "id": "Q56450277"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1417": [
+            {
+                "value": "place/Canoas",
+                "type": "string"
+            }
         ]
     }
 }

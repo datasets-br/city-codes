@@ -62,6 +62,14 @@
                     "id": "Q3184121"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 515,
+                    "id": "Q515"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P646": [
@@ -333,6 +341,26 @@
             {
                 "value": "62",
                 "type": "string"
+            }
+        ],
+        "P1313": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 56449669,
+                    "id": "Q56449669"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P194": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 56450269,
+                    "id": "Q56450269"
+                },
+                "type": "wikibase-entityid"
             }
         ]
     }

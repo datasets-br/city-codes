@@ -252,6 +252,26 @@
                 "value": "86",
                 "type": "string"
             }
+        ],
+        "P1464": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 29475488,
+                    "id": "Q29475488"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1792": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 56605050,
+                    "id": "Q56605050"
+                },
+                "type": "wikibase-entityid"
+            }
         ]
     }
 }

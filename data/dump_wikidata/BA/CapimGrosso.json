@@ -101,6 +101,13 @@
                     "unit": "1"
                 },
                 "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+27007",
+                    "unit": "1"
+                },
+                "type": "quantity"
             }
         ],
         "P242": [
@@ -188,6 +195,55 @@
             {
                 "value": "74",
                 "type": "string"
+            }
+        ],
+        "P1705": [
+            {
+                "value": {
+                    "text": "Capim Grosso",
+                    "language": "pt"
+                },
+                "type": "monolingualtext"
+            }
+        ],
+        "P1448": [
+            {
+                "value": {
+                    "text": "Capim Grosso",
+                    "language": "pt"
+                },
+                "type": "monolingualtext"
+            }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1985-00-00T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 9,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P421": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 6513,
+                    "id": "Q6513"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 6536,
+                    "id": "Q6536"
+                },
+                "type": "wikibase-entityid"
             }
         ]
     }

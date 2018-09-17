@@ -33,12 +33,6 @@
                 "type": "quantity"
             }
         ],
-        "P41": [
-            {
-                "value": "Bandeira de Boa Vista (Roraima).svg",
-                "type": "string"
-            }
-        ],
         "P158": [
             {
                 "value": "Brasao Boa Vista.png",
@@ -352,6 +346,32 @@
                     "id": "Q32331803"
                 },
                 "type": "wikibase-entityid"
+            }
+        ],
+        "P1313": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 56449687,
+                    "id": "Q56449687"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P194": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 56450280,
+                    "id": "Q56450280"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira de Boa Vista.svg",
+                "type": "string"
             }
         ]
     }

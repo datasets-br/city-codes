@@ -77,6 +77,20 @@
                     "unit": "1"
                 },
                 "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+18733",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+18873",
+                    "unit": "1"
+                },
+                "type": "quantity"
             }
         ],
         "P242": [
@@ -139,6 +153,18 @@
         "P18": [
             {
                 "value": "Município de Quitandinha.JPG",
+                "type": "string"
+            }
+        ],
+        "P227": [
+            {
+                "value": "16339710-7",
+                "type": "string"
+            }
+        ],
+        "P214": [
+            {
+                "value": "126635141",
                 "type": "string"
             }
         ]

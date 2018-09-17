@@ -219,6 +219,26 @@
                 "value": "place/Sao-Goncalo",
                 "type": "string"
             }
+        ],
+        "P1313": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 56449609,
+                    "id": "Q56449609"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P194": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 56450220,
+                    "id": "Q56450220"
+                },
+                "type": "wikibase-entityid"
+            }
         ]
     }
 }

@@ -298,9 +298,7 @@
             {
                 "value": {
                     "amount": "+795667000",
-                    "unit": "http://www.wikidata.org/entity/Q25343",
-                    "upperBound": "+795667000",
-                    "lowerBound": "+795667000"
+                    "unit": "http://www.wikidata.org/entity/Q25343"
                 },
                 "type": "quantity"
             }
@@ -401,6 +399,16 @@
             {
                 "value": "place/Campinas",
                 "type": "string"
+            }
+        ],
+        "P39": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 53926063,
+                    "id": "Q53926063"
+                },
+                "type": "wikibase-entityid"
             }
         ]
     }

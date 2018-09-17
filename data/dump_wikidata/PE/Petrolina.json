@@ -229,6 +229,26 @@
                 "value": "place/Petrolina",
                 "type": "string"
             }
+        ],
+        "P1313": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 56449686,
+                    "id": "Q56449686"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P194": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 56450279,
+                    "id": "Q56450279"
+                },
+                "type": "wikibase-entityid"
+            }
         ]
     }
 }

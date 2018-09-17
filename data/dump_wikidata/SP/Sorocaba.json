@@ -12,11 +12,51 @@
                     "id": "Q47593"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 171943,
+                    "id": "Q171943"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 42651,
+                    "id": "Q42651"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 207639,
+                    "id": "Q207639"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 42120,
+                    "id": "Q42120"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 5426900,
+                    "id": "Q5426900"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P41": [
             {
-                "value": "Sorocaba bandeira.jpg",
+                "value": "BandeiraSorocaba.svg",
                 "type": "string"
             }
         ],
@@ -280,6 +320,26 @@
             {
                 "value": "place/Sorocaba",
                 "type": "string"
+            }
+        ],
+        "P1313": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 56449627,
+                    "id": "Q56449627"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P194": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 10262915,
+                    "id": "Q10262915"
+                },
+                "type": "wikibase-entityid"
             }
         ]
     }

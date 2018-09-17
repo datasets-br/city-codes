@@ -278,6 +278,32 @@
                 "value": "place/Vitoria-da-Conquista",
                 "type": "string"
             }
+        ],
+        "P1313": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 56449677,
+                    "id": "Q56449677"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P194": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 56450274,
+                    "id": "Q56450274"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P227": [
+            {
+                "value": "10137718-6",
+                "type": "string"
+            }
         ]
     }
 }

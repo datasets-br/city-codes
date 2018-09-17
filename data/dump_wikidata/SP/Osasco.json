@@ -281,10 +281,6 @@
         ],
         "P473": [
             {
-                "value": "5511",
-                "type": "string"
-            },
-            {
                 "value": "11",
                 "type": "string"
             }
@@ -370,6 +366,26 @@
             {
                 "value": "place/Osasco",
                 "type": "string"
+            }
+        ],
+        "P1313": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 56449621,
+                    "id": "Q56449621"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P194": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 56450228,
+                    "id": "Q56450228"
+                },
+                "type": "wikibase-entityid"
             }
         ]
     }

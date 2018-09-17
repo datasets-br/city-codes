@@ -364,6 +364,14 @@
                     "id": "Q42780"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1490,
+                    "id": "Q1490"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P131": [
@@ -1276,18 +1284,6 @@
                 "type": "wikibase-entityid"
             }
         ],
-        "P625": [
-            {
-                "value": {
-                    "latitude": -23.550394444444,
-                    "longitude": -46.633947222222,
-                    "altitude": null,
-                    "precision": 2.7777777777778e-6,
-                    "globe": "http://www.wikidata.org/entity/Q2"
-                },
-                "type": "globecoordinate"
-            }
-        ],
         "P5019": [
             {
                 "value": "sao-paulo",
@@ -1348,6 +1344,18 @@
             {
                 "value": "97",
                 "type": "string"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -23.550394444444,
+                    "longitude": -46.633947222222,
+                    "altitude": null,
+                    "precision": 2.7777777777778e-6,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
             }
         ]
     }

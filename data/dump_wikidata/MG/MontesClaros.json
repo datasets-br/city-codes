@@ -244,6 +244,26 @@
                 "value": "place/Montes-Claros",
                 "type": "string"
             }
+        ],
+        "P1313": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 56449661,
+                    "id": "Q56449661"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P194": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 56450261,
+                    "id": "Q56450261"
+                },
+                "type": "wikibase-entityid"
+            }
         ]
     }
 }

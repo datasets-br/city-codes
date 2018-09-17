@@ -303,6 +303,49 @@
                 "value": "68",
                 "type": "string"
             }
+        ],
+        "P1313": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 56449668,
+                    "id": "Q56449668"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P194": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 56450268,
+                    "id": "Q56450268"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1882-12-28T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 11,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P206": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 73584,
+                    "id": "Q73584"
+                },
+                "type": "wikibase-entityid"
+            }
         ]
     }
 }

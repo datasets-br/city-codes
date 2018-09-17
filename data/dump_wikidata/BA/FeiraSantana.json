@@ -265,6 +265,26 @@
                 "value": "place/Feira-de-Santana",
                 "type": "string"
             }
+        ],
+        "P1313": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 56449630,
+                    "id": "Q56449630"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P194": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 56450235,
+                    "id": "Q56450235"
+                },
+                "type": "wikibase-entityid"
+            }
         ]
     }
 }

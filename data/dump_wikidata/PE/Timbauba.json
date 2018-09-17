@@ -100,17 +100,18 @@
                     "unit": "1"
                 },
                 "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+50956",
+                    "unit": "1"
+                },
+                "type": "quantity"
             }
         ],
         "P242": [
             {
                 "value": "Mapa de Timbaúba (2).png",
-                "type": "string"
-            }
-        ],
-        "P41": [
-            {
-                "value": "Bandeiratimbauba.jpg",
                 "type": "string"
             }
         ],
@@ -187,6 +188,12 @@
         "P473": [
             {
                 "value": "81",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira de Timbaúba PE.jpg",
                 "type": "string"
             }
         ]

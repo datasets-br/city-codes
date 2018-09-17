@@ -160,12 +160,6 @@
                 "type": "string"
             }
         ],
-        "P41": [
-            {
-                "value": "Bandeira de Belo Horizonte (Minas Gerais).svg",
-                "type": "string"
-            }
-        ],
         "P94": [
             {
                 "value": "Brasão de Belo Horizonte (Minas Gerais).svg",
@@ -282,6 +276,14 @@
                     "entity-type": "item",
                     "numeric-id": 942235,
                     "id": "Q942235"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1012546,
+                    "id": "Q1012546"
                 },
                 "type": "wikibase-entityid"
             }
@@ -525,6 +527,12 @@
         "P5573": [
             {
                 "value": "7380",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira de Belo Horizonte.svg",
                 "type": "string"
             }
         ]
