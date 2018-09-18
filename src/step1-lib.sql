@@ -1,4 +1,33 @@
 CREATE EXTENSION IF NOT EXISTS unaccent;
+CREATE SCHEMA IF NOT EXISTS lib;
+
+/**
+ * Transforms a string into InitCap of each part, using separator as reference.
+ * Example: 'hello my.best-friend' with ' -' sep will be 'Hello My.best-Friend'.
+ * No other change in the string. Uses '_*reserv__' as reserved word.
+ * Se also ltxtquery() for @ comparing.
+ */
+CREATE FUNCTION lib.initcap_sep(text,text DEFAULT '\s\.:;,',boolean DEFAULT false) RETURNS text AS $f$
+  SELECT array_to_string(array_agg(initcap(x)),'')
+  FROM regexp_split_to_table(
+     regexp_replace($1, '(['||$2||']+)', CASE WHEN $3 THEN '_*reserv__' ELSE '_*reserv__\1' END,'g'),
+     '_\*reserv__'
+  ) t(x)
+$f$ language SQL IMMUTABLE;
+
+CREATE FUNCTION lib.initcap_sep(text,boolean,text DEFAULT '\s\.:;,') RETURNS text AS $wrap$
+  SELECT lib.initcap_sep($1,$3,$2)
+$wrap$ language SQL IMMUTABLE;
+
+CREATE or replace FUNCTION read_geojson(
+  p_path text,
+  p_ext text DEFAULT '.geojson',
+  p_basepath text DEFAULT '/opt/gits/city-codes/data/dump_osm/'
+) RETURNS text AS $f$
+   -- WHEN s='file not found' NULL
+  SELECT CASE WHEN length(s)<30 THEN NULL ELSE  s END
+  FROM  ( SELECT readfile(p_basepath||p_path||p_ext) ) t(s)
+$f$ language SQL IMMUTABLE;
 
 
 -- See issue #11
