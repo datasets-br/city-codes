@@ -14,7 +14,7 @@ CREATE AGGREGATE array_agg_cat(anyarray) (
 
 CREATE OR REPLACE FUNCTION bbox_bounds(p_geom geometry) RETURNS float[] AS $f$
   -- see illustration at CLP project
-  SELECT  jsonb_build_object('minlat',u[2], 'minlon',u[2], 'maxlat',u[4], 'maxlon',u[5])
+  SELECT  jsonb_build_object('minlat',u[2], 'minlon',u[1], 'maxlat',u[4], 'maxlon',u[5])
   FROM (
     SELECT array_agg_cat( array[st_x(geom),st_y(geom)] ) u
     FROM ST_DumpPoints( ST_Envelope(p_geom) )
