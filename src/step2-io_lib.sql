@@ -221,6 +221,17 @@ CREATE FUNCTION io.import_export(p_mode text, p_doit text DEFAULT 'y') RETURNS t
   END;
 $f$ LANGUAGE plpgsql;
 
+
+CREATE FUNCTION io.state2region(p_state text)  RETURNS text AS $f$
+  -- updated with http://datasets.ok.org.br/state-codes                             
+  SELECT ('{ 
+    "AC":"N","AL":"NE","AM":"N","AP":"N","BA":"NE","CE":"NE"
+   ,"DF":"CO","ES":"SE","GO":"CO","MA":"NE","MG":"SE","MS":"CO"
+   ,"MT":"CO","PA":"N","PB":"NE","PE":"NE","PI":"NE","PR":"S","RJ":"SE"
+   ,"RN":"NE","RO":"N","RR":"N","RS":"S","SC":"S","SE":"NE","SP":"SE","TO":"N"
+  }'::jsonb)->>$1;
+$f$ LANGUAGE sql immutable;
+
 --------------
 ----- PROCESS:
 
