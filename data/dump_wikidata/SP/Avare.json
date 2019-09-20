@@ -105,12 +105,6 @@
                 "type": "string"
             }
         ],
-        "P94": [
-            {
-                "value": "Brasão de Avaré.jpg",
-                "type": "string"
-            }
-        ],
         "P1281": [
             {
                 "value": "456740",
@@ -251,6 +245,30 @@
                     "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
                 },
                 "type": "time"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasao de Avare.svg",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "61891",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "6322118",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101962415",
+                "type": "string"
             }
         ]
     }

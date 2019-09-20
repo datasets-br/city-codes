@@ -398,6 +398,50 @@
                 },
                 "type": "wikibase-entityid"
             }
+        ],
+        "P1376": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 17378262,
+                    "id": "Q17378262"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P3722": [
+            {
+                "value": "Maps of Niterói",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "58653",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n81026822",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101953259",
+                "type": "string"
+            }
+        ],
+        "P1343": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 602358,
+                    "id": "Q602358"
+                },
+                "type": "wikibase-entityid"
+            }
         ]
     }
 }

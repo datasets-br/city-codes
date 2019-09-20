@@ -4,12 +4,6 @@
     "type": "item",
     "id": "Q304947",
     "claims": {
-        "P41": [
-            {
-                "value": "Bandeira Paraíba do Sul.jpg",
-                "type": "string"
-            }
-        ],
         "P17": [
             {
                 "value": {
@@ -189,6 +183,36 @@
         "P268": [
             {
                 "value": "11945610v",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira Paraíba do Sul.svg",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.paraibadosul.rj.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "58734",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n92119191",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101953175",
                 "type": "string"
             }
         ]

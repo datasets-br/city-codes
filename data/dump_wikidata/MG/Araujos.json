@@ -148,8 +148,40 @@
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 1789780,
-                    "id": "Q1789780"
+                    "numeric-id": 948637,
+                    "id": "Q948637"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 956065,
+                    "id": "Q956065"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 891713,
+                    "id": "Q891713"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1790206,
+                    "id": "Q1790206"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1754743,
+                    "id": "Q1754743"
                 },
                 "type": "wikibase-entityid"
             }
@@ -163,6 +195,24 @@
         "P473": [
             {
                 "value": "37",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "40770",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Araújosmgbrasao.jpg",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101948871",
                 "type": "string"
             }
         ]

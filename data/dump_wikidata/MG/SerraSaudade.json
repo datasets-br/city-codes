@@ -24,16 +24,6 @@
                     "globe": "http://www.wikidata.org/entity/Q2"
                 },
                 "type": "globecoordinate"
-            },
-            {
-                "value": {
-                    "latitude": -19.38394,
-                    "longitude": -45.80002,
-                    "altitude": null,
-                    "precision": 1.0e-5,
-                    "globe": "http://www.wikidata.org/entity/Q2"
-                },
-                "type": "globecoordinate"
             }
         ],
         "P373": [
@@ -141,6 +131,36 @@
         "P473": [
             {
                 "value": "37",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "53317",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira de Serra da Saudade, MG.png",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "35617-000 a 35619-999",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.serradasaudade.mg.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101952699",
                 "type": "string"
             }
         ]

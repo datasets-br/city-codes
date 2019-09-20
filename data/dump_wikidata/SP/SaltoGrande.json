@@ -201,6 +201,40 @@
                 "value": "14",
                 "type": "string"
             }
+        ],
+        "P856": [
+            {
+                "value": "http://www.saltogrande.sp.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "70092",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "19920-000",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101968073",
+                "type": "string"
+            }
+        ],
+        "P421": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 6513,
+                    "id": "Q6513"
+                },
+                "type": "wikibase-entityid"
+            }
         ]
     }
 }

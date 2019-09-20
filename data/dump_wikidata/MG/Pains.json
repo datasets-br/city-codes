@@ -164,6 +164,46 @@
                     "id": "Q1635025"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1755744,
+                    "id": "Q1755744"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 22062794,
+                    "id": "Q22062794"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1756378,
+                    "id": "Q1756378"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1756593,
+                    "id": "Q1756593"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1755996,
+                    "id": "Q1755996"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -175,6 +215,30 @@
         "P473": [
             {
                 "value": "37",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "49298",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "35582-000 a 35584-999",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.pains.mg.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101950871",
                 "type": "string"
             }
         ]

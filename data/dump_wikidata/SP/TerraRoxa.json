@@ -178,6 +178,34 @@
                 "value": "17",
                 "type": "string"
             }
+        ],
+        "P856": [
+            {
+                "value": "http://www.terraroxa.sp.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "71897",
+                "type": "string"
+            }
+        ],
+        "P1889": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 56052259,
+                    "id": "Q56052259"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101955831",
+                "type": "string"
+            }
         ]
     }
 }

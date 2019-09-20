@@ -230,25 +230,13 @@
                 "type": "string"
             }
         ],
-        "P41": [
-            {
-                "value": "Bandeira do Distrito Federal (Brasil).svg",
-                "type": "string"
-            }
-        ],
-        "P94": [
-            {
-                "value": "Brasão do Distrito Federal (Brasil).svg",
-                "type": "string"
-            }
-        ],
         "P625": [
             {
                 "value": {
                     "latitude": -15.793888888889,
                     "longitude": -47.882777777778,
                     "altitude": null,
-                    "precision": 0.0166667,
+                    "precision": 0.00027777777777778,
                     "globe": "http://www.wikidata.org/entity/Q2"
                 },
                 "type": "globecoordinate"
@@ -262,12 +250,14 @@
                     "id": "Q5119"
                 },
                 "type": "wikibase-entityid"
-            }
-        ],
-        "P18": [
+            },
             {
-                "value": "Palacio Alvorada commons.jpg",
-                "type": "string"
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P948": [
@@ -427,11 +417,19 @@
                     "id": "Q210542"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 119158,
+                    "id": "Q119158"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P214": [
             {
-                "value": "142521983",
+                "value": "131548503",
                 "type": "string"
             }
         ],
@@ -453,12 +451,6 @@
         "P1997": [
             {
                 "value": "112060958820146",
-                "type": "string"
-            }
-        ],
-        "P2002": [
-            {
-                "value": "gov_df",
                 "type": "string"
             }
         ],
@@ -510,12 +502,6 @@
                 "type": "quantity"
             }
         ],
-        "P1585": [
-            {
-                "value": "5300108",
-                "type": "string"
-            }
-        ],
         "P281": [
             {
                 "value": "70000–70999",
@@ -531,48 +517,16 @@
         "P2046": [
             {
                 "value": {
-                    "amount": "+5802000000",
-                    "unit": "http://www.wikidata.org/entity/Q25343"
+                    "amount": "+5802",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
                 },
                 "type": "quantity"
-            }
-        ],
-        "P2013": [
-            {
-                "value": "govdf",
-                "type": "string"
             }
         ],
         "P402": [
             {
                 "value": "2758138",
                 "type": "string"
-            }
-        ],
-        "P3403": [
-            {
-                "value": {
-                    "entity-type": "item",
-                    "numeric-id": 2781978,
-                    "id": "Q2781978"
-                },
-                "type": "wikibase-entityid"
-            },
-            {
-                "value": {
-                    "entity-type": "item",
-                    "numeric-id": 1429219,
-                    "id": "Q1429219"
-                },
-                "type": "wikibase-entityid"
-            },
-            {
-                "value": {
-                    "entity-type": "item",
-                    "numeric-id": 119158,
-                    "id": "Q119158"
-                },
-                "type": "wikibase-entityid"
             }
         ],
         "P3569": [
@@ -638,16 +592,6 @@
                 "type": "string"
             }
         ],
-        "P47": [
-            {
-                "value": {
-                    "entity-type": "item",
-                    "numeric-id": 249830,
-                    "id": "Q249830"
-                },
-                "type": "wikibase-entityid"
-            }
-        ],
         "P2924": [
             {
                 "value": "3211436",
@@ -668,16 +612,6 @@
             {
                 "value": "061",
                 "type": "string"
-            }
-        ],
-        "P6": [
-            {
-                "value": {
-                    "entity-type": "item",
-                    "numeric-id": 10363936,
-                    "id": "Q10363936"
-                },
-                "type": "wikibase-entityid"
             }
         ],
         "P417": [
@@ -706,6 +640,13 @@
                     "language": "en"
                 },
                 "type": "monolingualtext"
+            },
+            {
+                "value": {
+                    "text": "Braziljano",
+                    "language": "eo"
+                },
+                "type": "monolingualtext"
             }
         ],
         "P463": [
@@ -727,6 +668,52 @@
         "P5573": [
             {
                 "value": "90",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Brasília Collage.png",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "97012",
+                "type": "string"
+            }
+        ],
+        "P3722": [
+            {
+                "value": "Maps of Brasília",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n2003079284",
+                "type": "string"
+            },
+            {
+                "value": "n79072647",
+                "type": "string"
+            }
+        ],
+        "P6404": [
+            {
+                "value": "brasilia",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0009995",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101964875",
                 "type": "string"
             }
         ]

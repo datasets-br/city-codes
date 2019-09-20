@@ -128,6 +128,22 @@
                     "id": "Q1791057"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1989895,
+                    "id": "Q1989895"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1790715,
+                    "id": "Q1790715"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -145,6 +161,30 @@
         "P18": [
             {
                 "value": "Ibituruna MG.jpg",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "45993",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Ibiturunamgbandeira.png",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasão de Ibituruna.jpg",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101966005",
                 "type": "string"
             }
         ]

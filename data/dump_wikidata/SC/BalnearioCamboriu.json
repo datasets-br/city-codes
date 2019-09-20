@@ -82,7 +82,7 @@
         ],
         "P18": [
             {
-                "value": "Panorama Balneário Camboriú.jpg",
+                "value": "Vista parcial de Balneário Camboriú SC a partir do Parque Unipraias.JPG",
                 "type": "string"
             }
         ],
@@ -225,6 +225,43 @@
         "P402": [
             {
                 "value": "296508",
+                "type": "string"
+            }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1964-07-20T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 11,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "80390",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n82061700",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101958161",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0448191",
                 "type": "string"
             }
         ]

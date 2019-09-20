@@ -173,6 +173,81 @@
                 "value": "IGREJA N.SRA DA PIEDADE FUNDADA 1900 - panoramio.jpg",
                 "type": "string"
             }
+        ],
+        "P856": [
+            {
+                "value": "http://www.roseira.sp.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "69876",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n85092838",
+                "type": "string"
+            }
+        ],
+        "P1448": [
+            {
+                "value": {
+                    "text": "Município de Roseira",
+                    "language": "pt-br"
+                },
+                "type": "monolingualtext"
+            }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1959-02-18T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 11,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P1549": [
+            {
+                "value": {
+                    "text": "roseirense",
+                    "language": "pt-br"
+                },
+                "type": "monolingualtext"
+            }
+        ],
+        "P421": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 6513,
+                    "id": "Q6513"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2564": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 8346929,
+                    "id": "Q8346929"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101956339",
+                "type": "string"
+            }
         ]
     }
 }

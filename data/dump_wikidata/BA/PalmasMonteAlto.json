@@ -24,6 +24,16 @@
                     "globe": "http://www.wikidata.org/entity/Q2"
                 },
                 "type": "globecoordinate"
+            },
+            {
+                "value": {
+                    "latitude": -13.96288,
+                    "longitude": -43.24589,
+                    "altitude": null,
+                    "precision": 1.0e-5,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
             }
         ],
         "P131": [
@@ -44,6 +54,14 @@
                     "id": "Q3184121"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 486972,
+                    "id": "Q486972"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P646": [
@@ -55,6 +73,10 @@
         "P1566": [
             {
                 "value": "3455447",
+                "type": "string"
+            },
+            {
+                "value": "6320984",
                 "type": "string"
             }
         ],
@@ -142,6 +164,39 @@
         "P473": [
             {
                 "value": "77",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "37699",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira Palmas de Monte Alto.jpg",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+465",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0453691",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101949131",
                 "type": "string"
             }
         ]

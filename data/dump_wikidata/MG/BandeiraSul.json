@@ -136,6 +136,30 @@
                     "id": "Q817216"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1756413,
+                    "id": "Q1756413"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 22062733,
+                    "id": "Q22062733"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 22062719,
+                    "id": "Q22062719"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -147,6 +171,42 @@
         "P473": [
             {
                 "value": "35",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira de Bandeira do Sul.jpg",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasão de Bandeira do Sul.jpg",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://bandeiradosul.mg.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "41050",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "37740-000 a 37749-999",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101965685",
                 "type": "string"
             }
         ]

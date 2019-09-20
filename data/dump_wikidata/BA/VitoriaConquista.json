@@ -37,13 +37,6 @@
         "P2044": [
             {
                 "value": {
-                    "amount": "+851",
-                    "unit": "http://www.wikidata.org/entity/Q11573"
-                },
-                "type": "quantity"
-            },
-            {
-                "value": {
                     "amount": "+923",
                     "unit": "http://www.wikidata.org/entity/Q11573"
                 },
@@ -302,6 +295,56 @@
         "P227": [
             {
                 "value": "10137718-6",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "39659",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n82151497",
+                "type": "string"
+            }
+        ],
+        "P1792": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 7910112,
+                    "id": "Q7910112"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P417": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 10337581,
+                    "id": "Q10337581"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P281": [
+            {
+                "value": "45000-000",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101949621",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0266960",
                 "type": "string"
             }
         ]

@@ -66,7 +66,7 @@
         ],
         "P373": [
             {
-                "value": "Arvorezinha",
+                "value": "Arvorezinha (Rio Grande do Sul)",
                 "type": "string"
             }
         ],
@@ -93,12 +93,6 @@
                     "unit": "1"
                 },
                 "type": "quantity"
-            }
-        ],
-        "P18": [
-            {
-                "value": "Locator map of Arvorezinha in Rio Grande do Sul.svg",
-                "type": "string"
             }
         ],
         "P2044": [
@@ -187,6 +181,42 @@
         "P473": [
             {
                 "value": "51",
+                "type": "string"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Locator map of Arvorezinha in Rio Grande do Sul.svg",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.arvorezinhars.com.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "85278",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira Arvorezinha.png",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101959693",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0448019",
                 "type": "string"
             }
         ]

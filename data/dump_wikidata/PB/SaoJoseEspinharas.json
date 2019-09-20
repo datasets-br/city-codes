@@ -153,6 +153,43 @@
                 "value": "Centro de São José de Espinharas.jpg",
                 "type": "string"
             }
+        ],
+        "P6555": [
+            {
+                "value": "21890",
+                "type": "string"
+            }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1961-01-01T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 9,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira São José de Espinharas.png",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasão São José de Espinharas.jpg",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101946197",
+                "type": "string"
+            }
         ]
     }
 }

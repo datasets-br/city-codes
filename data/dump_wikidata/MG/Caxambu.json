@@ -213,6 +213,30 @@
                     "id": "Q947342"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1756600,
+                    "id": "Q1756600"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1788572,
+                    "id": "Q1788572"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1789528,
+                    "id": "Q1789528"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -224,6 +248,42 @@
         "P473": [
             {
                 "value": "35",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "43095",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n85360635",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Caxambumgbandeira.png",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "37440-000 a 37442-999",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101951011",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0449283",
                 "type": "string"
             }
         ]

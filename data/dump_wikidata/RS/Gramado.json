@@ -241,6 +241,43 @@
                 "value": "54",
                 "type": "string"
             }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1954-12-15T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 11,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "86819",
+                "type": "string"
+            }
+        ],
+        "P3722": [
+            {
+                "value": "Maps of Gramado",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n87945227",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101963667",
+                "type": "string"
+            }
         ]
     }
 }

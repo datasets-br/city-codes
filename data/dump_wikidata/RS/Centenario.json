@@ -116,12 +116,6 @@
                 "type": "quantity"
             }
         ],
-        "P856": [
-            {
-                "value": "http://www.centenario.rs.gov.br/site/",
-                "type": "string"
-            }
-        ],
         "P242": [
             {
                 "value": "Locator map of Centenário in Rio Grande do Sul.svg",
@@ -163,6 +157,36 @@
         "P473": [
             {
                 "value": "54",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.centenario.rs.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "86541",
+                "type": "string"
+            }
+        ],
+        "P3722": [
+            {
+                "value": "Maps of Centenário (Rio Grande do Sul)",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Centenáriobanders.png",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101967639",
                 "type": "string"
             }
         ]

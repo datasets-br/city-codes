@@ -161,6 +161,58 @@
                 "value": "35",
                 "type": "string"
             }
+        ],
+        "P6555": [
+            {
+                "value": "54453",
+                "type": "string"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 985579,
+                    "id": "Q985579"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1790792,
+                    "id": "Q1790792"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1793175,
+                    "id": "Q1793175"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1789690,
+                    "id": "Q1789690"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.itaudeminas.mg.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101950667",
+                "type": "string"
+            }
         ]
     }
 }

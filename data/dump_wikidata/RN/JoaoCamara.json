@@ -54,7 +54,7 @@
         ],
         "P214": [
             {
-                "value": "237436110",
+                "value": "134924224",
                 "type": "string"
             }
         ],
@@ -163,6 +163,73 @@
         "P18": [
             {
                 "value": "Vista de João Câmara RN .jpg",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Flag of João Câmara - RN - Brazil.png",
+                "type": "string"
+            }
+        ],
+        "P242": [
+            {
+                "value": "RioGrandedoNorte Municip JoaoCamara.svg",
+                "type": "string"
+            }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1928-10-29T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 11,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P856": [
+            {
+                "value": "https://joaocamara.rn.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "17132",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "6320168",
+                "type": "string"
+            }
+        ],
+        "P6667": [
+            {
+                "value": "16295",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Coat of Arms of João Câmara - RN - Brazil.png",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0451834",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101946549",
                 "type": "string"
             }
         ]

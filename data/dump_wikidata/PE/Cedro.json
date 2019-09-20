@@ -106,15 +106,6 @@
                 "type": "quantity"
             }
         ],
-        "P1081": [
-            {
-                "value": {
-                    "amount": "+0.001",
-                    "unit": "1"
-                },
-                "type": "quantity"
-            }
-        ],
         "P402": [
             {
                 "value": "303724",
@@ -124,6 +115,34 @@
         "P473": [
             {
                 "value": "87",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            null,
+            {
+                "value": "http://www.cedro.pe.gov.br",
+                "type": "string"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.672",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "23850",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101947493",
                 "type": "string"
             }
         ]

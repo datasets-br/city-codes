@@ -121,7 +121,7 @@
         "P2046": [
             {
                 "value": {
-                    "amount": "+856.886",
+                    "amount": "+849.538",
                     "unit": "http://www.wikidata.org/entity/Q712226"
                 },
                 "type": "quantity"
@@ -145,6 +145,36 @@
         "P473": [
             {
                 "value": "77",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "33731",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasao-de-Boa-Nova.jpg",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "45250-000",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.boanova.ba.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101947181",
                 "type": "string"
             }
         ]

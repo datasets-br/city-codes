@@ -14,6 +14,16 @@
                     "globe": "http://www.wikidata.org/entity/Q2"
                 },
                 "type": "globecoordinate"
+            },
+            {
+                "value": {
+                    "latitude": -4.85694444,
+                    "longitude": -39.57694444,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
             }
         ],
         "P17": [
@@ -147,6 +157,24 @@
         "P18": [
             {
                 "value": "Igreja Matriz de Madalena - panoramio.jpg",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "13021",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101945339",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0452573",
                 "type": "string"
             }
         ]

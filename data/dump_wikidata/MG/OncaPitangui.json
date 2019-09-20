@@ -145,6 +145,56 @@
                 "value": "Brasao onca.png",
                 "type": "string"
             }
+        ],
+        "P158": [
+            {
+                "value": "Brasao onca.png",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "49158",
+                "type": "string"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1749821,
+                    "id": "Q1749821"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1793134,
+                    "id": "Q1793134"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 749248,
+                    "id": "Q749248"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.oncadopitangui.mg.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101968811",
+                "type": "string"
+            }
         ]
     }
 }

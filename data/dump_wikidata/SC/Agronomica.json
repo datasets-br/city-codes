@@ -130,10 +130,6 @@
         ],
         "P18": [
             {
-                "value": "Bandeira-agronomica.png",
-                "type": "string"
-            },
-            {
                 "value": "Brasao Agronomica SantaCatarina Brasil.jpg",
                 "type": "string"
             }
@@ -191,6 +187,24 @@
         "P473": [
             {
                 "value": "47",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.agronomica-sc.com.br/",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "80055",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101957829",
                 "type": "string"
             }
         ]

@@ -243,6 +243,158 @@
                 },
                 "type": "wikibase-entityid"
             }
+        ],
+        "P856": [
+            {
+                "value": "http://www.taubate.sp.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1645-12-05T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 11,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P1792": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 52527881,
+                    "id": "Q52527881"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "71838",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n81037320",
+                "type": "string"
+            }
+        ],
+        "P1448": [
+            {
+                "value": {
+                    "text": "Município de Taubaté",
+                    "language": "pt-br"
+                },
+                "type": "monolingualtext"
+            }
+        ],
+        "P1449": [
+            {
+                "value": {
+                    "text": "Capital Nacional da Literatura Infantil",
+                    "language": "pt-br"
+                },
+                "type": "monolingualtext"
+            }
+        ],
+        "P1549": [
+            {
+                "value": {
+                    "text": "taubateano",
+                    "language": "pt-br"
+                },
+                "type": "monolingualtext"
+            },
+            {
+                "value": {
+                    "text": "taubateense",
+                    "language": "pt-br"
+                },
+                "type": "monolingualtext"
+            }
+        ],
+        "P1451": [
+            {
+                "value": {
+                    "text": "Per Aspera Pro Brasilia",
+                    "language": "la"
+                },
+                "type": "monolingualtext"
+            }
+        ],
+        "P417": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 676555,
+                    "id": "Q676555"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P6": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 18238587,
+                    "id": "Q18238587"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2564": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 8346929,
+                    "id": "Q8346929"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P421": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 6513,
+                    "id": "Q6513"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P85": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 19553460,
+                    "id": "Q19553460"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasaotaubate.png",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0067459",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101956319",
+                "type": "string"
+            }
         ]
     }
 }

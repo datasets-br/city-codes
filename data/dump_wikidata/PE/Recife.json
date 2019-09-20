@@ -70,6 +70,14 @@
                     "id": "Q213242"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 30002,
+                    "id": "Q30002"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P163": [
@@ -108,12 +116,6 @@
                     "id": "Q515"
                 },
                 "type": "wikibase-entityid"
-            }
-        ],
-        "P41": [
-            {
-                "value": "Band recife.png",
-                "type": "string"
             }
         ],
         "P94": [
@@ -276,12 +278,6 @@
                     "lowerBound": "+3"
                 },
                 "type": "quantity"
-            }
-        ],
-        "P856": [
-            {
-                "value": "http://www.recife.pe.gov.br/",
-                "type": "string"
             }
         ],
         "P1343": [
@@ -581,6 +577,36 @@
         "P5573": [
             {
                 "value": "7011",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "25313",
+                "type": "string"
+            }
+        ],
+        "P3722": [
+            {
+                "value": "Maps of Recife",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira de Recife.svg",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.prefeituradorecife.com.br/",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101948669",
                 "type": "string"
             }
         ]

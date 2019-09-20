@@ -181,6 +181,30 @@
                     "id": "Q1790502"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 22062741,
+                    "id": "Q22062741"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1790449,
+                    "id": "Q1790449"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1791417,
+                    "id": "Q1791417"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -192,6 +216,30 @@
         "P473": [
             {
                 "value": "35",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.muzambinho.mg.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "48810",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101950705",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0453262",
                 "type": "string"
             }
         ]

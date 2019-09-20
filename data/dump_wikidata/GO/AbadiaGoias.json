@@ -77,6 +77,13 @@
                     "unit": "1"
                 },
                 "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+5868",
+                    "unit": "1"
+                },
+                "type": "quantity"
             }
         ],
         "P242": [
@@ -195,6 +202,42 @@
                     "id": "Q2459"
                 },
                 "type": "wikibase-entityid"
+            }
+        ],
+        "P1705": [
+            {
+                "value": {
+                    "text": "Abadia de Goiás",
+                    "language": "pt"
+                },
+                "type": "monolingualtext"
+            }
+        ],
+        "P1448": [
+            {
+                "value": {
+                    "text": "Abadia de Goiás",
+                    "language": "pt"
+                },
+                "type": "monolingualtext"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "93360",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.abadiadegoias.go.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101962293",
+                "type": "string"
             }
         ]
     }

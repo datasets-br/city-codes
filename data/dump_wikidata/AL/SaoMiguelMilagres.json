@@ -159,6 +159,34 @@
                 "value": "Saomigueldosmilagres20.jpg",
                 "type": "string"
             }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 30010064,
+                    "id": "Q30010064"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "28738",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n2005178625",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101948505",
+                "type": "string"
+            }
         ]
     }
 }

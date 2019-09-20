@@ -178,6 +178,38 @@
                 "value": "97",
                 "type": "string"
             }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 32403663,
+                    "id": "Q32403663"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1464": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 32333826,
+                    "id": "Q32333826"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "2330",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101941611",
+                "type": "string"
+            }
         ]
     }
 }

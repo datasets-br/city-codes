@@ -4,12 +4,6 @@
     "type": "item",
     "id": "Q808797",
     "claims": {
-        "P41": [
-            {
-                "value": "Barramansa.gif",
-                "type": "string"
-            }
-        ],
         "P158": [
             {
                 "value": "Barra Mansa-Prefeitura-2.jpg",
@@ -267,6 +261,30 @@
         "P5573": [
             {
                 "value": "47149",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira de Barra Mansa.gif",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "58076",
+                "type": "string"
+            }
+        ],
+        "P6782": [
+            {
+                "value": "00a0zet70",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101968847",
                 "type": "string"
             }
         ]

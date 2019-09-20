@@ -140,6 +140,46 @@
                     "id": "Q1805751"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1790777,
+                    "id": "Q1790777"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1792841,
+                    "id": "Q1792841"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1749826,
+                    "id": "Q1749826"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1755816,
+                    "id": "Q1755816"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1650861,
+                    "id": "Q1650861"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -157,6 +197,36 @@
         "P18": [
             {
                 "value": "P 20161124 195332.jpg",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "41939",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Cachoeira de Minasmgbrasao.jpg",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "37545-000 a 37547-999",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.cachoeirademinas.mg.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101948801",
                 "type": "string"
             }
         ]

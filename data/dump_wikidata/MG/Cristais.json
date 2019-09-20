@@ -136,6 +136,46 @@
                     "id": "Q1791720"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 22062767,
+                    "id": "Q22062767"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 595804,
+                    "id": "Q595804"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1906206,
+                    "id": "Q1906206"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 691275,
+                    "id": "Q691275"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1791322,
+                    "id": "Q1791322"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -147,6 +187,42 @@
         "P473": [
             {
                 "value": "35",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "44032",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Cristaismgbandeira.jpg",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Cristaismgbrasao.jpg",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "37275-000 a 37277-999",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.cristais.mg.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101950881",
                 "type": "string"
             }
         ]

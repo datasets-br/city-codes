@@ -136,6 +136,38 @@
                     "id": "Q631022"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 628877,
+                    "id": "Q628877"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 22062685,
+                    "id": "Q22062685"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1791168,
+                    "id": "Q1791168"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1780188,
+                    "id": "Q1780188"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -153,6 +185,30 @@
         "P18": [
             {
                 "value": "Igreja N. Senhora Aparecida - Itatiaiuçu, MG - panoramio.jpg",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "46736",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Coat of Arms of Itatiaiuçu.jpg",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "35685-000 a 35689-999",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101951143",
                 "type": "string"
             }
         ]

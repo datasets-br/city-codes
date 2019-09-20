@@ -14,16 +14,6 @@
                     "globe": "http://www.wikidata.org/entity/Q2"
                 },
                 "type": "globecoordinate"
-            },
-            {
-                "value": {
-                    "latitude": -21.5551,
-                    "longitude": -46.10712,
-                    "altitude": null,
-                    "precision": 1.0e-5,
-                    "globe": "http://www.wikidata.org/entity/Q2"
-                },
-                "type": "globecoordinate"
             }
         ],
         "P17": [
@@ -169,6 +159,30 @@
                     "id": "Q1755151"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 22062719,
+                    "id": "Q22062719"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1756059,
+                    "id": "Q1756059"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1780021,
+                    "id": "Q1780021"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -180,6 +194,30 @@
         "P473": [
             {
                 "value": "35",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "53376",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "37143-000 a 37143-999",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.serrania.mg.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101952643",
                 "type": "string"
             }
         ]

@@ -48,16 +48,6 @@
                     "globe": "http://www.wikidata.org/entity/Q2"
                 },
                 "type": "globecoordinate"
-            },
-            {
-                "value": {
-                    "latitude": -10.150833333333,
-                    "longitude": -67.735833333333,
-                    "altitude": null,
-                    "precision": 0.00027777777777778,
-                    "globe": "http://www.wikidata.org/entity/Q2"
-                },
-                "type": "globecoordinate"
             }
         ],
         "P2044": [
@@ -203,6 +193,30 @@
         "P473": [
             {
                 "value": "68",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "1538",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "BandeiraSenadorGuiomard.jpg",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "BrasaoSenadorGuiomard.png",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101941599",
                 "type": "string"
             }
         ]

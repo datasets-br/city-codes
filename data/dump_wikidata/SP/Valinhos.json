@@ -237,6 +237,50 @@
                 "value": "4867",
                 "type": "string"
             }
+        ],
+        "P856": [
+            {
+                "value": "http://www.valinhos.sp.gov.br",
+                "type": "string"
+            }
+        ],
+        "P1464": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 32333304,
+                    "id": "Q32333304"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1792": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 55940604,
+                    "id": "Q55940604"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "72257",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n79033236",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101965201",
+                "type": "string"
+            }
         ]
     }
 }

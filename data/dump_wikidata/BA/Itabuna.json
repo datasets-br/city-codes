@@ -108,12 +108,6 @@
                 "type": "string"
             }
         ],
-        "P94": [
-            {
-                "value": "Brasao Itabuna.jpg",
-                "type": "string"
-            }
-        ],
         "P1281": [
             {
                 "value": "455869",
@@ -225,6 +219,52 @@
         "P402": [
             {
                 "value": "362360",
+                "type": "string"
+            }
+        ],
+        "P158": [
+            {
+                "value": "BrasaoItabuna.svg",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "BrasaoItabuna.svg",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "35971",
+                "type": "string"
+            }
+        ],
+        "P3722": [
+            {
+                "value": "Maps of Itabuna",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n88244068",
+                "type": "string"
+            }
+        ],
+        "P417": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 128267,
+                    "id": "Q128267"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101950063",
                 "type": "string"
             }
         ]

@@ -177,6 +177,24 @@
                 },
                 "type": "wikibase-entityid"
             }
+        ],
+        "P856": [
+            {
+                "value": "http://www.taiuva.sp.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "71650",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101955801",
+                "type": "string"
+            }
         ]
     }
 }

@@ -330,6 +330,59 @@
                 },
                 "type": "wikibase-entityid"
             }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1535-01-01T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 9,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P1376": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 17351607,
+                    "id": "Q17351607"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "24910",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n79069714",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0047080",
+                "type": "string"
+            }
+        ],
+        "P2716": [
+            {
+                "value": "Montagem Olinda.jpg",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101948665",
+                "type": "string"
+            }
         ]
     }
 }

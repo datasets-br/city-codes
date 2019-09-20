@@ -146,6 +146,54 @@
                     "id": "Q1756972"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 583832,
+                    "id": "Q583832"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1638425,
+                    "id": "Q1638425"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1805732,
+                    "id": "Q1805732"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1790715,
+                    "id": "Q1790715"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 678998,
+                    "id": "Q678998"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 986277,
+                    "id": "Q986277"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -157,6 +205,36 @@
         "P473": [
             {
                 "value": "35",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "49972",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira de Perdões, MG.png",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.perdoes.mg.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101968777",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0454081",
                 "type": "string"
             }
         ]

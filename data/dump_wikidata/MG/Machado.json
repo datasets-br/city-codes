@@ -150,6 +150,62 @@
                     "id": "Q1755151"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 22062719,
+                    "id": "Q22062719"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1756420,
+                    "id": "Q1756420"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1792968,
+                    "id": "Q1792968"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 283682,
+                    "id": "Q283682"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1754967,
+                    "id": "Q1754967"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 593028,
+                    "id": "Q593028"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1788481,
+                    "id": "Q1788481"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -167,6 +223,48 @@
         "P18": [
             {
                 "value": "Ponte do Rio Sapucaí.jpg",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "47791",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n86001174",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira de Machado - MG.svg",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "37750-000 a 37756-999",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.machado.mg.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101968735",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0452556",
                 "type": "string"
             }
         ]

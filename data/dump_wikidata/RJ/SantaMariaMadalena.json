@@ -163,6 +163,44 @@
                 "value": "22",
                 "type": "string"
             }
+        ],
+        "P158": [
+            {
+                "value": "Brasao smmadalena.jpg",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 32325091,
+                    "id": "Q32325091"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1464": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 32341442,
+                    "id": "Q32341442"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "58912",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101953793",
+                "type": "string"
+            }
         ]
     }
 }

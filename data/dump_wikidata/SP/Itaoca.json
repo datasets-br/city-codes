@@ -13,8 +13,8 @@
         "P625": [
             {
                 "value": {
-                    "latitude": -24.61,
-                    "longitude": -48.85,
+                    "latitude": -24.64,
+                    "longitude": -48.84,
                     "altitude": null,
                     "precision": 0.01,
                     "globe": "http://www.wikidata.org/entity/Q2"
@@ -74,7 +74,7 @@
         ],
         "P18": [
             {
-                "value": "Enchente Itaoca 2014.jpg",
+                "value": "Vista aerea do Municipio de Itaoca SP.jpg",
                 "type": "string"
             }
         ],
@@ -165,6 +165,24 @@
         "P402": [
             {
                 "value": "298372",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "61603",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasão de Itaoca SP.png",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101964523",
                 "type": "string"
             }
         ]

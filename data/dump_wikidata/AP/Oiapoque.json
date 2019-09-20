@@ -56,6 +56,14 @@
                     "id": "Q3184121"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 902814,
+                    "id": "Q902814"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P646": [
@@ -210,6 +218,24 @@
         "P473": [
             {
                 "value": "96",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "6092",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "68.980-000",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101942097",
                 "type": "string"
             }
         ]

@@ -157,6 +157,46 @@
                 "value": "74",
                 "type": "string"
             }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 29054642,
+                    "id": "Q29054642"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "33359",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "44780-000",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.antoniogoncalves.ba.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0447800",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101947199",
+                "type": "string"
+            }
         ]
     }
 }

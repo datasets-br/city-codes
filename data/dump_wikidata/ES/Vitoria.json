@@ -102,12 +102,6 @@
                 "type": "string"
             }
         ],
-        "P41": [
-            {
-                "value": "BandeiraVitoria.png",
-                "type": "string"
-            }
-        ],
         "P17": [
             {
                 "value": {
@@ -404,6 +398,36 @@
                     "id": "Q25443954"
                 },
                 "type": "wikibase-entityid"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira de Vitória.svg",
+                "type": "string"
+            }
+        ],
+        "P2924": [
+            {
+                "value": "1917045",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "57053",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0071385",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101954595",
+                "type": "string"
             }
         ]
     }

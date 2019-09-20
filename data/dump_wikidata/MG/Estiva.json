@@ -145,6 +145,88 @@
                 "value": "35",
                 "type": "string"
             }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1792820,
+                    "id": "Q1792820"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 784417,
+                    "id": "Q784417"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1756102,
+                    "id": "Q1756102"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1756818,
+                    "id": "Q1756818"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1805751,
+                    "id": "Q1805751"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 949798,
+                    "id": "Q949798"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1788440,
+                    "id": "Q1788440"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "44890",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "37542-000 a 37544-999",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.estiva.mg.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101950791",
+                "type": "string"
+            }
         ]
     }
 }

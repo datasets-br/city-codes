@@ -128,6 +128,30 @@
                     "id": "Q1779955"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 985579,
+                    "id": "Q985579"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1755708,
+                    "id": "Q1755708"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1756039,
+                    "id": "Q1756039"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -145,6 +169,61 @@
         "P18": [
             {
                 "value": "Fortaleza de Minas (MG).tif",
+                "type": "string"
+            }
+        ],
+        "P1705": [
+            {
+                "value": {
+                    "text": "Fortaleza de Minas",
+                    "language": "pt"
+                },
+                "type": "monolingualtext"
+            }
+        ],
+        "P1448": [
+            {
+                "value": {
+                    "text": "Fortaleza de Minas",
+                    "language": "pt"
+                },
+                "type": "monolingualtext"
+            }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1963-00-00T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 9,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "45250",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Fortaleza de Minasmgbandeira.png",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Fortaleza de Minasmgbrasao.png",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101950663",
                 "type": "string"
             }
         ]

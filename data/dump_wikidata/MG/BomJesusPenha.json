@@ -129,6 +129,72 @@
                 "value": "35",
                 "type": "string"
             }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1790260,
+                    "id": "Q1790260"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1788043,
+                    "id": "Q1788043"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1757102,
+                    "id": "Q1757102"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1779955,
+                    "id": "Q1779955"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 985579,
+                    "id": "Q985579"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "41513",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bom Jesus da Penhamgbandeirabr.png",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Bom Jesus da Penhamgbrasao.jpg",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101948731",
+                "type": "string"
+            }
         ]
     }
 }

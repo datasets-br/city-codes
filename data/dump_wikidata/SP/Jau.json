@@ -108,8 +108,8 @@
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 17156373,
-                    "id": "Q17156373"
+                    "numeric-id": 32398347,
+                    "id": "Q32398347"
                 },
                 "type": "wikibase-entityid"
             }
@@ -240,6 +240,24 @@
         "P5573": [
             {
                 "value": "3357",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "66079",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101964669",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0451782",
                 "type": "string"
             }
         ]

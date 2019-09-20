@@ -179,6 +179,43 @@
                 "value": "75",
                 "type": "string"
             }
+        ],
+        "P6555": [
+            {
+                "value": "33219",
+                "type": "string"
+            }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1961-01-01T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 9,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P281": [
+            {
+                "value": "44245-000",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.ameliarodrigues.ba.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101947511",
+                "type": "string"
+            }
         ]
     }
 }

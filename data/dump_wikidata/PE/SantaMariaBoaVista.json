@@ -153,6 +153,34 @@
                 "value": "87",
                 "type": "string"
             }
+        ],
+        "P1464": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 28929629,
+                    "id": "Q28929629"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.santamariadaboavista.pe.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "25518",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101947249",
+                "type": "string"
+            }
         ]
     }
 }

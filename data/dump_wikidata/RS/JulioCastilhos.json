@@ -136,6 +136,14 @@
                     "id": "Q1757154"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 740833,
+                    "id": "Q740833"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -147,6 +155,36 @@
         "P473": [
             {
                 "value": "55",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.juliodecastilhos.rs.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "87254",
+                "type": "string"
+            }
+        ],
+        "P3722": [
+            {
+                "value": "Maps of Júlio de Castilhos (Rio Grande do Sul)",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasão Júlio de Castilhos.jpg",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101958761",
                 "type": "string"
             }
         ]

@@ -185,6 +185,70 @@
                     "id": "Q1756931"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1790260,
+                    "id": "Q1790260"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 581679,
+                    "id": "Q581679"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1757102,
+                    "id": "Q1757102"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 22062767,
+                    "id": "Q22062767"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 659342,
+                    "id": "Q659342"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1791254,
+                    "id": "Q1791254"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1791322,
+                    "id": "Q1791322"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1780266,
+                    "id": "Q1780266"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -196,6 +260,30 @@
         "P473": [
             {
                 "value": "35",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "42870",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "37150-000 a 37159-999",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.carmodorioclaro.mg.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101965739",
                 "type": "string"
             }
         ]

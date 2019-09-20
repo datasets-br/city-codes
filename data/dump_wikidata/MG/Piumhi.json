@@ -191,6 +191,62 @@
                     "id": "Q1635025"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1791322,
+                    "id": "Q1791322"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1257195,
+                    "id": "Q1257195"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1756027,
+                    "id": "Q1756027"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1756593,
+                    "id": "Q1756593"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1755169,
+                    "id": "Q1755169"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1787582,
+                    "id": "Q1787582"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1791617,
+                    "id": "Q1791617"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -202,6 +258,36 @@
         "P473": [
             {
                 "value": "37",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "50296",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira de Piuhmi, MG.png",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "37925-000 a 37925-999",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101952631",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0454318",
                 "type": "string"
             }
         ]

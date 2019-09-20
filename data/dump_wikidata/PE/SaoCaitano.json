@@ -133,6 +133,50 @@
                 "value": "81",
                 "type": "string"
             }
+        ],
+        "P1464": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 32344758,
+                    "id": "Q32344758"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 32335285,
+                    "id": "Q32335285"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.saocaetano.pe.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "25615",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101948261",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0455910",
+                "type": "string"
+            }
         ]
     }
 }

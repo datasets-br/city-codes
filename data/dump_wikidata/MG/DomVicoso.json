@@ -129,6 +129,88 @@
                 "value": "35",
                 "type": "string"
             }
+        ],
+        "P6555": [
+            {
+                "value": "44555",
+                "type": "string"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1796446,
+                    "id": "Q1796446"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1790481,
+                    "id": "Q1790481"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1756231,
+                    "id": "Q1756231"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1787215,
+                    "id": "Q1787215"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1787301,
+                    "id": "Q1787301"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P421": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 6513,
+                    "id": "Q6513"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Dom Viçosomgbandeira.png",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Dom Viçosomgbrasao.png",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.domvicoso.mg.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101950961",
+                "type": "string"
+            }
         ]
     }
 }

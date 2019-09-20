@@ -120,6 +120,62 @@
                     "id": "Q1791942"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 22062719,
+                    "id": "Q22062719"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1792820,
+                    "id": "Q1792820"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 727483,
+                    "id": "Q727483"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 775319,
+                    "id": "Q775319"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1754967,
+                    "id": "Q1754967"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1755160,
+                    "id": "Q1755160"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 921202,
+                    "id": "Q921202"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -137,6 +193,18 @@
         "P18": [
             {
                 "value": "Ipuiúna.jpg",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "46299",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101950779",
                 "type": "string"
             }
         ]

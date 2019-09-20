@@ -123,6 +123,80 @@
                 "value": "35",
                 "type": "string"
             }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1780021,
+                    "id": "Q1780021"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 939717,
+                    "id": "Q939717"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 642341,
+                    "id": "Q642341"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 283682,
+                    "id": "Q283682"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 952405,
+                    "id": "Q952405"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1788481,
+                    "id": "Q1788481"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "43796",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Cordislândiamgbandeira.png",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Cordislândiamgbrasao.jpg",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101950873",
+                "type": "string"
+            }
         ]
     }
 }

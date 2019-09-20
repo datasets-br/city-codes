@@ -166,6 +166,40 @@
                 "value": "32",
                 "type": "string"
             }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 49686533,
+                    "id": "Q49686533"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "42340",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "36793-000 a 36794-999",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.saosebastiaodavargemalegre.mg.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101953563",
+                "type": "string"
+            }
         ]
     }
 }

@@ -173,6 +173,34 @@
                 "value": "19",
                 "type": "string"
             }
+        ],
+        "P1464": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 32333207,
+                    "id": "Q32333207"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.santamariadaserra.sp.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "70416",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101968423",
+                "type": "string"
+            }
         ]
     }
 }

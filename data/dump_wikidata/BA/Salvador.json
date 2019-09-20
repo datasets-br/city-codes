@@ -108,12 +108,6 @@
                 "type": "string"
             }
         ],
-        "P94": [
-            {
-                "value": "Brasão de Salvador.jpg",
-                "type": "string"
-            }
-        ],
         "P31": [
             {
                 "value": {
@@ -162,7 +156,7 @@
         ],
         "P18": [
             {
-                "value": "Largodopelo.jpg",
+                "value": "Poster Salvador.png",
                 "type": "string"
             },
             {
@@ -272,6 +266,14 @@
                     "id": "Q2292820"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 56349833,
+                    "id": "Q56349833"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P1376": [
@@ -314,12 +316,6 @@
                 "type": "string"
             }
         ],
-        "P269": [
-            {
-                "value": "14693847X",
-                "type": "string"
-            }
-        ],
         "P935": [
             {
                 "value": "Salvador",
@@ -332,6 +328,14 @@
                     "entity-type": "item",
                     "numeric-id": 2657718,
                     "id": "Q2657718"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 4114391,
+                    "id": "Q4114391"
                 },
                 "type": "wikibase-entityid"
             }
@@ -399,16 +403,6 @@
                 "type": "quantity"
             }
         ],
-        "P2959": [
-            {
-                "value": {
-                    "entity-type": "item",
-                    "numeric-id": 20515326,
-                    "id": "Q20515326"
-                },
-                "type": "wikibase-entityid"
-            }
-        ],
         "P281": [
             {
                 "value": "40000-000",
@@ -417,7 +411,7 @@
         ],
         "P473": [
             {
-                "value": "071",
+                "value": "71",
                 "type": "string"
             }
         ],
@@ -464,14 +458,6 @@
                     "entity-type": "item",
                     "numeric-id": 6513,
                     "id": "Q6513"
-                },
-                "type": "wikibase-entityid"
-            },
-            {
-                "value": {
-                    "entity-type": "item",
-                    "numeric-id": 6536,
-                    "id": "Q6536"
                 },
                 "type": "wikibase-entityid"
             }
@@ -568,6 +554,20 @@
             {
                 "value": {
                     "text": "soteropolitana",
+                    "language": "pt"
+                },
+                "type": "monolingualtext"
+            },
+            {
+                "value": {
+                    "text": "soteropolitanos",
+                    "language": "pt"
+                },
+                "type": "monolingualtext"
+            },
+            {
+                "value": {
+                    "text": "soteropolitanas",
                     "language": "pt"
                 },
                 "type": "monolingualtext"
@@ -707,6 +707,22 @@
                     "id": "Q4005967"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 920706,
+                    "id": "Q920706"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 734958,
+                    "id": "Q734958"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P268": [
@@ -718,6 +734,45 @@
         "P5573": [
             {
                 "value": "89",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+8",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasão de Salvador.svg",
+                "type": "string"
+            }
+        ],
+        "P269": [
+            {
+                "value": "14693847X",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "38490",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "85765525",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0058331",
                 "type": "string"
             }
         ]

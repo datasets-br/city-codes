@@ -30,6 +30,16 @@
                     "globe": "http://www.wikidata.org/entity/Q2"
                 },
                 "type": "globecoordinate"
+            },
+            {
+                "value": {
+                    "latitude": -26.42528,
+                    "longitude": -49.24306,
+                    "altitude": null,
+                    "precision": 1.0e-6,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
             }
         ],
         "P131": [
@@ -40,6 +50,14 @@
                     "id": "Q41115"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 22063944,
+                    "id": "Q22063944"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P31": [
@@ -48,6 +66,14 @@
                     "entity-type": "item",
                     "numeric-id": 3184121,
                     "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 486972,
+                    "id": "Q486972"
                 },
                 "type": "wikibase-entityid"
             }
@@ -123,6 +149,13 @@
             {
                 "value": {
                     "amount": "+75",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+66",
                     "unit": "http://www.wikidata.org/entity/Q11573"
                 },
                 "type": "quantity"
@@ -205,6 +238,24 @@
         "P402": [
             {
                 "value": "296779",
+                "type": "string"
+            }
+        ],
+        "P158": [
+            {
+                "value": "Brasao corupa.jpg",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "80870",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101957943",
                 "type": "string"
             }
         ]

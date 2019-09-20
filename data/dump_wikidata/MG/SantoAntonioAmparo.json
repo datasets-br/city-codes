@@ -177,6 +177,30 @@
                     "id": "Q1805732"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1789707,
+                    "id": "Q1789707"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 678998,
+                    "id": "Q678998"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2382290,
+                    "id": "Q2382290"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -188,6 +212,18 @@
         "P473": [
             {
                 "value": "35",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "51977",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101965967",
                 "type": "string"
             }
         ]

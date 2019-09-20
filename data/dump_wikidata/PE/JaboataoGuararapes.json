@@ -232,6 +232,43 @@
                 },
                 "type": "wikibase-entityid"
             }
+        ],
+        "P982": [
+            {
+                "value": "7e046629-ea21-4673-bf65-5c87be42cd7c",
+                "type": "string"
+            }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1593-01-01T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 9,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://jaboatao.pe.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "24570",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101948653",
+                "type": "string"
+            }
         ]
     }
 }

@@ -50,6 +50,14 @@
                     "id": "Q3184121"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 902814,
+                    "id": "Q902814"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P646": [
@@ -173,6 +181,24 @@
         "P402": [
             {
                 "value": "326283",
+                "type": "string"
+            }
+        ],
+        "P158": [
+            {
+                "value": "Brasao Pacaraima.jpg",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "3123",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101941855",
                 "type": "string"
             }
         ]

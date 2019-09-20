@@ -84,14 +84,6 @@
                 "type": "string"
             },
             {
-                "value": "Bandeira de Monte Aprazível, SP.jpg",
-                "type": "string"
-            },
-            {
-                "value": "Brasão de Monte Aprazível, SP.jpg",
-                "type": "string"
-            },
-            {
                 "value": "Brasao MonteAprazivel SaoPaulo Brasil.jpg",
                 "type": "string"
             }
@@ -215,6 +207,24 @@
         "P473": [
             {
                 "value": "17",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.monteaprazivel.sp.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "67296",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101955381",
                 "type": "string"
             }
         ]

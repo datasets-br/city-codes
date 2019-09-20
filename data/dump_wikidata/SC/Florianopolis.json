@@ -42,12 +42,6 @@
                 "type": "string"
             }
         ],
-        "P158": [
-            {
-                "value": "Brasao florianopolis.gif",
-                "type": "string"
-            }
-        ],
         "P17": [
             {
                 "value": {
@@ -251,12 +245,6 @@
                 "type": "quantity"
             }
         ],
-        "P18": [
-            {
-                "value": "Montagem de Florianópolis.jpg",
-                "type": "string"
-            }
-        ],
         "P1997": [
             {
                 "value": "106339232734991",
@@ -430,6 +418,40 @@
                     "id": "Q56450250"
                 },
                 "type": "wikibase-entityid"
+            }
+        ],
+        "P1151": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 56686259,
+                    "id": "Q56686259"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "81051",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n81018678",
+                "type": "string"
+            }
+        ],
+        "P2716": [
+            {
+                "value": "Florianópolis Collage.png",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101958175",
+                "type": "string"
             }
         ]
     }

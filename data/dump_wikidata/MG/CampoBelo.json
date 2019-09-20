@@ -10,12 +10,6 @@
                 "type": "string"
             }
         ],
-        "P158": [
-            {
-                "value": "Brasao cb.jpg",
-                "type": "string"
-            }
-        ],
         "P17": [
             {
                 "value": {
@@ -188,6 +182,30 @@
                     "id": "Q678998"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1793151,
+                    "id": "Q1793151"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1906206,
+                    "id": "Q1906206"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1756972,
+                    "id": "Q1756972"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -199,6 +217,36 @@
         "P473": [
             {
                 "value": "35",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.campobelo.mg.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "42234",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n2005002864",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101948857",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0448921",
                 "type": "string"
             }
         ]

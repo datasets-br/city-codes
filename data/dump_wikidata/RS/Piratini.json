@@ -165,6 +165,52 @@
                 "value": "53",
                 "type": "string"
             }
+        ],
+        "P1376": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 162192,
+                    "id": "Q162192"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.prefeiturapiratini.rs.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "87955",
+                "type": "string"
+            }
+        ],
+        "P3722": [
+            {
+                "value": "Maps of Piratini",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n79025877",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Aa piratini-600x400.jpg",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101959049",
+                "type": "string"
+            }
         ]
     }
 }

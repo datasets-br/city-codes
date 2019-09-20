@@ -156,6 +156,54 @@
                     "id": "Q1796446"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 612995,
+                    "id": "Q612995"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1788432,
+                    "id": "Q1788432"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 985585,
+                    "id": "Q985585"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1780238,
+                    "id": "Q1780238"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1790610,
+                    "id": "Q1790610"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1787215,
+                    "id": "Q1787215"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -167,6 +215,42 @@
         "P473": [
             {
                 "value": "35",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.mariadafe.mg.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "47970",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n00034297",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "37517-000 a 37519-999",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101950917",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0452798",
                 "type": "string"
             }
         ]

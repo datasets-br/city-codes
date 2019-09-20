@@ -136,6 +136,14 @@
                     "id": "Q1757460"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 740833,
+                    "id": "Q740833"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P571": [
@@ -166,6 +174,54 @@
         "P473": [
             {
                 "value": "55",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.formigueiro.rs.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "86657",
+                "type": "string"
+            }
+        ],
+        "P3722": [
+            {
+                "value": "Maps of Formigueiro (Rio Grande do Sul)",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n88286359",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira de Formigueiro.png",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Logo Brasão de Formigueiro.png",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "97210-000",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101958909",
                 "type": "string"
             }
         ]

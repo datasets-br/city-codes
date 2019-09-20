@@ -184,6 +184,50 @@
                 "value": "51",
                 "type": "string"
             }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 32350527,
+                    "id": "Q32350527"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1464": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 32350524,
+                    "id": "Q32350524"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.triunfo.rs.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "89435",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101967711",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0456895",
+                "type": "string"
+            }
         ]
     }
 }

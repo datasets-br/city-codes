@@ -154,6 +154,38 @@
                     "id": "Q1790481"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 612995,
+                    "id": "Q612995"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 478514,
+                    "id": "Q478514"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1756231,
+                    "id": "Q1756231"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1790610,
+                    "id": "Q1790610"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -165,6 +197,24 @@
         "P473": [
             {
                 "value": "35",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "44091",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.cristina.mg.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101950935",
                 "type": "string"
             }
         ]

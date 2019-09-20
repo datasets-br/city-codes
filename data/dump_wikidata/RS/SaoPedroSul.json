@@ -138,6 +138,14 @@
                     "id": "Q9660079"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 740833,
+                    "id": "Q740833"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -149,6 +157,36 @@
         "P473": [
             {
                 "value": "55",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.saopedrodosul.rs.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "88919",
+                "type": "string"
+            }
+        ],
+        "P3722": [
+            {
+                "value": "Maps of São Pedro do Sul (Rio Grande do Sul)",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101958573",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0456076",
                 "type": "string"
             }
         ]

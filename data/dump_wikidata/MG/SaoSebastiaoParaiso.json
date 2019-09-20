@@ -165,6 +165,54 @@
                     "id": "Q1788424"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1779955,
+                    "id": "Q1779955"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1789740,
+                    "id": "Q1789740"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1790792,
+                    "id": "Q1790792"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1791736,
+                    "id": "Q1791736"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1791149,
+                    "id": "Q1791149"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1789690,
+                    "id": "Q1789690"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -176,6 +224,46 @@
         "P473": [
             {
                 "value": "35",
+                "type": "string"
+            }
+        ],
+        "P1464": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 32335458,
+                    "id": "Q32335458"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "52930",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "37950-000 a 37959-999",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.paraiso.mg.gov.br",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0456092",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101965273",
                 "type": "string"
             }
         ]

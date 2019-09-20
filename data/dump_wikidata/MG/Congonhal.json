@@ -146,6 +146,30 @@
                     "id": "Q921958"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1792820,
+                    "id": "Q1792820"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 921202,
+                    "id": "Q921202"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 727483,
+                    "id": "Q727483"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -171,6 +195,36 @@
                     "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
                 },
                 "type": "time"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "43575",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasão de Congonhal Oficial.jpg",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "37584-000 a 37585-999",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.congonhal.mg.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101950793",
+                "type": "string"
             }
         ]
     }

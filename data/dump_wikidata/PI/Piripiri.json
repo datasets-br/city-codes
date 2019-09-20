@@ -24,16 +24,6 @@
                     "globe": "http://www.wikidata.org/entity/Q2"
                 },
                 "type": "globecoordinate"
-            },
-            {
-                "value": {
-                    "latitude": -4.39488,
-                    "longitude": -41.78819,
-                    "altitude": null,
-                    "precision": 1.0e-5,
-                    "globe": "http://www.wikidata.org/entity/Q2"
-                },
-                "type": "globecoordinate"
             }
         ],
         "P131": [
@@ -121,7 +111,7 @@
         ],
         "P18": [
             {
-                "value": "Balneario Itapé y botes.jpg",
+                "value": "Catedral de Piripiri.JPG",
                 "type": "string"
             }
         ],
@@ -168,6 +158,40 @@
         "P473": [
             {
                 "value": "86",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "11673",
+                "type": "string"
+            }
+        ],
+        "P1383": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 22015573,
+                    "id": "Q22015573"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasão de Piripiri.jpg",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101943841",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0454292",
                 "type": "string"
             }
         ]

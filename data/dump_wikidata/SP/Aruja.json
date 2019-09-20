@@ -208,12 +208,6 @@
                 "type": "string"
             }
         ],
-        "P856": [
-            {
-                "value": "https://web.archive.org/web/20080430171848/http://www.aruja.sp.gov.br/",
-                "type": "string"
-            }
-        ],
         "P402": [
             {
                 "value": "297934",
@@ -223,6 +217,30 @@
         "P473": [
             {
                 "value": "11",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.aruja.sp.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "61778",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0448014",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101965727",
                 "type": "string"
             }
         ]

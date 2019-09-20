@@ -161,6 +161,54 @@
                     "id": "Q585412"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1755734,
+                    "id": "Q1755734"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 22065032,
+                    "id": "Q22065032"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1749830,
+                    "id": "Q1749830"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1788636,
+                    "id": "Q1788636"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1755576,
+                    "id": "Q1755576"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 22065225,
+                    "id": "Q22065225"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -172,6 +220,36 @@
         "P473": [
             {
                 "value": "34",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "45896",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "38950-000 a 38959-999",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.ibia.mg.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101950679",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0451295",
                 "type": "string"
             }
         ]

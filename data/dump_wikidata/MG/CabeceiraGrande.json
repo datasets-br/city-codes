@@ -116,8 +116,40 @@
             {
                 "value": {
                     "entity-type": "item",
+                    "numeric-id": 1780258,
+                    "id": "Q1780258"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
                     "numeric-id": 1012541,
                     "id": "Q1012541"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3895255,
+                    "id": "Q3895255"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1003392,
+                    "id": "Q1003392"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 988807,
+                    "id": "Q988807"
                 },
                 "type": "wikibase-entityid"
             }
@@ -131,6 +163,42 @@
         "P473": [
             {
                 "value": "38",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "41785",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Cabeceira Grandemgbandeira.png",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Cabeceira Grandemgbrasao.jpg",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.pmcg.mg.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "38625-000 a 38629-999",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101948711",
                 "type": "string"
             }
         ]

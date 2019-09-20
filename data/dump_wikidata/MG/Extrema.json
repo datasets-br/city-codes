@@ -70,7 +70,7 @@
         ],
         "P373": [
             {
-                "value": "Extrema, Minas Gerais, Brazil",
+                "value": "Extrema (Minas Gerais)",
                 "type": "string"
             }
         ],
@@ -165,6 +165,50 @@
         "P473": [
             {
                 "value": "35",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "45012",
+                "type": "string"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1754774,
+                    "id": "Q1754774"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 22062477,
+                    "id": "Q22062477"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 22065023,
+                    "id": "Q22065023"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P281": [
+            {
+                "value": "37640-000 a 37649-999",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101950735",
                 "type": "string"
             }
         ]

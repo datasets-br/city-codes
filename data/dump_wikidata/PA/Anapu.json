@@ -1,8 +1,12 @@
 {
-    "pageid": 24091569,
+    "pageid": 457610,
     "ns": 0,
+    "redirects": {
+        "from": "Q22060315",
+        "to": "Q486142"
+    },
     "type": "item",
-    "id": "Q22060315",
+    "id": "Q486142",
     "claims": {
         "P17": [
             {
@@ -17,10 +21,6 @@
         "P1566": [
             {
                 "value": "6319370",
-                "type": "string"
-            },
-            {
-                "value": "6316389",
                 "type": "string"
             }
         ],
@@ -180,6 +180,12 @@
         "P473": [
             {
                 "value": "91",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "4723",
                 "type": "string"
             }
         ]

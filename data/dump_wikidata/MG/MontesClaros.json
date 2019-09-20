@@ -155,12 +155,6 @@
                 "type": "wikibase-entityid"
             }
         ],
-        "P94": [
-            {
-                "value": "Brasão Montes Claros.jpg",
-                "type": "string"
-            }
-        ],
         "P18": [
             {
                 "value": "Vista parcial de Montes Claros MG.JPG",
@@ -263,6 +257,58 @@
                     "id": "Q56450261"
                 },
                 "type": "wikibase-entityid"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Coat of arms city br Montes Claros.svg",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "https://portal.montesclaros.mg.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "48658",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n81003438",
+                "type": "string"
+            }
+        ],
+        "P417": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2469225,
+                    "id": "Q2469225"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P281": [
+            {
+                "value": "39400-000 a 39429-999",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0266111",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101951355",
+                "type": "string"
             }
         ]
     }

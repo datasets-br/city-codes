@@ -128,12 +128,6 @@
                 "type": "quantity"
             }
         ],
-        "P94": [
-            {
-                "value": "Brasão de Laranjal Paulista-SP.jpg",
-                "type": "string"
-            }
-        ],
         "P910": [
             {
                 "value": {
@@ -176,6 +170,54 @@
                     "id": "Q542815"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1649822,
+                    "id": "Q1649822"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1759399,
+                    "id": "Q1759399"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1760352,
+                    "id": "Q1760352"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 330175,
+                    "id": "Q330175"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1795718,
+                    "id": "Q1795718"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 593009,
+                    "id": "Q593009"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -187,6 +229,36 @@
         "P473": [
             {
                 "value": "15",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "66290",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n85187696",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira de Laranjal Paulista.svg",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasão de Laranjal Paulista.svg",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101955909",
                 "type": "string"
             }
         ]

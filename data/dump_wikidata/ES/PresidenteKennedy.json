@@ -14,12 +14,6 @@
                 "type": "wikibase-entityid"
             }
         ],
-        "P41": [
-            {
-                "value": "Bandeira de Presidente Kennedy, Brasil.jpg",
-                "type": "string"
-            }
-        ],
         "P94": [
             {
                 "value": "Brasao PMPK2009.jpg",
@@ -151,6 +145,24 @@
         "P473": [
             {
                 "value": "28",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira de Presidente Kennedy.svg",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "56855",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101966521",
                 "type": "string"
             }
         ]

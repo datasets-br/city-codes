@@ -24,7 +24,7 @@
         ],
         "P373": [
             {
-                "value": "Santos Dumont, Minas Gerais",
+                "value": "Santos Dumont (Minas Gerais)",
                 "type": "string"
             }
         ],
@@ -220,6 +220,37 @@
         "P473": [
             {
                 "value": "32",
+                "type": "string"
+            }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1889-07-27T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 11,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "52132",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101953109",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0455877",
                 "type": "string"
             }
         ]

@@ -130,6 +130,14 @@
                     "id": "Q749384"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 952405,
+                    "id": "Q952405"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -141,6 +149,30 @@
         "P473": [
             {
                 "value": "35",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "45837",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Heliodoramgbandeira.png",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Heliodoramgbrasao.jpg",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101950883",
                 "type": "string"
             }
         ]

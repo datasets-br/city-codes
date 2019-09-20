@@ -130,6 +130,46 @@
                     "id": "Q1791322"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1780266,
+                    "id": "Q1780266"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1787319,
+                    "id": "Q1787319"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1635025,
+                    "id": "Q1635025"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1755744,
+                    "id": "Q1755744"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1787582,
+                    "id": "Q1787582"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -147,6 +187,42 @@
         "P473": [
             {
                 "value": "37",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "42552",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Capitóliomgbandeira.png",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Capitóliomgbrasao.jpg",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "37930-000 a 37939-999",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.capitolio.mg.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101950777",
                 "type": "string"
             }
         ]

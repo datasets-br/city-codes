@@ -158,6 +158,22 @@
                     "id": "Q509584"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1906206,
+                    "id": "Q1906206"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2382290,
+                    "id": "Q2382290"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -169,6 +185,36 @@
         "P473": [
             {
                 "value": "37",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "42072",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Camachomgbandeira.jpg",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Camachomgbrasao.jpg",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "35555-000 a 35556-999",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101948867",
                 "type": "string"
             }
         ]

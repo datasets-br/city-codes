@@ -74,7 +74,7 @@
         ],
         "P373": [
             {
-                "value": "Moema, Minas Gerais, Brazil",
+                "value": "Moema (Minas Gerais)",
                 "type": "string"
             }
         ],
@@ -163,8 +163,40 @@
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 1756084,
-                    "id": "Q1756084"
+                    "numeric-id": 956065,
+                    "id": "Q956065"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1779998,
+                    "id": "Q1779998"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 891713,
+                    "id": "Q891713"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1749899,
+                    "id": "Q1749899"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1749899,
+                    "id": "Q1749899"
                 },
                 "type": "wikibase-entityid"
             }
@@ -178,6 +210,36 @@
         "P473": [
             {
                 "value": "37",
+                "type": "string"
+            }
+        ],
+        "P854": [
+            {
+                "value": "https://www.encontramoema.com.br/",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "48470",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "35604-000 a 35605-999",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.moema.mg.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101968761",
                 "type": "string"
             }
         ]

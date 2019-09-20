@@ -244,6 +244,73 @@
                 "value": "28",
                 "type": "string"
             }
+        ],
+        "P856": [
+            {
+                "value": "http://www.cachoeiro.es.gov.br",
+                "type": "string"
+            }
+        ],
+        "P1417": [
+            {
+                "value": "place/Cachoeiro-de-Itapemirim",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "56235",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n97037421",
+                "type": "string"
+            }
+        ],
+        "P227": [
+            {
+                "value": "4363746-2",
+                "type": "string"
+            }
+        ],
+        "P214": [
+            {
+                "value": "233950991",
+                "type": "string"
+            }
+        ],
+        "P1448": [
+            {
+                "value": {
+                    "text": "Cachoeiro de Itapemirim",
+                    "language": "pt"
+                },
+                "type": "monolingualtext"
+            }
+        ],
+        "P85": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 10329337,
+                    "id": "Q10329337"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0013265",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101954167",
+                "type": "string"
+            }
         ]
     }
 }

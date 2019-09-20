@@ -167,8 +167,32 @@
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 1755576,
-                    "id": "Q1755576"
+                    "numeric-id": 1790124,
+                    "id": "Q1790124"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1790502,
+                    "id": "Q1790502"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1790645,
+                    "id": "Q1790645"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1788043,
+                    "id": "Q1788043"
                 },
                 "type": "wikibase-entityid"
             }
@@ -182,6 +206,43 @@
         "P473": [
             {
                 "value": "35",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "45730",
+                "type": "string"
+            }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1912-01-01T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 9,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P281": [
+            {
+                "value": "37800-000 a 37804-999",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.guaxupe.mg.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101950689",
                 "type": "string"
             }
         ]

@@ -123,6 +123,40 @@
                 "value": "54",
                 "type": "string"
             }
+        ],
+        "P856": [
+            {
+                "value": "http://www.saojorge.rs.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "84794",
+                "type": "string"
+            }
+        ],
+        "P138": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 48438,
+                    "id": "Q48438"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira de São Jorge, RS.png",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101960267",
+                "type": "string"
+            }
         ]
     }
 }

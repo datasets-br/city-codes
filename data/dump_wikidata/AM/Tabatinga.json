@@ -32,6 +32,14 @@
                     "id": "Q3184121"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 902814,
+                    "id": "Q902814"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P2044": [
@@ -80,7 +88,7 @@
         ],
         "P373": [
             {
-                "value": "Tabatinga",
+                "value": "Tabatinga (Amazonas)",
                 "type": "string"
             }
         ],
@@ -199,6 +207,34 @@
         "P473": [
             {
                 "value": "97",
+                "type": "string"
+            }
+        ],
+        "P1464": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 32348820,
+                    "id": "Q32348820"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "98477",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n2010077360",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101941559",
                 "type": "string"
             }
         ]

@@ -185,6 +185,37 @@
                 "value": "296623",
                 "type": "string"
             }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1956-01-01T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 9,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "83712",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Coat of arms of Urubici SC.png",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101960895",
+                "type": "string"
+            }
         ]
     }
 }

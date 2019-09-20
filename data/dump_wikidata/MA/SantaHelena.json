@@ -144,12 +144,6 @@
                 "type": "quantity"
             }
         ],
-        "P18": [
-            {
-                "value": "Maranhao Municip SantaHelena.svg",
-                "type": "string"
-            }
-        ],
         "P402": [
             {
                 "value": "332960",
@@ -177,6 +171,30 @@
         "P473": [
             {
                 "value": "98",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.santahelena.ma.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "8958",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101943233",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0455685",
                 "type": "string"
             }
         ]

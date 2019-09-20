@@ -20,6 +20,16 @@
                     "globe": "http://www.wikidata.org/entity/Q2"
                 },
                 "type": "globecoordinate"
+            },
+            {
+                "value": {
+                    "latitude": -30.60368,
+                    "longitude": -52.6828,
+                    "altitude": null,
+                    "precision": 1.0e-5,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
             }
         ],
         "P17": [
@@ -74,6 +84,10 @@
             {
                 "value": "3464255",
                 "type": "string"
+            },
+            {
+                "value": "6323427",
+                "type": "string"
             }
         ],
         "P373": [
@@ -117,6 +131,13 @@
             {
                 "value": {
                     "amount": "+432",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+389",
                     "unit": "http://www.wikidata.org/entity/Q11573"
                 },
                 "type": "quantity"
@@ -169,6 +190,42 @@
         "P473": [
             {
                 "value": "51",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.encruzilhadadosul.rs.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "86355",
+                "type": "string"
+            }
+        ],
+        "P3722": [
+            {
+                "value": "Maps of Encruzilhada do Sul",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "96610-000",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101959293",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0450427",
                 "type": "string"
             }
         ]

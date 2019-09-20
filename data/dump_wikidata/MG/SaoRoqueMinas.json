@@ -147,6 +147,62 @@
                     "id": "Q1787582"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1787319,
+                    "id": "Q1787319"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1755744,
+                    "id": "Q1755744"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1792047,
+                    "id": "Q1792047"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1756027,
+                    "id": "Q1756027"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1755734,
+                    "id": "Q1755734"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 22065210,
+                    "id": "Q22065210"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 22065032,
+                    "id": "Q22065032"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -158,6 +214,30 @@
         "P473": [
             {
                 "value": "37",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "52850",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "37927-000 a 37929-999",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.saoroquedeminas.mg.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101952575",
                 "type": "string"
             }
         ]

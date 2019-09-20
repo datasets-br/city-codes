@@ -107,6 +107,13 @@
                     "unit": "1"
                 },
                 "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+331045",
+                    "unit": "1"
+                },
+                "type": "quantity"
             }
         ],
         "P242": [
@@ -150,6 +157,13 @@
             {
                 "value": {
                     "amount": "+154.180",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+155.454",
                     "unit": "http://www.wikidata.org/entity/Q712226"
                 },
                 "type": "quantity"
@@ -204,6 +218,24 @@
                     "id": "Q56450281"
                 },
                 "type": "wikibase-entityid"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "50911",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "33800-000 a 33979-999",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101953009",
+                "type": "string"
             }
         ]
     }

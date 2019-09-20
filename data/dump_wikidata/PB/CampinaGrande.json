@@ -323,6 +323,53 @@
                 },
                 "type": "wikibase-entityid"
             }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1864-01-01T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 9,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "19810",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n81114290",
+                "type": "string"
+            }
+        ],
+        "P417": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 185606,
+                    "id": "Q185606"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2716": [
+            {
+                "value": "Montagem Campina Grande.jpg",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101946493",
+                "type": "string"
+            }
         ]
     }
 }

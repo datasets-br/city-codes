@@ -48,8 +48,8 @@
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 46831,
-                    "id": "Q46831"
+                    "numeric-id": 486972,
+                    "id": "Q486972"
                 },
                 "type": "wikibase-entityid"
             }
@@ -63,6 +63,10 @@
         "P1566": [
             {
                 "value": "3466307",
+                "type": "string"
+            },
+            {
+                "value": "6323814",
                 "type": "string"
             }
         ],
@@ -80,7 +84,7 @@
         ],
         "P18": [
             {
-                "value": "Chapada.jpg",
+                "value": "Mato Grosso, Brasil - panoramio (4).jpg",
                 "type": "string"
             }
         ],
@@ -140,6 +144,13 @@
                     "unit": "http://www.wikidata.org/entity/Q11573"
                 },
                 "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+325",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
             }
         ],
         "P2046": [
@@ -179,6 +190,46 @@
         "P473": [
             {
                 "value": "65",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0449400",
+                "type": "string"
+            }
+        ],
+        "P1667": [
+            {
+                "value": "1021157",
+                "type": "string"
+            }
+        ],
+        "P36": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 22046029,
+                    "id": "Q22046029"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "90590",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n88163725",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101961281",
                 "type": "string"
             }
         ]

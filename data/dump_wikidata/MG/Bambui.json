@@ -162,6 +162,62 @@
                     "id": "Q22081071"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1755744,
+                    "id": "Q1755744"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1755169,
+                    "id": "Q1755169"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1756093,
+                    "id": "Q1756093"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1755734,
+                    "id": "Q1755734"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1756593,
+                    "id": "Q1756593"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1755996,
+                    "id": "Q1755996"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1779998,
+                    "id": "Q1779998"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -173,6 +229,36 @@
         "P473": [
             {
                 "value": "37",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "41017",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Bambuibrasao.jpg",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "38900-000 a 38909-999",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0448208",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101948791",
                 "type": "string"
             }
         ]

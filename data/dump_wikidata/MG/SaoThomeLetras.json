@@ -154,6 +154,46 @@
                     "id": "Q1439211"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1756600,
+                    "id": "Q1756600"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 953848,
+                    "id": "Q953848"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1755164,
+                    "id": "Q1755164"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 947342,
+                    "id": "Q947342"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1756446,
+                    "id": "Q1756446"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -165,6 +205,30 @@
         "P473": [
             {
                 "value": "35",
+                "type": "string"
+            }
+        ],
+        "P158": [
+            {
+                "value": "Brasaosthomedasletras.jpg",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "53031",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.saotomedasletras.mg.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101952781",
                 "type": "string"
             }
         ]

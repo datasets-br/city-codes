@@ -135,6 +135,44 @@
                 "value": "37",
                 "type": "string"
             }
+        ],
+        "P6555": [
+            {
+                "value": "47651",
+                "type": "string"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 749248,
+                    "id": "Q749248"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1756084,
+                    "id": "Q1756084"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 891713,
+                    "id": "Q891713"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101951009",
+                "type": "string"
+            }
         ]
     }
 }

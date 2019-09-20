@@ -60,6 +60,14 @@
                     "id": "Q3184121"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 902814,
+                    "id": "Q902814"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P646": [
@@ -169,6 +177,36 @@
         "P473": [
             {
                 "value": "55",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.quarai.rs.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "88099",
+                "type": "string"
+            }
+        ],
+        "P3722": [
+            {
+                "value": "Maps of Quaraí",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n86078129",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101958235",
                 "type": "string"
             }
         ]

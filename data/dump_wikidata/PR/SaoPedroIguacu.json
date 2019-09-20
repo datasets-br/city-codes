@@ -128,6 +128,14 @@
                     "id": "Q1803331"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1776774,
+                    "id": "Q1776774"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -139,6 +147,24 @@
         "P473": [
             {
                 "value": "45",
+                "type": "string"
+            }
+        ],
+        "P158": [
+            {
+                "value": "Brasaospiguacu.jpg",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "74861",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101963167",
                 "type": "string"
             }
         ]

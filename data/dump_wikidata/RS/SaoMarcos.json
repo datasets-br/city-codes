@@ -141,6 +141,50 @@
                 "value": "54",
                 "type": "string"
             }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 25973453,
+                    "id": "Q25973453"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1464": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 32333334,
+                    "id": "Q32333334"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.saomarcos.rs.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "88838",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "São Marcosrs bandeira.png",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101960601",
+                "type": "string"
+            }
         ]
     }
 }

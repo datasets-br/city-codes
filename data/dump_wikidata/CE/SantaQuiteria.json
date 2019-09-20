@@ -161,6 +161,58 @@
                 "value": "88",
                 "type": "string"
             }
+        ],
+        "P856": [
+            {
+                "value": "http://www.santaquiteria.ce.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1987-12-17T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 11,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+197.71",
+                    "unit": "http://www.wikidata.org/entity/Q3710"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "15458",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "62.280-000",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0455745",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101945135",
+                "type": "string"
+            }
         ]
     }
 }

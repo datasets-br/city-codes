@@ -83,7 +83,7 @@
         "P1082": [
             {
                 "value": {
-                    "amount": "+21955",
+                    "amount": "+24556",
                     "unit": "1"
                 },
                 "type": "quantity"
@@ -147,6 +147,24 @@
         "P473": [
             {
                 "value": "87",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.sanharo.pe.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "25470",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101948111",
                 "type": "string"
             }
         ]

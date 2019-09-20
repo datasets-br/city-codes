@@ -22,7 +22,7 @@
         ],
         "P158": [
             {
-                "value": "Catanduva.png",
+                "value": "Brasão Catanduva.png",
                 "type": "string"
             }
         ],
@@ -34,12 +34,6 @@
                     "id": "Q155"
                 },
                 "type": "wikibase-entityid"
-            }
-        ],
-        "P94": [
-            {
-                "value": "Catanduva.png",
-                "type": "string"
             }
         ],
         "P625": [
@@ -245,6 +239,59 @@
         "P473": [
             {
                 "value": "17",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasão Catanduva.png",
+                "type": "string"
+            }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1918-01-01T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 9,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.catanduva.sp.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "63231",
+                "type": "string"
+            }
+        ],
+        "P417": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 44091,
+                    "id": "Q44091"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0449254",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101955647",
                 "type": "string"
             }
         ]

@@ -4,12 +4,6 @@
     "type": "item",
     "id": "Q1982819",
     "claims": {
-        "P41": [
-            {
-                "value": "Bandeira joaoneiva.jpg",
-                "type": "string"
-            }
-        ],
         "P158": [
             {
                 "value": "Brasao joaoneiva.jpg",
@@ -169,6 +163,36 @@
         "P473": [
             {
                 "value": "27",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.joaoneiva.es.gov.br",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira joaoneiva.svg",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "56626",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101966537",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0451839",
                 "type": "string"
             }
         ]

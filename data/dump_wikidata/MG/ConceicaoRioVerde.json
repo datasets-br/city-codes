@@ -167,6 +167,54 @@
                     "id": "Q1756231"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1439211,
+                    "id": "Q1439211"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 947342,
+                    "id": "Q947342"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1791440,
+                    "id": "Q1791440"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1788572,
+                    "id": "Q1788572"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 829417,
+                    "id": "Q829417"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1638397,
+                    "id": "Q1638397"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -178,6 +226,18 @@
         "P473": [
             {
                 "value": "35",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "43532",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101950977",
                 "type": "string"
             }
         ]

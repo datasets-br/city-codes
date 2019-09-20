@@ -14,12 +14,6 @@
                 "type": "wikibase-entityid"
             }
         ],
-        "P41": [
-            {
-                "value": "Bandeira de Zé Doca.jpg",
-                "type": "string"
-            }
-        ],
         "P625": [
             {
                 "value": {
@@ -160,6 +154,24 @@
         "P473": [
             {
                 "value": "98",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira de Zé Doca-MA.png",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "9717",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101943159",
                 "type": "string"
             }
         ]

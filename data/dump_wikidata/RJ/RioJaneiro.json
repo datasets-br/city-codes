@@ -648,6 +648,14 @@
                     "id": "Q51103"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 5753,
+                    "id": "Q5753"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P41": [
@@ -706,12 +714,6 @@
                 "type": "string"
             }
         ],
-        "P214": [
-            {
-                "value": "123730919",
-                "type": "string"
-            }
-        ],
         "P935": [
             {
                 "value": "Rio de Janeiro",
@@ -765,12 +767,6 @@
                 "type": "string"
             }
         ],
-        "P268": [
-            {
-                "value": "11998409v",
-                "type": "string"
-            }
-        ],
         "P269": [
             {
                 "value": "028076796",
@@ -806,6 +802,10 @@
         "P1566": [
             {
                 "value": "3451190",
+                "type": "string"
+            },
+            {
+                "value": "6322060",
                 "type": "string"
             }
         ],
@@ -901,12 +901,22 @@
                     "id": "Q217230"
                 },
                 "type": "wikibase-entityid"
-            }
-        ],
-        "P18": [
+            },
             {
-                "value": "-i---i- (6106484451).jpg",
-                "type": "string"
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1155409,
+                    "id": "Q1155409"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 658161,
+                    "id": "Q658161"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P856": [
@@ -935,12 +945,6 @@
                     "id": "Q10288853"
                 },
                 "type": "wikibase-entityid"
-            }
-        ],
-        "P2002": [
-            {
-                "value": "Prefeitura_Rio",
-                "type": "string"
             }
         ],
         "P6": [
@@ -1020,16 +1024,10 @@
         "P2046": [
             {
                 "value": {
-                    "amount": "+1260029215",
-                    "unit": "http://www.wikidata.org/entity/Q25343"
+                    "amount": "+1260.029215",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
                 },
                 "type": "quantity"
-            }
-        ],
-        "P2013": [
-            {
-                "value": "PrefeituradoRio",
-                "type": "string"
             }
         ],
         "P402": [
@@ -1044,16 +1042,6 @@
                 "type": "string"
             }
         ],
-        "P166": [
-            {
-                "value": {
-                    "entity-type": "item",
-                    "numeric-id": 9259,
-                    "id": "Q9259"
-                },
-                "type": "wikibase-entityid"
-            }
-        ],
         "P3417": [
             {
                 "value": "Rio-de-Janeiro",
@@ -1066,7 +1054,7 @@
         ],
         "P3451": [
             {
-                "value": "1 rocinha night 2014 panorama.jpg",
+                "value": "Rio de Janeiro night.jpg",
                 "type": "string"
             }
         ],
@@ -1160,6 +1148,14 @@
                     "id": "Q202730"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3375019,
+                    "id": "Q3375019"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P1448": [
@@ -1203,7 +1199,14 @@
             {
                 "value": {
                     "text": "Carioca",
-                    "language": "en"
+                    "language": "pt-br"
+                },
+                "type": "monolingualtext"
+            },
+            {
+                "value": {
+                    "text": "Rio-de-Ĵanejrano",
+                    "language": "eo"
                 },
                 "type": "monolingualtext"
             }
@@ -1265,6 +1268,209 @@
         "P5573": [
             {
                 "value": "95",
+                "type": "string"
+            }
+        ],
+        "P395": [
+            {
+                "value": "RJ",
+                "type": "string"
+            }
+        ],
+        "P854": [
+            {
+                "value": "https://pt.riomap360.com/mapa-bairros-rio-de-janeiro#.W8YU52hKiMo",
+                "type": "string"
+            }
+        ],
+        "P1667": [
+            {
+                "value": "7017095",
+                "type": "string"
+            }
+        ],
+        "P268": [
+            {
+                "value": "11998409v",
+                "type": "string"
+            }
+        ],
+        "P214": [
+            {
+                "value": "131922060",
+                "type": "string"
+            }
+        ],
+        "P1830": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1507437,
+                    "id": "Q1507437"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 6617188,
+                    "id": "Q6617188"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 7089145,
+                    "id": "Q7089145"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 7089149,
+                    "id": "Q7089149"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 23589938,
+                    "id": "Q23589938"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 23590999,
+                    "id": "Q23590999"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 23688674,
+                    "id": "Q23688674"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 24255536,
+                    "id": "Q24255536"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 64136,
+                    "id": "Q64136"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P691": [
+            {
+                "value": "olak2009450011",
+                "type": "string"
+            }
+        ],
+        "P1343": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 602358,
+                    "id": "Q602358"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 19180675,
+                    "id": "Q19180675"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "60011",
+                "type": "string"
+            }
+        ],
+        "P6573": [
+            {
+                "value": "Rio_de_Janeiro",
+                "type": "string"
+            }
+        ],
+        "P4839": [
+            {
+                "value": "Entity[\"AdministrativeDivision\", {\"RioDeJaneiro\", \"RioDeJaneiro\", \"Brazil\"}]",
+                "type": "string"
+            },
+            {
+                "value": "Entity[\"AdministrativeDivision\", {\"RioDeJaneiro\", \"Brazil\"}]",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+31",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P6782": [
+            {
+                "value": "00sj7sn30",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0055749",
+                "type": "string"
+            }
+        ],
+        "P2716": [
+            {
+                "value": "Rio Collage.png",
+                "type": "string"
+            }
+        ],
+        "P1943": [
+            {
+                "value": "Mapa-Bairros-Cidade-do-Rio-de-Janeiro-Brasil.jpg",
+                "type": "string"
+            },
+            {
+                "value": "Mapa2-bairros-Rio-de-Janeiro-Brazil.jpg",
+                "type": "string"
+            }
+        ],
+        "P1441": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2385,
+                    "id": "Q2385"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101953261",
                 "type": "string"
             }
         ]

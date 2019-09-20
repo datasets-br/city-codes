@@ -144,12 +144,6 @@
                 "type": "wikibase-entityid"
             }
         ],
-        "P18": [
-            {
-                "value": "Maranhao Municip VargemGrande.svg",
-                "type": "string"
-            }
-        ],
         "P402": [
             {
                 "value": "332903",
@@ -159,6 +153,30 @@
         "P473": [
             {
                 "value": "98",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "9474",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://vargemgrande.ma.gov.br",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0457168",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101943479",
                 "type": "string"
             }
         ]

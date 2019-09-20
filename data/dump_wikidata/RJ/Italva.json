@@ -91,12 +91,6 @@
                 "type": "string"
             }
         ],
-        "P856": [
-            {
-                "value": "http://www.italva.com/",
-                "type": "string"
-            }
-        ],
         "P2044": [
             {
                 "value": {
@@ -159,6 +153,30 @@
         "P473": [
             {
                 "value": "22",
+                "type": "string"
+            }
+        ],
+        "P158": [
+            {
+                "value": "Italva.PNG",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.italva.rj.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "59293",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101953991",
                 "type": "string"
             }
         ]

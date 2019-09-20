@@ -197,6 +197,43 @@
                 "value": "54",
                 "type": "string"
             }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1955-01-01T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 9,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.pmaratiba.com.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "85170",
+                "type": "string"
+            }
+        ],
+        "P3722": [
+            {
+                "value": "Maps of Aratiba",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101959669",
+                "type": "string"
+            }
         ]
     }
 }

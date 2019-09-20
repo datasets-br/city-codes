@@ -164,11 +164,31 @@
                     "id": "Q329488"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155557,
+                    "id": "Q155557"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P473": [
             {
                 "value": "47",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "80519",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101958023",
                 "type": "string"
             }
         ]

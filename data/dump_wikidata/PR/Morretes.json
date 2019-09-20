@@ -4,12 +4,6 @@
     "type": "item",
     "id": "Q781087",
     "claims": {
-        "P94": [
-            {
-                "value": "Brasao morretes.jpg",
-                "type": "string"
-            }
-        ],
         "P17": [
             {
                 "value": {
@@ -114,12 +108,6 @@
                 "type": "quantity"
             }
         ],
-        "P41": [
-            {
-                "value": "Bandeira de Morretes.png",
-                "type": "string"
-            }
-        ],
         "P910": [
             {
                 "value": {
@@ -175,6 +163,54 @@
         "P473": [
             {
                 "value": "41",
+                "type": "string"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Parana Municip Morretes.svg",
+                "type": "string"
+            }
+        ],
+        "P158": [
+            {
+                "value": "Brasão de Morretes - PR.svg",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasão de Morretes - PR.svg",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira de Morretes - PR.svg",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "77097",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n97021984",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101958113",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0453171",
                 "type": "string"
             }
         ]

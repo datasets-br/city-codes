@@ -191,6 +191,40 @@
                 "value": "15",
                 "type": "string"
             }
+        ],
+        "P1464": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 32333109,
+                    "id": "Q32333109"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.portofeliz.sp.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "69132",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n85187695",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101964925",
+                "type": "string"
+            }
         ]
     }
 }

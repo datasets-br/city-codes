@@ -32,6 +32,13 @@
                     "unit": "1"
                 },
                 "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+2501576",
+                    "unit": "1"
+                },
+                "type": "quantity"
             }
         ],
         "P190": [
@@ -162,7 +169,7 @@
         ],
         "P94": [
             {
-                "value": "Brasão de Belo Horizonte (Minas Gerais).svg",
+                "value": "Brasão de Belo Horizonte.svg",
                 "type": "string"
             }
         ],
@@ -328,7 +335,7 @@
         ],
         "P18": [
             {
-                "value": "Montagem Belo Horizonte.jpg",
+                "value": "Belo Horizonte, Brasil horizon view.jpg",
                 "type": "string"
             }
         ],
@@ -362,9 +369,7 @@
             {
                 "value": {
                     "amount": "+760",
-                    "unit": "http://www.wikidata.org/entity/Q11573",
-                    "upperBound": "+761",
-                    "lowerBound": "+759"
+                    "unit": "http://www.wikidata.org/entity/Q11573"
                 },
                 "type": "quantity"
             }
@@ -452,17 +457,6 @@
                     "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
                 },
                 "type": "time"
-            },
-            {
-                "value": {
-                    "time": "+1901-00-00T00:00:00Z",
-                    "timezone": 0,
-                    "before": 0,
-                    "after": 0,
-                    "precision": 9,
-                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
-                },
-                "type": "time"
             }
         ],
         "P982": [
@@ -533,6 +527,46 @@
         "P41": [
             {
                 "value": "Bandeira de Belo Horizonte.svg",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "41238",
+                "type": "string"
+            }
+        ],
+        "P3722": [
+            {
+                "value": "Maps of Belo Horizonte",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n79107947",
+                "type": "string"
+            }
+        ],
+        "P2716": [
+            {
+                "value": "Belo Horizonte Collage.png",
+                "type": "string"
+            }
+        ],
+        "P166": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 66494271,
+                    "id": "Q66494271"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101948979",
                 "type": "string"
             }
         ]

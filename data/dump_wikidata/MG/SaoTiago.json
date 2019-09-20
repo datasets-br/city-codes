@@ -159,6 +159,14 @@
                     "id": "Q1789305"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1805732,
+                    "id": "Q1805732"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -170,6 +178,30 @@
         "P473": [
             {
                 "value": "32",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "52990",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "36350-000 a 36359-999",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.saotiago.mg.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101952845",
                 "type": "string"
             }
         ]

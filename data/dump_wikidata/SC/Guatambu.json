@@ -16,7 +16,7 @@
         ],
         "P373": [
             {
-                "value": "Guatambu",
+                "value": "Guatambú",
                 "type": "string"
             }
         ],
@@ -27,6 +27,16 @@
                     "longitude": -52.787222222222,
                     "altitude": null,
                     "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            },
+            {
+                "value": {
+                    "latitude": -27.11045,
+                    "longitude": -52.78938,
+                    "altitude": null,
+                    "precision": 1.0e-5,
                     "globe": "http://www.wikidata.org/entity/Q2"
                 },
                 "type": "globecoordinate"
@@ -50,6 +60,14 @@
                     "id": "Q3184121"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 486972,
+                    "id": "Q486972"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P646": [
@@ -61,6 +79,10 @@
         "P1566": [
             {
                 "value": "3461783",
+                "type": "string"
+            },
+            {
+                "value": "6323137",
                 "type": "string"
             }
         ],
@@ -81,6 +103,13 @@
                     "unit": "http://www.wikidata.org/entity/Q11573",
                     "upperBound": "+531",
                     "lowerBound": "+529"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+543",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
                 },
                 "type": "quantity"
             }
@@ -168,6 +197,24 @@
         "P402": [
             {
                 "value": "296647",
+                "type": "string"
+            }
+        ],
+        "P158": [
+            {
+                "value": "Guatambu.png",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "80527",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101956863",
                 "type": "string"
             }
         ]

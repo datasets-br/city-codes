@@ -106,7 +106,7 @@
         "P1081": [
             {
                 "value": {
-                    "amount": "+0.851",
+                    "amount": "+0.791",
                     "unit": "1"
                 },
                 "type": "quantity"
@@ -118,6 +118,22 @@
                     "entity-type": "item",
                     "numeric-id": 2003833,
                     "id": "Q2003833"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1776774,
+                    "id": "Q1776774"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1803534,
+                    "id": "Q1803534"
                 },
                 "type": "wikibase-entityid"
             }
@@ -163,6 +179,24 @@
                     "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
                 },
                 "type": "time"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "74683",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira Municipal de Quatro Pontes.png",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101956445",
+                "type": "string"
             }
         ]
     }

@@ -174,6 +174,59 @@
                 "value": "315081",
                 "type": "string"
             }
+        ],
+        "P1464": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 32334397,
+                    "id": "Q32334397"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Santa Bárbara (Minas Gerais), Fundo Correio da Manhã.tif",
+                "type": "string"
+            }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1704-01-01T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 9,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "51438",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n89664453",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0455632",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101953135",
+                "type": "string"
+            }
         ]
     }
 }

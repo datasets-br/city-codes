@@ -134,6 +134,54 @@
                     "id": "Q1756446"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1439211,
+                    "id": "Q1439211"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1793236,
+                    "id": "Q1793236"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1756048,
+                    "id": "Q1756048"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1989895,
+                    "id": "Q1989895"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1755164,
+                    "id": "Q1755164"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1638397,
+                    "id": "Q1638397"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -145,6 +193,48 @@
         "P473": [
             {
                 "value": "35",
+                "type": "string"
+            }
+        ],
+        "P3138": [
+            {
+                "value": "44449",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "47732",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Luminárias Brasão.jpg",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "37240-000 a 37244-999",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.luminarias.mg.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101951005",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0452514",
                 "type": "string"
             }
         ]

@@ -275,6 +275,52 @@
                 },
                 "type": "wikibase-entityid"
             }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1934-06-19T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 11,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "64750",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n82131919",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0265218",
+                "type": "string"
+            }
+        ],
+        "P1549": [
+            {
+                "value": {
+                    "text": "guarujaense",
+                    "language": "es"
+                },
+                "type": "monolingualtext"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101956233",
+                "type": "string"
+            }
         ]
     }
 }

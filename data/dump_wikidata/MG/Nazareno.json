@@ -130,6 +130,30 @@
                     "id": "Q740965"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1756048,
+                    "id": "Q1756048"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1989895,
+                    "id": "Q1989895"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1805732,
+                    "id": "Q1805732"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P1889": [
@@ -157,6 +181,30 @@
         "P18": [
             {
                 "value": "Igreja Matriz de Nazareno - MG - panoramio.jpg",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "48895",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "36370-000 a 36389-999",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.nazareno.mg.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101951079",
                 "type": "string"
             }
         ]

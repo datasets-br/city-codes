@@ -169,6 +169,43 @@
                 "value": "88",
                 "type": "string"
             }
+        ],
+        "P242": [
+            {
+                "value": "Ceara Municip Ico.svg",
+                "type": "string"
+            }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1738-01-01T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 9,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "14095",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0451337",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101944579",
+                "type": "string"
+            }
         ]
     }
 }

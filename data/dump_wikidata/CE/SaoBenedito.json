@@ -145,6 +145,40 @@
                 "value": "88",
                 "type": "string"
             }
+        ],
+        "P856": [
+            {
+                "value": "http://www.saobenedito.ce.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P1464": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 32337385,
+                    "id": "Q32337385"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "15474",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "no2004072662",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101944929",
+                "type": "string"
+            }
         ]
     }
 }

@@ -34,6 +34,16 @@
                     "globe": "http://www.wikidata.org/entity/Q2"
                 },
                 "type": "globecoordinate"
+            },
+            {
+                "value": {
+                    "latitude": -13.6582623,
+                    "longitude": -59.8040534,
+                    "altitude": null,
+                    "precision": 1.0e-7,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
             }
         ],
         "P131": [
@@ -52,14 +62,6 @@
                     "entity-type": "item",
                     "numeric-id": 3184121,
                     "id": "Q3184121"
-                },
-                "type": "wikibase-entityid"
-            },
-            {
-                "value": {
-                    "entity-type": "item",
-                    "numeric-id": 486972,
-                    "id": "Q486972"
                 },
                 "type": "wikibase-entityid"
             }
@@ -184,6 +186,30 @@
         "P473": [
             {
                 "value": "65",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "99015",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasaocomodoromt.jpg",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0449703",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101960949",
                 "type": "string"
             }
         ]

@@ -199,6 +199,36 @@
                 },
                 "type": "wikibase-entityid"
             }
+        ],
+        "P856": [
+            {
+                "value": "http://www.osorio.rs.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "87734",
+                "type": "string"
+            }
+        ],
+        "P3722": [
+            {
+                "value": "Maps of Osório",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0453566",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101960763",
+                "type": "string"
+            }
         ]
     }
 }

@@ -119,7 +119,21 @@
         "P1081": [
             {
                 "value": {
-                    "amount": "+0.749",
+                    "amount": "+0.396",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+0.565",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+0.700",
                     "unit": "1"
                 },
                 "type": "quantity"
@@ -150,6 +164,22 @@
                     "id": "Q1802239"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1792041,
+                    "id": "Q1792041"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 22062655,
+                    "id": "Q22062655"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -167,6 +197,55 @@
         "P18": [
             {
                 "value": "Igreja N. Senhora do Carmo - Carmópolis de Minas MG - panoramio.jpg",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "42897",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n2007215147",
+                "type": "string"
+            }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1948-12-27T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 11,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://carmopolisdeminas.mg.gov.br",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Carmópolis de Minasmgbandeira.jpg",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "35534-000 a 35535-999",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101951075",
                 "type": "string"
             }
         ]

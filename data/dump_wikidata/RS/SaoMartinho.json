@@ -153,6 +153,46 @@
                 "value": "55",
                 "type": "string"
             }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 49687679,
+                    "id": "Q49687679"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.saomartinho.rs.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "88854",
+                "type": "string"
+            }
+        ],
+        "P3722": [
+            {
+                "value": "Maps of São Martinho (Rio Grande do Sul)",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasão de São Martinho.jpg",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101967279",
+                "type": "string"
+            }
         ]
     }
 }

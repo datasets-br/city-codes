@@ -157,6 +157,66 @@
                 "value": "51",
                 "type": "string"
             }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 32336334,
+                    "id": "Q32336334"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1464": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 32336331,
+                    "id": "Q32336331"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1792": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 59287136,
+                    "id": "Q59287136"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.saojeronimo.rs.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "88714",
+                "type": "string"
+            }
+        ],
+        "P3722": [
+            {
+                "value": "Maps of São Jerônimo (Rio Grande do Sul)",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0455963",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101967601",
+                "type": "string"
+            }
         ]
     }
 }

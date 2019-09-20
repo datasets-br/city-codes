@@ -195,6 +195,62 @@
                 "value": "79",
                 "type": "string"
             }
+        ],
+        "P6555": [
+            {
+                "value": "31119",
+                "type": "string"
+            }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1953-11-25T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 11,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P1549": [
+            {
+                "value": {
+                    "text": "barra-coqueirense",
+                    "language": "pt-br"
+                },
+                "type": "monolingualtext"
+            }
+        ],
+        "P417": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 183240,
+                    "id": "Q183240"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1448": [
+            {
+                "value": {
+                    "text": "Município de Barra dos Coqueiros",
+                    "language": "pt-br"
+                },
+                "type": "monolingualtext"
+            }
+        ],
+        "P41": [
+            null
+        ],
+        "P6766": [
+            {
+                "value": "101947885",
+                "type": "string"
+            }
         ]
     }
 }

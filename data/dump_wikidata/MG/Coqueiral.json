@@ -60,7 +60,7 @@
         ],
         "P373": [
             {
-                "value": "Coqueiral",
+                "value": "Coqueiral (Minas Gerais)",
                 "type": "string"
             }
         ],
@@ -143,6 +143,76 @@
         "P18": [
             {
                 "value": "Praca pedroII.jpg",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "43737",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n80067919",
+                "type": "string"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 22062767,
+                    "id": "Q22062767"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 22065194,
+                    "id": "Q22065194"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 583832,
+                    "id": "Q583832"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 691275,
+                    "id": "Q691275"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Coqueiralmgbandeira.png",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasao coqueiral.png",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.coqueiral.mg.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101965933",
                 "type": "string"
             }
         ]

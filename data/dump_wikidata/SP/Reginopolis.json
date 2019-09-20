@@ -167,6 +167,34 @@
                 "value": "14",
                 "type": "string"
             }
+        ],
+        "P856": [
+            {
+                "value": "http://www.camarareginopolis.sp.gov.br",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 47213039,
+                    "id": "Q47213039"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "69515",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101968267",
+                "type": "string"
+            }
         ]
     }
 }

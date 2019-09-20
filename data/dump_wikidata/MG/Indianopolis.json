@@ -142,6 +142,42 @@
                 "value": "314790",
                 "type": "string"
             }
+        ],
+        "P6555": [
+            {
+                "value": "46132",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101950593",
+                "type": "string"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1754716,
+                    "id": "Q1754716"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 381733,
+                    "id": "Q381733"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0451405",
+                "type": "string"
+            }
         ]
     }
 }

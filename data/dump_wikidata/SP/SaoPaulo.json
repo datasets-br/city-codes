@@ -372,6 +372,14 @@
                     "id": "Q1490"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 8652,
+                    "id": "Q8652"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P131": [
@@ -408,14 +416,6 @@
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 5119,
-                    "id": "Q5119"
-                },
-                "type": "wikibase-entityid"
-            },
-            {
-                "value": {
-                    "entity-type": "item",
                     "numeric-id": 515,
                     "id": "Q515"
                 },
@@ -426,6 +426,14 @@
                     "entity-type": "item",
                     "numeric-id": 3184121,
                     "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 5119,
+                    "id": "Q5119"
                 },
                 "type": "wikibase-entityid"
             }
@@ -742,7 +750,7 @@
         ],
         "P18": [
             {
-                "value": "Montagem Sampa.jpg",
+                "value": "Sao Paulo Skyline in Brazil.jpg",
                 "type": "string"
             }
         ],
@@ -1216,16 +1224,6 @@
                 "type": "quantity"
             }
         ],
-        "P37": [
-            {
-                "value": {
-                    "entity-type": "item",
-                    "numeric-id": 750553,
-                    "id": "Q750553"
-                },
-                "type": "wikibase-entityid"
-            }
-        ],
         "P1225": [
             {
                 "value": "10046177",
@@ -1356,6 +1354,90 @@
                     "globe": "http://www.wikidata.org/entity/Q2"
                 },
                 "type": "globecoordinate"
+            }
+        ],
+        "P1667": [
+            {
+                "value": "7017121",
+                "type": "string"
+            }
+        ],
+        "P163": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 965192,
+                    "id": "Q965192"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "71072",
+                "type": "string"
+            }
+        ],
+        "P6573": [
+            {
+                "value": "São_Paulo",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n79077404",
+                "type": "string"
+            }
+        ],
+        "P3722": [
+            {
+                "value": "Maps of São Paulo (city)",
+                "type": "string"
+            }
+        ],
+        "P2716": [
+            {
+                "value": "Montagem SP.png",
+                "type": "string"
+            }
+        ],
+        "P1549": [
+            {
+                "value": {
+                    "text": "paulistano",
+                    "language": "pt"
+                },
+                "type": "monolingualtext"
+            },
+            {
+                "value": {
+                    "text": "San-Paŭlano",
+                    "language": "eo"
+                },
+                "type": "monolingualtext"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0060871",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101965533",
+                "type": "string"
+            }
+        ],
+        "P1343": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 602358,
+                    "id": "Q602358"
+                },
+                "type": "wikibase-entityid"
             }
         ]
     }

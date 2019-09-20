@@ -14,12 +14,6 @@
                 "type": "wikibase-entityid"
             }
         ],
-        "P41": [
-            {
-                "value": "Bandeira-quatis.png",
-                "type": "string"
-            }
-        ],
         "P94": [
             {
                 "value": "Brasao-quatis.jpg",
@@ -173,6 +167,30 @@
         "P473": [
             {
                 "value": "24",
+                "type": "string"
+            }
+        ],
+        "P158": [
+            {
+                "value": "Brasao-quatis.jpg",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Flag of Quatis.svg",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "58025",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101952905",
                 "type": "string"
             }
         ]

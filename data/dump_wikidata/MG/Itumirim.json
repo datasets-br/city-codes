@@ -130,6 +130,38 @@
                     "id": "Q375692"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1790591,
+                    "id": "Q1790591"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1638425,
+                    "id": "Q1638425"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1989895,
+                    "id": "Q1989895"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1790715,
+                    "id": "Q1790715"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -141,6 +173,30 @@
         "P473": [
             {
                 "value": "35",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "46850",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "37210-000 a 37214-999",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.itumirim.mg.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101951039",
                 "type": "string"
             }
         ]

@@ -169,6 +169,40 @@
                 "value": "16",
                 "type": "string"
             }
+        ],
+        "P856": [
+            {
+                "value": "http://www.luizantonio.sp.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "66532",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 47213084,
+                    "id": "Q47213084"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasão Luis Antonio.jpg",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101955939",
+                "type": "string"
+            }
         ]
     }
 }

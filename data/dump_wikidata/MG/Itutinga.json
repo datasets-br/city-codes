@@ -142,6 +142,46 @@
                     "id": "Q1756048"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 953848,
+                    "id": "Q953848"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1790591,
+                    "id": "Q1790591"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 375692,
+                    "id": "Q375692"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1791057,
+                    "id": "Q1791057"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2007785,
+                    "id": "Q2007785"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -153,6 +193,30 @@
         "P473": [
             {
                 "value": "35",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "46892",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "36390-000 a 36399-999<ref name=\"Correios_CEP\"/>",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101951051",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0451657",
                 "type": "string"
             }
         ]

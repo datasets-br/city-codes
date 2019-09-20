@@ -76,7 +76,7 @@
         ],
         "P214": [
             {
-                "value": "126315936",
+                "value": "146591941",
                 "type": "string"
             }
         ],
@@ -276,6 +276,77 @@
                     "id": "Q56450296"
                 },
                 "type": "wikibase-entityid"
+            }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1852-00-00T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 9,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P856": [
+            {
+                "value": "https://www.prefeiturademossoro.com.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "17590",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n81091951",
+                "type": "string"
+            }
+        ],
+        "P1792": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 63884583,
+                    "id": "Q63884583"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Flag of Mossoró.jpg",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Coat of arms of Mossoró.jpg",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "59600-000 a 59649-999",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0266149",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101946199",
+                "type": "string"
             }
         ]
     }

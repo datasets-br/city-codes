@@ -235,6 +235,52 @@
                 "value": "11",
                 "type": "string"
             }
+        ],
+        "P1464": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 32332652,
+                    "id": "Q32332652"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.braganca.sp.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "62510",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n87864500",
+                "type": "string"
+            }
+        ],
+        "P227": [
+            {
+                "value": "1123511012",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101956207",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0448583",
+                "type": "string"
+            }
         ]
     }
 }

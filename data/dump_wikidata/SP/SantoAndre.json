@@ -22,18 +22,6 @@
                 "type": "wikibase-entityid"
             }
         ],
-        "P41": [
-            {
-                "value": "Bandeira Santo André.png",
-                "type": "string"
-            }
-        ],
-        "P94": [
-            {
-                "value": "Brasão Santo André.gif",
-                "type": "string"
-            }
-        ],
         "P373": [
             {
                 "value": "Santo André (São Paulo)",
@@ -298,6 +286,65 @@
                     "id": "Q56450226"
                 },
                 "type": "wikibase-entityid"
+            }
+        ],
+        "P94": [
+            {
+                "value": "BrasaoSantoAndre.svg",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "BandeiraSantoAndre.svg",
+                "type": "string"
+            }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1553-01-01T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 9,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P1830": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3030847,
+                    "id": "Q3030847"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1417": [
+            {
+                "value": "place/Santo-Andre",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "70572",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0060484",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101832927",
+                "type": "string"
             }
         ]
     }

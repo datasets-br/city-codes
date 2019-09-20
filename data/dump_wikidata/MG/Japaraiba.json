@@ -124,6 +124,30 @@
                     "id": "Q1749899"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 22062794,
+                    "id": "Q22062794"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 956065,
+                    "id": "Q956065"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1779998,
+                    "id": "Q1779998"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -135,6 +159,24 @@
         "P473": [
             {
                 "value": "37",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "47058",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Japaraiba.jpg",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101950905",
                 "type": "string"
             }
         ]

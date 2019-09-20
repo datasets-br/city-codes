@@ -133,6 +133,58 @@
                 "value": "89",
                 "type": "string"
             }
+        ],
+        "P856": [
+            {
+                "value": "http://www.brejodopiaui.pi.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P1705": [
+            {
+                "value": {
+                    "text": "Brejo do Piauí",
+                    "language": "pt"
+                },
+                "type": "monolingualtext"
+            }
+        ],
+        "P1448": [
+            {
+                "value": {
+                    "text": "Brejo do Piauí",
+                    "language": "pt"
+                },
+                "type": "monolingualtext"
+            }
+        ],
+        "P281": [
+            {
+                "value": "64895-000",
+                "type": "string"
+            }
+        ],
+        "P421": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 6513,
+                    "id": "Q6513"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "10642",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101943587",
+                "type": "string"
+            }
         ]
     }
 }

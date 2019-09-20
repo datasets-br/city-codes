@@ -136,6 +136,30 @@
                     "id": "Q22062767"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1755151,
+                    "id": "Q1755151"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1756452,
+                    "id": "Q1756452"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1791960,
+                    "id": "Q1791960"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -147,6 +171,36 @@
         "P473": [
             {
                 "value": "35",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "42250",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Campo do Meiomgbrasao.jpg",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "37165-000 a 37169-999",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.campodomeio.mg.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101948813",
                 "type": "string"
             }
         ]

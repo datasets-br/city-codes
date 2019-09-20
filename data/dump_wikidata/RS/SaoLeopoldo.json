@@ -248,6 +248,56 @@
                 },
                 "type": "monolingualtext"
             }
+        ],
+        "P1464": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 25936805,
+                    "id": "Q25936805"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1792": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 59307086,
+                    "id": "Q59307086"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "88773",
+                "type": "string"
+            }
+        ],
+        "P3722": [
+            {
+                "value": "Maps of São Leopoldo",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n82017759",
+                "type": "string"
+            }
+        ],
+        "P1417": [
+            {
+                "value": "place/Sao-Leopoldo",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101960587",
+                "type": "string"
+            }
         ]
     }
 }

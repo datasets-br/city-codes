@@ -177,6 +177,46 @@
                     "id": "Q1757114"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1779998,
+                    "id": "Q1779998"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1756084,
+                    "id": "Q1756084"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 522303,
+                    "id": "Q522303"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1789780,
+                    "id": "Q1789780"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1754743,
+                    "id": "Q1754743"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -194,6 +234,42 @@
         "P18": [
             {
                 "value": "Bom Despacho colagem.png",
+                "type": "string"
+            }
+        ],
+        "P158": [
+            {
+                "value": "Brasao bom despacho.png",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.bomdespacho.mg.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "41475",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "nr96014056",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0448508",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101965947",
                 "type": "string"
             }
         ]

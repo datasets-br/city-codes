@@ -14,12 +14,6 @@
                 "type": "wikibase-entityid"
             }
         ],
-        "P94": [
-            {
-                "value": "Brasao Moji-Mirim.jpg",
-                "type": "string"
-            }
-        ],
         "P625": [
             {
                 "value": {
@@ -201,6 +195,43 @@
         "P473": [
             {
                 "value": "19",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira de Mogi Mirim.jpg",
+                "type": "string"
+            }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1769-10-22T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 11,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.mogimirim.sp.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "67172",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101965279",
                 "type": "string"
             }
         ]

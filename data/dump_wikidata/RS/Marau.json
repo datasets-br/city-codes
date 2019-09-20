@@ -189,6 +189,52 @@
                 "value": "54",
                 "type": "string"
             }
+        ],
+        "P856": [
+            {
+                "value": "http://www.pmmarau.com.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "87378",
+                "type": "string"
+            }
+        ],
+        "P3722": [
+            {
+                "value": "Maps of Marau",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n78085097",
+                "type": "string"
+            }
+        ],
+        "P237": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 5838122,
+                    "id": "Q5838122"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101959599",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0452774",
+                "type": "string"
+            }
         ]
     }
 }

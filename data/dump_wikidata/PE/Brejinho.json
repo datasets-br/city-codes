@@ -133,6 +133,34 @@
                 "value": "87",
                 "type": "string"
             }
+        ],
+        "P856": [
+            {
+                "value": "http://www.brejinho.pe.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "23493",
+                "type": "string"
+            }
+        ],
+        "P1889": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2088956,
+                    "id": "Q2088956"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira Brejinho-PE montagem.png",
+                "type": "string"
+            }
         ]
     }
 }

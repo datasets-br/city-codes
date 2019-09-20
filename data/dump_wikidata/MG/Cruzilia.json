@@ -173,6 +173,38 @@
                     "id": "Q1749739"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1638397,
+                    "id": "Q1638397"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 947342,
+                    "id": "Q947342"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1756048,
+                    "id": "Q1756048"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1790055,
+                    "id": "Q1790055"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -184,6 +216,30 @@
         "P473": [
             {
                 "value": "35",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "44156",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "37445-000 a 37446-999",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.cruzilia.mg.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101951035",
                 "type": "string"
             }
         ]

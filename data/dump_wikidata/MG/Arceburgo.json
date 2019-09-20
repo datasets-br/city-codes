@@ -130,6 +130,14 @@
                     "id": "Q1789740"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1790645,
+                    "id": "Q1790645"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -141,6 +149,36 @@
         "P473": [
             {
                 "value": "35",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "40819",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Arceburgomgbandeira.png",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Arceburgomgbrasao.jpg",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.arceburgo.mg.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101948717",
                 "type": "string"
             }
         ]

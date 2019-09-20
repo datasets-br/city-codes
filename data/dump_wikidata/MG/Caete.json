@@ -198,6 +198,43 @@
                 "value": "368794",
                 "type": "string"
             }
+        ],
+        "P158": [
+            {
+                "value": "Brasao caete mg br.JPG",
+                "type": "string"
+            }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1714-01-01T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 9,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "41998",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101949063",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0448765",
+                "type": "string"
+            }
         ]
     }
 }

@@ -140,6 +140,54 @@
                     "id": "Q1754812"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1906206,
+                    "id": "Q1906206"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1792041,
+                    "id": "Q1792041"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1756303,
+                    "id": "Q1756303"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 509584,
+                    "id": "Q509584"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 678998,
+                    "id": "Q678998"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 986277,
+                    "id": "Q986277"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -157,6 +205,24 @@
         "P18": [
             {
                 "value": "Paisagemsfp.jpg",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "52230",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira do Município São Francisco de Paula MG.png",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101952789",
                 "type": "string"
             }
         ]

@@ -120,6 +120,38 @@
                     "id": "Q1805732"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1638425,
+                    "id": "Q1638425"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1789707,
+                    "id": "Q1789707"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1791057,
+                    "id": "Q1791057"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 375692,
+                    "id": "Q375692"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -131,6 +163,30 @@
         "P473": [
             {
                 "value": "35",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "46078",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "37218-000 a 37219-999",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.ijaci.mg.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101965989",
                 "type": "string"
             }
         ]

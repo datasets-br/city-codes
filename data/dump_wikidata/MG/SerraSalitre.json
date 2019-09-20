@@ -151,6 +151,22 @@
                     "id": "Q984571"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1749830,
+                    "id": "Q1749830"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1756458,
+                    "id": "Q1756458"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -162,6 +178,30 @@
         "P473": [
             {
                 "value": "34",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "53350",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "38760-000 a 38769-999",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.serradosalitre.mg.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101952577",
                 "type": "string"
             }
         ]

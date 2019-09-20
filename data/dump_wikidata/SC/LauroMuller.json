@@ -160,6 +160,37 @@
                 "value": "48",
                 "type": "string"
             }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1956-01-01T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 9,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "81892",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira-lauro müller.png",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101957889",
+                "type": "string"
+            }
         ]
     }
 }

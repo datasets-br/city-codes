@@ -24,10 +24,6 @@
             {
                 "value": "Brasão - lauro de freitas.svg",
                 "type": "string"
-            },
-            {
-                "value": "Brasão - lauro de freitas.png",
-                "type": "string"
             }
         ],
         "P625": [
@@ -231,6 +227,53 @@
         "P473": [
             {
                 "value": "71",
+                "type": "string"
+            }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1962-01-01T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 9,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "36854",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n2014204890",
+                "type": "string"
+            }
+        ],
+        "P138": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 10316601,
+                    "id": "Q10316601"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101950445",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0452310",
                 "type": "string"
             }
         ]

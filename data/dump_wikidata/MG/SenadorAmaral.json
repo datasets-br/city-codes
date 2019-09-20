@@ -153,6 +153,38 @@
                     "id": "Q784417"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1792008,
+                    "id": "Q1792008"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1756818,
+                    "id": "Q1756818"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1790436,
+                    "id": "Q1790436"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 22062477,
+                    "id": "Q22062477"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -164,6 +196,30 @@
         "P473": [
             {
                 "value": "35",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "40843",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "37615-000 a 37619-999",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.senadoramaral.mg.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101952619",
                 "type": "string"
             }
         ]

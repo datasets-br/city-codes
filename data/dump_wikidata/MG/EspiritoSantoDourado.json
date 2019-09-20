@@ -120,6 +120,46 @@
                     "id": "Q1787264"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 921958,
+                    "id": "Q921958"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1754967,
+                    "id": "Q1754967"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1791942,
+                    "id": "Q1791942"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 949798,
+                    "id": "Q949798"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1788562,
+                    "id": "Q1788562"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -131,6 +171,42 @@
         "P473": [
             {
                 "value": "35",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "44873",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Espírito Santo do Douradomgbandeira.png",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Espírito Santo do Douradomgbrasao.jpg",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "37566-000",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.espdourado.mg.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101950801",
                 "type": "string"
             }
         ]

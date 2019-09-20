@@ -173,6 +173,67 @@
                 "value": "79",
                 "type": "string"
             }
+        ],
+        "P158": [
+            {
+                "value": "Brasao caninde sao francisco.svg",
+                "type": "string"
+            }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1953-01-01T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 9,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "31232",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n2003109774",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasao caninde sao francisco.svg",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "49820-000",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.caninde.se.gov.br",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0448993",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101947669",
+                "type": "string"
+            }
         ]
     }
 }

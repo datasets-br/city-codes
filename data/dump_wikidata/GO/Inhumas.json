@@ -152,12 +152,6 @@
                 "type": "wikibase-entityid"
             }
         ],
-        "P18": [
-            {
-                "value": "Goias Municip Inhumas.svg",
-                "type": "string"
-            }
-        ],
         "P402": [
             {
                 "value": "334602",
@@ -167,6 +161,48 @@
         "P473": [
             {
                 "value": "62",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "93955",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n79013270",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira de Inhumas.jpg",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "75400-000",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.inhumas.go.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101962325",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0451427",
                 "type": "string"
             }
         ]

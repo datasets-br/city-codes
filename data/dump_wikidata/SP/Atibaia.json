@@ -30,12 +30,6 @@
                 "type": "string"
             }
         ],
-        "P94": [
-            {
-                "value": "Brasão de atibaia.png",
-                "type": "string"
-            }
-        ],
         "P17": [
             {
                 "value": {
@@ -63,6 +57,16 @@
                     "longitude": -46.58896,
                     "altitude": null,
                     "precision": 1.0e-5,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            },
+            {
+                "value": {
+                    "latitude": -23.11694,
+                    "longitude": -46.55028,
+                    "altitude": null,
+                    "precision": 0.097674236368216,
                     "globe": "http://www.wikidata.org/entity/Q2"
                 },
                 "type": "globecoordinate"
@@ -235,12 +239,6 @@
                 "type": "quantity"
             }
         ],
-        "P856": [
-            {
-                "value": "http://www.atibaia.com.br/",
-                "type": "string"
-            }
-        ],
         "P1792": [
             {
                 "value": {
@@ -320,6 +318,55 @@
         "P473": [
             {
                 "value": "11",
+                "type": "string"
+            }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1864-01-01T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 9,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P982": [
+            {
+                "value": "b05c8930-6063-40ba-aae1-24d2469134ae",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.atibaia.sp.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "61816",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "nr89001356",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101965535",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0448055",
                 "type": "string"
             }
         ]

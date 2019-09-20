@@ -211,6 +211,49 @@
                 "value": "17",
                 "type": "string"
             }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+2009-00-00T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 9,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.mirassol.sp.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "67075",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n80013659",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101955487",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0453031",
+                "type": "string"
+            }
         ]
     }
 }

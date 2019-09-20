@@ -160,6 +160,30 @@
                     "id": "Q522717"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1756102,
+                    "id": "Q1756102"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1805751,
+                    "id": "Q1805751"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1749826,
+                    "id": "Q1749826"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -171,6 +195,30 @@
         "P473": [
             {
                 "value": "35",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "43559",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "37548-000 a 37548-999",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.conceicaodosouros.mg.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101950827",
                 "type": "string"
             }
         ]

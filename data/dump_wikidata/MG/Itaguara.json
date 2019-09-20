@@ -145,6 +145,70 @@
                 "value": "31",
                 "type": "string"
             }
+        ],
+        "P6555": [
+            {
+                "value": "46434",
+                "type": "string"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 985977,
+                    "id": "Q985977"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 22062685,
+                    "id": "Q22062685"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1780188,
+                    "id": "Q1780188"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 22062655,
+                    "id": "Q22062655"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P281": [
+            {
+                "value": "35488-000 a 35489-999",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.itaguara.mg.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101951117",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0451535",
+                "type": "string"
+            }
         ]
     }
 }

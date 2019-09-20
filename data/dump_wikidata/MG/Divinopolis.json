@@ -188,6 +188,46 @@
                     "id": "Q1787492"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 22062685,
+                    "id": "Q22062685"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1788460,
+                    "id": "Q1788460"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 948637,
+                    "id": "Q948637"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 956065,
+                    "id": "Q956065"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 22062655,
+                    "id": "Q22062655"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -205,6 +245,43 @@
         "P473": [
             {
                 "value": "37",
+                "type": "string"
+            }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1767-01-01T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 9,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "44458",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "35500-000 a 35516-999",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101965973",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0227721",
                 "type": "string"
             }
         ]

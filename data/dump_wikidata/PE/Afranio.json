@@ -112,7 +112,7 @@
         ],
         "P242": [
             {
-                "value": "Brazil Pernambuco location map Municip Afrânio.svg",
+                "value": "Brazil Pernambuco Afrânio location map.svg",
                 "type": "string"
             }
         ],
@@ -169,6 +169,43 @@
         "P473": [
             {
                 "value": "87",
+                "type": "string"
+            }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1963-01-01T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 9,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.afranio.pe.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "23035",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101947129",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0447448",
                 "type": "string"
             }
         ]

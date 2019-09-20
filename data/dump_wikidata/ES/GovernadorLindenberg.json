@@ -120,6 +120,38 @@
                     "id": "Q1806625"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 22064949,
+                    "id": "Q22064949"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 933380,
+                    "id": "Q933380"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 22040814,
+                    "id": "Q22040814"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1755402,
+                    "id": "Q1755402"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -131,6 +163,36 @@
         "P473": [
             {
                 "value": "27",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "56308",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira de Governador Lindenberg Espírito Santo.png",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasão de Governador Lindenberg Espírito Santo.png",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://governadorlindenberg.es.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101954509",
                 "type": "string"
             }
         ]

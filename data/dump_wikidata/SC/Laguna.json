@@ -199,6 +199,40 @@
                 },
                 "type": "wikibase-entityid"
             }
+        ],
+        "P1376": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2413855,
+                    "id": "Q2413855"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "81850",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n82260351",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101958103",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0452168",
+                "type": "string"
+            }
         ]
     }
 }

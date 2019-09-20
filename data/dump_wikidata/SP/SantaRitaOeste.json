@@ -183,6 +183,34 @@
                 "value": "17",
                 "type": "string"
             }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 47212705,
+                    "id": "Q47212705"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.santaritadoeste.sp.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "70491",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101955103",
+                "type": "string"
+            }
         ]
     }
 }

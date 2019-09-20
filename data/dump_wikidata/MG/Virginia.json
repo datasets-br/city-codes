@@ -141,6 +141,94 @@
                 "value": "35",
                 "type": "string"
             }
+        ],
+        "P6555": [
+            {
+                "value": "54356",
+                "type": "string"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1790481,
+                    "id": "Q1790481"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1780238,
+                    "id": "Q1780238"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1790610,
+                    "id": "Q1790610"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 585119,
+                    "id": "Q585119"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 686891,
+                    "id": "Q686891"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1638378,
+                    "id": "Q1638378"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1787301,
+                    "id": "Q1787301"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasaovirginia.jpg",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "37465-000 a 37465-999",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.virginia.mg.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101952749",
+                "type": "string"
+            }
         ]
     }
 }

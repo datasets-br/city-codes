@@ -142,6 +142,14 @@
                     "id": "Q1784334"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 740833,
+                    "id": "Q740833"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -153,6 +161,42 @@
         "P473": [
             {
                 "value": "55",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.restingaseca.rs.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "88137",
+                "type": "string"
+            }
+        ],
+        "P3722": [
+            {
+                "value": "Maps of Restinga Seca",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira do município de Restinga Seca.jpg",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101963231",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0454980",
                 "type": "string"
             }
         ]

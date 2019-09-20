@@ -186,6 +186,52 @@
                 "value": "32",
                 "type": "string"
             }
+        ],
+        "P158": [
+            {
+                "value": "Arms of the city of Mar de Espanha.png",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira mar de espanha.jpg",
+                "type": "string"
+            }
+        ],
+        "P36": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 22040781,
+                    "id": "Q22040781"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "47953",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.mardeespanha.mg.gov.br",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0452740",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101951587",
+                "type": "string"
+            }
         ]
     }
 }

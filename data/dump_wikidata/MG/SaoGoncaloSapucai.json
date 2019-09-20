@@ -165,6 +165,62 @@
                     "id": "Q1780173"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1792968,
+                    "id": "Q1792968"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1788481,
+                    "id": "Q1788481"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1788562,
+                    "id": "Q1788562"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 642341,
+                    "id": "Q642341"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1791938,
+                    "id": "Q1791938"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2007752,
+                    "id": "Q2007752"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1780214,
+                    "id": "Q1780214"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -176,6 +232,52 @@
         "P473": [
             {
                 "value": "35",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.saogoncalodosapucai.mg.gov.br",
+                "type": "string"
+            }
+        ],
+        "P1464": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 32335452,
+                    "id": "Q32335452"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "52396",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasao sgs.png",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "37490-000 a 37495-999",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101952703",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0455960",
                 "type": "string"
             }
         ]

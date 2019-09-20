@@ -162,6 +162,40 @@
                 "value": "31",
                 "type": "string"
             }
+        ],
+        "P1464": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 16504727,
+                    "id": "Q16504727"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "52752",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "36590-000 a 36591-999",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.saomigueldoanta.mg.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101953519",
+                "type": "string"
+            }
         ]
     }
 }

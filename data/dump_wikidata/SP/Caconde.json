@@ -121,12 +121,6 @@
                 "type": "string"
             }
         ],
-        "P856": [
-            {
-                "value": "http://www.pmcaconde.sp.gov.br/",
-                "type": "string"
-            }
-        ],
         "P1585": [
             {
                 "value": "3508702",
@@ -211,6 +205,36 @@
         "P473": [
             {
                 "value": "19",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.caconde.sp.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "62758",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n81031424",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasão Caconde.jpg",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101956213",
                 "type": "string"
             }
         ]

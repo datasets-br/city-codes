@@ -142,6 +142,30 @@
                     "id": "Q1754887"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 775319,
+                    "id": "Q775319"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 986243,
+                    "id": "Q986243"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1755752,
+                    "id": "Q1755752"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -153,6 +177,24 @@
         "P473": [
             {
                 "value": "35",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "46973",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Flag Jacutinga.jpg",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101950683",
                 "type": "string"
             }
         ]

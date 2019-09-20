@@ -106,12 +106,6 @@
                 "type": "string"
             }
         ],
-        "P269": [
-            {
-                "value": "13978859X",
-                "type": "string"
-            }
-        ],
         "P41": [
             {
                 "value": "BandeiraAraxa.jpg",
@@ -198,6 +192,22 @@
                     "id": "Q1756458"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 22065210,
+                    "id": "Q22065210"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 22065032,
+                    "id": "Q22065032"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -209,6 +219,48 @@
         "P473": [
             {
                 "value": "34",
+                "type": "string"
+            }
+        ],
+        "P269": [
+            {
+                "value": "13978859X",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.araxa.mg.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "40797",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n86107844",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "38180-000 a 38184-999",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0447933",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101948709",
                 "type": "string"
             }
         ]

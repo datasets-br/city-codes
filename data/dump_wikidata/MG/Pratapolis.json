@@ -140,6 +140,30 @@
                     "id": "Q1790792"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1755708,
+                    "id": "Q1755708"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1793175,
+                    "id": "Q1793175"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1756039,
+                    "id": "Q1756039"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -151,6 +175,24 @@
         "P473": [
             {
                 "value": "35",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "50571",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.pratapolis.mg.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101968653",
                 "type": "string"
             }
         ]

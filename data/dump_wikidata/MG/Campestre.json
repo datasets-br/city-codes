@@ -141,6 +141,78 @@
                     "id": "Q1756059"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1756413,
+                    "id": "Q1756413"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1756203,
+                    "id": "Q1756203"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 22062733,
+                    "id": "Q22062733"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 921958,
+                    "id": "Q921958"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1780021,
+                    "id": "Q1780021"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1754967,
+                    "id": "Q1754967"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 817216,
+                    "id": "Q817216"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1755160,
+                    "id": "Q1755160"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 593028,
+                    "id": "Q593028"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -152,6 +224,36 @@
         "P18": [
             {
                 "value": "Campestre MG BR - panoramio.jpg",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "42196",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Campestremgbandeira.png",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "37730-000 a 37739-999",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.campestre.mg.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101948759",
                 "type": "string"
             }
         ]

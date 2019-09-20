@@ -148,6 +148,38 @@
                     "id": "Q1788043"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1791417,
+                    "id": "Q1791417"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1756612,
+                    "id": "Q1756612"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1789740,
+                    "id": "Q1789740"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1779955,
+                    "id": "Q1779955"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -159,6 +191,30 @@
         "P473": [
             {
                 "value": "35",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "45659",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "37810-000 a 37819-999",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.prefguaranesia.mg.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101950653",
                 "type": "string"
             }
         ]

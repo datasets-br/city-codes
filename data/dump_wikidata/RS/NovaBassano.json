@@ -75,12 +75,6 @@
                 "type": "quantity"
             }
         ],
-        "P856": [
-            {
-                "value": "http://www.novabassano.rs.com.br/",
-                "type": "string"
-            }
-        ],
         "P112": [
             {
                 "value": {
@@ -165,6 +159,30 @@
         "P473": [
             {
                 "value": "54",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://novabassano.rs.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "87610",
+                "type": "string"
+            }
+        ],
+        "P3722": [
+            {
+                "value": "Maps of Nova Bassano",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101960197",
                 "type": "string"
             }
         ]

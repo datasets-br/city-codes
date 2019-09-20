@@ -36,12 +36,6 @@
                 "type": "string"
             }
         ],
-        "P94": [
-            {
-                "value": "Brasão Nova Odessa - SP.jpg",
-                "type": "string"
-            }
-        ],
         "P625": [
             {
                 "value": {
@@ -88,14 +82,6 @@
                     "entity-type": "item",
                     "numeric-id": 3184121,
                     "id": "Q3184121"
-                },
-                "type": "wikibase-entityid"
-            },
-            {
-                "value": {
-                    "entity-type": "item",
-                    "numeric-id": 618123,
-                    "id": "Q618123"
                 },
                 "type": "wikibase-entityid"
             }
@@ -205,6 +191,43 @@
         "P473": [
             {
                 "value": "19",
+                "type": "string"
+            }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1905-01-01T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 9,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.novaodessa.sp.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "67695",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n84053546",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101965057",
                 "type": "string"
             }
         ]

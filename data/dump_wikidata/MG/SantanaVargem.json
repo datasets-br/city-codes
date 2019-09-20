@@ -153,6 +153,38 @@
                     "id": "Q1749754"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1791960,
+                    "id": "Q1791960"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 22062767,
+                    "id": "Q22062767"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1792777,
+                    "id": "Q1792777"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 583832,
+                    "id": "Q583832"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -164,6 +196,36 @@
         "P473": [
             {
                 "value": "35",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "51659",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "37195-000 a 37199-999",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.santanadavargem.mg.gov.br",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0455817",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101952733",
                 "type": "string"
             }
         ]

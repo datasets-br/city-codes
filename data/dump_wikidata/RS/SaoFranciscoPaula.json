@@ -170,6 +170,61 @@
                 "value": "242503",
                 "type": "string"
             }
+        ],
+        "P856": [
+            {
+                "value": "http://www.saofranciscodepaula.rs.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1878-05-21T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 11,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "88676",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n94038039",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira-Sao-Chico-de-Paula.png",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasao sao francisco de paula rs.jpg",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0455942",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101960679",
+                "type": "string"
+            }
         ]
     }
 }

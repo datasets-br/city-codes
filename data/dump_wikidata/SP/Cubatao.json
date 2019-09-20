@@ -251,6 +251,37 @@
                 "value": "13",
                 "type": "string"
             }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1832-04-09T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 11,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "63711",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n82119620",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101956231",
+                "type": "string"
+            }
         ]
     }
 }

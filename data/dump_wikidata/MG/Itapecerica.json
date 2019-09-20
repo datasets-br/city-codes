@@ -157,6 +157,54 @@
                     "id": "Q1756303"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1791720,
+                    "id": "Q1791720"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1792041,
+                    "id": "Q1792041"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 22062655,
+                    "id": "Q22062655"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1754822,
+                    "id": "Q1754822"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2382290,
+                    "id": "Q2382290"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1787492,
+                    "id": "Q1787492"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -174,6 +222,54 @@
         "P5573": [
             {
                 "value": "15998",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "46698",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n89242057",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira de Itapecerica, MG.png",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "BANDEIRA de ITAPECERICA.JPG",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "35550-000 a 35554-999",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.itapecerica.mg.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101950973",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0451576",
                 "type": "string"
             }
         ]

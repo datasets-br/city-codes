@@ -151,6 +151,68 @@
                 "value": "Igreja Matriz de Fama, MG - panoramio.jpg",
                 "type": "string"
             }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1755151,
+                    "id": "Q1755151"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 283682,
+                    "id": "Q283682"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1791960,
+                    "id": "Q1791960"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "45039",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Famamgbandeira.png",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Famamgbrasao.jpg",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "37144-000 a 37144-999",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.fama.mg.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101950843",
+                "type": "string"
+            }
         ]
     }
 }

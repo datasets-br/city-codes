@@ -147,6 +147,30 @@
                     "id": "Q1439211"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1793236,
+                    "id": "Q1793236"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 953848,
+                    "id": "Q953848"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1638397,
+                    "id": "Q1638397"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -158,6 +182,30 @@
         "P473": [
             {
                 "value": "35",
+                "type": "string"
+            }
+        ],
+        "P158": [
+            {
+                "value": "Brasaosaobentoabade.jpg",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "52159",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasaosaobentoabade.jpg",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101952773",
                 "type": "string"
             }
         ]

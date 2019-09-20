@@ -147,6 +147,52 @@
                 "value": "51",
                 "type": "string"
             }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 32350533,
+                    "id": "Q32350533"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.novasantarita.rs.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "87246",
+                "type": "string"
+            }
+        ],
+        "P3722": [
+            {
+                "value": "Maps of Nova Santa Rita (Rio Grande do Sul)",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira de Nova Santa Rita.png",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasão de Nova Santa Rita.png",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101967829",
+                "type": "string"
+            }
         ]
     }
 }

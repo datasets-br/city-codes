@@ -82,7 +82,7 @@
         ],
         "P94": [
             {
-                "value": "Brasao Caxias Maranhao Brasil.svg",
+                "value": "Brasão de Caxias.svg",
                 "type": "string"
             }
         ],
@@ -165,6 +165,34 @@
         "P473": [
             {
                 "value": "99",
+                "type": "string"
+            }
+        ],
+        "P1464": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 32341395,
+                    "id": "Q32341395"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "7579",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101943075",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0449284",
                 "type": "string"
             }
         ]

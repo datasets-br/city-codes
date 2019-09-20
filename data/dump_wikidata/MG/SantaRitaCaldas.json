@@ -153,6 +153,46 @@
                     "id": "Q22062733"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 22062719,
+                    "id": "Q22062719"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 921958,
+                    "id": "Q921958"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1754887,
+                    "id": "Q1754887"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 642595,
+                    "id": "Q642595"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 775319,
+                    "id": "Q775319"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -164,6 +204,36 @@
         "P473": [
             {
                 "value": "35",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "51837",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "37775-000 a 37779-999",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.prefeiturasrc.mg.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101952605",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0455753",
                 "type": "string"
             }
         ]

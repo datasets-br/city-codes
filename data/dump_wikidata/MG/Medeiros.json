@@ -20,16 +20,6 @@
                     "globe": "http://www.wikidata.org/entity/Q2"
                 },
                 "type": "globecoordinate"
-            },
-            {
-                "value": {
-                    "latitude": -20.01139,
-                    "longitude": -46.358,
-                    "altitude": null,
-                    "precision": 1.0e-5,
-                    "globe": "http://www.wikidata.org/entity/Q2"
-                },
-                "type": "globecoordinate"
             }
         ],
         "P17": [
@@ -64,14 +54,6 @@
                     "entity-type": "item",
                     "numeric-id": 3184121,
                     "id": "Q3184121"
-                },
-                "type": "wikibase-entityid"
-            },
-            {
-                "value": {
-                    "entity-type": "item",
-                    "numeric-id": 3257686,
-                    "id": "Q3257686"
                 },
                 "type": "wikibase-entityid"
             }
@@ -120,13 +102,6 @@
                     "unit": "http://www.wikidata.org/entity/Q11573"
                 },
                 "type": "quantity"
-            },
-            {
-                "value": {
-                    "amount": "+901",
-                    "unit": "http://www.wikidata.org/entity/Q11573"
-                },
-                "type": "quantity"
             }
         ],
         "P1081": [
@@ -156,6 +131,80 @@
         "P473": [
             {
                 "value": "37",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "48259",
+                "type": "string"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1755169,
+                    "id": "Q1755169"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1756027,
+                    "id": "Q1756027"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1756458,
+                    "id": "Q1756458"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1755576,
+                    "id": "Q1755576"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 22081071,
+                    "id": "Q22081071"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 22065032,
+                    "id": "Q22065032"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.medeiros.mg.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101950717",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0452913",
                 "type": "string"
             }
         ]

@@ -142,6 +142,38 @@
                     "id": "Q1779998"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 22062794,
+                    "id": "Q22062794"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1791617,
+                    "id": "Q1791617"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1756027,
+                    "id": "Q1756027"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1756593,
+                    "id": "Q1756593"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -153,6 +185,36 @@
         "P473": [
             {
                 "value": "37",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "46051",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Iguatamamgbandeira.jpg",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Iguatamamgbrasao.jpg",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.iguatama.mg.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101950863",
                 "type": "string"
             }
         ]

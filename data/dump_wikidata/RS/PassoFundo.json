@@ -135,12 +135,6 @@
                 "type": "wikibase-entityid"
             }
         ],
-        "P856": [
-            {
-                "value": "http://www.pmpf.rs.gov.br/",
-                "type": "string"
-            }
-        ],
         "P1585": [
             {
                 "value": "4314100",
@@ -217,6 +211,64 @@
         "P473": [
             {
                 "value": "54",
+                "type": "string"
+            }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1827-00-00T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 9,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.passofundo.rs.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "87858",
+                "type": "string"
+            }
+        ],
+        "P3722": [
+            {
+                "value": "Maps of Passo Fundo",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n89602810",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0266428",
+                "type": "string"
+            }
+        ],
+        "P1549": [
+            {
+                "value": {
+                    "text": "passo-fundense",
+                    "language": "ca"
+                },
+                "type": "monolingualtext"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101959505",
                 "type": "string"
             }
         ]

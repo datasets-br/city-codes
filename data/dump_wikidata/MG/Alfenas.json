@@ -36,16 +36,6 @@
                     "globe": "http://www.wikidata.org/entity/Q2"
                 },
                 "type": "globecoordinate"
-            },
-            {
-                "value": {
-                    "latitude": -21.39287,
-                    "longitude": -45.99521,
-                    "altitude": null,
-                    "precision": 1.0e-5,
-                    "globe": "http://www.wikidata.org/entity/Q2"
-                },
-                "type": "globecoordinate"
             }
         ],
         "P646": [
@@ -115,7 +105,7 @@
         "P1082": [
             {
                 "value": {
-                    "amount": "+79222",
+                    "amount": "+79481",
                     "unit": "1"
                 },
                 "type": "quantity"
@@ -203,6 +193,54 @@
                     "id": "Q1791960"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1756059,
+                    "id": "Q1756059"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1756284,
+                    "id": "Q1756284"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1756931,
+                    "id": "Q1756931"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 581679,
+                    "id": "Q581679"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 22062565,
+                    "id": "Q22062565"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 283682,
+                    "id": "Q283682"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -220,6 +258,36 @@
         "P473": [
             {
                 "value": "35",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "40312",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "37130-000 a 37139-999",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.alfenas.mg.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101965827",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0447585",
                 "type": "string"
             }
         ]

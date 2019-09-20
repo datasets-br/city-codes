@@ -40,14 +40,6 @@
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 3957,
-                    "id": "Q3957"
-                },
-                "type": "wikibase-entityid"
-            },
-            {
-                "value": {
-                    "entity-type": "item",
                     "numeric-id": 3184121,
                     "id": "Q3184121"
                 },
@@ -163,6 +155,30 @@
         "P473": [
             {
                 "value": "75",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "34398",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "48390-000",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://cardealdasilva.ba.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101947643",
                 "type": "string"
             }
         ]

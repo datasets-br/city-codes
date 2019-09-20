@@ -136,6 +136,46 @@
                     "id": "Q1638425"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1749754,
+                    "id": "Q1749754"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 583832,
+                    "id": "Q583832"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1755164,
+                    "id": "Q1755164"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 953848,
+                    "id": "Q953848"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1790591,
+                    "id": "Q1790591"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -147,6 +187,30 @@
         "P473": [
             {
                 "value": "35",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "42773",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Carmo da Cachoeiramgbandeira.jpg",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Carmo da Cachoeiramgbrasao.png",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101950949",
                 "type": "string"
             }
         ]

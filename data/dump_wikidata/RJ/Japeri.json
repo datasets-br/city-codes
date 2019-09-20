@@ -4,12 +4,6 @@
     "type": "item",
     "id": "Q1787673",
     "claims": {
-        "P41": [
-            {
-                "value": "Bandeira-japeri.PNG",
-                "type": "string"
-            }
-        ],
         "P17": [
             {
                 "value": {
@@ -113,12 +107,6 @@
                 "type": "string"
             }
         ],
-        "P856": [
-            {
-                "value": "http://portaljaperi.tempsite.ws/",
-                "type": "string"
-            }
-        ],
         "P2044": [
             {
                 "value": {
@@ -179,6 +167,36 @@
         "P473": [
             {
                 "value": "21",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira de Japeri.svg",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.japeri.rj.gov.br",
+                "type": "string"
+            }
+        ],
+        "P3722": [
+            {
+                "value": "Maps of Japeri",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "58149",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "1175610743",
                 "type": "string"
             }
         ]

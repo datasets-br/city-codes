@@ -154,6 +154,14 @@
                     "id": "Q1789546"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 381733,
+                    "id": "Q381733"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -165,6 +173,30 @@
         "P473": [
             {
                 "value": "34",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "43451",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "38120-000 a 38129-999",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.conceicaodasalagoas.mg.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101964731",
                 "type": "string"
             }
         ]

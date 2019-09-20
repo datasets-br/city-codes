@@ -169,6 +169,43 @@
                 "value": "71",
                 "type": "string"
             }
+        ],
+        "P6555": [
+            {
+                "value": "39136",
+                "type": "string"
+            }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1961-01-01T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 9,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira de Simões Filho.png",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101966647",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0456279",
+                "type": "string"
+            }
         ]
     }
 }

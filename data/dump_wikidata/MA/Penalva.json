@@ -141,12 +141,6 @@
                 "type": "wikibase-entityid"
             }
         ],
-        "P18": [
-            {
-                "value": "Maranhao Municip Penalva.svg",
-                "type": "string"
-            }
-        ],
         "P402": [
             {
                 "value": "332946",
@@ -156,6 +150,42 @@
         "P473": [
             {
                 "value": "98",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "8630",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n88110630",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "65213-000",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://penalva.ma.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101943251",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0454062",
                 "type": "string"
             }
         ]

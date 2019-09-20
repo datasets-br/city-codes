@@ -4,12 +4,6 @@
     "type": "item",
     "id": "Q326349",
     "claims": {
-        "P41": [
-            {
-                "value": "Bandeira SãoLourençodoSul RioGrandedoSul Brasil.jpg",
-                "type": "string"
-            }
-        ],
         "P625": [
             {
                 "value": {
@@ -171,6 +165,64 @@
         "P473": [
             {
                 "value": "53",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.saolourencodosul.rs.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira de São Lourenço do Sul.svg",
+                "type": "string"
+            }
+        ],
+        "P1464": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 25937156,
+                    "id": "Q25937156"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "88790",
+                "type": "string"
+            }
+        ],
+        "P3722": [
+            {
+                "value": "Maps of São Lourenço do Sul",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n95069287",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "96170-000",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0456023",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101959589",
                 "type": "string"
             }
         ]

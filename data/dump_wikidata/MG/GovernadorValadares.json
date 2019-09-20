@@ -4,12 +4,6 @@
     "type": "item",
     "id": "Q462218",
     "claims": {
-        "P41": [
-            {
-                "value": "Bandeira GovernadorValadares MinasGerais Brasil.svg",
-                "type": "string"
-            }
-        ],
         "P94": [
             {
                 "value": "Brasao GovernadorValadares MinasGerais Brasil.svg",
@@ -250,6 +244,49 @@
                     "id": "Q56450300"
                 },
                 "type": "wikibase-entityid"
+            }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1808-01-01T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 9,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira de Governador Valadares.svg",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "45535",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n85265997",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0030667",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101966419",
+                "type": "string"
             }
         ]
     }

@@ -68,6 +68,10 @@
             {
                 "value": "3468436",
                 "type": "string"
+            },
+            {
+                "value": "6323363",
+                "type": "string"
             }
         ],
         "P910": [
@@ -204,6 +208,62 @@
                     "id": "Q1758800"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1786799,
+                    "id": "Q1786799"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 972360,
+                    "id": "Q972360"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1749815,
+                    "id": "Q1749815"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 600808,
+                    "id": "Q600808"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1757460,
+                    "id": "Q1757460"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 514256,
+                    "id": "Q514256"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1749869,
+                    "id": "Q1749869"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -215,6 +275,36 @@
         "P473": [
             {
                 "value": "51",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "85596",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n88026312",
+                "type": "string"
+            }
+        ],
+        "P3722": [
+            {
+                "value": "Maps of Cachoeira do Sul",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0448745",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101959057",
                 "type": "string"
             }
         ]

@@ -164,6 +164,80 @@
                 "value": "35",
                 "type": "string"
             }
+        ],
+        "P6555": [
+            {
+                "value": "49816",
+                "type": "string"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1650861,
+                    "id": "Q1650861"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 749384,
+                    "id": "Q749384"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 478514,
+                    "id": "Q478514"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1796446,
+                    "id": "Q1796446"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1790481,
+                    "id": "Q1790481"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1788432,
+                    "id": "Q1788432"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P281": [
+            {
+                "value": "37520-000 a 37523-999",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.pedralva.mg.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101950891",
+                "type": "string"
+            }
         ]
     }
 }

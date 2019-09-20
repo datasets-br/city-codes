@@ -20,12 +20,6 @@
                 "type": "string"
             }
         ],
-        "P158": [
-            {
-                "value": "Brasao gbi.png",
-                "type": "string"
-            }
-        ],
         "P625": [
             {
                 "value": {
@@ -100,12 +94,6 @@
         "P18": [
             {
                 "value": "Guanambi dezembro06c.jpg",
-                "type": "string"
-            }
-        ],
-        "P94": [
-            {
-                "value": "Brasao gbi.png",
                 "type": "string"
             }
         ],
@@ -209,6 +197,43 @@
         "P402": [
             {
                 "value": "362502",
+                "type": "string"
+            }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1919-08-14T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 11,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "35335",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasão de Guanambi - BA.svg",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101949207",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0451024",
                 "type": "string"
             }
         ]

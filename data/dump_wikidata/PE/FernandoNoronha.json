@@ -88,6 +88,22 @@
                     "id": "Q46169"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 6617741,
+                    "id": "Q6617741"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P361": [
@@ -287,7 +303,7 @@
         ],
         "P4372": [
             {
-                "value": "18450",
+                "value": "fernando-de-noronha-fernando-de-noronha-e-do-atol-das-rocas",
                 "type": "string"
             }
         ],
@@ -299,6 +315,66 @@
                     "id": "Q45823285"
                 },
                 "type": "wikibase-entityid"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Amphisbaena ridleyi distribution.png",
+                "type": "string"
+            }
+        ],
+        "P5698": [
+            {
+                "value": "108633",
+                "type": "string"
+            }
+        ],
+        "P1294": [
+            {
+                "value": "NT0123",
+                "type": "string"
+            }
+        ],
+        "P3722": [
+            {
+                "value": "Maps of Fernando de Noronha",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "30015",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n81047382",
+                "type": "string"
+            }
+        ],
+        "P227": [
+            {
+                "value": "4757461-6",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasão de Fernando de Noronha, Pernambuco.png",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "53990-000 a 53999-999",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101991111",
+                "type": "string"
             }
         ]
     }

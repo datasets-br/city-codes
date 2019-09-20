@@ -4,12 +4,6 @@
     "type": "item",
     "id": "Q1795613",
     "claims": {
-        "P41": [
-            {
-                "value": "Bandeira de Tatuí.jpg",
-                "type": "string"
-            }
-        ],
         "P625": [
             {
                 "value": {
@@ -231,6 +225,36 @@
         "P473": [
             {
                 "value": "15",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira de Tatuí.png",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.tatui.sp.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "71811",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101955865",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0456614",
                 "type": "string"
             }
         ]

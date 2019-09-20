@@ -145,6 +145,40 @@
                 "value": "54",
                 "type": "string"
             }
+        ],
+        "P421": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 6513,
+                    "id": "Q6513"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Locator map of Carlos Gomes in Rio Grande do Sul.svg",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.carlosgomes.rs.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "86525",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101960071",
+                "type": "string"
+            }
         ]
     }
 }

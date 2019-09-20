@@ -191,6 +191,14 @@
                     "id": "Q1789409"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1787178,
+                    "id": "Q1787178"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -202,6 +210,36 @@
         "P473": [
             {
                 "value": "38",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "51390",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "39560-000 a 39562-999",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.salinas.mg.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101953865",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0455252",
                 "type": "string"
             }
         ]

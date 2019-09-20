@@ -110,10 +110,7 @@
             }
         ],
         "P856": [
-            {
-                "value": "http://www.bocadoacre.am.gov.br",
-                "type": "string"
-            }
+            null
         ],
         "P2044": [
             {
@@ -177,6 +174,18 @@
         "P473": [
             {
                 "value": "97",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "2151",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101941573",
                 "type": "string"
             }
         ]

@@ -197,6 +197,54 @@
                     "id": "Q829417"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1756600,
+                    "id": "Q1756600"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1638397,
+                    "id": "Q1638397"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 678420,
+                    "id": "Q678420"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1789528,
+                    "id": "Q1789528"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1772699,
+                    "id": "Q1772699"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1756446,
+                    "id": "Q1756446"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -214,6 +262,36 @@
         "P5573": [
             {
                 "value": "7238",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "40975",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Baependimgbandeirabr.png",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "37443-000 a 37444-999",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.baependi.mg.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101948873",
                 "type": "string"
             }
         ]

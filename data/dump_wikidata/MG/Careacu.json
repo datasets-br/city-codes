@@ -126,6 +126,46 @@
                     "id": "Q2007752"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1788562,
+                    "id": "Q1788562"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 952405,
+                    "id": "Q952405"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1650861,
+                    "id": "Q1650861"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 954848,
+                    "id": "Q954848"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 749384,
+                    "id": "Q749384"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -137,6 +177,30 @@
         "P473": [
             {
                 "value": "35",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "42714",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Careaçumgbandeira.png",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Careaçumgbrasao.jpg",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101950869",
                 "type": "string"
             }
         ]

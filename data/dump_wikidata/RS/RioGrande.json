@@ -234,6 +234,69 @@
                 "value": "53",
                 "type": "string"
             }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1737-01-01T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 9,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P1792": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 9237841,
+                    "id": "Q9237841"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "88153",
+                "type": "string"
+            }
+        ],
+        "P3722": [
+            {
+                "value": "Maps of Rio Grande (Rio Grande do Sul)",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n82037385",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0055754",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101959799",
+                "type": "string"
+            }
+        ],
+        "P1343": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 602358,
+                    "id": "Q602358"
+                },
+                "type": "wikibase-entityid"
+            }
         ]
     }
 }

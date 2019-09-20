@@ -64,12 +64,6 @@
                 "type": "string"
             }
         ],
-        "P856": [
-            {
-                "value": "http://paudalho.pe.gov.br/site/",
-                "type": "string"
-            }
-        ],
         "P1585": [
             {
                 "value": "2610608",
@@ -161,6 +155,30 @@
         "P473": [
             {
                 "value": "81",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.paudalho.pe.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "25119",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasão de Paudalho.jpg",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101948573",
                 "type": "string"
             }
         ]

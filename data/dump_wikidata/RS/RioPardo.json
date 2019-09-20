@@ -197,6 +197,46 @@
                 "value": "51",
                 "type": "string"
             }
+        ],
+        "P1464": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 25936785,
+                    "id": "Q25936785"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.riopardo.rs.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "88170",
+                "type": "string"
+            }
+        ],
+        "P3722": [
+            {
+                "value": "Maps of Rio Pardo",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101967495",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0455076",
+                "type": "string"
+            }
         ]
     }
 }

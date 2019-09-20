@@ -161,6 +161,50 @@
                 "value": "17",
                 "type": "string"
             }
+        ],
+        "P856": [
+            {
+                "value": "http://www.valentimgentil.sp.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "72230",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 47213062,
+                    "id": "Q47213062"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1464": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 32333301,
+                    "id": "Q32333301"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0457143",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101955313",
+                "type": "string"
+            }
         ]
     }
 }

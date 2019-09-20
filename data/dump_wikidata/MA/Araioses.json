@@ -196,9 +196,46 @@
                 "type": "string"
             }
         ],
-        "P18": [
+        "P571": [
             {
-                "value": "Araioses-delta-das-americas.jpg",
+                "value": {
+                    "time": "+1938-01-01T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 9,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "7170",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n89242482",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasão de Araioses.jpg",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0447882",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101943095",
                 "type": "string"
             }
         ]

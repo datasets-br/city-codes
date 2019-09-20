@@ -237,6 +237,14 @@
                     "id": "Q1789748"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 381733,
+                    "id": "Q381733"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -269,6 +277,66 @@
                     "id": "Q56450232"
                 },
                 "type": "wikibase-entityid"
+            }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1888-08-31T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 11,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "54038",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n50073266",
+                "type": "string"
+            }
+        ],
+        "P421": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 6513,
+                    "id": "Q6513"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P94": [
+            null
+        ],
+        "P417": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1065053,
+                    "id": "Q1065053"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0068134",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101952471",
+                "type": "string"
             }
         ]
     }

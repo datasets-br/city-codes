@@ -4,12 +4,6 @@
     "type": "item",
     "id": "Q1757154",
     "claims": {
-        "P94": [
-            {
-                "value": "BrasaoPinhalgrande.jpg",
-                "type": "string"
-            }
-        ],
         "P625": [
             {
                 "value": {
@@ -163,6 +157,36 @@
         "P473": [
             {
                 "value": "55",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.pinhalgrande.rs.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "87386",
+                "type": "string"
+            }
+        ],
+        "P3722": [
+            {
+                "value": "Maps of Pinhal Grande",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Pinhal Grandersbrasões.jpg",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101959015",
                 "type": "string"
             }
         ]

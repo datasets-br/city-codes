@@ -200,6 +200,42 @@
                 },
                 "type": "wikibase-entityid"
             }
+        ],
+        "P856": [
+            {
+                "value": "http://www.lagoavermelha.rs.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "87270",
+                "type": "string"
+            }
+        ],
+        "P3722": [
+            {
+                "value": "Maps of Lagoa Vermelha",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n88286476",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0452165",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101960357",
+                "type": "string"
+            }
         ]
     }
 }

@@ -313,6 +313,62 @@
                 },
                 "type": "wikibase-entityid"
             }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1947-05-10T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 11,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "76910",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n82074209",
+                "type": "string"
+            }
+        ],
+        "P417": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 162691,
+                    "id": "Q162691"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1549": [
+            {
+                "value": {
+                    "text": "maringaense",
+                    "language": "ca"
+                },
+                "type": "monolingualtext"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101967655",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0452817",
+                "type": "string"
+            }
         ]
     }
 }

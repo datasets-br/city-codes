@@ -195,6 +195,78 @@
                     "id": "Q1803540"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1803513,
+                    "id": "Q1803513"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1803534,
+                    "id": "Q1803534"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1803495,
+                    "id": "Q1803495"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2003681,
+                    "id": "Q2003681"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 383890,
+                    "id": "Q383890"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2003701,
+                    "id": "Q2003701"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 205681,
+                    "id": "Q205681"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2003833,
+                    "id": "Q2003833"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1803907,
+                    "id": "Q1803907"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -242,6 +314,24 @@
         "P473": [
             {
                 "value": "45",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "79278",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n90614824",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101956435",
                 "type": "string"
             }
         ]

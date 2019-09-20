@@ -133,6 +133,86 @@
                 "value": "37",
                 "type": "string"
             }
+        ],
+        "P6555": [
+            {
+                "value": "43958",
+                "type": "string"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1756027,
+                    "id": "Q1756027"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1779998,
+                    "id": "Q1779998"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 585412,
+                    "id": "Q585412"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1789257,
+                    "id": "Q1789257"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 22081071,
+                    "id": "Q22081071"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 942731,
+                    "id": "Q942731"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Córrego Dantamgbrasao.jpg",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "38990-000 a 39099-999",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.corregodanta.mg.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101950807",
+                "type": "string"
+            }
         ]
     }
 }

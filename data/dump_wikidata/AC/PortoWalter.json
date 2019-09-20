@@ -20,12 +20,6 @@
                 "type": "wikibase-entityid"
             }
         ],
-        "P41": [
-            {
-                "value": "Bandeira Porto Walter.jpg",
-                "type": "string"
-            }
-        ],
         "P625": [
             {
                 "value": {
@@ -160,6 +154,36 @@
         "P473": [
             {
                 "value": "68",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira de Porto Walter AC.svg",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.portowalter.ac.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "1066",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0454461",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101941511",
                 "type": "string"
             }
         ]

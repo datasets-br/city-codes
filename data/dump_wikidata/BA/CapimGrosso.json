@@ -245,6 +245,46 @@
                 },
                 "type": "wikibase-entityid"
             }
+        ],
+        "P1464": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 32333466,
+                    "id": "Q32333466"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "30830",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "44695-000 a 44697-999",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://capimgrosso.ba.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101947247",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0449042",
+                "type": "string"
+            }
         ]
     }
 }

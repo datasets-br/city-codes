@@ -20,6 +20,16 @@
                     "globe": "http://www.wikidata.org/entity/Q2"
                 },
                 "type": "globecoordinate"
+            },
+            {
+                "value": {
+                    "latitude": -29.66118,
+                    "longitude": -50.01422,
+                    "altitude": null,
+                    "precision": 1.0e-5,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
             }
         ],
         "P17": [
@@ -50,6 +60,14 @@
                     "id": "Q3184121"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 486972,
+                    "id": "Q486972"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P646": [
@@ -61,6 +79,10 @@
         "P1566": [
             {
                 "value": "3467362",
+                "type": "string"
+            },
+            {
+                "value": "6323379",
                 "type": "string"
             }
         ],
@@ -138,6 +160,13 @@
                     "unit": "http://www.wikidata.org/entity/Q11573"
                 },
                 "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+5",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
             }
         ],
         "P2046": [
@@ -183,6 +212,42 @@
         "P473": [
             {
                 "value": "51",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.capaodacanoa.rs.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "89150",
+                "type": "string"
+            }
+        ],
+        "P3722": [
+            {
+                "value": "Maps of Capão da Canoa",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "no2002070199",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0449032",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101960845",
                 "type": "string"
             }
         ]

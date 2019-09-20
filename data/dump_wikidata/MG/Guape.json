@@ -174,6 +174,62 @@
                     "id": "Q1791254"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1756452,
+                    "id": "Q1756452"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 22062767,
+                    "id": "Q22062767"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1793151,
+                    "id": "Q1793151"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1791720,
+                    "id": "Q1791720"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1635025,
+                    "id": "Q1635025"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1780266,
+                    "id": "Q1780266"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1755744,
+                    "id": "Q1755744"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -185,6 +241,30 @@
         "P473": [
             {
                 "value": "35",
+                "type": "string"
+            }
+        ],
+        "P158": [
+            {
+                "value": "Brasão de Guapé-MG.svg",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "45616",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://guape.mg.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101950795",
                 "type": "string"
             }
         ]

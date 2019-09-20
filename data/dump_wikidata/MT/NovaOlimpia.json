@@ -143,6 +143,49 @@
                 "value": "65",
                 "type": "string"
             }
+        ],
+        "P856": [
+            {
+                "value": "http://www.novaolimpia.mt.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "98736",
+                "type": "string"
+            }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1986-01-01T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 9,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira Nova Olímpia.png",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasão Nova Olímpia.png",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101961079",
+                "type": "string"
+            }
         ]
     }
 }

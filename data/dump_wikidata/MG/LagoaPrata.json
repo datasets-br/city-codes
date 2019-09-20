@@ -171,6 +171,22 @@
                     "id": "Q1755923"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 956065,
+                    "id": "Q956065"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1789780,
+                    "id": "Q1789780"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -182,6 +198,36 @@
         "P473": [
             {
                 "value": "37",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "47430",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "35590-000 a 35594-999",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.lagoadaprata.mg.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101950907",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0452156",
                 "type": "string"
             }
         ]

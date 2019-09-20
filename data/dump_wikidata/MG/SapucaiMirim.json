@@ -151,6 +151,48 @@
                 "value": "35",
                 "type": "string"
             }
+        ],
+        "P6555": [
+            {
+                "value": "53074",
+                "type": "string"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1754774,
+                    "id": "Q1754774"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1970369,
+                    "id": "Q1970369"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P281": [
+            {
+                "value": "37690-000 a 37699-999",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.sapucaimirim.mg.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101952663",
+                "type": "string"
+            }
         ]
     }
 }

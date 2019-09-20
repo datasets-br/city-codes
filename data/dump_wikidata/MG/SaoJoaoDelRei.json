@@ -131,7 +131,7 @@
         ],
         "P41": [
             {
-                "value": "Bandeira sao joao del rei.jpg",
+                "value": "Bandeira de São João del-Rei.jpg",
                 "type": "string"
             }
         ],
@@ -227,6 +227,14 @@
                     "id": "Q1790344"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1756048,
+                    "id": "Q1756048"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -238,6 +246,58 @@
         "P473": [
             {
                 "value": "32",
+                "type": "string"
+            }
+        ],
+        "P158": [
+            {
+                "value": "Brasao sao joao del rei.png",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.saojoaodelrei.mg.gov.br",
+                "type": "string"
+            }
+        ],
+        "P227": [
+            {
+                "value": "1214608-0",
+                "type": "string"
+            }
+        ],
+        "P1792": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 60613717,
+                    "id": "Q60613717"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "52493",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n83174440",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "36300-000 a 36319-999",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101952861",
                 "type": "string"
             }
         ]

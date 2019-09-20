@@ -6,7 +6,7 @@
     "claims": {
         "P373": [
             {
-                "value": "Cavalcante",
+                "value": "Cavalcante (Goiás)",
                 "type": "string"
             }
         ],
@@ -147,6 +147,28 @@
         "P473": [
             {
                 "value": "62",
+                "type": "string"
+            }
+        ],
+        "P1376": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 27494556,
+                    "id": "Q27494556"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "93050",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101962689",
                 "type": "string"
             }
         ]

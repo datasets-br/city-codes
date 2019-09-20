@@ -10,12 +10,6 @@
                 "type": "string"
             }
         ],
-        "P158": [
-            {
-                "value": "Brasao-barreiras.jpg",
-                "type": "string"
-            }
-        ],
         "P17": [
             {
                 "value": {
@@ -138,12 +132,6 @@
                 "type": "string"
             }
         ],
-        "P94": [
-            {
-                "value": "Brasao-barreiras.jpg",
-                "type": "string"
-            }
-        ],
         "P18": [
             {
                 "value": "Bahia Brazil Barreiras em 2017.jpg",
@@ -241,6 +229,49 @@
         "P473": [
             {
                 "value": "77",
+                "type": "string"
+            }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1891-00-00T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 9,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "33634",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n82035798",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasão Barreiras Bahia.jpg",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101946919",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0448301",
                 "type": "string"
             }
         ]

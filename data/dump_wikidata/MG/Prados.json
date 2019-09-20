@@ -186,6 +186,40 @@
                 "value": "32",
                 "type": "string"
             }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 25930918,
+                    "id": "Q25930918"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "50539",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n86121192",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira prados.png",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101952975",
+                "type": "string"
+            }
         ]
     }
 }

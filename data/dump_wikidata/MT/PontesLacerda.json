@@ -161,6 +161,37 @@
                 "value": "65",
                 "type": "string"
             }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1979-12-29T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 11,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.ponteselacerda.mt.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "89990",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101960967",
+                "type": "string"
+            }
         ]
     }
 }

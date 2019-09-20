@@ -64,12 +64,6 @@
                 "type": "string"
             }
         ],
-        "P856": [
-            {
-                "value": "http://www.pmsantiago.com.br/",
-                "type": "string"
-            }
-        ],
         "P1585": [
             {
                 "value": "4317400",
@@ -83,12 +77,6 @@
                     "unit": "1"
                 },
                 "type": "quantity"
-            }
-        ],
-        "P242": [
-            {
-                "value": "Brasao de santiago.JPG",
-                "type": "string"
             }
         ],
         "P41": [
@@ -173,6 +161,62 @@
         "P473": [
             {
                 "value": "55",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 32336113,
+                    "id": "Q32336113"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1464": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 32333337,
+                    "id": "Q32333337"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasao de santiago.JPG",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.santiago.rs.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "88510",
+                "type": "string"
+            }
+        ],
+        "P3722": [
+            {
+                "value": "Maps of Santiago (Rio Grande do Sul)",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101958341",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0455836",
                 "type": "string"
             }
         ]

@@ -20,6 +20,14 @@
                     "id": "Q10284"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2844,
+                    "id": "Q2844"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P910": [
@@ -261,6 +269,36 @@
         "P473": [
             {
                 "value": "38",
+                "type": "string"
+            }
+        ],
+        "P948": [
+            {
+                "value": "WV banner Diamantina old houses.jpg",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "44318",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "39100-000 a 39119-999",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0022350",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101951389",
                 "type": "string"
             }
         ]

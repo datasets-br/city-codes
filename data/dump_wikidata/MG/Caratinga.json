@@ -222,6 +222,55 @@
                 "value": "33",
                 "type": "string"
             }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1892-06-24T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 11,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "42676",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n87945500",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "35300-000 a 35322-999<ref name=\"Correios_BuscaCEP\"/>",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0014782",
+                "type": "string"
+            }
+        ],
+        "P2716": [
+            {
+                "value": "Montagem Caratinga MG.JPG",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101951899",
+                "type": "string"
+            }
         ]
     }
 }

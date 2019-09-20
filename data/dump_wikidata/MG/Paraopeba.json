@@ -163,6 +163,46 @@
                 "value": "31",
                 "type": "string"
             }
+        ],
+        "P6555": [
+            {
+                "value": "49476",
+                "type": "string"
+            }
+        ],
+        "P85": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 19553987,
+                    "id": "Q19553987"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P281": [
+            {
+                "value": "35774-000 a 35776-999",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.paraopeba.mg.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101951139",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0453856",
+                "type": "string"
+            }
         ]
     }
 }

@@ -36,8 +36,8 @@
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 39109,
-                    "id": "Q39109"
+                    "numeric-id": 42824,
+                    "id": "Q42824"
                 },
                 "type": "wikibase-entityid"
             }
@@ -58,18 +58,12 @@
                 "type": "string"
             }
         ],
-        "P373": [
-            {
-                "value": "Água Boa (Minas Gerais)",
-                "type": "string"
-            }
-        ],
         "P910": [
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 19641798,
-                    "id": "Q19641798"
+                    "numeric-id": 29405148,
+                    "id": "Q29405148"
                 },
                 "type": "wikibase-entityid"
             }
@@ -101,7 +95,7 @@
         ],
         "P242": [
             {
-                "value": "MinasGerais Municip AguaBoa.svg",
+                "value": "MatoGrosso Municip AguaBoa.svg",
                 "type": "string"
             }
         ],
@@ -193,6 +187,24 @@
         "P473": [
             {
                 "value": "33",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "40118",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Água Boamgbandeira.png",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101949301",
                 "type": "string"
             }
         ]

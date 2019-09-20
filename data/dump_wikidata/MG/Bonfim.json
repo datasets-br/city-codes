@@ -157,11 +157,64 @@
                     "id": "Q1780188"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1751212,
+                    "id": "Q1751212"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 640266,
+                    "id": "Q640266"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
             {
                 "value": "315425",
+                "type": "string"
+            }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1860-01-01T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 9,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "41610",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n2007205111",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bonfimmg bandeira.jpg",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101948925",
                 "type": "string"
             }
         ]

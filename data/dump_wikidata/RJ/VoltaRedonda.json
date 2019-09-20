@@ -57,10 +57,10 @@
         "P625": [
             {
                 "value": {
-                    "latitude": -22.522777777778,
-                    "longitude": -44.103888888889,
+                    "latitude": -22.52306,
+                    "longitude": -44.10417,
                     "altitude": null,
-                    "precision": null,
+                    "precision": 0.097249165953013,
                     "globe": "http://www.wikidata.org/entity/Q2"
                 },
                 "type": "globecoordinate"
@@ -246,6 +246,53 @@
                     "id": "Q56450310"
                 },
                 "type": "wikibase-entityid"
+            }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1954-01-01T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 9,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P1830": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1370657,
+                    "id": "Q1370657"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1417": [
+            {
+                "value": "place/Volta-Redonda",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "59250",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n85012556",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101952957",
+                "type": "string"
             }
         ]
     }

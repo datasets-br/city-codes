@@ -144,6 +144,40 @@
                 "value": "38",
                 "type": "string"
             }
+        ],
+        "P6555": [
+            {
+                "value": "41483",
+                "type": "string"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1787178,
+                    "id": "Q1787178"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P281": [
+            {
+                "value": "39563-000 a 39564-999",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.santacruzdesalinas.mg.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101954109",
+                "type": "string"
+            }
         ]
     }
 }

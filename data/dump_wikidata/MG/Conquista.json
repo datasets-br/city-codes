@@ -81,7 +81,7 @@
         ],
         "P373": [
             {
-                "value": "Conquista",
+                "value": "Conquista (Minas Gerais)",
                 "type": "string"
             }
         ],
@@ -166,11 +166,45 @@
                     "id": "Q381733"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 22065210,
+                    "id": "Q22065210"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 22062605,
+                    "id": "Q22062605"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
             {
                 "value": "315107",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "43630",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.conquista.mg.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101950609",
                 "type": "string"
             }
         ]

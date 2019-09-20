@@ -120,6 +120,38 @@
                     "id": "Q784417"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1792820,
+                    "id": "Q1792820"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 775319,
+                    "id": "Q775319"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1792008,
+                    "id": "Q1792008"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1788440,
+                    "id": "Q1788440"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -131,6 +163,30 @@
         "P473": [
             {
                 "value": "35",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "46116",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "37576-000 a 37577-999",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.inconfidentes.mg.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101950755",
                 "type": "string"
             }
         ]

@@ -36,6 +36,16 @@
                     "globe": "http://www.wikidata.org/entity/Q2"
                 },
                 "type": "globecoordinate"
+            },
+            {
+                "value": {
+                    "latitude": -7.85286,
+                    "longitude": -73.23613,
+                    "altitude": null,
+                    "precision": 1.0e-5,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
             }
         ],
         "P373": [
@@ -62,6 +72,14 @@
                     "id": "Q3184121"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 486972,
+                    "id": "Q486972"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P646": [
@@ -79,6 +97,10 @@
         "P1566": [
             {
                 "value": "6318179",
+                "type": "string"
+            },
+            {
+                "value": "6319289",
                 "type": "string"
             }
         ],
@@ -158,6 +180,33 @@
         "P473": [
             {
                 "value": "68",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "https://www.rodriguesalves.ac.gov.br",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+223",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "1082",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101941507",
                 "type": "string"
             }
         ]

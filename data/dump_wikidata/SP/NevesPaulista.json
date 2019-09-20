@@ -185,6 +185,24 @@
                 },
                 "type": "wikibase-entityid"
             }
+        ],
+        "P856": [
+            {
+                "value": "http://www.nevespaulista.sp.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "67512",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101955441",
+                "type": "string"
+            }
         ]
     }
 }

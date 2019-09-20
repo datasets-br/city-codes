@@ -136,6 +136,14 @@
                     "id": "Q1758171"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 740833,
+                    "id": "Q740833"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -147,6 +155,42 @@
         "P473": [
             {
                 "value": "55",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.silveiramartins.rs.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "84956",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n87938732",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Silveira Martinsrsbandeira.png",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Logo-silveira-martins.png",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101958953",
                 "type": "string"
             }
         ]

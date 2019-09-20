@@ -163,6 +163,30 @@
                     "id": "Q1772699"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 947342,
+                    "id": "Q947342"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 829417,
+                    "id": "Q829417"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1788572,
+                    "id": "Q1788572"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -174,6 +198,30 @@
         "P473": [
             {
                 "value": "35",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "50512",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira de Pouso Alto.jpg",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasaopousoalto.jpg",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101952779",
                 "type": "string"
             }
         ]

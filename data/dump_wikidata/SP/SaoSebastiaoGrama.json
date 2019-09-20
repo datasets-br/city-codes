@@ -167,6 +167,34 @@
                 "value": "19",
                 "type": "string"
             }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 47212695,
+                    "id": "Q47212695"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.ssgrama.sp.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "71170",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101956199",
+                "type": "string"
+            }
         ]
     }
 }

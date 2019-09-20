@@ -154,6 +154,46 @@
                     "id": "Q1749826"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1756102,
+                    "id": "Q1756102"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1650861,
+                    "id": "Q1650861"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 985585,
+                    "id": "Q985585"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1789559,
+                    "id": "Q1789559"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1788432,
+                    "id": "Q1788432"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -165,6 +205,36 @@
         "P473": [
             {
                 "value": "35",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.piranguinho.mg.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "50199",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "37508-000 a 37509-999<ref name=\"Correios_CEP\"/>",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101952709",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0454266",
                 "type": "string"
             }
         ]

@@ -97,7 +97,7 @@
         ],
         "P856": [
             {
-                "value": "http://www.bocaina.sc.gov.b",
+                "value": "http://www.bocaina.sc.gov.br",
                 "type": "string"
             }
         ],
@@ -117,10 +117,6 @@
             }
         ],
         "P473": [
-            {
-                "value": "3228",
-                "type": "string"
-            },
             {
                 "value": "49",
                 "type": "string"
@@ -164,6 +160,18 @@
                     "id": "Q762009"
                 },
                 "type": "wikibase-entityid"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "81280",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101957729",
+                "type": "string"
             }
         ]
     }

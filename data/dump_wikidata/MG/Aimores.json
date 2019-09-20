@@ -155,6 +155,59 @@
                 "value": "33",
                 "type": "string"
             }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 9522705,
+                    "id": "Q9522705"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1925-01-01T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 9,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "40215",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "35200-000 a 35219-999<ref name=\"Correios_CEP\"/>",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.aimores.mg.gov.br",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0447524",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101949513",
+                "type": "string"
+            }
         ]
     }
 }

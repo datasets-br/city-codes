@@ -194,12 +194,6 @@
                 "type": "wikibase-entityid"
             }
         ],
-        "P41": [
-            {
-                "value": "Bandeirapoa.jpg",
-                "type": "string"
-            }
-        ],
         "P625": [
             {
                 "value": {
@@ -328,7 +322,7 @@
         ],
         "P18": [
             {
-                "value": "Porto Alegre skyline.jpg",
+                "value": "Collage of Porto Alegre.png",
                 "type": "string"
             }
         ],
@@ -361,7 +355,7 @@
         ],
         "P94": [
             {
-                "value": "Brasão de Porto Alegre (RS).svg",
+                "value": "Brasão de Porto Alegre.svg",
                 "type": "string"
             }
         ],
@@ -438,12 +432,6 @@
         "P2013": [
             {
                 "value": "prefpoa",
-                "type": "string"
-            }
-        ],
-        "P213": [
-            {
-                "value": "0000 0001 2097 4564",
                 "type": "string"
             }
         ],
@@ -683,6 +671,60 @@
         "P1225": [
             {
                 "value": "10044747",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira de Porto Alegre.svg",
+                "type": "string"
+            }
+        ],
+        "P213": [
+            {
+                "value": "0000 0001 2097 4564",
+                "type": "string"
+            }
+        ],
+        "P3241": [
+            {
+                "value": "12289c",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "88013",
+                "type": "string"
+            }
+        ],
+        "P3722": [
+            {
+                "value": "Maps of Porto Alegre",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0237577",
+                "type": "string"
+            }
+        ],
+        "P691": [
+            {
+                "value": "ge406307",
+                "type": "string"
+            }
+        ],
+        "P2716": [
+            {
+                "value": "Collage of Porto Alegre.png",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101960525",
                 "type": "string"
             }
         ]

@@ -10,15 +10,9 @@
                 "type": "string"
             }
         ],
-        "P41": [
-            {
-                "value": "Br-ba-fs.jpg",
-                "type": "string"
-            }
-        ],
         "P158": [
             {
-                "value": "Brasao feira.jpg",
+                "value": "Brasão de Feira de Santana.jpg",
                 "type": "string"
             }
         ],
@@ -39,6 +33,16 @@
                     "longitude": -38.966944444444,
                     "altitude": null,
                     "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            },
+            {
+                "value": {
+                    "latitude": -12.26667,
+                    "longitude": -38.96667,
+                    "altitude": null,
+                    "precision": 0.091930359865891,
                     "globe": "http://www.wikidata.org/entity/Q2"
                 },
                 "type": "globecoordinate"
@@ -180,7 +184,7 @@
         ],
         "P94": [
             {
-                "value": "Brasao feira.jpg",
+                "value": "Brasão de Feira de Santana.jpg",
                 "type": "string"
             }
         ],
@@ -284,6 +288,58 @@
                     "id": "Q56450235"
                 },
                 "type": "wikibase-entityid"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Bahia Municip FeiradeSantana.svg",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira de Feira de Santana.jpg",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "35157",
+                "type": "string"
+            }
+        ],
+        "P3722": [
+            {
+                "value": "Maps of Feira de Santana",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n81033748",
+                "type": "string"
+            }
+        ],
+        "P417": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 164294,
+                    "id": "Q164294"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101950293",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0026301",
+                "type": "string"
             }
         ]
     }

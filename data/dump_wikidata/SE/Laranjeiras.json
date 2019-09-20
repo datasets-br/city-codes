@@ -156,20 +156,35 @@
                 "type": "string"
             }
         ],
-        "P4372": [
+        "P158": [
             {
-                "value": "20950",
+                "value": "Brasao laranjeiras.svg",
                 "type": "string"
             }
         ],
-        "P1435": [
+        "P571": [
             {
                 "value": {
-                    "entity-type": "item",
-                    "numeric-id": 358,
-                    "id": "Q358"
+                    "time": "+1832-01-01T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 9,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
                 },
-                "type": "wikibase-entityid"
+                "type": "time"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "31712",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101947855",
+                "type": "string"
             }
         ]
     }

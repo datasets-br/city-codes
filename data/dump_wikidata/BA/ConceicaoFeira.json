@@ -156,6 +156,27 @@
                 "value": "75",
                 "type": "string"
             }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+218",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "34630",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101947483",
+                "type": "string"
+            }
         ]
     }
 }

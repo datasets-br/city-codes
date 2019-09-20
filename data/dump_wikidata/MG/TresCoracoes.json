@@ -131,12 +131,6 @@
                 "type": "quantity"
             }
         ],
-        "P94": [
-            {
-                "value": "Brasão de Minas Gerais.svg",
-                "type": "string"
-            }
-        ],
         "P281": [
             {
                 "value": "30000-000",
@@ -236,11 +230,79 @@
                     "id": "Q1754942"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 642341,
+                    "id": "Q642341"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1780173,
+                    "id": "Q1780173"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1756600,
+                    "id": "Q1756600"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 953848,
+                    "id": "Q953848"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
             {
                 "value": "314973",
+                "type": "string"
+            }
+        ],
+        "P158": [
+            {
+                "value": "Brasao Tres Coracoes.jpeg",
+                "type": "string"
+            }
+        ],
+        "P982": [
+            {
+                "value": "7e5cbf29-e411-4631-8cc9-cba61e54987b",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "53856",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "no2001079250",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasao Tres Coracoes.jpeg",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101965943",
                 "type": "string"
             }
         ]

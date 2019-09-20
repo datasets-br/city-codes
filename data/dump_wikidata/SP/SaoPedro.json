@@ -280,6 +280,40 @@
                 "value": "19",
                 "type": "string"
             }
+        ],
+        "P6555": [
+            {
+                "value": "71099",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n78071372",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0456069",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101968471",
+                "type": "string"
+            }
+        ],
+        "P1830": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 7665683,
+                    "id": "Q7665683"
+                },
+                "type": "wikibase-entityid"
+            }
         ]
     }
 }

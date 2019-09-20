@@ -199,6 +199,49 @@
                 "value": "18",
                 "type": "string"
             }
+        ],
+        "P856": [
+            {
+                "value": "http://www.birigui.sp.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1911-01-01T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 9,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "62294",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n85353234",
+                "type": "string"
+            }
+        ],
+        "P982": [
+            {
+                "value": "7ca94431-4525-4c9c-9b43-d0ab864491c8",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101955221",
+                "type": "string"
+            }
         ]
     }
 }

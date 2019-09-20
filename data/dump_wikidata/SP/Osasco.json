@@ -46,12 +46,6 @@
                 "type": "wikibase-entityid"
             }
         ],
-        "P948": [
-            {
-                "value": "Osasco banner.jpg",
-                "type": "string"
-            }
-        ],
         "P373": [
             {
                 "value": "Osasco",
@@ -66,12 +60,6 @@
                     "id": "Q155"
                 },
                 "type": "wikibase-entityid"
-            }
-        ],
-        "P41": [
-            {
-                "value": "BandeiraOsasco.svg",
-                "type": "string"
             }
         ],
         "P625": [
@@ -215,7 +203,7 @@
         ],
         "P94": [
             {
-                "value": "BrasaoOsasco.svg",
+                "value": "Brasão de Osasco.svg",
                 "type": "string"
             }
         ],
@@ -386,6 +374,36 @@
                     "id": "Q56450228"
                 },
                 "type": "wikibase-entityid"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira de Osasco.svg",
+                "type": "string"
+            }
+        ],
+        "P3722": [
+            {
+                "value": "Maps of Osasco",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "67890",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n81104628",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101956169",
+                "type": "string"
             }
         ]
     }

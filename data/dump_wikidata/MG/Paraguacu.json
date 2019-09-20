@@ -168,6 +168,88 @@
                 "value": "35",
                 "type": "string"
             }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1780021,
+                    "id": "Q1780021"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1755151,
+                    "id": "Q1755151"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1792968,
+                    "id": "Q1792968"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1791960,
+                    "id": "Q1791960"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 939717,
+                    "id": "Q939717"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 22062565,
+                    "id": "Q22062565"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1749754,
+                    "id": "Q1749754"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "49433",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "37120-000 a 37129-999",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.paraguacu.mg.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101950845",
+                "type": "string"
+            }
         ]
     }
 }

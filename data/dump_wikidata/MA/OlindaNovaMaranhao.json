@@ -122,12 +122,6 @@
                 "type": "wikibase-entityid"
             }
         ],
-        "P18": [
-            {
-                "value": "Maranhao Municip OlindaNovadoMaranhao.svg",
-                "type": "string"
-            }
-        ],
         "P402": [
             {
                 "value": "332976",
@@ -137,6 +131,18 @@
         "P473": [
             {
                 "value": "98",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "8028",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101943311",
                 "type": "string"
             }
         ]

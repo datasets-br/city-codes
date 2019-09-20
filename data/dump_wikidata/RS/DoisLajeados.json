@@ -135,6 +135,52 @@
                 "value": "54",
                 "type": "string"
             }
+        ],
+        "P856": [
+            {
+                "value": "http://www.doislajeados.rs.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "84824",
+                "type": "string"
+            }
+        ],
+        "P3722": [
+            {
+                "value": "Maps of Dois Lajeados",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n94043299",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 32389563,
+                    "id": "Q32389563"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Dois Lajeadosbanders.png",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101960085",
+                "type": "string"
+            }
         ]
     }
 }

@@ -76,12 +76,6 @@
                 "type": "wikibase-entityid"
             }
         ],
-        "P94": [
-            {
-                "value": "Brasão de Louveira - SP.jpg",
-                "type": "string"
-            }
-        ],
         "P1566": [
             {
                 "value": "6322355",
@@ -221,6 +215,30 @@
         "P473": [
             {
                 "value": "19",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.louveira.sp.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "66478",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Louveira.PNG",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101968613",
                 "type": "string"
             }
         ]

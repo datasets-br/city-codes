@@ -150,6 +150,38 @@
                     "id": "Q22062741"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1756931,
+                    "id": "Q1756931"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1790502,
+                    "id": "Q1790502"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1790124,
+                    "id": "Q1790124"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1790260,
+                    "id": "Q1790260"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -167,6 +199,36 @@
         "P18": [
             {
                 "value": "Igreja Matriz de Monte Belo, MG - panoramio.jpg",
+                "type": "string"
+            }
+        ],
+        "P158": [
+            {
+                "value": "Brasao monte belo.jpg",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "48593",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "37115-000 a 37119-999",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.montebelo.mg.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101950737",
                 "type": "string"
             }
         ]

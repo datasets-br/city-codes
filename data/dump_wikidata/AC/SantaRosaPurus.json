@@ -56,6 +56,14 @@
                     "id": "Q3184121"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 902814,
+                    "id": "Q902814"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P646": [
@@ -155,6 +163,24 @@
         "P473": [
             {
                 "value": "68",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.santarosadopurus.ac.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "1031",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101941531",
                 "type": "string"
             }
         ]

@@ -6,7 +6,7 @@
     "claims": {
         "P41": [
             {
-                "value": "Bandeira-valenca.png",
+                "value": "Bandeira de Valença (Rio de Janeiro).png",
                 "type": "string"
             }
         ],
@@ -208,6 +208,30 @@
         "P473": [
             {
                 "value": "24",
+                "type": "string"
+            }
+        ],
+        "P395": [
+            {
+                "value": "RJ",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "59218",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "nr2006000142",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101966091",
                 "type": "string"
             }
         ]

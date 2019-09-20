@@ -96,7 +96,7 @@
         ],
         "P214": [
             {
-                "value": "312794635",
+                "value": "143054807",
                 "type": "string"
             }
         ],
@@ -296,6 +296,55 @@
                     "id": "Q56450246"
                 },
                 "type": "wikibase-entityid"
+            }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1835-03-28T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 11,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P982": [
+            {
+                "value": "36129dff-9f7a-45b5-aaed-c94b86edbf5c",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "58190",
+                "type": "string"
+            }
+        ],
+        "P6782": [
+            {
+                "value": "02ywr7111",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasão de Campos dos Goytacazes.png",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0014038",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101953927",
+                "type": "string"
             }
         ]
     }

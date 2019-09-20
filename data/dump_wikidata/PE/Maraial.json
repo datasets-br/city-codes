@@ -134,6 +134,33 @@
                 "value": "81",
                 "type": "string"
             }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+212",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.maraial.pe.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "24830",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101948383",
+                "type": "string"
+            }
         ]
     }
 }

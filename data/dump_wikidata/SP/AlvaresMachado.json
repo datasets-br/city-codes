@@ -207,6 +207,34 @@
                 "value": "18",
                 "type": "string"
             }
+        ],
+        "P856": [
+            {
+                "value": "http://www.alvaresmachado.sp.gov.br",
+                "type": "string"
+            }
+        ],
+        "P138": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 10284570,
+                    "id": "Q10284570"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "61255",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101952377",
+                "type": "string"
+            }
         ]
     }
 }

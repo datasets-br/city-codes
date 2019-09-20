@@ -24,16 +24,6 @@
                     "globe": "http://www.wikidata.org/entity/Q2"
                 },
                 "type": "globecoordinate"
-            },
-            {
-                "value": {
-                    "latitude": -2.75136,
-                    "longitude": -42.83432,
-                    "altitude": null,
-                    "precision": 1.0e-5,
-                    "globe": "http://www.wikidata.org/entity/Q2"
-                },
-                "type": "globecoordinate"
             }
         ],
         "P131": [
@@ -134,13 +124,6 @@
                     "unit": "http://www.wikidata.org/entity/Q11573"
                 },
                 "type": "quantity"
-            },
-            {
-                "value": {
-                    "amount": "+5",
-                    "unit": "http://www.wikidata.org/entity/Q11573"
-                },
-                "type": "quantity"
             }
         ],
         "P421": [
@@ -179,6 +162,46 @@
                     "id": "Q1876128"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2013052,
+                    "id": "Q2013052"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2065297,
+                    "id": "Q2065297"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2012500,
+                    "id": "Q2012500"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 960537,
+                    "id": "Q960537"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 665255,
+                    "id": "Q665255"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -190,6 +213,24 @@
         "P473": [
             {
                 "value": "98",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "7331",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101943087",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0448304",
                 "type": "string"
             }
         ]

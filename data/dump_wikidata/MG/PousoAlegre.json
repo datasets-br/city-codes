@@ -212,6 +212,30 @@
             {
                 "value": {
                     "entity-type": "item",
+                    "numeric-id": 1756102,
+                    "id": "Q1756102"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 727483,
+                    "id": "Q727483"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1790777,
+                    "id": "Q1790777"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
                     "numeric-id": 1650861,
                     "id": "Q1650861"
                 },
@@ -220,8 +244,16 @@
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 1756102,
-                    "id": "Q1756102"
+                    "numeric-id": 954848,
+                    "id": "Q954848"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1788562,
+                    "id": "Q1788562"
                 },
                 "type": "wikibase-entityid"
             }
@@ -245,6 +277,24 @@
         "P473": [
             {
                 "value": "35",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "50490",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101965845",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0454495",
                 "type": "string"
             }
         ]

@@ -50,6 +50,14 @@
                     "id": "Q3184121"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 902814,
+                    "id": "Q902814"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P646": [
@@ -192,6 +200,24 @@
         "P473": [
             {
                 "value": "53",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "88846",
+                "type": "string"
+            }
+        ],
+        "P3722": [
+            {
+                "value": "Maps of Chuí",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101958987",
                 "type": "string"
             }
         ]

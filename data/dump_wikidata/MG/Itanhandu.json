@@ -148,6 +148,14 @@
                     "id": "Q1638378"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1787215,
+                    "id": "Q1787215"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -159,6 +167,24 @@
         "P473": [
             {
                 "value": "35",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "46612",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasaoitanhandu.png",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101950999",
                 "type": "string"
             }
         ]

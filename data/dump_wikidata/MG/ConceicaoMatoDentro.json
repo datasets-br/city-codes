@@ -159,6 +159,67 @@
                 "value": "31",
                 "type": "string"
             }
+        ],
+        "P41": [
+            {
+                "value": "Flag of Conceição do Mato Dentro - MG - Brazil.png",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://cmd.mg.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1942-03-11T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 11,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "43494",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "no2002080113",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Coat of Arms of Conceição do Mato Dentro - MG - Brazil.png",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "35858-000 a 35864-999",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0449720",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101951439",
+                "type": "string"
+            }
         ]
     }
 }

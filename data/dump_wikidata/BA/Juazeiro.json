@@ -180,8 +180,8 @@
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 32668395,
-                    "id": "Q32668395"
+                    "numeric-id": 7913628,
+                    "id": "Q7913628"
                 },
                 "type": "wikibase-entityid"
             }
@@ -251,15 +251,6 @@
                 "type": "wikibase-entityid"
             }
         ],
-        "P2907": [
-            {
-                "value": {
-                    "amount": "-3",
-                    "unit": "http://www.wikidata.org/entity/Q1536"
-                },
-                "type": "quantity"
-            }
-        ],
         "P948": [
             {
                 "value": "Juazeiro from Petrolina.jpg",
@@ -281,6 +272,46 @@
         "P1417": [
             {
                 "value": "place/Juazeiro",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "36692",
+                "type": "string"
+            }
+        ],
+        "P421": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 6513,
+                    "id": "Q6513"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasão de Juazeiro.png",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "48900-000",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101949763",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0451875",
                 "type": "string"
             }
         ]

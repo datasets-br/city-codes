@@ -141,6 +141,56 @@
                 "value": "35",
                 "type": "string"
             }
+        ],
+        "P6555": [
+            {
+                "value": "48372",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.minduri.mg.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1756048,
+                    "id": "Q1756048"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1756446,
+                    "id": "Q1756446"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1749739,
+                    "id": "Q1749739"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101951077",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0452998",
+                "type": "string"
+            }
         ]
     }
 }

@@ -205,6 +205,13 @@
                     "unit": "1"
                 },
                 "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+681036",
+                    "unit": "1"
+                },
+                "type": "quantity"
             }
         ],
         "P2046": [
@@ -230,15 +237,11 @@
         ],
         "P94": [
             {
-                "value": "BrasaoSaoJoseDosCampos.svg",
+                "value": "Brasão de São José dos Campos.svg",
                 "type": "string"
             }
         ],
         "P473": [
-            {
-                "value": "05512",
-                "type": "string"
-            },
             {
                 "value": "12",
                 "type": "string"
@@ -285,7 +288,7 @@
         ],
         "P948": [
             {
-                "value": "São josé dos campos.jpg",
+                "value": "São josé dos campos banner.jpg",
                 "type": "string"
             }
         ],
@@ -303,6 +306,62 @@
                     "entity-type": "item",
                     "numeric-id": 1759377,
                     "id": "Q1759377"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1754774,
+                    "id": "Q1754774"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1789154,
+                    "id": "Q1789154"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 655363,
+                    "id": "Q655363"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1759103,
+                    "id": "Q1759103"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1760327,
+                    "id": "Q1760327"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1759478,
+                    "id": "Q1759478"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1760752,
+                    "id": "Q1760752"
                 },
                 "type": "wikibase-entityid"
             }
@@ -337,6 +396,64 @@
                     "id": "Q30930077"
                 },
                 "type": "wikibase-entityid"
+            }
+        ],
+        "P227": [
+            {
+                "value": "4128309-0",
+                "type": "string"
+            }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1767-01-01T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 9,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P2924": [
+            {
+                "value": "3532006",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "70998",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n50057410",
+                "type": "string"
+            }
+        ],
+        "P1549": [
+            {
+                "value": {
+                    "text": "Sãojoseense",
+                    "language": "pt"
+                },
+                "type": "monolingualtext"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101965823",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0060864",
+                "type": "string"
             }
         ]
     }

@@ -64,14 +64,6 @@
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 515,
-                    "id": "Q515"
-                },
-                "type": "wikibase-entityid"
-            },
-            {
-                "value": {
-                    "entity-type": "item",
                     "numeric-id": 3184121,
                     "id": "Q3184121"
                 },
@@ -254,6 +246,31 @@
                     "id": "Q56450298"
                 },
                 "type": "wikibase-entityid"
+            }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1949-04-02T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 11,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "71510",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101956277",
+                "type": "string"
             }
         ]
     }

@@ -20,16 +20,16 @@
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 515,
-                    "id": "Q515"
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
                 },
                 "type": "wikibase-entityid"
             },
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 3184121,
-                    "id": "Q3184121"
+                    "numeric-id": 515,
+                    "id": "Q515"
                 },
                 "type": "wikibase-entityid"
             }
@@ -345,6 +345,48 @@
                     "id": "Q73584"
                 },
                 "type": "wikibase-entityid"
+            }
+        ],
+        "P948": [
+            {
+                "value": "Rio Branco banner.jpg",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "1392",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n82046992",
+                "type": "string"
+            }
+        ],
+        "P1417": [
+            {
+                "value": "place/Rio-Branco",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0012031",
+                "type": "string"
+            }
+        ],
+        "P2716": [
+            {
+                "value": "RioBrancoMontagem.jpg",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101941571",
+                "type": "string"
             }
         ]
     }

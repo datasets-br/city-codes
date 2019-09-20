@@ -151,6 +151,44 @@
                 "value": "Portal de Entrada de São Martinho, SC.jpg",
                 "type": "string"
             }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 32326858,
+                    "id": "Q32326858"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1464": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 32341946,
+                    "id": "Q32341946"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "83372",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101964335",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0456044",
+                "type": "string"
+            }
         ]
     }
 }

@@ -173,6 +173,14 @@
                     "id": "Q5246937"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 4418073,
+                    "id": "Q4418073"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P1081": [
@@ -206,6 +214,94 @@
         "P402": [
             {
                 "value": "298255",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "71978",
+                "type": "string"
+            }
+        ],
+        "P417": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 18280765,
+                    "id": "Q18280765"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1660-11-26T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 11,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P1549": [
+            {
+                "value": {
+                    "text": "tremembeense",
+                    "language": "pt-br"
+                },
+                "type": "monolingualtext"
+            }
+        ],
+        "P1451": [
+            {
+                "value": {
+                    "text": "Labor Omna Vincit",
+                    "language": "la"
+                },
+                "type": "monolingualtext"
+            }
+        ],
+        "P2564": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 135712,
+                    "id": "Q135712"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P421": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 6513,
+                    "id": "Q6513"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1448": [
+            {
+                "value": {
+                    "text": "Município da Estância Turística de Tremembé",
+                    "language": "pt-br"
+                },
+                "type": "monolingualtext"
+            }
+        ],
+        "P281": [
+            {
+                "value": "12120-000 a 12129-999",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101965879",
                 "type": "string"
             }
         ]

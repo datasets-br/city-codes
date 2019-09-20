@@ -123,6 +123,44 @@
                 "value": "79",
                 "type": "string"
             }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 32327190,
+                    "id": "Q32327190"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1464": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 32334172,
+                    "id": "Q32334172"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "32298",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasao starosalima.svg",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101947853",
+                "type": "string"
+            }
         ]
     }
 }

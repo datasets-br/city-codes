@@ -196,6 +196,37 @@
                 "value": "17",
                 "type": "string"
             }
+        ],
+        "P856": [
+            {
+                "value": "http://www.uchoa.sp.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+2009-00-00T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 9,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "72133",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101968277",
+                "type": "string"
+            }
         ]
     }
 }

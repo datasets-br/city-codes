@@ -166,9 +166,31 @@
                 "type": "string"
             }
         ],
-        "P18": [
+        "P41": [
             {
                 "value": "Bandeira Bonito de Santa Fe.JPG",
+                "type": "string"
+            }
+        ],
+        "P1464": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 32332170,
+                    "id": "Q32332170"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "19496",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101945829",
                 "type": "string"
             }
         ]

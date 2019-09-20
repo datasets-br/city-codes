@@ -144,6 +144,54 @@
                     "id": "Q1789496"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 22065210,
+                    "id": "Q22065210"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1790757,
+                    "id": "Q1790757"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 22062505,
+                    "id": "Q22062505"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1790584,
+                    "id": "Q1790584"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 381733,
+                    "id": "Q381733"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1754720,
+                    "id": "Q1754720"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -155,6 +203,30 @@
         "P473": [
             {
                 "value": "34",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "48992",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "38160-000 a 38169-999",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.novaponte.mg.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "1175610629",
                 "type": "string"
             }
         ]

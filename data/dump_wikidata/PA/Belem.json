@@ -1,8 +1,12 @@
 {
-    "pageid": 49702,
+    "pageid": 14242797,
     "ns": 0,
+    "redirects": {
+        "from": "Q47593",
+        "to": "Q12829733"
+    },
     "type": "item",
-    "id": "Q47593",
+    "id": "Q12829733",
     "claims": {
         "P190": [
             {
@@ -100,8 +104,8 @@
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 515,
-                    "id": "Q515"
+                    "numeric-id": 5119,
+                    "id": "Q5119"
                 },
                 "type": "wikibase-entityid"
             }
@@ -109,12 +113,6 @@
         "P373": [
             {
                 "value": "Belém, Pará",
-                "type": "string"
-            }
-        ],
-        "P41": [
-            {
-                "value": "Bandeira belem.jpg",
                 "type": "string"
             }
         ],
@@ -430,6 +428,62 @@
         "P5573": [
             {
                 "value": "7379",
+                "type": "string"
+            }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1616-01-12T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 11,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira de Belém.svg",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "4278",
+                "type": "string"
+            }
+        ],
+        "P214": [
+            {
+                "value": "239058789",
+                "type": "string"
+            }
+        ],
+        "P1343": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 602358,
+                    "id": "Q602358"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1448": [
+            {
+                "value": {
+                    "text": "Belém",
+                    "language": "pt"
+                },
+                "type": "monolingualtext"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101942553",
                 "type": "string"
             }
         ]

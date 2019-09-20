@@ -131,6 +131,54 @@
                     "id": "Q1756420"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1780021,
+                    "id": "Q1780021"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1754967,
+                    "id": "Q1754967"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1792968,
+                    "id": "Q1792968"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 952405,
+                    "id": "Q952405"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1787264,
+                    "id": "Q1787264"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1788562,
+                    "id": "Q1788562"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -142,6 +190,24 @@
         "P473": [
             {
                 "value": "35",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "53953",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101952689",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0456991",
                 "type": "string"
             }
         ]

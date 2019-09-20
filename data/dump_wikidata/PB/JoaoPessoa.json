@@ -82,6 +82,14 @@
                     "id": "Q3184121"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 5119,
+                    "id": "Q5119"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P646": [
@@ -206,7 +214,7 @@
         ],
         "P281": [
             {
-                "value": "58000-000",
+                "value": "58000-001 58099-999",
                 "type": "string"
             }
         ],
@@ -329,8 +337,8 @@
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 975496,
-                    "id": "Q975496"
+                    "numeric-id": 1937304,
+                    "id": "Q1937304"
                 },
                 "type": "wikibase-entityid"
             }
@@ -369,6 +377,36 @@
                     "id": "Q56450225"
                 },
                 "type": "wikibase-entityid"
+            }
+        ],
+        "P3222": [
+            {
+                "value": "joao-pessoa",
+                "type": "string"
+            }
+        ],
+        "P3722": [
+            {
+                "value": "Maps of João Pessoa",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "20516",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n82001883",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101946905",
+                "type": "string"
             }
         ]
     }

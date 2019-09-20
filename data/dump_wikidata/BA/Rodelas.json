@@ -127,16 +127,6 @@
                 "type": "wikibase-entityid"
             }
         ],
-        "P421": [
-            {
-                "value": {
-                    "entity-type": "item",
-                    "numeric-id": 6760,
-                    "id": "Q6760"
-                },
-                "type": "wikibase-entityid"
-            }
-        ],
         "P1549": [
             {
                 "value": {
@@ -206,6 +196,24 @@
         "P473": [
             {
                 "value": "75",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "38431",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101950433",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0455139",
                 "type": "string"
             }
         ]

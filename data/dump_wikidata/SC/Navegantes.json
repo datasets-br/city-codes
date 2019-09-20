@@ -158,6 +158,14 @@
                     "id": "Q1784611"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 842713,
+                    "id": "Q842713"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -169,6 +177,24 @@
         "P473": [
             {
                 "value": "47",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.navegantes.sc.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "82210",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101968323",
                 "type": "string"
             }
         ]

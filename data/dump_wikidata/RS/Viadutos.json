@@ -139,6 +139,46 @@
                 "value": "54",
                 "type": "string"
             }
+        ],
+        "P856": [
+            {
+                "value": "http://www.viadutos.rs.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "89613",
+                "type": "string"
+            }
+        ],
+        "P85": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 19554547,
+                    "id": "Q19554547"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Viadutosrsbandeira.jpg",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Viadutosrsbrasoes.jpg",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101961833",
+                "type": "string"
+            }
         ]
     }
 }

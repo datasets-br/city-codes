@@ -190,6 +190,37 @@
                 "value": "296713",
                 "type": "string"
             }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1917-09-08T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 11,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "81990",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101957705",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0452581",
+                "type": "string"
+            }
         ]
     }
 }

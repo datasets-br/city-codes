@@ -79,7 +79,7 @@
         "P1082": [
             {
                 "value": {
-                    "amount": "+7626",
+                    "amount": "+8171",
                     "unit": "1"
                 },
                 "type": "quantity"
@@ -133,6 +133,24 @@
         "P473": [
             {
                 "value": "45",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "79790",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasao Nova Santa Rosa.png",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101963165",
                 "type": "string"
             }
         ]

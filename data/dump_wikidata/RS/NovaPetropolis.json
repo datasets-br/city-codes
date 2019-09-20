@@ -197,6 +197,36 @@
                 },
                 "type": "wikibase-entityid"
             }
+        ],
+        "P856": [
+            {
+                "value": "http://www.novapetropolis.rs.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "87670",
+                "type": "string"
+            }
+        ],
+        "P3722": [
+            {
+                "value": "Maps of Nova Petrópolis",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n89115756",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101960563",
+                "type": "string"
+            }
         ]
     }
 }

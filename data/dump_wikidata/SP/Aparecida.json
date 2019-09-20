@@ -180,12 +180,6 @@
                 "type": "string"
             }
         ],
-        "P213": [
-            {
-                "value": "0000 0000 1077 2400",
-                "type": "string"
-            }
-        ],
         "P421": [
             {
                 "value": {
@@ -243,6 +237,59 @@
         "P473": [
             {
                 "value": "12",
+                "type": "string"
+            }
+        ],
+        "P213": [
+            {
+                "value": "0000 0000 1077 2400",
+                "type": "string"
+            }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1928-01-01T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 9,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P36": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 22050412,
+                    "id": "Q22050412"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P982": [
+            {
+                "value": "77d5b660-fa12-4181-ba28-b57c689f5d20",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "61492",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n82131920",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101952745",
                 "type": "string"
             }
         ]

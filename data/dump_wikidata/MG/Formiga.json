@@ -16,7 +16,7 @@
         ],
         "P41": [
             {
-                "value": "BandeiraFormigaMG.jpg",
+                "value": "Bandeira de Formiga (Minas Gerais).jpg",
                 "type": "string"
             }
         ],
@@ -168,6 +168,62 @@
                     "id": "Q1756303"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1906206,
+                    "id": "Q1906206"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1791322,
+                    "id": "Q1791322"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1756378,
+                    "id": "Q1756378"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 956065,
+                    "id": "Q956065"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1635025,
+                    "id": "Q1635025"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 509584,
+                    "id": "Q509584"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1754822,
+                    "id": "Q1754822"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -179,6 +235,30 @@
         "P473": [
             {
                 "value": "37",
+                "type": "string"
+            }
+        ],
+        "P242": [
+            {
+                "value": "MinasGerais Municip Formiga.svg",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "45217",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101950865",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0450658",
                 "type": "string"
             }
         ]

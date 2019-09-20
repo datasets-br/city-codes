@@ -20,12 +20,6 @@
                 "type": "wikibase-entityid"
             }
         ],
-        "P41": [
-            {
-                "value": "Bandeira Placido Castro.jpg",
-                "type": "string"
-            }
-        ],
         "P94": [
             {
                 "value": "Brasao Placido de Castro.png",
@@ -182,6 +176,24 @@
         "P473": [
             {
                 "value": "68",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira Placido Castro.svg",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "1511",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101941603",
                 "type": "string"
             }
         ]

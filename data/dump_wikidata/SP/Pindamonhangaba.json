@@ -239,6 +239,127 @@
                 "value": "12",
                 "type": "string"
             }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1705-07-10T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 11,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "68616",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n82017248",
+                "type": "string"
+            }
+        ],
+        "P1792": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 52527565,
+                    "id": "Q52527565"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1449": [
+            {
+                "value": {
+                    "text": "Princesa do Norte",
+                    "language": "pt-br"
+                },
+                "type": "monolingualtext"
+            },
+            {
+                "value": {
+                    "text": "Capital Nacional da Reciclagem",
+                    "language": "pt-br"
+                },
+                "type": "monolingualtext"
+            },
+            {
+                "value": {
+                    "text": "Pinda",
+                    "language": "pt-br"
+                },
+                "type": "monolingualtext"
+            }
+        ],
+        "P1448": [
+            {
+                "value": {
+                    "text": "Município de Pindamonhangaba",
+                    "language": "pt-br"
+                },
+                "type": "monolingualtext"
+            }
+        ],
+        "P1549": [
+            {
+                "value": {
+                    "text": "pindamonhangabense",
+                    "language": "pt-br"
+                },
+                "type": "monolingualtext"
+            }
+        ],
+        "P1451": [
+            {
+                "value": {
+                    "text": "Pro Patria Semper",
+                    "language": "la"
+                },
+                "type": "monolingualtext"
+            }
+        ],
+        "P417": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3878633,
+                    "id": "Q3878633"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2564": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 864320,
+                    "id": "Q864320"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P421": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 6513,
+                    "id": "Q6513"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101956335",
+                "type": "string"
+            }
         ]
     }
 }

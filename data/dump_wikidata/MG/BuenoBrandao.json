@@ -169,6 +169,38 @@
                     "id": "Q1790436"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1755870,
+                    "id": "Q1755870"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 784417,
+                    "id": "Q784417"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1755752,
+                    "id": "Q1755752"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1788677,
+                    "id": "Q1788677"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -180,6 +212,30 @@
         "P473": [
             {
                 "value": "35",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://buenobrandao.com.br/",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "41815",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101948747",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0448652",
                 "type": "string"
             }
         ]

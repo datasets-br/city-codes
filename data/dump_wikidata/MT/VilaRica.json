@@ -176,6 +176,55 @@
                 "value": "88",
                 "type": "string"
             }
+        ],
+        "P158": [
+            {
+                "value": "Brasao pm vila rica.jpg",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.vilarica.mt.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "98990",
+                "type": "string"
+            }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1986-01-01T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 9,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasao pm vila rica.jpg",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101961839",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0457284",
+                "type": "string"
+            }
         ]
     }
 }

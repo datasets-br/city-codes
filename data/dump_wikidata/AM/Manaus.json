@@ -26,8 +26,8 @@
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 47593,
-                    "id": "Q47593"
+                    "numeric-id": 12829733,
+                    "id": "Q12829733"
                 },
                 "type": "wikibase-entityid"
             },
@@ -122,6 +122,14 @@
                     "id": "Q3184121"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 5119,
+                    "id": "Q5119"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P41": [
@@ -148,7 +156,7 @@
                     "latitude": -3.1,
                     "longitude": -60.016666666667,
                     "altitude": null,
-                    "precision": null,
+                    "precision": 0.00027777777777778,
                     "globe": "http://www.wikidata.org/entity/Q2"
                 },
                 "type": "globecoordinate"
@@ -262,7 +270,7 @@
         ],
         "P18": [
             {
-                "value": "Manaus, AM, Brasil.jpg",
+                "value": "Collage Manaus.png",
                 "type": "string"
             }
         ],
@@ -480,6 +488,61 @@
         "P5573": [
             {
                 "value": "92",
+                "type": "string"
+            }
+        ],
+        "P1830": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 9294997,
+                    "id": "Q9294997"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "2550",
+                "type": "string"
+            }
+        ],
+        "P3722": [
+            {
+                "value": "Maps of Manaus",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n79113930",
+                "type": "string"
+            }
+        ],
+        "P5905": [
+            {
+                "value": "4020-61115",
+                "type": "string"
+            }
+        ],
+        "P1705": [
+            {
+                "value": {
+                    "text": "Manaus",
+                    "language": "pt"
+                },
+                "type": "monolingualtext"
+            }
+        ],
+        "P2716": [
+            {
+                "value": "Collage Manaus.png",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101941913",
                 "type": "string"
             }
         ]

@@ -4,12 +4,6 @@
     "type": "item",
     "id": "Q817387",
     "claims": {
-        "P158": [
-            {
-                "value": "Brasao chapeco.jpg",
-                "type": "string"
-            }
-        ],
         "P17": [
             {
                 "value": {
@@ -207,6 +201,47 @@
         "P402": [
             {
                 "value": "296501",
+                "type": "string"
+            }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1917-08-25T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 11,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P1830": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 14928349,
+                    "id": "Q14928349"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "80810",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n00900272",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101967491",
                 "type": "string"
             }
         ]

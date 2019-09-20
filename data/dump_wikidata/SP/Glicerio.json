@@ -167,6 +167,40 @@
                 "value": "18",
                 "type": "string"
             }
+        ],
+        "P856": [
+            {
+                "value": "http://www.glicerio.sp.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "64432",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 49675200,
+                    "id": "Q49675200"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P281": [
+            {
+                "value": "16270-000 a 16289-999",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101963903",
+                "type": "string"
+            }
         ]
     }
 }

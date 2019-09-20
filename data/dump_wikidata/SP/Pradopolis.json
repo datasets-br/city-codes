@@ -167,6 +167,56 @@
                 "value": "Portal na entrada de Pradópolis - panoramio.jpg",
                 "type": "string"
             }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 47212530,
+                    "id": "Q47212530"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1464": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 32333118,
+                    "id": "Q32333118"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.pradopolis.sp.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "69191",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira de Pradópolis.png",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101955871",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0454518",
+                "type": "string"
+            }
         ]
     }
 }

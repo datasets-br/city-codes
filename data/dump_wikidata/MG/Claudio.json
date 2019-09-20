@@ -157,11 +157,69 @@
                     "id": "Q1792041"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 22062685,
+                    "id": "Q22062685"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 926606,
+                    "id": "Q926606"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 509584,
+                    "id": "Q509584"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 988774,
+                    "id": "Q988774"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1791168,
+                    "id": "Q1791168"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
             {
                 "value": "315410",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Flag of Claudio.png",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "43311",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101951045",
                 "type": "string"
             }
         ]

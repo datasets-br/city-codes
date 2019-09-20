@@ -137,6 +137,54 @@
                     "id": "Q1757102"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1780266,
+                    "id": "Q1780266"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 985579,
+                    "id": "Q985579"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1257195,
+                    "id": "Q1257195"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1792047,
+                    "id": "Q1792047"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1787582,
+                    "id": "Q1787582"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1755169,
+                    "id": "Q1755169"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -148,6 +196,24 @@
         "P473": [
             {
                 "value": "35",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "52434",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.gloria.mg.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101952593",
                 "type": "string"
             }
         ]

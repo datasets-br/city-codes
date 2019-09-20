@@ -141,6 +141,54 @@
                     "id": "Q1790645"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1790502,
+                    "id": "Q1790502"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1790260,
+                    "id": "Q1790260"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1791417,
+                    "id": "Q1791417"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1793211,
+                    "id": "Q1793211"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1779955,
+                    "id": "Q1779955"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1789740,
+                    "id": "Q1789740"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -152,6 +200,30 @@
         "P473": [
             {
                 "value": "35",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "52779",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "37855-000 a 37859-999",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.saopedrodauniao.mg.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101952581",
                 "type": "string"
             }
         ]

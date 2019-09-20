@@ -148,6 +148,46 @@
                     "id": "Q1756102"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1790777,
+                    "id": "Q1790777"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1756818,
+                    "id": "Q1756818"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1792841,
+                    "id": "Q1792841"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1792781,
+                    "id": "Q1792781"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 522717,
+                    "id": "Q522717"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -159,6 +199,36 @@
         "P473": [
             {
                 "value": "35",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "43699",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Consolaçãomgbandeira.jpg",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "37670-000 a 37679-999",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.consolacao.mg.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101950811",
                 "type": "string"
             }
         ]

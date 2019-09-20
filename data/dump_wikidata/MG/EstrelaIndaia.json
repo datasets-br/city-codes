@@ -128,6 +128,14 @@
                     "id": "Q1779998"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1756093,
+                    "id": "Q1756093"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -145,6 +153,24 @@
         "P473": [
             {
                 "value": "37",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "44938",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Estrela do Indaiá.png",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101950853",
                 "type": "string"
             }
         ]

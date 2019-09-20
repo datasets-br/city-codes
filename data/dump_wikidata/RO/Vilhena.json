@@ -128,7 +128,7 @@
         ],
         "P856": [
             {
-                "value": "http://web.archive.org/web/20090218013035/http://pmvilhena.com.br:80/",
+                "value": "http://pmvilhena.com.br:80/",
                 "type": "string"
             }
         ],
@@ -197,6 +197,24 @@
         "P473": [
             {
                 "value": "69",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "132",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "76980-000",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101941921",
                 "type": "string"
             }
         ]

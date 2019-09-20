@@ -165,6 +165,56 @@
                 "value": "84",
                 "type": "string"
             }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 32339642,
+                    "id": "Q32339642"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1464": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 32353138,
+                    "id": "Q32353138"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "18473",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "59920-000",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.saomiguel.rn.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0456050",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101945841",
+                "type": "string"
+            }
         ]
     }
 }

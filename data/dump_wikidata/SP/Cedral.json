@@ -175,6 +175,44 @@
                 "value": "17",
                 "type": "string"
             }
+        ],
+        "P856": [
+            {
+                "value": "http://www.cedral.sp.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "63274",
+                "type": "string"
+            }
+        ],
+        "P1464": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 32332697,
+                    "id": "Q32332697"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 32400016,
+                    "id": "Q32400016"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101955623",
+                "type": "string"
+            }
         ]
     }
 }

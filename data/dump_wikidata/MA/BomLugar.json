@@ -149,6 +149,42 @@
                 "value": "99",
                 "type": "string"
             }
+        ],
+        "P6555": [
+            {
+                "value": "7285",
+                "type": "string"
+            }
+        ],
+        "P1705": [
+            {
+                "value": {
+                    "text": "Bom Lugar",
+                    "language": "pt"
+                },
+                "type": "monolingualtext"
+            }
+        ],
+        "P1448": [
+            {
+                "value": {
+                    "text": "Bom Lugar",
+                    "language": "pt"
+                },
+                "type": "monolingualtext"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://bomlugar.ma.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101943021",
+                "type": "string"
+            }
         ]
     }
 }

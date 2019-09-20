@@ -143,6 +143,68 @@
                 "value": "35",
                 "type": "string"
             }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1756931,
+                    "id": "Q1756931"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1790260,
+                    "id": "Q1790260"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1756452,
+                    "id": "Q1756452"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "43419",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Conceição da Aparecidamgbandeira.jpg",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Conceição da Aparecidamgbrasao.jpg",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "37148-000 a 37149-999",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.conceicaodaaparecida.mg.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101950771",
+                "type": "string"
+            }
         ]
     }
 }

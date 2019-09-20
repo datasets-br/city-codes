@@ -56,10 +56,6 @@
             {
                 "value": "Brasão de Maraba.svg",
                 "type": "string"
-            },
-            {
-                "value": "Brasão de Marabá.png",
-                "type": "string"
             }
         ],
         "P31": [
@@ -254,6 +250,57 @@
                     "id": "Q56450306"
                 },
                 "type": "wikibase-entityid"
+            }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1894-00-00T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 9,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P1376": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 10375817,
+                    "id": "Q10375817"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1830": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 9255477,
+                    "id": "Q9255477"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "4839",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101942193",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0452744",
+                "type": "string"
             }
         ]
     }

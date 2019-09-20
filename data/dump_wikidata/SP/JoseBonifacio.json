@@ -36,6 +36,16 @@
                     "globe": "http://www.wikidata.org/entity/Q2"
                 },
                 "type": "globecoordinate"
+            },
+            {
+                "value": {
+                    "latitude": -21.08986,
+                    "longitude": -49.77293,
+                    "altitude": null,
+                    "precision": 1.0e-5,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
             }
         ],
         "P373": [
@@ -80,7 +90,7 @@
         ],
         "P1566": [
             {
-                "value": "3459667",
+                "value": "6319108",
                 "type": "string"
             }
         ],
@@ -91,6 +101,13 @@
                     "unit": "http://www.wikidata.org/entity/Q11573",
                     "upperBound": "+459",
                     "lowerBound": "+457"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+403",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
                 },
                 "type": "quantity"
             }
@@ -191,6 +208,18 @@
         "P402": [
             {
                 "value": "298095",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "66150",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101963995",
                 "type": "string"
             }
         ]

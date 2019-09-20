@@ -195,6 +195,43 @@
                 "value": "41",
                 "type": "string"
             }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1870-01-01T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 9,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "74810",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n98058888",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0448932",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101957965",
+                "type": "string"
+            }
         ]
     }
 }

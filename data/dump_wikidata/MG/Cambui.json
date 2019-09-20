@@ -155,6 +155,62 @@
                     "id": "Q1754774"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1790777,
+                    "id": "Q1790777"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 784417,
+                    "id": "Q784417"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1788677,
+                    "id": "Q1788677"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 22062477,
+                    "id": "Q22062477"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1792781,
+                    "id": "Q1792781"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1805751,
+                    "id": "Q1805751"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1790436,
+                    "id": "Q1790436"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -166,6 +222,36 @@
         "P473": [
             {
                 "value": "35",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "42110",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Cambuímgbrasao.jpg",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "37600-000 a 37604-999",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.prefeituradecambui.mg.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101965811",
                 "type": "string"
             }
         ]

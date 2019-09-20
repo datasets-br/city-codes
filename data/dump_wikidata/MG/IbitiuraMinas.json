@@ -129,6 +129,56 @@
                 "value": "35",
                 "type": "string"
             }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 22062733,
+                    "id": "Q22062733"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1755160,
+                    "id": "Q1755160"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1754887,
+                    "id": "Q1754887"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "45977",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Ibitiúra de Minasmgbandeira.png",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasaoibitiura.png",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101950729",
+                "type": "string"
+            }
         ]
     }
 }

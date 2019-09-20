@@ -6,7 +6,7 @@
     "claims": {
         "P94": [
             {
-                "value": "Brasão jag.jpg",
+                "value": "Brasão Jaguarão.jpg",
                 "type": "string"
             }
         ],
@@ -48,6 +48,14 @@
                     "entity-type": "item",
                     "numeric-id": 3184121,
                     "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 902814,
+                    "id": "Q902814"
                 },
                 "type": "wikibase-entityid"
             }
@@ -115,7 +123,7 @@
         ],
         "P41": [
             {
-                "value": "Bandeira jag.jpg",
+                "value": "Bandeira Jaguarão.jpg",
                 "type": "string"
             }
         ],
@@ -207,6 +215,42 @@
         "P473": [
             {
                 "value": "53",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.jaguarao.rs.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "87211",
+                "type": "string"
+            }
+        ],
+        "P3722": [
+            {
+                "value": "Maps of Jaguarão",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n82040086",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101958905",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0451711",
                 "type": "string"
             }
         ]

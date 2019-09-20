@@ -179,6 +179,62 @@
                     "id": "Q949798"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1756102,
+                    "id": "Q1756102"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1791938,
+                    "id": "Q1791938"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 749384,
+                    "id": "Q749384"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 612995,
+                    "id": "Q612995"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1788432,
+                    "id": "Q1788432"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 954848,
+                    "id": "Q954848"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1755816,
+                    "id": "Q1755816"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -190,6 +246,46 @@
         "P473": [
             {
                 "value": "35",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.pmsrs.mg.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P1464": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 32335436,
+                    "id": "Q32335436"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "51918",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n93043222",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira de Santa Rita do Sapucaí, MG.png",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101952687",
                 "type": "string"
             }
         ]

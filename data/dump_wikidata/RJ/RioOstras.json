@@ -4,16 +4,6 @@
     "type": "item",
     "id": "Q1787668",
     "claims": {
-        "P17": [
-            {
-                "value": {
-                    "entity-type": "item",
-                    "numeric-id": 155,
-                    "id": "Q155"
-                },
-                "type": "wikibase-entityid"
-            }
-        ],
         "P41": [
             {
                 "value": "Bandeira riodasostras rj.png",
@@ -64,21 +54,9 @@
                 "type": "wikibase-entityid"
             }
         ],
-        "P646": [
-            {
-                "value": "/m/027m918",
-                "type": "string"
-            }
-        ],
         "P1566": [
             {
                 "value": "3451205",
-                "type": "string"
-            }
-        ],
-        "P1997": [
-            {
-                "value": "107972689230862",
                 "type": "string"
             }
         ],
@@ -88,52 +66,9 @@
                 "type": "string"
             }
         ],
-        "P1585": [
-            {
-                "value": "3304524",
-                "type": "string"
-            }
-        ],
-        "P1082": [
-            {
-                "value": {
-                    "amount": "+105676",
-                    "unit": "1"
-                },
-                "type": "quantity"
-            },
-            {
-                "value": {
-                    "amount": "+141117",
-                    "unit": "1"
-                },
-                "type": "quantity"
-            }
-        ],
         "P242": [
             {
                 "value": "RiodeJaneiro Municip RiodasOstras.svg",
-                "type": "string"
-            }
-        ],
-        "P856": [
-            {
-                "value": "http://www.riodasostras.rj.gov.br/",
-                "type": "string"
-            }
-        ],
-        "P2044": [
-            {
-                "value": {
-                    "amount": "+4",
-                    "unit": "http://www.wikidata.org/entity/Q11573"
-                },
-                "type": "quantity"
-            }
-        ],
-        "P18": [
-            {
-                "value": "Orla de Rio das Ostras.JPG",
                 "type": "string"
             }
         ],
@@ -153,55 +88,58 @@
                 "type": "string"
             }
         ],
-        "P2427": [
+        "P402": [
             {
-                "value": "grid.472945.9",
+                "value": "8259410",
                 "type": "string"
             }
         ],
-        "P2046": [
+        "P158": [
             {
-                "value": {
-                    "amount": "+230.621",
-                    "unit": "http://www.wikidata.org/entity/Q712226"
-                },
-                "type": "quantity"
+                "value": "Brasaordo.jpg",
+                "type": "string"
             }
         ],
-        "P1081": [
-            {
-                "value": {
-                    "amount": "+0.773",
-                    "unit": "1"
-                },
-                "type": "quantity"
-            }
-        ],
-        "P47": [
+        "P17": [
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 1761688,
-                    "id": "Q1761688"
+                    "numeric-id": 155,
+                    "id": "Q155"
                 },
                 "type": "wikibase-entityid"
             }
         ],
-        "P281": [
+        "P6555": [
+            {
+                "value": "58203",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n2008215556",
+                "type": "string"
+            }
+        ],
+        "P1585": [
             {
                 "value": "3304524",
                 "type": "string"
             }
         ],
-        "P473": [
+        "P1082": [
             {
-                "value": "22",
-                "type": "string"
+                "value": {
+                    "amount": "+141117",
+                    "unit": "1"
+                },
+                "type": "quantity"
             }
         ],
-        "P402": [
+        "P6766": [
             {
-                "value": "8259410",
+                "value": "101966415",
                 "type": "string"
             }
         ]

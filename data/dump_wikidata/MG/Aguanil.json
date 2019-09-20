@@ -130,6 +130,38 @@
                     "id": "Q595804"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 22062767,
+                    "id": "Q22062767"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1793151,
+                    "id": "Q1793151"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 583832,
+                    "id": "Q583832"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1792777,
+                    "id": "Q1792777"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -141,6 +173,42 @@
         "P473": [
             {
                 "value": "35",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "40150",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Aguanilmgbandeira.png",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Aguanil Brasão.jpg",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "37273-000 a 37274-999",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.aguanil.mg.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101948849",
                 "type": "string"
             }
         ]

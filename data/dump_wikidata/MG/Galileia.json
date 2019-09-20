@@ -60,7 +60,7 @@
         ],
         "P373": [
             {
-                "value": "Galiléia (Minas Gerais)",
+                "value": "Galileia (Minas Gerais)",
                 "type": "string"
             }
         ],
@@ -149,6 +149,36 @@
         "P473": [
             {
                 "value": "33",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "45454",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "35250-000 a 35257-999<ref name=\"Correios_BuscaCEP\"/>",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.galileia.mg.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101952223",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0450776",
                 "type": "string"
             }
         ]

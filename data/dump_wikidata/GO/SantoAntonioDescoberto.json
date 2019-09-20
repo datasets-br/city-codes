@@ -130,12 +130,6 @@
                 "type": "wikibase-entityid"
             }
         ],
-        "P18": [
-            {
-                "value": "Goias Municip SantoAntoniodoDescoberto.svg",
-                "type": "string"
-            }
-        ],
         "P402": [
             {
                 "value": "334467",
@@ -145,6 +139,30 @@
         "P473": [
             {
                 "value": "61",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "96776",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.santoantoniododescoberto.go.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "72900-000",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101962613",
                 "type": "string"
             }
         ]

@@ -113,12 +113,6 @@
                 "type": "string"
             }
         ],
-        "P856": [
-            {
-                "value": "http://www.pariquera.sp.gov.br/",
-                "type": "string"
-            }
-        ],
         "P2044": [
             {
                 "value": {
@@ -195,6 +189,24 @@
         "P473": [
             {
                 "value": "13",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.pariqueraacu.sp.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "68250",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101955887",
                 "type": "string"
             }
         ]

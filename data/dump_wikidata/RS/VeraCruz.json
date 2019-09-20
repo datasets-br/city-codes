@@ -164,6 +164,69 @@
                 "value": "51",
                 "type": "string"
             }
+        ],
+        "P242": [
+            {
+                "value": "RioGrandedoSul Municip VeraCruz.svg",
+                "type": "string"
+            }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1959-06-07T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 11,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.veracruz.rs.gov.br",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 32326386,
+                    "id": "Q32326386"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1464": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 32332145,
+                    "id": "Q32332145"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "89575",
+                "type": "string"
+            }
+        ],
+        "P3722": [
+            {
+                "value": "Maps of Vera Cruz (Rio Grande do Sul)",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101961777",
+                "type": "string"
+            }
         ]
     }
 }

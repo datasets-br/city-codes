@@ -233,6 +233,36 @@
                 },
                 "type": "wikibase-entityid"
             }
+        ],
+        "P856": [
+            {
+                "value": "https://www.juazeiro.ce.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "14478",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n82252193",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "63000-000",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101945463",
+                "type": "string"
+            }
         ]
     }
 }

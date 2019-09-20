@@ -158,6 +158,38 @@
                     "id": "Q985977"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 628877,
+                    "id": "Q628877"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1749821,
+                    "id": "Q1749821"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1790670,
+                    "id": "Q1790670"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 22062513,
+                    "id": "Q22062513"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -169,6 +201,30 @@
         "P473": [
             {
                 "value": "31",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "48135",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Flag of Mateus Leme - MG - Brazil.png",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "35670-000 a 35674-999",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101951175",
                 "type": "string"
             }
         ]

@@ -138,6 +138,30 @@
                     "id": "Q22062655"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2382290,
+                    "id": "Q2382290"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 509584,
+                    "id": "Q509584"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 988774,
+                    "id": "Q988774"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -149,6 +173,30 @@
         "P473": [
             {
                 "value": "37",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "42790",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Carmo da Matamgbandeira.png",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Carmo da Matamgbrasao.jpg",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101951025",
                 "type": "string"
             }
         ]

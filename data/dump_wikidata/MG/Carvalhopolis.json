@@ -120,6 +120,22 @@
                     "id": "Q1788481"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1780021,
+                    "id": "Q1780021"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1754967,
+                    "id": "Q1754967"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -137,6 +153,30 @@
         "P41": [
             {
                 "value": "Bandeira do município de Carvalhópolis.jpg",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "42935",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Carvalhópolis Brasão.svg",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.carvalhopolis.mg.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101950837",
                 "type": "string"
             }
         ]

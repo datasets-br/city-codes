@@ -162,6 +162,14 @@
                     "id": "Q942731"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1779998,
+                    "id": "Q1779998"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -173,6 +181,48 @@
         "P473": [
             {
                 "value": "37",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "44636",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n87944619",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Dores do Indaiámgbrasao.png",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "35610-000 a 35612-999",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.doresdoindaia.mg.gov.br",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0450193",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101950889",
                 "type": "string"
             }
         ]

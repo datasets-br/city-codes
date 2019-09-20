@@ -58,12 +58,6 @@
                 "type": "string"
             }
         ],
-        "P373": [
-            {
-                "value": "Boqueirão",
-                "type": "string"
-            }
-        ],
         "P910": [
             {
                 "value": {
@@ -72,12 +66,6 @@
                     "id": "Q9559470"
                 },
                 "type": "wikibase-entityid"
-            }
-        ],
-        "P1842": [
-            {
-                "value": "Boqueirão (Curitiba, Paraná, Brazil)",
-                "type": "string"
             }
         ],
         "P1585": [
@@ -187,6 +175,30 @@
         "P473": [
             {
                 "value": "83",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "19518",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Boqueirão (Paraíba)",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101946463",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0448551",
                 "type": "string"
             }
         ]

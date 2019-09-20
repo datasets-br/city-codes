@@ -199,6 +199,43 @@
                 "value": "18",
                 "type": "string"
             }
+        ],
+        "P856": [
+            {
+                "value": "http://www.penapolis.sp.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1908-01-01T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 9,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "68470",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0454063",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101963919",
+                "type": "string"
+            }
         ]
     }
 }

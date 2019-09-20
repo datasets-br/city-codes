@@ -144,6 +144,76 @@
                 "value": "37",
                 "type": "string"
             }
+        ],
+        "P6555": [
+            {
+                "value": "44679",
+                "type": "string"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1755744,
+                    "id": "Q1755744"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1791617,
+                    "id": "Q1791617"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1756027,
+                    "id": "Q1756027"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1755996,
+                    "id": "Q1755996"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Doresópolismgbandeira.png",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "BRASÃO DE DORESÓPOLIS.png",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "37926-000 a 37926-999",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.doresopolis.mg.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101950833",
+                "type": "string"
+            }
         ]
     }
 }

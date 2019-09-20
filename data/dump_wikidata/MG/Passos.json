@@ -160,6 +160,62 @@
                     "id": "Q1792047"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1757102,
+                    "id": "Q1757102"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1793211,
+                    "id": "Q1793211"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1779955,
+                    "id": "Q1779955"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1793175,
+                    "id": "Q1793175"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1790792,
+                    "id": "Q1790792"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1756039,
+                    "id": "Q1756039"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1787319,
+                    "id": "Q1787319"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -171,6 +227,36 @@
         "P473": [
             {
                 "value": "35",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.passos.mg.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "49573",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n79033155",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101950665",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0453933",
                 "type": "string"
             }
         ]

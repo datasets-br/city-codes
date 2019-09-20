@@ -156,6 +156,38 @@
                     "id": "Q985579"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1787319,
+                    "id": "Q1787319"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 22065210,
+                    "id": "Q22065210"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1791289,
+                    "id": "Q1791289"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1755169,
+                    "id": "Q1755169"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -167,6 +199,42 @@
         "P473": [
             {
                 "value": "35",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "44237",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Delfinópolismgbandeira.png",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "37910-000 a 37919-999",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.delfinopolis.mg.gov.br",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0450117",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101965399",
                 "type": "string"
             }
         ]

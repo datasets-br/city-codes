@@ -139,6 +139,30 @@
                     "id": "Q851253"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 985585,
+                    "id": "Q985585"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1789559,
+                    "id": "Q1789559"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1780238,
+                    "id": "Q1780238"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -150,6 +174,24 @@
         "P473": [
             {
                 "value": "35",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.wenceslaubraz.mg.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "54216",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101952741",
                 "type": "string"
             }
         ]

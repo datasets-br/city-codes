@@ -14,12 +14,6 @@
                 "type": "wikibase-entityid"
             }
         ],
-        "P41": [
-            {
-                "value": "Bandeira novaxavantina mt.png",
-                "type": "string"
-            }
-        ],
         "P94": [
             {
                 "value": "Brasão Nova Xavantina MT.png",
@@ -161,6 +155,52 @@
         "P473": [
             {
                 "value": "66",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira de Nova Xavantina.svg",
+                "type": "string"
+            },
+            {
+                "value": "Bandeira novaxavantina mt.png",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "https://www.novaxavantina.mt.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "91952",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n2001119632",
+                "type": "string"
+            }
+        ],
+        "P158": [
+            {
+                "value": "Brasão Nova Xavantina MT.png",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0453415",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101961751",
                 "type": "string"
             }
         ]

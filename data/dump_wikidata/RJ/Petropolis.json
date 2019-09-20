@@ -36,12 +36,6 @@
                 "type": "wikibase-entityid"
             }
         ],
-        "P41": [
-            {
-                "value": "Bandeira petrópolis.jpg",
-                "type": "string"
-            }
-        ],
         "P625": [
             {
                 "value": {
@@ -379,6 +373,36 @@
                     "id": "Q56450292"
                 },
                 "type": "wikibase-entityid"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira de Petrópolis.jpg",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "58777",
+                "type": "string"
+            }
+        ],
+        "P1417": [
+            {
+                "value": "place/Petropolis",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n50062329",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101953149",
+                "type": "string"
             }
         ]
     }

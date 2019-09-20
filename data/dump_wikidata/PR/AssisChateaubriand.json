@@ -152,8 +152,8 @@
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 5836,
-                    "id": "Q5836"
+                    "numeric-id": 1776774,
+                    "id": "Q1776774"
                 },
                 "type": "wikibase-entityid"
             },
@@ -175,6 +175,36 @@
         "P473": [
             {
                 "value": "44",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "79537",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira de Assis Chateaubriand - PR.svg",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.assischateaubriand.pr.gov.br}}",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101963199",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0448035",
                 "type": "string"
             }
         ]

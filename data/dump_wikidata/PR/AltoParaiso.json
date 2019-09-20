@@ -4,14 +4,76 @@
     "type": "item",
     "id": "Q2064812",
     "claims": {
-        "P17": [
+        "P47": [
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 155,
-                    "id": "Q155"
+                    "numeric-id": 1972297,
+                    "id": "Q1972297"
                 },
                 "type": "wikibase-entityid"
+            }
+        ],
+        "P1585": [
+            {
+                "value": "4128625",
+                "type": "string"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/09rwh7h",
+                "type": "string"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3184121,
+                    "id": "Q3184121"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "74926",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "6323034",
+                "type": "string"
+            }
+        ],
+        "P1081": [
+            {
+                "value": {
+                    "amount": "+0.704",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 29573055,
+                    "id": "Q29573055"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+405",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
             }
         ],
         "P625": [
@@ -26,6 +88,12 @@
                 "type": "globecoordinate"
             }
         ],
+        "P242": [
+            {
+                "value": "Parana Municip AltoParaiso.svg",
+                "type": "string"
+            }
+        ],
         "P131": [
             {
                 "value": {
@@ -36,37 +104,28 @@
                 "type": "wikibase-entityid"
             }
         ],
-        "P31": [
+        "P17": [
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 3184121,
-                    "id": "Q3184121"
+                    "numeric-id": 155,
+                    "id": "Q155"
                 },
                 "type": "wikibase-entityid"
             }
         ],
-        "P646": [
+        "P2046": [
             {
-                "value": "/m/09rwh7h",
-                "type": "string"
+                "value": {
+                    "amount": "+967.771",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
             }
         ],
-        "P373": [
+        "P473": [
             {
-                "value": "Alto Paraíso (Paraná)",
-                "type": "string"
-            }
-        ],
-        "P1585": [
-            {
-                "value": "4128625",
-                "type": "string"
-            }
-        ],
-        "P1566": [
-            {
-                "value": "6323034",
+                "value": "46",
                 "type": "string"
             }
         ],
@@ -75,21 +134,6 @@
                 "value": {
                     "amount": "+3206",
                     "unit": "1"
-                },
-                "type": "quantity"
-            }
-        ],
-        "P242": [
-            {
-                "value": "Parana Municip AltoParaiso.svg",
-                "type": "string"
-            }
-        ],
-        "P2044": [
-            {
-                "value": {
-                    "amount": "+405",
-                    "unit": "http://www.wikidata.org/entity/Q11573"
                 },
                 "type": "quantity"
             }
@@ -104,42 +148,10 @@
                 "type": "wikibase-entityid"
             }
         ],
-        "P910": [
+        "P373": [
             {
-                "value": {
-                    "entity-type": "item",
-                    "numeric-id": 29573055,
-                    "id": "Q29573055"
-                },
-                "type": "wikibase-entityid"
-            }
-        ],
-        "P2046": [
-            {
-                "value": {
-                    "amount": "+967.771",
-                    "unit": "http://www.wikidata.org/entity/Q712226"
-                },
-                "type": "quantity"
-            }
-        ],
-        "P1081": [
-            {
-                "value": {
-                    "amount": "+0.704",
-                    "unit": "1"
-                },
-                "type": "quantity"
-            }
-        ],
-        "P47": [
-            {
-                "value": {
-                    "entity-type": "item",
-                    "numeric-id": 1972297,
-                    "id": "Q1972297"
-                },
-                "type": "wikibase-entityid"
+                "value": "Alto Paraíso (Paraná)",
+                "type": "string"
             }
         ],
         "P402": [
@@ -148,9 +160,9 @@
                 "type": "string"
             }
         ],
-        "P473": [
+        "P6766": [
             {
-                "value": "46",
+                "value": "101956443",
                 "type": "string"
             }
         ]

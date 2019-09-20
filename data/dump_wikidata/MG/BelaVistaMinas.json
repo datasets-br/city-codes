@@ -153,6 +153,43 @@
                 "value": "Vista parcial Bela Vista de Minas MG.JPG",
                 "type": "string"
             }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1961-10-20T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 11,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "41190",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bela Vista de Minasmgbandeirabr.png",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Bela Vista de Minasmgbrasao.jpg",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101949149",
+                "type": "string"
+            }
         ]
     }
 }

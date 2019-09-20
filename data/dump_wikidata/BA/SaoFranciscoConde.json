@@ -24,6 +24,16 @@
                     "globe": "http://www.wikidata.org/entity/Q2"
                 },
                 "type": "globecoordinate"
+            },
+            {
+                "value": {
+                    "latitude": -12.64556,
+                    "longitude": -38.63335,
+                    "altitude": null,
+                    "precision": 1.0e-5,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
             }
         ],
         "P131": [
@@ -54,7 +64,7 @@
         ],
         "P1566": [
             {
-                "value": "3449116",
+                "value": "6321045",
                 "type": "string"
             }
         ],
@@ -153,7 +163,40 @@
         ],
         "P18": [
             {
-                "value": "São Francisco do Conde - State of Bahia, 43900-000, Brazil - panoramio (1).jpg",
+                "value": "Streetscape Rua do Espírito Santo São Francisco do Conde 2018-0954.jpg",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+9",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "38830",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasão São Francisco do Conde-BA.jpg",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "https://saofranciscodoconde.ba.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101950387",
                 "type": "string"
             }
         ]

@@ -64,6 +64,14 @@
                     "id": "Q3184121"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 15284,
+                    "id": "Q15284"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P1566": [
@@ -165,6 +173,24 @@
         "P473": [
             {
                 "value": "16",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.santalucia.sp.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "70394",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101955855",
                 "type": "string"
             }
         ]

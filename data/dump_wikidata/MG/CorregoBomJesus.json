@@ -147,6 +147,70 @@
                 "value": "35",
                 "type": "string"
             }
+        ],
+        "P6555": [
+            {
+                "value": "43974",
+                "type": "string"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1756818,
+                    "id": "Q1756818"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1805751,
+                    "id": "Q1805751"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1754774,
+                    "id": "Q1754774"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 522717,
+                    "id": "Q522717"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Córrego do Bom Jesusmgbandeira.jpg",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "37605-000  a 37609-999",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.corregodobomjesus.mg.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101950799",
+                "type": "string"
+            }
         ]
     }
 }

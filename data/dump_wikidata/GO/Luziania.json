@@ -10,18 +10,6 @@
                 "type": "string"
             }
         ],
-        "P41": [
-            {
-                "value": "Bandeiraluziania.png",
-                "type": "string"
-            }
-        ],
-        "P158": [
-            {
-                "value": "Brasaoluziania.png",
-                "type": "string"
-            }
-        ],
         "P17": [
             {
                 "value": {
@@ -174,6 +162,65 @@
             {
                 "value": "61",
                 "type": "string"
+            }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1746-12-13T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 11,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.luziania.go.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "94455",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n81105618",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "5212501",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira de Luziânia.png",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101962677",
+                "type": "string"
+            }
+        ],
+        "P421": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 6513,
+                    "id": "Q6513"
+                },
+                "type": "wikibase-entityid"
             }
         ]
     }

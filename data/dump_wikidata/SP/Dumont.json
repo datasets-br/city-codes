@@ -26,12 +26,6 @@
                 "type": "wikibase-entityid"
             }
         ],
-        "P373": [
-            {
-                "value": "Dumont",
-                "type": "string"
-            }
-        ],
         "P646": [
             {
                 "value": "/m/03yj4t",
@@ -173,6 +167,24 @@
         "P473": [
             {
                 "value": "16",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.dumont.sp.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "63932",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101955903",
                 "type": "string"
             }
         ]

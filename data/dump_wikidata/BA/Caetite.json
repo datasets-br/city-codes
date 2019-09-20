@@ -18,7 +18,7 @@
         ],
         "P94": [
             {
-                "value": "Brasaocte.jpg",
+                "value": "Brasão de Caetité (1810).png",
                 "type": "string"
             }
         ],
@@ -200,6 +200,62 @@
                     "id": "Q1800654"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1794388,
+                    "id": "Q1794388"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1795313,
+                    "id": "Q1795313"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1793460,
+                    "id": "Q1793460"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1793873,
+                    "id": "Q1793873"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1793296,
+                    "id": "Q1793296"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1793379,
+                    "id": "Q1793379"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1793470,
+                    "id": "Q1793470"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -211,6 +267,36 @@
         "P473": [
             {
                 "value": "77",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "34037",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "6320779",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "46400-000",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101946993",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0448768",
                 "type": "string"
             }
         ]

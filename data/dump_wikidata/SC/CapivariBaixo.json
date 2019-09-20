@@ -14,12 +14,6 @@
                 "type": "wikibase-entityid"
             }
         ],
-        "P41": [
-            {
-                "value": "Bandeira capivaridebaixo.jpg",
-                "type": "string"
-            }
-        ],
         "P373": [
             {
                 "value": "Capivari de Baixo",
@@ -155,6 +149,24 @@
         "P473": [
             {
                 "value": "48",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira capivaridebaixo.svg",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "81027",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101958087",
                 "type": "string"
             }
         ]

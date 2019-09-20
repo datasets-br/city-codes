@@ -44,6 +44,14 @@
                     "id": "Q3184121"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 486972,
+                    "id": "Q486972"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P646": [
@@ -151,6 +159,46 @@
         "P473": [
             {
                 "value": "41",
+                "type": "string"
+            }
+        ],
+        "P158": [
+            {
+                "value": "Brasaorionegro.png",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "78239",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "6322960",
+                "type": "string"
+            },
+            {
+                "value": "3451121",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n98058793",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101968087",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0455070",
                 "type": "string"
             }
         ]

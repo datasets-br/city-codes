@@ -4,12 +4,6 @@
     "type": "item",
     "id": "Q664158",
     "claims": {
-        "P41": [
-            {
-                "value": "BandeiraNuporanga.jpg",
-                "type": "string"
-            }
-        ],
         "P625": [
             {
                 "value": {
@@ -113,12 +107,6 @@
                 "type": "string"
             }
         ],
-        "P94": [
-            {
-                "value": "Nuporanga.PNG",
-                "type": "string"
-            }
-        ],
         "P910": [
             {
                 "value": {
@@ -183,6 +171,42 @@
         "P473": [
             {
                 "value": "16",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "BrasaoNuporanga.svg",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "BandeiraNuporanga.svg",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.nuporanga.sp.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "67733",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101955961",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0453465",
                 "type": "string"
             }
         ]

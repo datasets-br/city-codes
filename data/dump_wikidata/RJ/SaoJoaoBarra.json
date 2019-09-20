@@ -70,12 +70,6 @@
                 "type": "string"
             }
         ],
-        "P268": [
-            {
-                "value": "15303284h",
-                "type": "string"
-            }
-        ],
         "P856": [
             {
                 "value": "http://www.sjb.rj.gov.br/",
@@ -174,6 +168,51 @@
         "P473": [
             {
                 "value": "22",
+                "type": "string"
+            }
+        ],
+        "P158": [
+            {
+                "value": "Brasao SJB para artigo.jpg",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+12",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P268": [
+            {
+                "value": "15303284h",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "58998",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "no96062225",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101954199",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0455970",
                 "type": "string"
             }
         ]

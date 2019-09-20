@@ -50,6 +50,14 @@
                     "id": "Q3184121"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 902814,
+                    "id": "Q902814"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P646": [
@@ -170,6 +178,14 @@
                     "id": "Q1785825"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2093378,
+                    "id": "Q2093378"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -181,6 +197,30 @@
         "P473": [
             {
                 "value": "53",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.acegua.rs.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "88986",
+                "type": "string"
+            }
+        ],
+        "P3722": [
+            {
+                "value": "Maps of Aceguá",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101958591",
                 "type": "string"
             }
         ]

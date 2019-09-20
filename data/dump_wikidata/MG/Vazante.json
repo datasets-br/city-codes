@@ -157,8 +157,8 @@
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 1790657,
-                    "id": "Q1790657"
+                    "numeric-id": 1755739,
+                    "id": "Q1755739"
                 },
                 "type": "wikibase-entityid"
             },
@@ -167,6 +167,22 @@
                     "entity-type": "item",
                     "numeric-id": 22062425,
                     "id": "Q22062425"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1790657,
+                    "id": "Q1790657"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 22062628,
+                    "id": "Q22062628"
                 },
                 "type": "wikibase-entityid"
             }
@@ -180,6 +196,36 @@
         "P473": [
             {
                 "value": "34",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "54194",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira de Vazante, MG.png",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.vazante.mg.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101952557",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0457185",
                 "type": "string"
             }
         ]

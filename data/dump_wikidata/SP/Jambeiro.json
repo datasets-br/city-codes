@@ -68,7 +68,7 @@
         ],
         "P373": [
             {
-                "value": "Jambeiro",
+                "value": "Jambeiro (São Paulo)",
                 "type": "string"
             }
         ],
@@ -175,6 +175,24 @@
         "P402": [
             {
                 "value": "298129",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.jambeiro.sp.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "65994",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101956301",
                 "type": "string"
             }
         ]

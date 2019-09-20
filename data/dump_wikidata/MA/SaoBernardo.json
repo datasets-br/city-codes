@@ -147,6 +147,22 @@
                     "id": "Q1924294"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2041199,
+                    "id": "Q2041199"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2013406,
+                    "id": "Q2013406"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -158,6 +174,36 @@
         "P473": [
             {
                 "value": "98",
+                "type": "string"
+            }
+        ],
+        "P443": [
+            {
+                "value": "LL-Q5146 (por)-NMaia-São Bernardo.wav",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "9091",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Flag saobernardoma.jpg",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101943713",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0455906",
                 "type": "string"
             }
         ]

@@ -152,12 +152,6 @@
                 "type": "wikibase-entityid"
             }
         ],
-        "P18": [
-            {
-                "value": "Goias Municip NovoGama.svg",
-                "type": "string"
-            }
-        ],
         "P402": [
             {
                 "value": "334462",
@@ -167,6 +161,24 @@
         "P473": [
             {
                 "value": "61",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.novogama.go.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "93327",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101962681",
                 "type": "string"
             }
         ]

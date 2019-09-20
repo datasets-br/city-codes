@@ -78,7 +78,11 @@
         ],
         "P856": [
             {
-                "value": "http://www.cansancao.net",
+                "value": "https://www.bracontece.com.br/cansancao/",
+                "type": "string"
+            },
+            {
+                "value": "https://www.portaldenoticias.net/cansancao/",
                 "type": "string"
             }
         ],
@@ -163,6 +167,24 @@
         "P473": [
             {
                 "value": "75",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "34355",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "48840-000",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101947339",
                 "type": "string"
             }
         ]

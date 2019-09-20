@@ -109,12 +109,6 @@
                 "type": "string"
             }
         ],
-        "P41": [
-            {
-                "value": "Livramento de Nossa Senhora.jpg",
-                "type": "string"
-            }
-        ],
         "P18": [
             {
                 "value": "Praçalivramento.jpg",
@@ -156,6 +150,22 @@
                     "id": "Q1649466"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1795371,
+                    "id": "Q1795371"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1794388,
+                    "id": "Q1794388"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -167,6 +177,42 @@
         "P473": [
             {
                 "value": "77",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Flag of Livramento of Nossa Senhora.jpg",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "36919",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasão do município de Livramento de Nossa Senhora.jpg",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "46 140 000",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.livramento.ba.gov.br/}}",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101949373",
                 "type": "string"
             }
         ]

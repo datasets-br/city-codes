@@ -4,12 +4,6 @@
     "type": "item",
     "id": "Q1807445",
     "claims": {
-        "P41": [
-            {
-                "value": "Bandeira Vale do Anari.png",
-                "type": "string"
-            }
-        ],
         "P17": [
             {
                 "value": {
@@ -137,6 +131,24 @@
         "P473": [
             {
                 "value": "69",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Flag of Vale do Anari.svg",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "698",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101941789",
                 "type": "string"
             }
         ]

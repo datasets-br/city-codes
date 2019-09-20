@@ -239,10 +239,6 @@
         ],
         "P473": [
             {
-                "value": "(+55) 11",
-                "type": "string"
-            },
-            {
                 "value": "11",
                 "type": "string"
             }
@@ -347,6 +343,46 @@
                     "id": "Q56450307"
                 },
                 "type": "wikibase-entityid"
+            }
+        ],
+        "P158": [
+            {
+                "value": "Barueri.PNG",
+                "type": "string"
+            }
+        ],
+        "P1830": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2860815,
+                    "id": "Q2860815"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "62138",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n82079101",
+                "type": "string"
+            }
+        ],
+        "P2716": [
+            {
+                "value": "Montagem Barueri.png",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101952565",
+                "type": "string"
             }
         ]
     }

@@ -131,6 +131,46 @@
                     "id": "Q595804"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1756972,
+                    "id": "Q1756972"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1789707,
+                    "id": "Q1789707"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1906206,
+                    "id": "Q1906206"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2382290,
+                    "id": "Q2382290"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 986277,
+                    "id": "Q986277"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -142,6 +182,42 @@
         "P473": [
             {
                 "value": "35",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "51756",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira Santana do Jacaré.png",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasão de Santana do Jacaré.png",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "37278-000 a 37279-999",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.santanadojacare.mg.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101952777",
                 "type": "string"
             }
         ]

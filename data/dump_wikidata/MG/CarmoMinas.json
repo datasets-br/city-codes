@@ -152,6 +152,46 @@
                     "id": "Q1788572"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1791440,
+                    "id": "Q1791440"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1796446,
+                    "id": "Q1796446"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1789744,
+                    "id": "Q1789744"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1790610,
+                    "id": "Q1790610"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 985496,
+                    "id": "Q985496"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -169,6 +209,36 @@
         "P18": [
             {
                 "value": "Carmo de Minas MG Brasil - Casinhas simpáticas na Praça da Cidade - panoramio.jpg",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "42811",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Carmo de Minasmgbandeira.jpg",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasao-Carmo-de-Minas.jpg",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101950953",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0449153",
                 "type": "string"
             }
         ]

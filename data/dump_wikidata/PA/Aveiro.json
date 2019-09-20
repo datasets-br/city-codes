@@ -171,6 +171,34 @@
                 "value": "93",
                 "type": "string"
             }
+        ],
+        "P6555": [
+            {
+                "value": "4197",
+                "type": "string"
+            }
+        ],
+        "P138": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 485581,
+                    "id": "Q485581"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101942015",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0448089",
+                "type": "string"
+            }
         ]
     }
 }

@@ -144,6 +144,30 @@
                     "id": "Q22062685"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 628877,
+                    "id": "Q628877"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1749821,
+                    "id": "Q1749821"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1793134,
+                    "id": "Q1793134"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -155,6 +179,30 @@
         "P473": [
             {
                 "value": "37",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "46035",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Igaratingamgbandeira.png",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasaoigaratinga.jpg",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101966029",
                 "type": "string"
             }
         ]

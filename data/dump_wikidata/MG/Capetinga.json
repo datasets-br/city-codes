@@ -128,6 +128,30 @@
                     "id": "Q1789690"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1755708,
+                    "id": "Q1755708"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1791289,
+                    "id": "Q1791289"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1788424,
+                    "id": "Q1788424"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -139,6 +163,42 @@
         "P473": [
             {
                 "value": "35",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "42471",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Capetingamgbandeira.jpg",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Capetingamgbrasao.jpg",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "37993-000 a 37996-999",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.capetinga.mg.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101950647",
                 "type": "string"
             }
         ]

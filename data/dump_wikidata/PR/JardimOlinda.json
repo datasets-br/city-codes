@@ -157,6 +157,49 @@
                 "value": "44",
                 "type": "string"
             }
+        ],
+        "P158": [
+            {
+                "value": "Brasao JardimOlinda.jpg",
+                "type": "string"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Parana Municip JardimOlinda.svg",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.pontagrossa.pr.gov.br",
+                "type": "string"
+            }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1964-01-01T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 9,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "76457",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101957133",
+                "type": "string"
+            }
         ]
     }
 }

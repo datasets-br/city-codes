@@ -313,6 +313,43 @@
                 },
                 "type": "wikibase-entityid"
             }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1812-00-00T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 9,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "87912",
+                "type": "string"
+            }
+        ],
+        "P3722": [
+            {
+                "value": "Maps of Pelotas",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n82087203",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101959521",
+                "type": "string"
+            }
         ]
     }
 }

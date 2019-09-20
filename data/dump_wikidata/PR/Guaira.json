@@ -99,6 +99,13 @@
                     "unit": "1"
                 },
                 "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+27668",
+                    "unit": "1"
+                },
+                "type": "quantity"
             }
         ],
         "P242": [
@@ -171,6 +178,24 @@
         "P473": [
             {
                 "value": "44",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "75710",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101963125",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0450992",
                 "type": "string"
             }
         ]

@@ -132,12 +132,6 @@
                 "type": "quantity"
             }
         ],
-        "P94": [
-            {
-                "value": "Brasão de Itapeva.jpg",
-                "type": "string"
-            }
-        ],
         "P18": [
             {
                 "value": "Itapeva 290308 REFON 8.JPG",
@@ -197,6 +191,43 @@
         "P402": [
             {
                 "value": "298034",
+                "type": "string"
+            }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1769-01-01T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 9,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "65498",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "6322309",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101955613",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0451587",
                 "type": "string"
             }
         ]

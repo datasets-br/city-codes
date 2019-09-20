@@ -255,6 +255,42 @@
                 },
                 "type": "wikibase-entityid"
             }
+        ],
+        "P856": [
+            {
+                "value": "http://www.gravatai.rs.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "86835",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n80079200",
+                "type": "string"
+            }
+        ],
+        "P3722": [
+            {
+                "value": "Maps of Gravataí",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101960699",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0450963",
+                "type": "string"
+            }
         ]
     }
 }

@@ -181,6 +181,30 @@
                     "id": "Q1790449"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 22062741,
+                    "id": "Q22062741"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1756059,
+                    "id": "Q1756059"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1755151,
+                    "id": "Q1755151"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -198,6 +222,30 @@
         "P473": [
             {
                 "value": "35",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "40851",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeiradeareado.png",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.areado.mg.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101965769",
                 "type": "string"
             }
         ]

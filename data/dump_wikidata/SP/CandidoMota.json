@@ -123,12 +123,6 @@
                 "type": "string"
             }
         ],
-        "P856": [
-            {
-                "value": "http://www.candidomota.com.br/",
-                "type": "string"
-            }
-        ],
         "P2044": [
             {
                 "value": {
@@ -193,6 +187,24 @@
         "P473": [
             {
                 "value": "18",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.candidomota.sp.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "63010",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101955167",
                 "type": "string"
             }
         ]

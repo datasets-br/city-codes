@@ -173,6 +173,93 @@
                 "value": "75",
                 "type": "string"
             }
+        ],
+        "P6555": [
+            {
+                "value": "33251",
+                "type": "string"
+            }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1891-04-28T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 11,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P1549": [
+            {
+                "value": {
+                    "text": "andaraiense",
+                    "language": "pt-br"
+                },
+                "type": "monolingualtext"
+            }
+        ],
+        "P417": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 162691,
+                    "id": "Q162691"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P281": [
+            {
+                "value": "46830-000",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            null
+        ],
+        "P1448": [
+            {
+                "value": {
+                    "text": "Município de Andaraí",
+                    "language": "pt-br"
+                },
+                "type": "monolingualtext"
+            }
+        ],
+        "P41": [
+            null
+        ],
+        "P856": [
+            {
+                "value": "http://www.andarai.ba.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P85": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 21286264,
+                    "id": "Q21286264"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0447747",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101947103",
+                "type": "string"
+            }
         ]
     }
 }

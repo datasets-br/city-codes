@@ -132,6 +132,30 @@
                     "id": "Q926606"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1793134,
+                    "id": "Q1793134"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1756084,
+                    "id": "Q1756084"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 948637,
+                    "id": "Q948637"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -143,6 +167,48 @@
         "P473": [
             {
                 "value": "37",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "49034",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "BandeiraNovaSerrana.jpg",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "BrasãoNovaSerrana.png",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "35517-000 a 35529-999",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.novaserrana.mg.gov.br/}}",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0453409",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101951013",
                 "type": "string"
             }
         ]

@@ -60,7 +60,7 @@
         ],
         "P373": [
             {
-                "value": "Anori (Brazil)",
+                "value": "Anori (Amazonas)",
                 "type": "string"
             }
         ],
@@ -167,6 +167,18 @@
         "P473": [
             {
                 "value": "97",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "2038",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101941751",
                 "type": "string"
             }
         ]

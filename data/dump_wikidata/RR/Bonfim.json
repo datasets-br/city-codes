@@ -44,6 +44,14 @@
                     "id": "Q3184121"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 902814,
+                    "id": "Q902814"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P646": [
@@ -157,6 +165,30 @@
         "P402": [
             {
                 "value": "326289",
+                "type": "string"
+            }
+        ],
+        "P158": [
+            {
+                "value": "Brasao Bonfim RR.jpg",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "3077",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101941927",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0448536",
                 "type": "string"
             }
         ]

@@ -143,6 +143,40 @@
                 "value": "62",
                 "type": "string"
             }
+        ],
+        "P1464": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 25938393,
+                    "id": "Q25938393"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "92762",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira de Teresina de Goiás.png",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.teresinadegoias.go.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101962785",
+                "type": "string"
+            }
         ]
     }
 }

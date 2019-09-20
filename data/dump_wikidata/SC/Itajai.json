@@ -228,6 +228,14 @@
                     "id": "Q598016"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1010299,
+                    "id": "Q1010299"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -247,6 +255,30 @@
                     "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
                 },
                 "type": "time"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "81612",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n82017227",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0451547",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101949941",
+                "type": "string"
             }
         ]
     }

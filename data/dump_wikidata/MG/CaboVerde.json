@@ -169,6 +169,30 @@
                     "id": "Q1756059"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1756413,
+                    "id": "Q1756413"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1790124,
+                    "id": "Q1790124"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1756284,
+                    "id": "Q1756284"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -180,6 +204,24 @@
         "P18": [
             {
                 "value": "Igreja Matriz de Nossa Senhora da Assunção (Cabo Verde) 1.jpg",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "41890",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira do município de Cabo Verde.jpg",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101948741",
                 "type": "string"
             }
         ]

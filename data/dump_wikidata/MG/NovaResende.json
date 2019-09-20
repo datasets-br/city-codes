@@ -148,6 +148,62 @@
                     "id": "Q1790502"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1790449,
+                    "id": "Q1790449"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1756931,
+                    "id": "Q1756931"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1793211,
+                    "id": "Q1793211"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1757102,
+                    "id": "Q1757102"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1756452,
+                    "id": "Q1756452"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 659342,
+                    "id": "Q659342"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1788043,
+                    "id": "Q1788043"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -165,6 +221,42 @@
         "P18": [
             {
                 "value": "Igreja de Nova Rezende, MG - panoramio.jpg",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "49018",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n88673924",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "37860-000 a 37879-999",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.novaresende.mg.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101950721",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0453406",
                 "type": "string"
             }
         ]

@@ -154,6 +154,14 @@
                     "id": "Q1779977"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 740965,
+                    "id": "Q740965"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -176,6 +184,36 @@
                     "id": "Q527112"
                 },
                 "type": "wikibase-entityid"
+            }
+        ],
+        "P158": [
+            {
+                "value": "Brasao tiradentes.jpg",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "53759",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.tiradentes.mg.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101952961",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0456742",
+                "type": "string"
             }
         ]
     }

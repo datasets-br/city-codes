@@ -149,6 +149,88 @@
                 "value": "Matriz São José Botelhos MG.png",
                 "type": "string"
             }
+        ],
+        "P421": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 6513,
+                    "id": "Q6513"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1756203,
+                    "id": "Q1756203"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 22062741,
+                    "id": "Q22062741"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 22062719,
+                    "id": "Q22062719"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1756059,
+                    "id": "Q1756059"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 817216,
+                    "id": "Q817216"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Escudo de Botelhos.gif",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "41670",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Botelhosmg bandeira.jpg",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "37720-000 a 37729-999",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101948735",
+                "type": "string"
+            }
         ]
     }
 }

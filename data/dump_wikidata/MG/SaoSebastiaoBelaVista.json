@@ -140,6 +140,58 @@
                 "value": "35",
                 "type": "string"
             }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 949798,
+                    "id": "Q949798"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1788562,
+                    "id": "Q1788562"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1650861,
+                    "id": "Q1650861"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1791938,
+                    "id": "Q1791938"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "52876",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasão São Sebastião da Bela Vista.jpg",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101952685",
+                "type": "string"
+            }
         ]
     }
 }

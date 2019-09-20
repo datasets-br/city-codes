@@ -241,6 +241,55 @@
                 "value": "54",
                 "type": "string"
             }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1918-00-00T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 9,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.pmerechim.rs.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "86371",
+                "type": "string"
+            }
+        ],
+        "P3722": [
+            {
+                "value": "Maps of Erechim",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n00023969",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101959691",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0450448",
+                "type": "string"
+            }
         ]
     }
 }

@@ -6,7 +6,7 @@
     "claims": {
         "P41": [
             {
-                "value": "Laje do Muriaé.gif",
+                "value": "Flag of Laje do Muriaé.gif",
                 "type": "string"
             }
         ],
@@ -161,6 +161,30 @@
         "P473": [
             {
                 "value": "22",
+                "type": "string"
+            }
+        ],
+        "P158": [
+            {
+                "value": "Brasao-lajedomuriae.PNG",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.laje.rj.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "58459",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101953781",
                 "type": "string"
             }
         ]

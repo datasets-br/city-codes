@@ -88,6 +88,10 @@
             {
                 "value": "Igreja matriz de Santana do Parnaíba.jpg",
                 "type": "string"
+            },
+            {
+                "value": "Webysther 20190718092638 - Santana de Parnaíba.jpg",
+                "type": "string"
             }
         ],
         "P47": [
@@ -243,6 +247,49 @@
         "P268": [
             {
                 "value": "12184908g",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira de Santana de Parnaíba.png",
+                "type": "string"
+            }
+        ],
+        "P982": [
+            {
+                "value": "0c218b55-375b-426e-8e58-cfe1307851f7",
+                "type": "string"
+            }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1625-01-01T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 9,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.santanadeparnaiba.sp.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "70475",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101956177",
                 "type": "string"
             }
         ]

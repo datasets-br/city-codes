@@ -14,12 +14,6 @@
                 "type": "wikibase-entityid"
             }
         ],
-        "P41": [
-            {
-                "value": "BandeiraFarroupilhaRS.png",
-                "type": "string"
-            }
-        ],
         "P625": [
             {
                 "value": {
@@ -214,6 +208,42 @@
         "P402": [
             {
                 "value": "242726",
+                "type": "string"
+            }
+        ],
+        "P158": [
+            {
+                "value": "Brasao farroupilha.svg",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira de Farroupilha.svg",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "86550",
+                "type": "string"
+            }
+        ],
+        "P3722": [
+            {
+                "value": "Maps of Farroupilha",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101963569",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0450572",
                 "type": "string"
             }
         ]

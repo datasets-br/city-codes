@@ -181,11 +181,79 @@
                     "id": "Q1755160"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1756203,
+                    "id": "Q1756203"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 22062719,
+                    "id": "Q22062719"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 817216,
+                    "id": "Q817216"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 642595,
+                    "id": "Q642595"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
             {
                 "value": "314816",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "42056",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n99043703",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Caldasmgbrasao.png",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "37780-000 a 37789-999",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.caldas.mg.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101948755",
                 "type": "string"
             }
         ]

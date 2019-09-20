@@ -139,6 +139,31 @@
                 "value": "86",
                 "type": "string"
             }
+        ],
+        "P6555": [
+            {
+                "value": "12670",
+                "type": "string"
+            }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1997-01-01T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 9,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101943863",
+                "type": "string"
+            }
         ]
     }
 }

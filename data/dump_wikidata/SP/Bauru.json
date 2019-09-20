@@ -202,10 +202,6 @@
             {
                 "value": "http://www.bauru.sp.gov.br/",
                 "type": "string"
-            },
-            {
-                "value": "https://bauru.com.br",
-                "type": "string"
             }
         ],
         "P94": [
@@ -345,6 +341,30 @@
                     "id": "Q56450270"
                 },
                 "type": "wikibase-entityid"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "62197",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n80051419",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101964343",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0222740",
+                "type": "string"
             }
         ]
     }

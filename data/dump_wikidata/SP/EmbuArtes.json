@@ -251,6 +251,53 @@
                 },
                 "type": "wikibase-entityid"
             }
+        ],
+        "P856": [
+            {
+                "value": "http://www.embu.sp.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1959-02-18T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 11,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P1376": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 328493,
+                    "id": "Q328493"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "64017",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n81140098",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101956145",
+                "type": "string"
+            }
         ]
     }
 }

@@ -183,6 +183,43 @@
                 "value": "297916",
                 "type": "string"
             }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1857-03-24T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 11,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.ibiuna.sp.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "64955",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n86122176",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101956033",
+                "type": "string"
+            }
         ]
     }
 }

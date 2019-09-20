@@ -189,6 +189,55 @@
                 "value": "24",
                 "type": "string"
             }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1597-01-01T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 9,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P1705": [
+            {
+                "value": {
+                    "text": "Paraty",
+                    "language": "pt"
+                },
+                "type": "monolingualtext"
+            }
+        ],
+        "P1448": [
+            {
+                "value": {
+                    "text": "Paraty",
+                    "language": "pt"
+                },
+                "type": "monolingualtext"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "58750",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101952815",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0453863",
+                "type": "string"
+            }
         ]
     }
 }

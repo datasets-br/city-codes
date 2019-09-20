@@ -154,6 +154,22 @@
                     "id": "Q542815"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1795659,
+                    "id": "Q1795659"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1759399,
+                    "id": "Q1759399"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P473": [
@@ -165,6 +181,24 @@
         "P402": [
             {
                 "value": "297957",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.jumirim.sp.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "62324",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101968489",
                 "type": "string"
             }
         ]

@@ -90,7 +90,7 @@
         ],
         "P373": [
             {
-                "value": "Santa Rosa de Viterbo, Brazil",
+                "value": "Santa Rosa de Viterbo (São Paulo)",
                 "type": "string"
             }
         ],
@@ -197,6 +197,34 @@
         "P473": [
             {
                 "value": "16",
+                "type": "string"
+            }
+        ],
+        "P1464": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 32333213,
+                    "id": "Q32333213"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "70530",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0455783",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101968563",
                 "type": "string"
             }
         ]

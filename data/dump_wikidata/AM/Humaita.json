@@ -74,6 +74,10 @@
             {
                 "value": "3664078",
                 "type": "string"
+            },
+            {
+                "value": "6319317",
+                "type": "string"
             }
         ],
         "P910": [
@@ -93,6 +97,13 @@
                     "unit": "http://www.wikidata.org/entity/Q11573",
                     "upperBound": "+91",
                     "lowerBound": "+89"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+61",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
                 },
                 "type": "quantity"
             }
@@ -208,6 +219,30 @@
         "P473": [
             {
                 "value": "97",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "2356",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n2004024391",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0451266",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101941705",
                 "type": "string"
             }
         ]

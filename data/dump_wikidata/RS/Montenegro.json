@@ -193,6 +193,36 @@
                 },
                 "type": "wikibase-entityid"
             }
+        ],
+        "P856": [
+            {
+                "value": "http://www.montenegro.rs.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "87491",
+                "type": "string"
+            }
+        ],
+        "P3722": [
+            {
+                "value": "Maps of Montenegro (Rio Grande do Sul)",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101960367",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0453128",
+                "type": "string"
+            }
         ]
     }
 }

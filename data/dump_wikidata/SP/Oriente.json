@@ -181,6 +181,24 @@
                 },
                 "type": "wikibase-entityid"
             }
+        ],
+        "P856": [
+            {
+                "value": "http://www.oriente.sp.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "67830",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101963939",
+                "type": "string"
+            }
         ]
     }
 }

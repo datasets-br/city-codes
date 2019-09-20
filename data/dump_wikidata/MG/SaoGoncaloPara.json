@@ -173,6 +173,22 @@
                     "id": "Q1791133"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 22062685,
+                    "id": "Q22062685"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 926606,
+                    "id": "Q926606"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -184,6 +200,34 @@
         "P473": [
             {
                 "value": "37",
+                "type": "string"
+            }
+        ],
+        "P1464": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 32335477,
+                    "id": "Q32335477"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "52353",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "https://www.saogoncalodopara.mg.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101968801",
                 "type": "string"
             }
         ]

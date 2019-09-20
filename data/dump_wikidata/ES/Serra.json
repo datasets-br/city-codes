@@ -188,6 +188,22 @@
                     "id": "Q593133"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 168376,
+                    "id": "Q168376"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 841222,
+                    "id": "Q841222"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -220,6 +236,36 @@
                     "id": "Q56450244"
                 },
                 "type": "wikibase-entityid"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.serra.es.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "56995",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n2005203965",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0456202",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101954577",
+                "type": "string"
             }
         ]
     }

@@ -175,6 +175,52 @@
                 "value": "Estação Mairinque 02.jpg",
                 "type": "string"
             }
+        ],
+        "P138": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 10285413,
+                    "id": "Q10285413"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.mairinque.sp.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "66699",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n91097874",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira mairinque.jpg",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101968559",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0452609",
+                "type": "string"
+            }
         ]
     }
 }

@@ -4,12 +4,6 @@
     "type": "item",
     "id": "Q985494",
     "claims": {
-        "P94": [
-            {
-                "value": "Brasão Pirajui.svg",
-                "type": "string"
-            }
-        ],
         "P17": [
             {
                 "value": {
@@ -200,6 +194,36 @@
         "P473": [
             {
                 "value": "14",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.pirajui.sp.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "68799",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n85329705",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101968147",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0454261",
                 "type": "string"
             }
         ]

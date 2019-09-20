@@ -153,6 +153,14 @@
                     "id": "Q22062628"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1749830,
+                    "id": "Q1749830"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -164,6 +172,36 @@
         "P473": [
             {
                 "value": "34",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.patrocinio.mg.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "49611",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "38740-000 a 38749-999",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101965219",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0453957",
                 "type": "string"
             }
         ]

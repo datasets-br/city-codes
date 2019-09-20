@@ -162,6 +162,14 @@
                     "id": "Q1789565"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 749248,
+                    "id": "Q749248"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P402": [
@@ -173,6 +181,36 @@
         "P473": [
             {
                 "value": "37",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "50393",
+                "type": "string"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira de Pompéu, MG.png",
+                "type": "string"
+            }
+        ],
+        "P281": [
+            {
+                "value": "35640-000 a 35649-999",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.pompeu.mg.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101952791",
                 "type": "string"
             }
         ]

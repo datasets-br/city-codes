@@ -6,7 +6,7 @@
     "claims": {
         "P41": [
             {
-                "value": "Bandeira-saofidelis.jpg",
+                "value": "Bandeira de São Fidélis.jpg",
                 "type": "string"
             }
         ],
@@ -91,12 +91,6 @@
                 "type": "string"
             }
         ],
-        "P856": [
-            {
-                "value": "http://www.saofidelisrj.com.br/",
-                "type": "string"
-            }
-        ],
         "P94": [
             {
                 "value": "Brasao-saofidelis.jpg",
@@ -156,6 +150,42 @@
         "P473": [
             {
                 "value": "22",
+                "type": "string"
+            }
+        ],
+        "P158": [
+            {
+                "value": "Brasao-saofidelis.jpg",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://saofidelis.rj.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "58955",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "no94040274",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101969021",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0455934",
                 "type": "string"
             }
         ]

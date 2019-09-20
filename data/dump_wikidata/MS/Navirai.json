@@ -191,6 +191,30 @@
                 },
                 "type": "wikibase-entityid"
             }
+        ],
+        "P856": [
+            {
+                "value": "http://www.navirai.ms.gov.br",
+                "type": "string"
+            }
+        ],
+        "P6555": [
+            {
+                "value": "91138",
+                "type": "string"
+            }
+        ],
+        "P6766": [
+            {
+                "value": "101967231",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0453293",
+                "type": "string"
+            }
         ]
     }
 }
