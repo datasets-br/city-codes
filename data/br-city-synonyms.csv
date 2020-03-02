@@ -1,17 +1,17 @@
 synonym,wdId,cur_state,cur_lexLabel,type,ref,notes
-Augusto Severo,Q1802671,RN,campo.grande,alt canonico,[1903 1991],"Em 28 de agosto de 1903, a Lei nº 192 mudou o nome do município para Augusto Severo"
+Augusto Severo,Q1802671,RN,campo.grande,alt oficial,[1903 1991],"Em 28 de agosto de 1903, a Lei nº 192 mudou o nome do município para Augusto Severo"
 Bom Jesus,Q891725,GO,bom.jesus.goias,alt oficial reduz,CEP e Wikipedia-pt,
 Campo de Santana,,PB,tacima,alt canonico,[1996 2009-12-22],
 Dona Euzébia,Q1756805,MG,dona.eusebia,alt oficial orto arcaica,CEP e Wikipedia-pt,
 Espigão do Oeste,Q616498,RO,espigao.d.oeste,alt oficial,CEP,
 Graccho Cardoso,Q647366,SE,gracho.cardoso,alt oficial,CEP,
 Iguaraci,Q2010845,PE,iguaracy,alt oficial,CEP e Wikipedia-pt,
-Januário Cicco,,RN,boa.saude,alt canonico,[1953 1991-02-01],
+Januário Cicco,Q1802783,RN,boa.saude,alt canonico,[1953 1991-02-01],
 Presidente Juscelino,,RN,serra.caiada,alt canonico,[1963 1963],
 Presidente Kubitschek,,RN,serra.caiada,alt canonico,[1964-01-23 2013-01-13],
 Santana do Livramento,Q917693,RS,santana.livramento,alt oficial,CEP,
 Santarém,,PB,joca.claudino,alt canonico,[1994-04-29 2010-12-27],
-São Valério,,TO,sao.valerio.natividade,alt oficial,IBGE (reduzido),
+São Valério da Natividade,Q1801542,TO,sao.valerio,alt oficial,[1998-01-01 2007-12-14],Lei Estadual n°1.865 de 14/12/2007
 Triunfo,Q1802671,RN,campo.grande,alt canonico,[1870 1902],"A Lei nº 613, de 30 de março de 1870, restaurou o município com a denominação, de Triunfo"
 Abade,Q1755164,MG,sao.bento.abade,alt orto auto,auto_nick,(testing)
 Abadia,Q304652,GO,abadia.goias,alt orto auto,auto_nick,(testing)
@@ -1074,7 +1074,7 @@ Salzano,Q1784434,RS,liberato.salzano,alt orto auto,auto_nick,(testing)
 Sampa,,SP,sao.paulo,abrev,http://www.cidades.registro.nic.br,
 Sant'Ana,Q917693,RS,sant.ana.livramento,alt orto auto,auto_nick,(testing)
 Santa Isabel do Pará,,PA,santa.izabel.para,alt,Wikipedia-pt,
-Santa Terezinha,,BA,santa.teresinha,alt orto,Wikipedia-pt,
+Santa Terezinha,Q2314224,SC,santa.teresinha,alt orto,Wikipedia-pt,"Oficial com S mas segundo as normas ortográficas vigentes, inclusive para topônimos, deveria ser grafado com Z, Santa Terezinha. Cod IBGE 4215679"
 Santarém,Q1811192,PA,santarem.novo,alt orto auto,auto_nick,(testing)
 Santiago,Q1758231,SC,santiago.sul,alt orto auto,auto_nick,(testing)
 Santíssima,Q732088,MT,vila.bela.santissima.trindade,alt orto auto,auto_nick,(testing)
